@@ -1,6 +1,7 @@
 \version "2.16.2"
 
 \language "english"
+#(set-default-paper-size "letter")
 \header {
   title = "Largo"
   subtitle = "From Symphony #9"
@@ -23,7 +24,6 @@ G = \markup { "G" }
   \numericTimeSignature
   \set Score.markFormatter = #format-mark-circle-barnumbers
   \key d \major
-
 
   d2_\D  d2 | d2 d2 | d2 d2 |
   a'2_\A a2  \mark \default | d,2_\D d2 | d2 d2 | \break
