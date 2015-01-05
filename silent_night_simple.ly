@@ -1,6 +1,7 @@
 \version "2.16.2"
 
 \language "english"
+#(set-default-paper-size "letter")
 \header {
   title = "Silent Night"
   subtitle = "(simple)"
