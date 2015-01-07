@@ -2,8 +2,10 @@
 
 DEFAULT: $(patsubst %.ly,%.pdf,$(wildcard *.ly)) $(patsubst %.ly,%.png,$(wildcard *.ly))
 
-.ly.pdf:
-	lilypond $<
+VPATH = PDF PNG
 
-.ly.png:
-	lilypond -f png $<
+%.pdf : %.ly
+	lilypond -o PDF/ $^
+
+%.png : %.ly
+	lilypond -f png -o PNG/ $^
