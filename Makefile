@@ -1,10 +1,10 @@
-.SUFFIXES: .pdf .ly .png
+.SUFFIXES: .pdf .ly .png .midi
 
-DEFAULT: $(patsubst %.ly,%.pdf,$(wildcard *.ly)) $(patsubst %.ly,%.png,$(wildcard *.ly))
+DEFAULT: $(patsubst %.ly,%.pdf,$(wildcard *.ly)) $(patsubst %.ly,%.png,$(wildcard *.ly)) $(patsubst %.ly,%.midi,$(wildcard *.ly))
 
 VPATH = PDF PNG
 
-%.pdf : %.ly
+%.midi %.pdf : %.ly
 	lilypond -o PDF/ $^
 
 %.png : %.ly
