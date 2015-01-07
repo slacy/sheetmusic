@@ -14,7 +14,7 @@
   \key a \major
   \time 4/4
 
-  \mark "Allegro"
+  \tempo "Allegro"
 
   a8\downbow_\markup { \italic { \bold {  "mf" } "(sempre staccato)" } }-0 b8-.-1 cs8-.-2 cs8-.
   b8-.-1 cs8-.-2 d8-.-3 d8-.
@@ -40,7 +40,7 @@
   gs8 fs e8 e8
 
   fs8 e8 d8 d8
-  cs8 b8 a8-0 a8
+  cs8_[b8 a8-0 a8]
 
   cs8-2 a8-0 b8 b8
   d8-3 b8 cs8 cs8

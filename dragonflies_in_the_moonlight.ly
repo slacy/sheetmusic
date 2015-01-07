@@ -18,12 +18,16 @@
 \relative c'' {
   \time 4/4
   \numericTimeSignature
-  \easyHeadsOn
   \key a \major
   \repeat volta 1 {
-    a4-0 a4 d2-3 | d4 a2.-0 | a4 b4-1 a2 | e'4 e4 d2-3 | cs4-2 cs4 b4-1 b4 | a1 |
-    e'4 e4 cs2-2 | cs4-2 cs4 b2-1 | b4 b4 a2-0 | d4-3 d4 cs2-2 |
-    e4 e4 d4-3 d4 | cs8-2 cs8 cs8 cs8 d2-3 | a4-0 a4 b2-1 | a4 a4 cs2-2 |
-    a4 a4 d8-3 d8 d8 d8 | a4-0 a4 d2-3 | d4 d4 cs8-2 cs8 cs8 cs8 | b4-1 b4 a2
+    a4^A a4^A d2^"3" | d4^"3" a2.^A |
+    a4^A b4^"1" a2^A | e'4^E e4^E d2^"3" |
+    cs4^"2" cs4^"2" b4^"1" b4^"1" | a1^A |
+    e'4^E e4^E cs2^"2" | cs4^"2" cs4^"2" b2^"1" |
+    b4^"1" b4^"1" a2^A | d4^"3" d4^"3" cs2^"2" |
+    e4^E e4^E d4^"3" d4^"3" | cs8^"2" cs8^"2" cs8^"2" cs8^"2" d2^"3" |
+    a4^"A" a4 b2^"1" | a4 a4 cs2^"2" |
+    a4^A a4^A d8^"3" d8^"3" d8^"3" d8^"3" | a4^A a4^A d2^"3" |
+    d4^"3" d4^"3" cs8^"2" cs8^"2" cs8^"2" cs8^"2" | b4^"1" b4^"1" a2^A
   }
 }
