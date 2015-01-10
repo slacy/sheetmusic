@@ -16,9 +16,7 @@
   tagline=""
 }
 
-PartPOneVoiceOne =  \relative a' {
-  \clef "treble" \key a \major \numericTimeSignature\time 4/4 | % 1
-
+Variation_A = \relative a' {
   a16-0 \mark "Variation A" a a a a8-. a8-. e'16-0 e e e e8-. e8-. | % 2
   fs16-1 fs fs fs fs8-. fs8-. e16-0 e e e e8-. e8-.  | % 3
   d16-3 d d d d8-. d8-. cs16-2 cs cs cs cs8-. cs8-.  | % 4
@@ -31,8 +29,10 @@ PartPOneVoiceOne =  \relative a' {
   fs16-1 fs fs fs fs8-. fs8-. e16-0 e e e e8-. e8-.  | % 11
   d16-3 d d d d8-. d8-. cs16-2 cs cs cs cs8-. cs8-.  | % 12
   b16-1 b b b b8-. b8-. a16-0 a a a a8-. a8-. \bar "||"
+  }
 
-  \break
+
+Variation_B = \relative a' {
   a8-. \mark "Variation B"  a-. r a-. e'-. e-. r e-. | % 14
   fs-. fs-. r fs-. e-. e r e-. | % 15
   d-. d-. r d-. cs-. cs-. r cs-. | % 16
@@ -45,8 +45,9 @@ PartPOneVoiceOne =  \relative a' {
   fs-. fs-. r fs-. e-. e-. r e-. | % 23
   d-. d-. r d-. cs-. cs-. r cs-. | % 24
   b-. b-. r b-. a-. a-. r a-. \bar "||"
+  }
 
-  \break
+Variation_C = \relative a' {
   a8-. \mark "Variation C" a16 a16 a8-. a16 a16 e'8-. e16 e16 e8-. e16
   e16 | % 26
   fs8-. fs16 fs16 fs8-. fs16 fs16 e8-. e16 e16 e8-. e16 e16 | % 27
@@ -61,8 +62,9 @@ PartPOneVoiceOne =  \relative a' {
   fs8-. fs16 fs16 fs8-. fs16 fs16 e8-. e16 e16 e8-. e16 e16 | % 35
   d8-. d16 d16 d8-. d16 d16 cs8-. cs16 cs16 cs8-. cs16 cs16 | % 36
   b8-. b16 b16 b8-. b16 b16 a8-. a16 a16 a8-. a16 a16 \bar "||"
+  }
 
-  \break
+Variation_D = \relative a' {
   a16-0 \mark "Variation D" a a a a a a a e'-0 e e e e e e e | % 38
   fs-1 fs fs fs fs fs fs fs e-0 e e e e e e e | % 39
   d-3 d d d d d d d cs-2 cs cs cs cs cs cs cs | \barNumberCheck #40
@@ -75,21 +77,21 @@ PartPOneVoiceOne =  \relative a' {
   fs fs fs fs fs fs fs fs e e e e e e e e | % 47
   d d d d d d d d cs cs cs cs cs cs cs cs | % 48
   b b b b b b b b a a a a a a a a | % 49
+}
 
-  \break
-  \mark "Theme"
-  a4-.-0 a4-. e'4-.-0 e4-. | \barNumberCheck #50
-  fs4-.-1 fs4-. e2---0 | % 51
-  d4-.-3 d4-. cs4-.-2 cs4-. | % 52
-  b4-.-1 b4-. a2---0 | % 53
-  e'4-.-0 e4-. d4-.-3 d4-. | % 54
-  cs4-.-2 cs4-. b2---1 | % 55
-  e4-.-0 e4-. d4-.-3 d4-. | % 56
-  cs4-.-2 cs4-. b2---1 | % 57
-  a4-.-0 a4-. e'4-.-0 e4-. | % 58
-  fs4-.-1 fs4-. e2---0 | % 59
-  d4-.-3 d4-. cs4-.-2 cs4-. | \barNumberCheck #60
-  b4-.-1 b4-. a2---0 \bar "|."
+Theme = \relative a' {
+  a4-0-. \mark "Theme" a4-. e'4-0-. e4-. | \barNumberCheck #50
+  fs4-1-. fs4-. e2-0-- | % 51
+  d4-3-. d4-. cs4-2-. cs4-. | % 52
+  b4-1-. b4-. a2-0-- | % 53
+  e'4-0-. e4-. d4-3-. d4-. | % 54
+  cs4-2-. cs4-. b2-1-- | % 55
+  e4-0-. e4-. d4-3-. d4-. | % 56
+  cs4-2-. cs4-. b2-1-- | % 57
+  a4-0-. a4-. e'4-0-. e4-. | % 58
+  fs4-1-. fs4-. e2-0-- | % 59
+  d4-3-. d4-. cs4-2-. cs4-. | \barNumberCheck #60
+  b4-1-. b4-. a2-0-- \bar "|."
 }
 
 
@@ -98,10 +100,18 @@ PartPOneVoiceOne =  \relative a' {
   <<
     \new Staff <<
       \context Staff <<
-        \context Voice = "PartPOneVoiceOne" { \PartPOneVoiceOne }
+        \context Voice = "PartPOneVoiceOne" {
+          \clef "treble" \key a \major
+          \numericTimeSignature
+          \time 4/4 | % 1
+          \Variation_A \break
+          \Variation_B \pageBreak
+          \Variation_C \pageBreak
+          \Variation_D \break
+          \Theme \break
+        }
       >>
     >>
-
   >>
   \layout {}
                                 % To create MIDI output, uncomment the following line:
