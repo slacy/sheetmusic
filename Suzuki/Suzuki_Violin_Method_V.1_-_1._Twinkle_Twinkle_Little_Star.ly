@@ -1,117 +1,109 @@
-
 \version "2.16.2"
-% automatically converted by musicxml2ly from Suzuki_Violin_Method_V.1_-_1._Twinkle_Twinkle_Little_Star.mxl
 
+%% automatically converted by musicxml2ly from
+%% Suzuki_Violin_Method_V.1_-_1._Twinkle_Twinkle_Little_Star.mxl
+
+%% additional definitions required by the score:
+\language "english"
+
+#(set-default-paper-size "letter")
+#(set-global-staff-size 25)
 \header {
-    encodingsoftware = "MuseScore 0.9.6.2"
-    encodingdate = "2010-12-30"
-    }
+  encodingsoftware = "MuseScore 0.9.6.2"
+  encodingdate = "2010-12-30"
+  title = "Twinkle, Twinkle Little Star"
+  instrument = "Violin"
+  tagline=""
+}
 
 PartPOneVoiceOne =  \relative a' {
-    \clef "treble" \key a \major \numericTimeSignature\time 4/4 | % 1
-    a16 ^"Variation A" -0 a16 a16 a16 a8 -. a8 -. e'16 -0 e16 e16 e16 e8
-    -. e8 -. | % 2
-    fis16 -1 fis16 fis16 fis16 fis8 -. fis8 -. e16 -0 e16 e16 e16 e8 -.
-    e8 -. | % 3
-    d16 -3 d16 d16 d16 d8 -. d8 -. cis16 -2 cis16 cis16 cis16 cis8 -.
-    cis8 -. | % 4
-    b16 -1 b16 b16 b16 b8 -. b8 -. a16 -0 a16 a16 a16 a8 -. a8 -. | % 5
-    e'16 -0 e16 e16 e16 e8 -. e8 -. d16 -3 d16 d16 d16 d8 -. d8 -. | % 6
-    cis16 -2 cis16 cis16 cis16 cis8 -. cis8 -. b16 -1 b16 b16 b16 b8 -.
-    b8 -. | % 7
-    e16 -0 e16 e16 e16 e8 -. e8 -. d16 -3 d16 d16 d16 d8 -. d8 -. | % 8
-    cis16 -2 cis16 cis16 cis16 cis8 -. cis8 -. b16 -1 b16 b16 b16 b8 -.
-    b8 -. | % 9
-    a16 -0 a16 a16 a16 a8 -. a8 -. e'16 -0 e16 e16 e16 e8 -. e8 |
-    \barNumberCheck #10
-    fis16 -1 fis16 fis16 fis16 fis8 -. fis8 -. e16 -0 e16 e16 e16 e8 -.
-    e8 -. | % 11
-    d16 -3 d16 d16 d16 d8 -. d8 -. cis16 -2 cis16 cis16 cis16 cis8 -.
-    cis8 -. | % 12
-    b16 -1 b16 b16 b16 b8 -. b8 -. a16 -0 a16 a16 a16 a8 -. a8 -. \bar
-    "||"
-    \break
-    a8 ^"Variation B" -. a8 -. r8 a8 -. e'8 -. e8 -. r8 e8 -. | % 14
-    fis8 -. fis8 -. r8 fis8 -. e8 -. e8 r8 e8 -. | % 15
-    d8 -. d8 -. r8 d8 -. cis8 -. cis8 -. r8 cis8 -. | % 16
-    b8 -. b8 -. r8 b8 -. a8 -. a8 -. r8 a8 -. | % 17
-    e'8 -. e8 -. r8 e8 -. d8 -. d8 -. r8 d8 -. | % 18
-    cis8 -. cis8 -. r8 cis8 -. b8 -. b8 -. r8 b8 -. | % 19
-    e8 -. e8 -. r8 e8 -. d8 -. d8 -. r8 d8 -. | \barNumberCheck #20
-    cis8 -. cis8 -. r8 cis8 -. b8 -. b8 -. r8 b8 -. | % 21
-    a8 -. a8 -. r8 a8 -. e'8 -. e8 -. r8 e8 -. | % 22
-    fis8 -. fis8 -. r8 fis8 -. e8 -. e8 -. r8 e8 -. | % 23
-    d8 -. d8 -. r8 d8 -. cis8 -. cis8 -. r8 cis8 -. | % 24
-    b8 -. b8 -. r8 b8 -. a8 -. a8 -. r8 a8 -. \bar "||"
-    \break
-    a8 ^"Variation C" -. a16 a16 a8 -. a16 a16 e'8 -. e16 e16 e8 -. e16
-    e16 | % 26
-    fis8 -. fis16 fis16 fis8 -. fis16 fis16 e8 -. e16 e16 e8 -. e16 e16
-    | % 27
-    d8 -. d16 d16 d8 -. d16 d16 cis8 -. cis16 cis16 cis8 -. cis16 cis16
-    | % 28
-    b8 -. b16 b16 b8 -. b16 b16 a8 -. a16 a16 a8 -. a16 a16 | % 29
-    e'8 -. e16 e16 e8 -. e16 e16 d8 -. d16 d16 d8 -. d16 d16 |
-    \barNumberCheck #30
-    cis8 -. cis16 cis16 cis8 -. cis16 cis16 b8 -. b16 b16 b8 -. b16 b16
-    | % 31
-    e8 -. e16 e16 e8 -. e16 e16 d8 -. d16 d16 d8 -. d16 d16 | % 32
-    cis8 -. cis16 cis16 cis8 -. cis16 cis16 b8 -. b16 b16 b8 -. b16 b16
-    | % 33
-    a8 -. a16 a16 a8 -. a16 a16 e'8 -. e16 e16 e8 -. e16 e16 | % 34
-    fis8 -. fis16 fis16 fis8 -. fis16 fis16 e8 -. e16 e16 e8 -. e16 e16
-    | % 35
-    d8 -. d16 d16 d8 -. d16 d16 cis8 -. cis16 cis16 cis8 -. cis16 cis16
-    | % 36
-    b8 -. b16 b16 b8 -. b16 b16 a8 -. a16 a16 a8 -. a16 a16 \bar "||"
-    \break
-    a16 ^"Variation D" -0 a16 a16 a16 a16 a16 a16 a16 e'16 -0 e16 e16 e16
-    e16 e16 e16 e16 | % 38
-    fis16 -1 fis16 fis16 fis16 fis16 fis16 fis16 fis16 e16 -0 e16 e16 e16
-    e16 e16 e16 e16 | % 39
-    d16 -3 d16 d16 d16 d16 d16 d16 d16 cis16 -2 cis16 cis16 cis16 cis16
-    cis16 cis16 cis16 | \barNumberCheck #40
-    b16 -1 b16 b16 b16 b16 b16 b16 b16 a16 -0 a16 a16 a16 a16 a16 a16 a16
-    | % 41
-    e'16 e16 e16 e16 e16 e16 e16 e16 d16 d16 d16 d16 d16 d16 d16 d16 | % 42
-    cis16 cis16 cis16 cis16 cis16 cis16 cis16 cis16 b16 b16 b16 b16 b16
-    b16 b16 b16 | % 43
-    e16 e16 e16 e16 e16 e16 e16 e16 d16 d16 d16 d16 d16 d16 d16 d16 | % 44
-    cis16 cis16 cis16 cis16 cis16 cis16 cis16 cis16 b16 b16 b16 b16 b16
-    b16 b16 b16 | % 45
-    a16 a16 a16 a16 a16 a16 a16 a16 e'16 e16 e16 e16 e16 e16 e16 e16 | % 46
-    fis16 fis16 fis16 fis16 fis16 fis16 fis16 fis16 e16 e16 e16 e16 e16
-    e16 e16 e16 | % 47
-    d16 d16 d16 d16 d16 d16 d16 d16 cis16 cis16 cis16 cis16 cis16 cis16
-    cis16 cis16 | % 48
-    b16 b16 b16 b16 b16 b16 b16 b16 a16 a16 a16 a16 a16 a16 a16 a16 | % 49
-    \break
-    a4 ^"Theme" -. -0 a4-. e'4-.-0 e4-. | \barNumberCheck #50
-    fis4 -. -1 fis4 -. e2 -- -0 | % 51
-    d4 -. -3 d4 -. cis4 -. -2 cis4 -. | % 52
-    b4 -. -1 b4 -. a2 -- -0 | % 53
-    e'4 -. -0 e4 -. d4 -. -3 d4 -. | % 54
-    cis4 -. -2 cis4 -. b2 -- -1 | % 55
-    e4 -. -0 e4 -. d4 -. -3 d4 -. | % 56
-    cis4 -. -2 cis4 -. b2 -- -1 | % 57
-    a4 -. -0 a4 -. e'4 -. -0 e4 -. | % 58
-    fis4 -. -1 fis4 -. e2 -- -0 | % 59
-    d4 -. -3 d4 -. cis4 -. -2 cis4 -. | \barNumberCheck #60
-    b4 -. -1 b4 -. a2 -- -0 \bar "|."
-    }
+  \clef "treble" \key a \major \numericTimeSignature\time 4/4 | % 1
+
+  a16-0 \mark "Variation A" a a a a8-. a8-. e'16-0 e e e e8-. e8-. | % 2
+  fs16-1 fs fs fs fs8-. fs8-. e16-0 e e e e8-. e8-.  | % 3
+  d16-3 d d d d8-. d8-. cs16-2 cs cs cs cs8-. cs8-.  | % 4
+  b16-1 b b b b8-. b8-. a16-0 a a a a8-. a8-. | % 5
+  e'16-0 e e e e8-. e8-. d16-3 d d d d8-. d8-. | % 6
+  cs16-2 cs cs cs cs8-. cs8-. b16-1 b b b b8-. b8-.  | % 7
+  e16-0 e e e e8-. e8-. d16-3 d d d d8-. d8-. | % 8
+  cs16-2 cs cs cs cs8-. cs8-. b16-1 b b b b8-. b8-.  | % 9
+  a16-0 a a a a8-. a8-. e'16-0 e e e e8-. e8 | \barNumberCheck #10
+  fs16-1 fs fs fs fs8-. fs8-. e16-0 e e e e8-. e8-.  | % 11
+  d16-3 d d d d8-. d8-. cs16-2 cs cs cs cs8-. cs8-.  | % 12
+  b16-1 b b b b8-. b8-. a16-0 a a a a8-. a8-. \bar "||"
+
+  \break
+  a8-. \mark "Variation B"  a-. r a-. e'-. e-. r e-. | % 14
+  fs-. fs-. r fs-. e-. e r e-. | % 15
+  d-. d-. r d-. cs-. cs-. r cs-. | % 16
+  b-. b-. r b-. a-. a-. r a-. | % 17
+  e'-. e-. r e-. d-. d-. r d-. | % 1
+  cs-. cs-. r cs-. b-. b-. r b-. | % 19
+  e-. e-. r e-. d-. d-. r d-. | \barNumberCheck #20
+  cs-. cs-. r cs-. b-. b-. r b-. | % 21
+  a-. a-. r a-. e'-. e-. r e-. | % 22
+  fs-. fs-. r fs-. e-. e-. r e-. | % 23
+  d-. d-. r d-. cs-. cs-. r cs-. | % 24
+  b-. b-. r b-. a-. a-. r a-. \bar "||"
+
+  \break
+  a8-. \mark "Variation C" a16 a16 a8-. a16 a16 e'8-. e16 e16 e8-. e16
+  e16 | % 26
+  fs8-. fs16 fs16 fs8-. fs16 fs16 e8-. e16 e16 e8-. e16 e16 | % 27
+  d8-. d16 d16 d8-. d16 d16 cs8-. cs16 cs16 cs8-. cs16 cs16 | % 28
+  b8-. b16 b16 b8-. b16 b16 a8-. a16 a16 a8-. a16 a16 | % 29
+  e'8-. e16 e16 e8-. e16 e16 d8-. d16 d16 d8-. d16 d16 |
+  \barNumberCheck #30
+  cs8-. cs16 cs16 cs8-. cs16 cs16 b8-. b16 b16 b8-. b16 b16 | % 31
+  e8-. e16 e16 e8-. e16 e16 d8-. d16 d16 d8-. d16 d16 | % 32
+  cs8-. cs16 cs16 cs8-. cs16 cs16 b8-. b16 b16 b8-. b16 b16 | % 33
+  a8-. a16 a16 a8-. a16 a16 e'8-. e16 e16 e8-. e16 e16 | % 34
+  fs8-. fs16 fs16 fs8-. fs16 fs16 e8-. e16 e16 e8-. e16 e16 | % 35
+  d8-. d16 d16 d8-. d16 d16 cs8-. cs16 cs16 cs8-. cs16 cs16 | % 36
+  b8-. b16 b16 b8-. b16 b16 a8-. a16 a16 a8-. a16 a16 \bar "||"
+
+  \break
+  a16-0 \mark "Variation D" a a a a a a a e'-0 e e e e e e e | % 38
+  fs-1 fs fs fs fs fs fs fs e-0 e e e e e e e | % 39
+  d-3 d d d d d d d cs-2 cs cs cs cs cs cs cs | \barNumberCheck #40
+  b-1 b b b b b b b a-0 a a a a a a a | % 41
+  e' e e e e e e e d d d d d d d d | % 42
+  cs cs cs cs cs cs cs cs b b b b b b b b | % 43
+  e e e e e e e e d d d d d d d d | % 44
+  cs cs cs cs cs cs cs cs b b b b b b b b | % 45
+  a a a a a a a a e' e e e e e e e | % 46
+  fs fs fs fs fs fs fs fs e e e e e e e e | % 47
+  d d d d d d d d cs cs cs cs cs cs cs cs | % 48
+  b b b b b b b b a a a a a a a a | % 49
+
+  \break
+  \mark "Theme"
+  a4-.-0 a4-. e'4-.-0 e4-. | \barNumberCheck #50
+  fs4-.-1 fs4-. e2---0 | % 51
+  d4-.-3 d4-. cs4-.-2 cs4-. | % 52
+  b4-.-1 b4-. a2---0 | % 53
+  e'4-.-0 e4-. d4-.-3 d4-. | % 54
+  cs4-.-2 cs4-. b2---1 | % 55
+  e4-.-0 e4-. d4-.-3 d4-. | % 56
+  cs4-.-2 cs4-. b2---1 | % 57
+  a4-.-0 a4-. e'4-.-0 e4-. | % 58
+  fs4-.-1 fs4-. e2---0 | % 59
+  d4-.-3 d4-. cs4-.-2 cs4-. | \barNumberCheck #60
+  b4-.-1 b4-. a2---0 \bar "|."
+}
 
 
-% The score definition
+                                % The score definition
 \score {
-    <<
-        \new Staff <<
-            \context Staff <<
-                \context Voice = "PartPOneVoiceOne" { \PartPOneVoiceOne }
-                >>
-            >>
+  <<
+    \new Staff <<
+      \context Staff <<
+        \context Voice = "PartPOneVoiceOne" { \PartPOneVoiceOne }
+      >>
+    >>
 
-        >>
-    \layout {}
-    % To create MIDI output, uncomment the following line:
-    %  \midi {}
-    }
+  >>
+  \layout {}
+                                % To create MIDI output, uncomment the following line:
+                                %  \midi {}
+}
