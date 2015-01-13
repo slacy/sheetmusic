@@ -25,7 +25,6 @@
     bf ef f g4 ef16 df16 | ef8. ( af16 af8 ) af4 f16 f16 |
     g4 ef16. e32 e8. ( d16 d8 ) |
     ff4. ( ff4 ) c8 |
-
   }
 }
 \addlyrics {
