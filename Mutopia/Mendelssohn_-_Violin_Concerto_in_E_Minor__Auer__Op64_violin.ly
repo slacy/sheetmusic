@@ -24,6 +24,8 @@ partA = \relative c'' {
   e'2.-0\> ( b4\! ) | \mbreak
 
   c4\< ( b8 a8 ) a4-- a4--\! |
+  \phrasingSlurUp
+  %% \once \override PhrasingSlur #'control-points = #'((0 . 0.5) (0 . 0.5) (0 . 0) (0 . 0))
   ds2\>\( ( b4.-4 ) b8-.\!\p\) |
   b2\downbow g4 e'4-4-0 |
   e2-4-0\< ( a,4 ) g'4\! ( |
@@ -33,5 +35,4 @@ partA = \relative c'' {
 \layout { ragged-last = ##t }
 \score {
   \partA
-  \midi {}
 }
