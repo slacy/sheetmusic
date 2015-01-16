@@ -51,9 +51,5 @@ Dragonflies = \relative c'' {
 \new Staff {
 <<
   \Dragonflies
-  \context NoteNames {
-    \set printOctaveNames = ##f
-    \Dragonflies
-    }
-  >>
+>>
 }
