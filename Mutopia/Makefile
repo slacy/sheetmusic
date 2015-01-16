@@ -1,3 +1,5 @@
+VPATH=OUT
+
 .SUFFIXES: .pdf .ly .png .midi
 .PHONY: clean
 
@@ -8,7 +10,6 @@ MIDI=$(patsubst %.ly,%.midi,$(LY))
 
 DEFAULT: $(PDF) $(PNG) $(MIDI)
 
-VPATH = OUT
 
 %.png %.pdf %.midi : %.ly
 	lilypond -f png,pdf -o OUT/ $^
