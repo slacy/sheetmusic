@@ -20,12 +20,11 @@ partA = \relative c'' {
   \key e \minor
   \time 2/2
 
-  \partial 2
-  << { r2^"Allegro, molto appassionato" }
-     \grace { g8_\smallp ([e8 b8 e8 ] g8 [e8 g8 e8 ] ) }
+  << { R1^"Allegro, molto appassionato" }
+     \new CueVoice { g8_\p ([e b e ] g [e g e ] ) }
    >> |
-  << { r2 b''4.--\upbow\p(b8-. ) }
-     \grace { g,8^"Solo"([e8 b8 e8] ) }
+  << { fs'2\rest^\markup { \sans "Solo" } b4.--_4\upbow\p(b8-. ) }
+     \new CueVoice { g,8([e b e] ) }
    >>  |
   a'2(g4:8) c4-0-4 |
   c2-0-4\<(g4-2) e'4\!(|
