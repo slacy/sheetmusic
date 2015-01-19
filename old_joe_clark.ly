@@ -38,4 +38,14 @@
       a4 a              |%16
     }
   }
+
+  \addlyrics {
+    I used to live on the mount -- tain top,
+    Now I live in town;
+    I'm stay -- ing at the big ho -- tel, Cour- -- tin' Bet -- sy Brown
+    Fare the well, Old Joe Clark
+    Fare thee well I'm bound,
+    Fare thee well, Old Joe Clark,
+    Good bye Betsy Brown.
+  }
 }
