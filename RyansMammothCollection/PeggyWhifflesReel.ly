@@ -10,8 +10,8 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \time 2/4 \key a \major   \times 2/3 {   e'16 ^\upbow(   fis'16    e'16  -) }   
-cis'16 ^\downbow   e'16 ^\upbow   a'16    cis''16    e''16 ^"4"   cis''16    
-\bar "|"   fis''16    cis''16    e''16 ^"4"   cis''16    b'16    cis''16    a'8 
+cis'16 ^\downbow   e'16 ^\upbow   a'16    cis''16    e''16-4   cis''16    
+\bar "|"   fis''16    cis''16    e''16-4   cis''16    b'16    cis''16    a'8 
 -.   \bar "|"   \times 2/3 {   e'16 ^\upbow(   fis'16    e'16  -) }   cis'16    
 e'16    a'16    cis''16    e''16    gis''16    \bar "|"   a''16    fis''16    
 e''16    cis''16    b'16    cis''16    a'8 -.   \bar "|"     \times 2/3 {   

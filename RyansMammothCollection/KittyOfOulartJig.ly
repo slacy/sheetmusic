@@ -13,7 +13,7 @@ voicedefault =  {
 \time 6/8 \key f \major     a'16 (^\upbow   bes'16  -) \bar "|"     c''4 
 (^\accent^\downbow   f'8 -. -)   a'8    g'8    f'8    \bar "|"   c''4 (   f'8 
 -. -)   a'8    g'8    f'8    \bar "|"     d''4 ^">,fz"(   bes'8 -. -)   c''4 (  
- a'8 -. -)   \bar "|"   g'8    a'8 ^"4"   g'8    g'8    a'8    bes'8  \bar "|"  
+ a'8 -. -)   \bar "|"   g'8    a'8-4   g'8    g'8    a'8    bes'8  \bar "|"  
      c''4 (^\accent^\downbow   f'8 -. -)   a'8    g'8    f'8    \bar "|"     
 c''4 ^">,fz"(   f'8 -. -)   a'8    g'8    f'8    \bar "|"     d''4 ^">,fz"(   
 bes'8 -. -)   c''4 (   a'8 -. -) \bar "|"   f'8    g'8    f'8    f'4  }     

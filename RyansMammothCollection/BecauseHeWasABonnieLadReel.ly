@@ -13,23 +13,23 @@ voicedefault =  {
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major   d''8 ^\upbow \bar "|"     b'8. ^\downbow(   a'16  -) 
   g'8    g''8    e''16 ^\upbow(   fis''16    g''8  -)   d''8    b'8    \bar "|" 
-  c''8    e''8 ^"4"   d''8    b'8    a'16    a'16    a'8    a'8 (   d''8  -)   
+  c''8    e''8-4   d''8    b'8    a'16    a'16    a'8    a'8 (   d''8  -)   
 \bar "|"   b'8. (   a'16  -)   g'8    g''8    e''16 (   fis''16    g''8  -)   
-d''8    b'8    \bar "|"   c''8    e''8 ^"4"   d''8    b'8    g'16    g'16    
+d''8    b'8    \bar "|"   c''8    e''8-4   d''8    b'8    g'16    g'16    
 g'8    g'8 (   d''8  -)   \bar "|"     b'8. ^\downbow(   a'16  -)   g'8    g''8 
    e''16 ^\upbow(   fis''16    g''8  -)   d''8    b'8    \bar "|"   c''8    
-e''8 ^"4"   d''8    b'8    a'16    a'16    a'8    a'8 (   d''8  -)   \bar "|"   
+e''8-4   d''8    b'8    a'16    a'16    a'8    a'8 (   d''8  -)   \bar "|"   
 b'8. ^\downbow(   a'16  -)   g'8    g''8    e''16 ^\upbow   fis''16    g''8    
-d''8    b'8    \bar "|"   c''8    e''8 ^"4"   d''8    b'8    g'16    g'16    
+d''8    b'8    \bar "|"   c''8    e''8-4   d''8    b'8    g'16    g'16    
 g'8    g'8    \bar "|."     d''8 ^\upbow \bar "|"     b'8 ^\downbow   a'8    
-g'8    b'8    c''8    d''8    e''8 ^"4"   c''8    \bar "|"   b'8    g'8    d''8 
+g'8    b'8    c''8    d''8    e''8-4   c''8    \bar "|"   b'8    g'8    d''8 
    b'8    a'16    a'16    a'8    a'8 (   c''8  -)   \bar "|"   b'8 ^\downbow   
 a'8    g'8    b'8    c''8    d''8    e''8    fis''8    \bar "|"   g''16 (   
 fis''16    e''16    fis''16  -)   g''8 (   b'8  -)   g'16    g'16    g'8    g'8 
-(   d''8  -)   \bar "|"     b'8 ^\downbow   g'8    d''8    g'8      e''8 ^"4"   
+(   d''8  -)   \bar "|"     b'8 ^\downbow   g'8    d''8    g'8      e''8-4   
 g'8    d''8    g'8    \bar "|"   b'8    g'8    d''8    b'8    a'16    a'16    
 a'8    a'8 (   fis''8  -)   \bar "|"   g''8 ^\downbow   e''8    fis''8    d''8  
-    e''8 ^"4"   c''8    d''8    b'8    \bar "|"   c''8    e''8 ^"4"   d''8    
+    e''8-4   c''8    d''8    b'8    \bar "|"   c''8    e''8-4   d''8    
 b'8    g'16    g'16    g'8    g'8    \bar "|."   
 }
 

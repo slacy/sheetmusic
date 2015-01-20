@@ -21,9 +21,9 @@ f''16    \bar "|"   ees''16    g''16    c''16    ees''16    a'16    c''16
 f'16    a'16    \bar "|"   bes'8    d''8    bes'8    }     \repeat volta 2 {    
  f'16 (^\accent   ees'16  -)   \bar "|"     d'16    f'16    bes'16    f'16    
 g'16    f'16    ees'16    d'16    \bar "|"   ees'16    c'16    c''16    bes'16  
-    a'16 ^"4"   g'16    f'16    ees'16    \bar "|"   d'16    f'16    bes'16    
+    a'16-4   g'16    f'16    ees'16    \bar "|"   d'16    f'16    bes'16    
 d''16    ees''16    d''16    c''16    bes'16    \bar "|"   a'16    c''16    
-bes'16    g'16    f'8    f'16 (   g'16  -)   \bar "|"       a'16 ^"4"   g'16    
+bes'16    g'16    f'8    f'16 (   g'16  -)   \bar "|"       a'16-4   g'16    
 a'16    bes'16    c''16    b'16    c''16    d''16    \bar "|"   ees''16    
 d''16    ees''16    f''16    g''8 ^\accent   \times 2/3 {   f''16 (^\upbow   
 ees''16    d''16  -) }   \bar "|"   f''16    bes''16    d''16    f''16    

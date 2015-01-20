@@ -24,7 +24,7 @@ b'16    cis''16    a'8    }     \repeat volta 2 {   e''8 ^\upbow   \bar "|"
 \grace {    b''16  }   a''16    gis''16    a''16    b''16    a''16    gis''16   
  fis''16    e''16    \bar "|"   fis''16    e''16    d''16    cis''16    b'16    
 a'16    gis'16    b'16    \bar "|" \grace {    b''16  }   a''16    gis''16    
-a''16    b''16      cis'''16 ^"4"   a''16    fis''16    e''16    \bar "|"   
+a''16    b''16      cis'''16-4   a''16    fis''16    e''16    \bar "|"   
 d''16    cis''16    b'16    a'16    gis'16    b'16    e'8    \bar "|"     
 \grace {    b''16  }   a''16 ^\downbow   gis''16    a''16    b''16    a''16    
 gis''16    fis''16    e''16    \bar "|"   fis''16    e''16    d''16    cis''16  

@@ -23,8 +23,8 @@ a'16    \bar "|"   g'8    b'8    g'8  }   \key d \major   \repeat volta 2 {
 fis'16 ^\downbow   g'16  \bar "|"     a'8. ^\downbow   d''16 ^\downbow   
 \times 2/3 {   d''16 ^\upbow(   cis''16    d''16  -) }   fis''8. ^\downbow   
 d''16 ^\downbow   \times 2/3 {   d''16 ^\upbow(   cis''16    d''16  -) }   
-\bar "|"       b'8.    e''16 ^"4"   \times 2/3 {   e''16 (   dis''16    e''16  
--) }   g''8.    e''16 ^"4"   \times 2/3 {   e''16 (   dis''16    e''16  -) }   
+\bar "|"       b'8.    e''16-4   \times 2/3 {   e''16 (   dis''16    e''16  
+-) }   g''8.    e''16-4   \times 2/3 {   e''16 (   dis''16    e''16  -) }   
 \bar "|"   cis''16    e''16    b''16    a''16    g''16    e''16    cis''16    
 g'16    \bar "|"       fis'16    a'16    d''16    fis''16    a''8    fis'16 
 ^\downbow   g'16 ^\upbow   \bar "|"   a'8.    d''16    \times 2/3 {   d''16 (   

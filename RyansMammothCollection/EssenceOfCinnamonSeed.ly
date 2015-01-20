@@ -16,7 +16,7 @@ voicedefault =  {
 fis'8  \spanrequest \stop "slur" >> \times 2/3 {   d''8 (   b''8    a''8  -) } 
 \bar "|"     \times 2/3 {   gis''8 (   a''8    fis''8  -) }   \times 2/3 {   
 cis''8 (   d''8    fis'8  -) }   \times 2/3 {   e'8 (   a8    cis'8  -) }   
-e'8. (   fis'16 -. -) \bar "|"         ais'8. ^"3"(   ais'16  -)   \times 2/3 { 
+e'8. (   fis'16 -. -) \bar "|"         ais'8.-3(   ais'16  -)   \times 2/3 { 
   ais'8 (   b'8    cis''8  -) }   b'4    \times 2/3 {     a'!8 ^">"(   b'8 ^">" 
   cis''8 ^">" -) } \bar "|."     d''8. ^\downbow(   d''16  -)   \times 2/3 {   
 cis''8 (   d''8    e''8  -) }     d''4 ^">"   \times 2/3 {   b'8 (   cis''8    

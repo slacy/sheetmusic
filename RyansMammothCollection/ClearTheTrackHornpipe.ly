@@ -15,7 +15,7 @@ voicedefault =  {
 (^\upbow   bes'16 -. -)     d''8. ^"Segue"   f''16    bes''8.    f''16  
 \bar "|"   d''8.    f''16    bes'8.    d''16    f'8.    bes'16    d'8.    f'16  
 \bar "|"     c'8.    f'16    a'8.    c''16    ees''8.    c''16    a'8.    c''16 
- \bar "|"   bes'8.    d''16    c''8.    bes'16      a'8. ^"4"   f'16    ees'8.  
+ \bar "|"   bes'8.    d''16    c''8.    bes'16      a'8.-4   f'16    ees'8.  
   c'16  \bar "|"     bes8.    d'16    f'8.    bes'16    d''8.    f''16    
 bes''8.    f''16  \bar "|"   d''8.    f''16    bes'8.    f''16    f'8.    
 bes'16    d'8.    f'16  \bar "|"     c'8.    f'16    a'8.    c''16    ees''8.   

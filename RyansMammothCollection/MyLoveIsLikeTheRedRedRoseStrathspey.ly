@@ -12,13 +12,13 @@ voicedefault =  {
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key d \major   a'8 ^\upbow       \bar "|"   d'16 ^\downbow   d'8. 
 ^\upbow   e'8. (   fis'16 -. -)   d''8. (   cis''16 -. -)   b'8    a'8    
-\bar "|"   b'8. (   a'16 -. -)   b'8    d''8      e''8. ^"4"(   d''16 -. -)   
+\bar "|"   b'8. (   a'16 -. -)   b'8    d''8      e''8.-4(   d''16 -. -)   
 e''16 (   fis''8.  -)       \bar "|"   d'16 ^\upbow   d'8. ^\downbow   e'8. (   
 fis'16 -. -)   d''8. (   cis''16 -. -)   b'8    a'8    \bar "|"   \grace {    
 b'16 (   cis''16  }   b'8.    a'16 -. -)   b'8    cis''8    d''4      d''8 
 (^\upbow-.   a'8 -. -)   \bar "|"     \bar "|"   d'16 ^\downbow   d'8. ^\upbow  
  e'8. (   fis'16 -. -)   d''8. (   cis''16 -. -)   b'8    a'8    \bar "|"   
-b'8. (   a'16 -. -)   b'8    d''8      e''8. ^"4"(   d''16 -. -)   e''16 (   
+b'8. (   a'16 -. -)   b'8    d''8      e''8.-4(   d''16 -. -)   e''16 (   
 fis''8.  -)       \bar "|"   d'16 ^\upbow   d'8. ^\downbow   e'8. (   fis'16 -. 
 -)   d''8. (   cis''16 -. -)   b'8.    a'16    \bar "|"   \grace {    b'16 (   
 cis''16  }   b'8.    a'16 -. -)   b'8    cis''8    d''4 ^\downbow   d''8 

@@ -32,7 +32,7 @@ f''8    bes''8    f''8  }   \times 2/3 {   d''8    f''8    d''8  }
 }   \bar "|"     g'8.    bes'16    ees''8.    g'16    f'8.    bes'16    d''8.   
  f'16    \bar "|"   ees'8.    g'16    c''8.    ees'16    d'8.    f'16    bes'8. 
    f'16    \bar "|"     \times 2/3 {   g'8    fis'8    g'8  }   \times 2/3 {   
-a'8 ^"4"   g'8    a'8  }   \times 2/3 {   bes'8    a'8    bes'8  } \times 2/3 { 
+a'8-4   g'8    a'8  }   \times 2/3 {   bes'8    a'8    bes'8  } \times 2/3 { 
   c''8    bes'8    c''8  }   \bar "|"   \times 2/3 {   d''8    bes'8    f'8  } 
 \times 2/3 {   bes'8    f'8    d'8  }   bes4      }   
 }

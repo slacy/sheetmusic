@@ -24,7 +24,7 @@ g''8    a''8    a''8    g''8    fis''8  \bar "|"   a''8    g''8    e''8    d''8
    cis''8    c''!8  \bar "|"     b'8    d''8    g''8 ( \grace {    a''8  }   
 g''8  -)   fis''8    g''8  \bar "|"   b'8    d''8    g''8 ( \grace {    a''8  } 
   g''8  -)   fis''8    g''8  \bar "|"   fis''8    g''8    a''8    a''8    g''8  
-  fis''8  \bar "|"   g''4    r8     e''8 ^"4"   d''8    c''8  \bar ":|"   g''4. 
+  fis''8  \bar "|"   g''4    r8     e''8-4   d''8    c''8  \bar ":|"   g''4. 
 ^\downbow   g''4. ^\upbow     \bar "|."   
 }
 

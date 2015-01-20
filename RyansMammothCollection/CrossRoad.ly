@@ -21,12 +21,12 @@ d''8  -)   b'8 (   d''8  -)   cis''8 (   d''8  -)   \bar "|"     b'8    e'8
  a'8 (   cis''8  -)   \bar "|"   b'8    e'8    \times 2/3 {   fis'8 (   e'8    
 d'8  -) }   fis'8    a'8    b'8    cis''8    \bar "|"       d''8    b'8    
 cis''8    a'8    b'8 (   e'8  -)   e'8    r8   }     \repeat volta 2 {   b'8 
-^\upbow \bar "|"     b'8    e''8 ^"4"   e''8    g''8    fis''8    d''8    e''8  
-  cis''8    \bar "|"   b'8    e''8 ^"4"   e''8    cis''8    d''4    cis''8    
-a'8    \bar "|"   b'8    e''8 ^"4"   e''8    g''8    fis''8    d''8    e''8    
+^\upbow \bar "|"     b'8    e''8-4   e''8    g''8    fis''8    d''8    e''8  
+  cis''8    \bar "|"   b'8    e''8-4   e''8    cis''8    d''4    cis''8    
+a'8    \bar "|"   b'8    e''8-4   e''8    g''8    fis''8    d''8    e''8    
 cis''8    \bar "|"   d''8    b'8    cis''8    a'8    b'8 (   e'8  -)   e'8    
-r8   \bar "|"     b'8    e''8 ^"4"   e''8    g''8    fis''8    d''8    e''8    
-cis''8    \bar "|"   b'8    e''8 ^"4"   e''8    cis''8    d''8    e''8    
+r8   \bar "|"     b'8    e''8-4   e''8    g''8    fis''8    d''8    e''8    
+cis''8    \bar "|"   b'8    e''8-4   e''8    cis''8    d''8    e''8    
 fis''8    g''8    \bar "|"   a''8    fis''8    g''8    e''8    fis''8    d''8   
  e''8    cis''8    \bar "|"   d''8    b'8    cis''8    a'8    b'8 (   e'8  -)   
 e'8  }   

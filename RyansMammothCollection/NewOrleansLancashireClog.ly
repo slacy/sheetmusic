@@ -23,7 +23,7 @@ d''16 ^\downbow   bes'!2 ^\upbow   }   \key f \major   \repeat volta 2 {
 c''16 -. -)   d''8. (   c''16 -. -)   b'8. (   c''16 -. -)   \bar "|"     f''8. 
 ^"SEGUE"   c''16    a'8.    d''16    c''8.    a'16    f'4    \bar "|"     g'8.  
   fis'16    g'8.    a'16    bes'8.    g'16    e'8.    g'16    \bar "|"   f'8.   
- e'16    f'8.    g'16      a'8. ^"4"   f'16    c'4    \bar "|"     \times 2/3 { 
+ e'16    f'8.    g'16      a'8.-4   f'16    c'4    \bar "|"     \times 2/3 { 
   c''8 (   d''8    c''8  -) }   b'8.    c''16    d''8.    c''16    b'8.    
 c''16    \bar "|"   f''8.    c''16    a'8.    d''16    c''8.    a'16    f'4    
 \bar "|"     g'8.    fis'16    g'8.    a'16    bes'8.    g'16    e'8.    g'16   

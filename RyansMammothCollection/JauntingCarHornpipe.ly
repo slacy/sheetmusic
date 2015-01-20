@@ -23,7 +23,7 @@ e''8.    cis''16    a'8.    cis''16  \bar "|" \grace {    e''8  }   d''8.
 b'16    g'8.    b'16    a'8.    fis'16    d'8.    fis'16  \bar "|"     g'8.    
 e''16    cis''8.    a'16    g''8.    e''16    b'8.    cis''16  \bar "|"   d''4  
   fis''4    d''4  }     \repeat volta 2 {   fis''4 ^\upbow \bar "|"   g''8.    
-e''16    cis''8.    a'16    gis'8 (   a'8 ^"4" -)   e'8 (   a'8  -) \bar "|"   
+e''16    cis''8.    a'16    gis'8 (   a'8-4 -)   e'8 (   a'8  -) \bar "|"   
 cis'8 (   e'8  -)   a8 (   cis'8  -)   d'8.    fis'16    a'8.    fis'16  
 \bar "|"     gis'8.    b'16    e''8.    d''16    cis''8.    d''16    b'8.    
 cis''16  \bar "|"   a'4    a'4    a'8.    g'16    fis'8.    g'16  \bar "|"     

@@ -30,7 +30,7 @@ e''16    a''16    gis''16    a''16    fis''16    a''16    gis''16    a''16
 a'16    \bar "|"   e'16    fis'16    gis'16    a'16    b'16    cis''16    d''16 
    b'16    \bar "|"   cis''16    a'16    b'16    gis'16    a'8    r8   
 \bar "|."         e''16 _"ff"^"BREAK"^\upbow   a''16    gis''16    a''16    
-fis''16    gis''16    a''16    b''16    \bar "|"     cis'''16 ^"4"   a''16    
+fis''16    gis''16    a''16    b''16    \bar "|"     cis'''16-4   a''16    
 b''16    gis''16    a''8    r8 \bar "|."   
 }
 

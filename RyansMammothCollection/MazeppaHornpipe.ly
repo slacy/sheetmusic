@@ -15,7 +15,7 @@ voicedefault =  {
 \bar "|"   bes''8. ^\downbow   a''16    bes''8.    f''16    d''8.    f'16    
 bes'8.    d''16  \bar "|"   c''8.    bes'16    a'8.    c''16    bes'8.    d''16 
    f''8.    bes''16  \bar "|"     g''8.    ees''16    c''8.    g''16    f''8.   
- d''16    bes'8.    d''16  \bar "|"   c''8.    f''16    e''8.    c'''16 ^"4"   
+ d''16    bes'8.    d''16  \bar "|"   c''8.    f''16    e''8.    c'''16-4   
 f''8.    fis''16    g''8.    a''16  \bar "|"     bes''8.    a''16    bes''8.    
 f''16    d''8.    f'16    bes'8.    d''16  \bar "|"   c''8.    bes'16    a'8.   
  bes'16    c''8.    d''16    ees''8.    f''16  \bar "|"     g''8.    ees''16    

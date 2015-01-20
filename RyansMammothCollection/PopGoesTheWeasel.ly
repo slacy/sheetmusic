@@ -13,11 +13,11 @@ voicedefault =  {
 \time 6/8 \key g \major   g'4 ^\downbow   g'8    a'4    a'8  \bar "|"   b'8    
 d''8    b'8    g'4    r8 \bar "|"   g'4    g'8    a'4    c''8  \bar "|"   b'4.  
   g'4    r8 \bar "|"   g'4    g'8    a'4    a'8  \bar "|"   b'8    d''8    b'8  
-  g'4    r8 \bar "|"   e''4. ^"4"   a'4    c''8  \bar "|"   b'4.    g'4    r8 } 
+  g'4    r8 \bar "|"   e''4.-4   a'4    c''8  \bar "|"   b'4.    g'4    r8 } 
     \repeat volta 2 {   g''4. ^\downbow   e''4    g''8  \bar "|"   fis''8    
 a''8    fis''8    d''4.  \bar "|"   g''4    g''8    e''4    g''8  \bar "|"   
 fis''4.    d''4    b'8  \bar "|"   c''4    b'8    c''4    d''8  \bar "|"   e''4 
-   fis''8    g''4    r8 \bar "|"   e''8 ^"4"   r4 a'4    c''8  \bar "|"   b'4.  
+   fis''8    g''4    r8 \bar "|"   e''8-4   r4 a'4    c''8  \bar "|"   b'4.  
     g'4 ^"D.C."   r8 }   
 }
 

@@ -16,7 +16,7 @@ b'16    cis''16  -)   d''8    a'8    fis'8    d'8    \bar "|"   e'8    e''4
  -)   b'8    d''8    a'8    d''8    a'8    fis'8    \bar "|"   g'8    b'8    
 a'8    fis'8    d'16    d'16    d'8    d'8 (   fis''8  -)   \bar "|"     d''4 
 ^\downbow   a'8 (   b'16    cis''16  -)   d''8    a'8    fis'8    d'8    
-\bar "|"   e'8    e''4 ^"4"   d''8    cis''8    a'8    b'8    cis''8    
+\bar "|"   e'8    e''4-4   d''8    cis''8    a'8    b'8    cis''8    
 \bar "|"   d''8 ^\upbow(   a'8  -)   b'8    d''8    a'8    d''8    a'8    fis'8 
    \bar "|"   g'8    b'8    a'8    fis'8    d'16    d'16    d'8    d'8  
 \bar "|."     fis''8 ^\upbow \bar "|"     a''8 ^\downbow   d''8    fis''8    
@@ -26,7 +26,7 @@ d''8    fis''8    a''8    d''8    fis''8    \bar "|"   g''8    e''8    a''8
 fis''8    d''16    d''16    d''8    d''8 (   fis''8  -)   \bar "|"     a''8 
 ^\downbow   d''8    fis''8    d''8    fis''8    a''8    d''8    fis''8    
 \bar "|"   b''8    e''8    g''8    e''8    g''8    b''8    e''8    g''8    
-\bar "|"   fis''8    a''8    e''8    fis''8    d''8    e''8 ^"4"   b'8    d''8  
+\bar "|"   fis''8    a''8    e''8    fis''8    d''8    e''8-4   b'8    d''8  
   \bar "|"   a'8    d''8    a'8    fis'8    d'16    d'16    d'8    d'8    
 \bar "|."   
 }

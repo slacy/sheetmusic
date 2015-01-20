@@ -13,7 +13,7 @@ voicedefault =  {
 \time 6/8 \key g \major   \grace {    b'8    c''8  }   d''8    g'8    g'8    
 g'8    fis'8    g'8    \bar "|"   b'8    c''8    d''8    d''8    b'8    g'8    
 \bar "|" \grace {    a'8 ^\downbow   b'8  }   c''8    a'8    a'8    fis'8    
-g'8    a'8 ^"4"   \bar "|"     a'8 ^"0"   b'8    c''8    c''8    b'8    a'8    
+g'8    a'8-4   \bar "|"     a'8-0   b'8    c''8    c''8    b'8    a'8    
 \bar "|"     \bar "|" \grace {    b'8 ^\downbow   c''8  }   d''8    g'8    g'8  
   g'8    fis'8    g'8    \bar "|"   b'8    c''8    d''8    d''8    b'8    g'8   
  \bar "|" \time 2/4 a'4 -.^\downbow   a'8 -.^\downbow   a'8 -.^\upbow   a'8 -.  

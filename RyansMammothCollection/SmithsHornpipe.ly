@@ -22,8 +22,8 @@ bes'16    ees'16    bes'16    f'16    bes'16    g'16    bes'16  \bar "|"   a'16
 \bar "|"   d'8 ^\downbow^\accent   f'16    f'16    bes'16    f'16    d''16    
 bes'16  \bar "|"   ees'8 ^\accent   g'16    g'16    c''16    g'16    ees''16    
 c''16  \bar "|"   d''16    bes'16    g''16    f''16    ees''16    d''16    
-c''16    bes'16  \bar "|"   a'16 -.   f''16 (   e''16 ^"0"   f''16  -)     
-e''16 ^"4"   c''16    a'16    f'16  \bar "|"     d'8    f'16    f'16    bes'16  
+c''16    bes'16  \bar "|"   a'16 -.   f''16 (   e''16-0   f''16  -)     
+e''16-4   c''16    a'16    f'16  \bar "|"     d'8    f'16    f'16    bes'16  
   f'16    d''16    bes'16  \bar "|"   ees'8    g'16    g'16    c''16    a'16    
 ees''16    c''16  \bar "|"   d''16    f''16    bes'16    d''16    c''16    
 g''16    ees''16    c''16  \bar "|"   a'16    f'16    g'16    a'16    bes'8  }  

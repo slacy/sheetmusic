@@ -24,9 +24,9 @@ d''8  }     \repeat volta 2 {   fis''8. ^\downbow^\accent   fis''16    fis''16
   g''16    fis''16    e''16  \bar "|"   d''16    e''16    fis''16    d''16    
 b'8 -.   a'8 -. \bar "|"   b'16    d''16    a'16    d''16    b'16    d''16    
 a'16    fis'16  \bar "|"   e'16    fis'16    e'16    d'16    b16    d'16    a8 
--. \bar "|"       d'8. ^"4"-.^\accent   d'16 -.   d'8 -.   fis'16 (   e'16  -) 
+-. \bar "|"       d'8.-4-.^\accent   d'16 -.   d'8 -.   fis'16 (   e'16  -) 
 \bar "|"   d'16    fis'16    a'16    fis'16    b'8 -.   a'8 -. \bar "|"   b'16  
-  d''16    cis''16    e''16 ^"4"   d''16    fis''16    e''16    g''16  \bar "|" 
+  d''16    cis''16    e''16-4   d''16    fis''16    e''16    g''16  \bar "|" 
   fis''16    a''16    e''16    cis''16    d''8  }   
 }
 

@@ -22,7 +22,7 @@ g''16    e''16    d''16    b'16    g'16    a'16  \bar "|"   b'8    g'8    g'8
 }     \repeat volta 2 {   \times 2/3 {   d''16 (^\upbow   e''16    fis''16  -) 
 } \bar "|" \grace {    a''16  }   g''16    fis''16    g''16    a''16    b''16   
  g''16    d''16    b'16  \bar "|" \grace {    d''16  }   c''16    b'16    c''16 
-   e''16 ^"4"   d''16    c''16    b'16    d''16  \bar "|"     \grace {    a''16 
+   e''16-4   d''16    c''16    b'16    d''16  \bar "|"     \grace {    a''16 
  }   g''16    fis''16    g''16    a''16    b''16    g''16    d''16    b'16  
 \bar "|"   c''16    d''16    e''16    fis''16    g''16    fis''16    g''16    
 a''16  \bar "|"     b''16    a''16    g''16    b''16    a''16    g''16    

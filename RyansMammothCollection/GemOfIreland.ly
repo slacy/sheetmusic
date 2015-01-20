@@ -19,13 +19,13 @@ fis'8  -)   a'8    b'8    d''8    a'8    \bar "|"   b'8    a'8    b'8    cis''8
   fis'8    \bar "|"   \times 2/3 {   a'8 -.   a'8 -.   a'8 -. }   a'8 (   fis'8 
  -)   a'8    b'8    d''8    a'8    \bar "|"   b'8    a'8    b'8    cis''8    
 d''8    b'8    a'8    fis'8    \bar "|"   g'8    b'8    a'8    fis'8    d'4    
-r4   } \repeat volta 2 {     fis''8 ^\downbow   e''8 ^"0"   fis''8    g''8    
-a''8    fis''8    d''8    fis''8    \bar "|"   \times 2/3 {     e''8 ^"0"-.   
+r4   } \repeat volta 2 {     fis''8 ^\downbow   e''8-0   fis''8    g''8    
+a''8    fis''8    d''8    fis''8    \bar "|"   \times 2/3 {     e''8-0-.   
 e''8 -.   e''8 -. }   e''8 (   d''8  -)   e''8    fis''8    g''8    e''8    
-\bar "|"   fis''8    e''8 ^"0"   fis''8    g''8    a''8    fis''8    d''8    
-fis''8    \bar "|"       e''8 ^"0"   d''8    e''8    fis''8    d''4    d''8 (   
+\bar "|"   fis''8    e''8-0   fis''8    g''8    a''8    fis''8    d''8    
+fis''8    \bar "|"       e''8-0   d''8    e''8    fis''8    d''4    d''8 (   
 e''8  -)   \bar "|"     fis''8    e''8    fis''8    g''8    a''8    fis''8    
-d''8    fis''8    \bar "|"   \times 2/3 {     e''8 ^"0"-.   e''8 -.   e''8 -. } 
+d''8    fis''8    \bar "|"   \times 2/3 {     e''8-0-.   e''8 -.   e''8 -. } 
   e''8 (   d''8  -)   e''8    fis''8    g''8    e''8    \bar "|"   fis''8    
 d''8    e''8    cis''8    b'4    d''8 (   b'8  -)   \bar "|"   b'8    d''8    
 a'8    fis'8    d'4    r4   }   

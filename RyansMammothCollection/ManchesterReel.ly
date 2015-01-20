@@ -10,14 +10,14 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 2/4 \key e \mixolydian   e'8 ^\upbow \bar "|"     e'16    e''16 ^"4"   
+\time 2/4 \key e \mixolydian   e'8 ^\upbow \bar "|"     e'16    e''16-4   
 e''16    d''16    cis''16    a'16    b'16    gis'16  \bar "|"   a'16    fis'16  
   d''16    fis'16    d'16    e'16    fis'16    d'16  \bar "|"   e'16    e''16 
 ^"4"   e''16    d''16    cis''16    a'16    b'16    gis'16  \bar "|"   a'16    
 fis'16    d''16    fis'16    \times 2/3 {   e'16 -.   e'16 -.   e'16 -. }   e'8 
- \bar "|"     e'16    e''16 ^"4"   e''16    d''16    cis''16    a'16    b'16    
+ \bar "|"     e'16    e''16-4   e''16    d''16    cis''16    a'16    b'16    
 gis'16  \bar "|"   a'16    fis'16    d''16    fis'16    d'16    e'16    fis'16  
-  d'16  \bar "|"   e'16    e''16 ^"4"   e''16    d''16    cis''16    a'16    
+  d'16  \bar "|"   e'16    e''16-4   e''16    d''16    cis''16    a'16    
 b'16    gis'16  \bar "|"   a'16    fis'16    d''16    fis'16    \times 2/3 {   
 e'16 -.   e'16 -.   e'16 -. }   e'8  }     e''16 ^\downbow   gis''16    b'16    
 gis''16    e''16    gis''16    b''16    gis''16  \bar "|"   fis''16    e''16    

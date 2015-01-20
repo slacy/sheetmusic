@@ -21,7 +21,7 @@ d''16    b'16    d''16    r16   \bar "|."     a'16 ^\upbow       \bar "|"
 fis''16 ^\downbow   a''16 ^\upbow   r16 a''16 ^\upbow   a''8 ^\downbow   r16 
 fis''16 ^\upbow   \bar "|"   g''16 ^\downbow   e''16    fis''16    d''16    
 e''16    d''16    r16 a'16 ^\upbow   \bar "|"   fis''16    a''16    r16 a''16   
-   d'''8 ^"4"   r16   a''16 ^"3"   \bar "|"   g''16    e''16    fis''16    
+   d'''8-4   r16   a''16-3   \bar "|"   g''16    e''16    fis''16    
 d''16    e''16    d''16    r16 a'16        \bar "|"   fis''16    a''16    r16 
 a''16    a''8    r16 fis''16    \bar "|"   g''16    e''16    fis''16    d''16   
  e''16    d''16    r16 d''16    \bar "|"   g''16    g''16    r16 g''16    g''16 

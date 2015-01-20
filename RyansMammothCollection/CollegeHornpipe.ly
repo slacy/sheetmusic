@@ -21,7 +21,7 @@ d''16  \bar "|"   ees''16    d''16    c''16    bes'16    bes'16    a'16    g'16
 ^\downbow   ees'16  \bar "|"   d'16    f'16    bes'16    f'16    d'16    f'16   
  bes'16    f'16  \bar "|"   g'8    ees'8    ees'8    g'16 (   f'16  -) \bar "|" 
   e'16    g'16    c''16    g'16    e'16    g'16    bes'16    g'16  \bar "|"   
-a'8    f'8    f'8      ees''16 ^"4"(   d''16  -) \bar "|"     ees''8    g''8    
+a'8    f'8    f'8      ees''16-4(   d''16  -) \bar "|"     ees''8    g''8    
 g''16    f''16    ees''16    d''16  \bar "|"   ees''16    d''16    c''16    
 bes'16    bes'16    a'16    g'16    f'16  \bar "|"   g'16    bes'16    a'16    
 c''16    bes'16    d''16    c''16    ees''16  \bar "|"   d''8    bes'8    bes'8 

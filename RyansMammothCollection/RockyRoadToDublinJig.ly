@@ -10,9 +10,9 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 9/8 \key e \dorian     e''4 ^"4"^\downbow   d''8    b'8    cis''8    b'8  
-  a'4.  \bar "|"   e''4 ^"4"   cis''8    a'4    cis''8    b'8    cis''8    d''8 
- \bar "|"   e''4 ^"4"   d''8    b'8    cis''8    b'8    a'4.  \bar "|"   d''8   
+\time 9/8 \key e \dorian     e''4-4^\downbow   d''8    b'8    cis''8    b'8  
+  a'4.  \bar "|"   e''4-4   cis''8    a'4    cis''8    b'8    cis''8    d''8 
+ \bar "|"   e''4-4   d''8    b'8    cis''8    b'8    a'4.  \bar "|"   d''8   
  b'8    g'8    g'4    a'8    b'8    cis''8    d''8  }     \repeat volta 2 {   
 e''4 ^\downbow   a''8    a''4    fis''8    g''4.  \bar "|"   e''4    a''8    
 a''4    a'8    b'8    cis''8    d''8  \bar "|"   e''4    a''8    a''4    fis''8 

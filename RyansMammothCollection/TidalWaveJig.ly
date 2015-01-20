@@ -28,7 +28,7 @@ e''16. (^\downbow(   g''32    c''16  -)     g''16. (   f''32 -. -)   d''16.
 b'32    a'8.    g'16 ^\upbow   \bar "|"   fis'16    g'16    c''16    e''16    
 g''8. ^\downbow     gis''16 (^\upbow   \bar "|"     b''16    a''16  -)   
 cis''16 ^\upbow   d''16 ^\downbow(   a''16    g''16  -)       \bar "|"     
-e''16 ^"4"^\upbow -)   \key bes \major   f'8 ^\downbow(   fis'8    g'8  -)     
+e''16-4^\upbow -)   \key bes \major   f'8 ^\downbow(   fis'8    g'8  -)     
 r16 ees''32 ^\downbow(   c''16.. ^\upbow   a'32 -. -)   \bar "|"       f'8 
 ^\downbow(   fis'8    g'8  -)     fis'8 (   fis'!8    g'8  -)     ees''8 
 ^\downbow   fis''8 ^\downbow(   \bar "|"     g''16  -)     bes'16.    d''32    

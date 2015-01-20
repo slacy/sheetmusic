@@ -15,7 +15,7 @@ voicedefault =  {
 bes'8    f''8    bes'8    d''8    bes'8  \bar "|"   ees''8    bes'8    g''8    
 bes'8    f''8    bes'8    d''8    bes'8  \bar "|"   f'8    bes'8    d''8    
 bes'8    f''8    bes'8    d''8    bes'8  \bar "|"   a'8    c''8    bes'8    g'8 
-   f'4    g'8 (   a'8 ^"4" -) \bar "|"     bes'8    f''8    d''8    bes'8    
+   f'4    g'8 (   a'8-4 -) \bar "|"     bes'8    f''8    d''8    bes'8    
 f''8    bes'8    d''8    bes'8  \bar "|"   ees''8    bes'8    g''8    bes'8    
 f''8    bes'8    d''8    bes'8  \bar "|"   bes'8    g''8    f''8    ees''8    
 d''8    c''8    bes'8    a'8  \bar "|"   bes'4    d''4    bes'4  }     

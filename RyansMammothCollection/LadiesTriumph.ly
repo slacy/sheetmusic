@@ -10,13 +10,13 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \time 2/4 \key f \major   c'16 ^\downbow   f'16    f'8    a'16    c''16    c''8 
- \bar "|"   bes'16    g'16    a'16 ^"4"   f'16    e'16    g'16    e'16    c'16  
+ \bar "|"   bes'16    g'16    a'16-4   f'16    e'16    g'16    e'16    c'16  
 \bar "|"   c'16    f'16    f'8    a'16    c''16    c''8  \bar "|"   d''16    
-f''16    e''16 ^"0"   g''16    f''8 -.   a''8  \bar "|"     c'16    f'16    f'8 
-   a'16    c''16    c''8  \bar "|"   bes'16    g'16    a'16 ^"4"   f'16    e'16 
+f''16    e''16-0   g''16    f''8 -.   a''8  \bar "|"     c'16    f'16    f'8 
+   a'16    c''16    c''8  \bar "|"   bes'16    g'16    a'16-4   f'16    e'16 
    g'16    e'16    c'16  \bar "|"   c'16    f'16    f'8    a'16    c''16    
-c''8  \bar "|"   d''16    f''16    e''16 ^"0"   g''16    f''8    c''8 ^\upbow 
-\bar "|"     f''16    g''16    a''16    f''16    g''16    e''16 ^"0"   c''16    
+c''8  \bar "|"   d''16    f''16    e''16-0   g''16    f''8    c''8 ^\upbow 
+\bar "|"     f''16    g''16    a''16    f''16    g''16    e''16-0   c''16    
 e''16  \bar "|"   d''16    e''16    f''16    d''16    c''16    a'16    f'16    
 a'16  \bar "|"   f''16    g''16    a''16    f''16    g''16    e''16    c''16    
 e''16  \bar "|"   d''16    f''16    e''16    g''16    f''8 -.   f''16 (   g''16 

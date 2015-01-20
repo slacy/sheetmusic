@@ -12,19 +12,19 @@ voicedefault =  {
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key a \major % %slurgraces 1
      cis''16 (^\upbow   b'16  -)   \bar "|"       a'16 (^\downbow   fis'8.  -)  
- fis'8. (   a'16 ^"4"-. -)   e'8. (   fis'16 -. -)   e'8. (   cis'16 -. -)   
+ fis'8. (   a'16-4-. -)   e'8. (   fis'16 -. -)   e'8. (   cis'16 -. -)   
 \bar "|"   a8. (   a16 -. -)   a8. (   cis''16 -. -) \grace {    cis''16  }   
 b'4    b'8 (   cis''16    b'16  -)   \bar "|"     a'16 (   fis'8.  -)   fis'8. 
 (   a'16 -. -)     e'8. ^"SEGUE"   fis'16    e'8.    cis'16    \bar "|"   d'8.  
-  fis'16    e'8.    gis'16      a'4 ^"4"     a'8 ^"0"(   cis''16    b'16  -)   
-\bar "|"     a'16 (   fis'8.  -)   fis'8.    a'16 ^"4"   e'8.    fis'16    e'8. 
+  fis'16    e'8.    gis'16      a'4-4     a'8-0(   cis''16    b'16  -)   
+\bar "|"     a'16 (   fis'8.  -)   fis'8.    a'16-4   e'8.    fis'16    e'8. 
    cis'16    \bar "|"   a8. (   a16 -. -)   d''8.    cis''16  \grace {    
-cis''16  }   b'4    b'8 (   cis''16    d''16  -)   \bar "|"       e''8. ^"4"   
+cis''16  }   b'4    b'8 (   cis''16    d''16  -)   \bar "|"       e''8.-4   
 b'16    cis''8.    gis'16    a'8.    e'16    fis'8.    cis'16    \bar "|"   
 e'16    e'8.    fis'8.    gis'16    a'4    a'8    \bar "|."       fis''16 
-^\fermata(^\upbow   d''16  -)   \bar "|"         e''16 ^"4"(^\downbow   cis''8. 
+^\fermata(^\upbow   d''16  -)   \bar "|"         e''16-4(^\downbow   cis''8. 
  -)   cis''8. (   a''16 -. -)   e''8. (   e''16 -. -)   fis''16 (   e''16    
-d''16    cis''16  -)   \bar "|"     e''8. ^"4"(   cis''16 -. -)   cis''8. 
+d''16    cis''16  -)   \bar "|"     e''8.-4(   cis''16 -. -)   cis''8. 
 ^"SEGUE"   a''16    fis''4 ^\trill   fis''8.    a''16    \bar "|"     e''16 (   
 cis''8.  -)   cis''8.    a''16    e''8.    e''16    fis''16 (   e''16    d''16  
   cis''16  -)   \bar "|"   d''8.    b'16    cis''8.    a'16    fis'4 ^\trill   

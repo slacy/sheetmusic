@@ -25,7 +25,7 @@ cis''16    d''16    b'16    cis''16    a'16    fis'16    a'16    \bar "|"   e'8
   d''16  -)   fis''16 (   cis''16  -)   \bar "|"   e''16    fis''16    e''16    
 cis''16    d''16 (   cis''16  -)   b'16 (   a'16  -) \bar "|"     a16    cis'16 
    e'16    a'16    cis'16    e'16    a'16    cis''16    \bar "|"   e'16    a'16 
-   cis''16    e''16 ^"4"   a'16    cis''16    e''16    a''16    \bar "|"   
+   cis''16    e''16-4   a'16    cis''16    e''16    a''16    \bar "|"   
 gis''16    b''16    a''16    fis''16    e''16    d''16    cis''16    b'16    
 \bar "|"   b'16    a'16    gis'16    b'16    a'8    }   
 }

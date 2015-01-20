@@ -12,14 +12,14 @@ voicedefault =  {
 
 \repeat volta 2 {
 \time 2/4 \key g \major   g''16 ^\downbow   e''16  \bar "|"     d''8 ^\downbow  
-   e''16 ^"4"^\downbow   d''16    b'8 ^\downbow-.   g'16 ^\downbow   a'16    
+   e''16-4^\downbow   d''16    b'8 ^\downbow-.   g'16 ^\downbow   a'16    
 \bar "|"     b'16 ^"SEGUE."   a'16    g'16    e'16    d'8 -.   e'16    d'16    
-\bar "|"   b16    d'16    g'16    a'16    b'16    g'16    e''16 ^"4"   d''16    
+\bar "|"   b16    d'16    g'16    a'16    b'16    g'16    e''16-4   d''16    
 \bar "|"     d''16    b'16    b'16    g'16    a'8 -.   g''16    e''16    
-\bar "|"     d''8 -.   e''16 ^"4"   d''16    b'8 -.   g'16    a'16    \bar "|"  
+\bar "|"     d''8 -.   e''16-4   d''16    b'8 -.   g'16    a'16    \bar "|"  
  b'16    a'16    g'16    e'16    d'8 -.   e'16    fis'16    \bar "|"   g'16    
 fis'16    g'16    a'16    b'16    d''16    a'16    c''16    \bar "|"   b'16    
-g'16    a'16 ^"4"   fis'16    g'8  }     \repeat volta 2 {   d''8 ^\upbow 
+g'16    a'16-4   fis'16    g'8  }     \repeat volta 2 {   d''8 ^\upbow 
 \bar "|"     g''16    b'16    b'16    d''16    g''16    b'16    d''16    g''16  
   \bar "|"   fis''16    a'16    a'16    d''16    fis''16    d''16    a''16    
 d''16    \bar "|"   g''16    b'16    d''16    g''16    b''16    g''16    a''16  
@@ -27,7 +27,7 @@ d''16    \bar "|"   g''16    b'16    d''16    g''16    b''16    g''16    a''16
 e''16    fis''16    \bar "|"     g''16    b'16    b'16    d''16    g''16    
 b'16    d''16    g''16    \bar "|"   fis''16    a'16    a'16    d''16    
 fis''16    d''16    a''16    d''16    \bar "|" \grace {    a''16  }   g''16    
-fis''16    e''16    d''16      e''16 ^"4"   d''16    b'16    g'16    \bar "|"   
+fis''16    e''16    d''16      e''16-4   d''16    b'16    g'16    \bar "|"   
 d''16    b'16    a'16    b'16    g'8    }   
 }
 

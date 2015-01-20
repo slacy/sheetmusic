@@ -14,7 +14,7 @@ voicedefault =  {
 a'16    cis''16    a'16  \bar "|"   e'16    gis'16    b'16    gis'16    a'16    
 cis''16    e''16    cis''16  \bar "|"   d''16    fis''16    d''16    b'16    
 cis''16    e''16    cis''16    a'16  \bar "|"   \times 2/3 {   b'16 (   cis''16 
-   b'16  -) }   \times 2/3 {     a'16 ^"4"(   gis'16    fis'16  -) }   
+   b'16  -) }   \times 2/3 {     a'16-4(   gis'16    fis'16  -) }   
 \times 2/3 {   e'16 (   fis'16    e'16  -) }   \times 2/3 {   d'16 (   cis'16   
  b16  -) } \bar "|"     a16    cis'16    e'16    cis'16    a16    a'16    
 cis''16    a'16  \bar "|"   e'16    gis'16    b'16    gis'16    a'16    cis''16 

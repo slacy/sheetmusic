@@ -15,12 +15,12 @@ voicedefault =  {
  \time 2/2 \key d \major   a'4 ^\upbow \bar "|"   d''4 ^\downbow   fis''8    
 d''8    e''8    fis''8    g''8    e''8  \bar "|"   d''4 ^\upbow   fis''8    
 d''8    e''8    fis''8    g''8    e''8  \bar "|"   d''8 ^\downbow   fis''8    
-a''8 ^"1"   d'''8 ^"4"     cis'''8 ^"3"   b''8 ^"2"   a''8 ^"1"   g''8 ^"2" 
-\bar "|"   fis''8 ^"1"   g''8    a''8    b''8    a''8    g''8    fis''8    e''8 
+a''8-1   d'''8-4     cis'''8-3   b''8-2   a''8-1   g''8-2 
+\bar "|"   fis''8-1   g''8    a''8    b''8    a''8    g''8    fis''8    e''8 
  \bar "|"     d''4    fis''8    d''8    e''8    fis''8    g''8    e''8  
 \bar "|"   d''4    fis''8    d''8    e''8    fis''8    g''8    e''8  \bar "|"   
-d''8    fis''8    a''8 ^"1"   d'''8 ^"4"     cis'''8 ^"3"   b''8 ^"2"   a''8 
-^"1"   g''8 ^"2" \bar "|"   fis''8 ^"1"   g''8    e''8    fis''8    d''4  }     
+d''8    fis''8    a''8-1   d'''8-4     cis'''8-3   b''8-2   a''8 
+^"1"   g''8-2 \bar "|"   fis''8-1   g''8    e''8    fis''8    d''4  }     
   a'8 (^\upbow   g'8  -) \bar "|"   fis'8 ^\downbow   a'8    d''8    a'8    
 fis'8    a'8    d''8    a'8  \bar "|"   g'8    b'8    d''8    b'8    g'8    b'8 
    d''8    b'8  \bar "|"   a'8    b'8    cis''8    d''8    e''8    fis''8    

@@ -13,23 +13,23 @@ voicedefault =  {
 -)   d'16    bes'16    f'16    bes'16    \bar "|"   bes'8    \times 2/3 {   
 d''16 (   c''16    bes'16  -) }   a'16    c''16    c''16    d''16    \bar "|"   
 bes'8    f'16 (   bes'16  -)   d'16    bes'16    f'16    bes'16    \bar "|"     
-\times 2/3 {   a'16 (   bes'16    c''16  -) }   c''16 (   ees''16 ^"4" -)   
+\times 2/3 {   a'16 (   bes'16    c''16  -) }   c''16 (   ees''16-4 -)   
 d''16    bes'16    bes'16    d''16    \bar "|"     bes'8    f'16 (   bes'16  -) 
   d'16    bes'16    g'16    bes'16    \bar "|"   bes'8    \times 2/3 {   d''16 
 (   c''16    bes'16  -) }   a'16    c''16    c''16    d''16    \bar "|"   bes'8 
    f'16 (   bes'16  -)   d'16    bes'16    f'16    bes'16    \bar "|"     
-\times 2/3 {   a'16 (   bes'16    c''16  -) }   c''16 (   ees''16 ^"4" -)   
+\times 2/3 {   a'16 (   bes'16    c''16  -) }   c''16 (   ees''16-4 -)   
 d''16 (   bes'16  -)   bes'8 -.   \bar "|."     \repeat volta 2 {   d''8 
 ^\fermata^\upbow \bar "|"     bes'16    bes'16    d''16    bes'16    f''16    
 bes'16    d''16    bes'16    \bar "|"   bes'16    bes'16    d''16    bes'16    
 a'16    c''16    c''16    d''16    \bar "|"   bes'16    bes'16    d''16    
 bes'16    f''16    bes'16    d''16    bes'16    \bar "|"   \times 2/3 {   a'16 
-(   bes'16    c''16  -) }   c''16 (   ees''16 ^"4" -)   d''16    bes'16    
+(   bes'16    c''16  -) }   c''16 (   ees''16-4 -)   d''16    bes'16    
 bes'16    d''16    \bar "|"     bes'16    bes'16    d''16    bes'16    f''16    
 bes'16    d''16    bes'16    \bar "|"   bes'16    bes'16    d''16    bes'16    
 a'16    c''16    c''16    d''16    \bar "|"   bes'16    bes'16    d''16    
 bes'16    f''16    bes'16    d''16    f''16    \bar "|"   g''16    bes''16    
-a''16    c'''16 ^"4"   bes''8  }   
+a''16    c'''16-4   bes''8  }   
 }
 
 \score{

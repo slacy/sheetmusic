@@ -15,7 +15,7 @@ voicedefault =  {
  \bar "|"   g'4. ^\downbow   g''4 (   e''8  -) \bar "|"   d''4 (   b'8  -)   
 b'8    a'8    g'8  \bar "|"   a'8    b'8    a'8    a'4 (   b'8  -) \bar "|"     
 g'4 (   e'8 -. -)   e'8    d'8    e'8  \bar "|"   g'4.    g''4 (   e''8  -) 
-\bar "|"   d''4 (   b'8  -)   b'8    a'8    g'8  \bar "|"   a'4. ^"4"   g'4.  } 
+\bar "|"   d''4 (   b'8  -)   b'8    a'8    g'8  \bar "|"   a'4.-4   g'4.  } 
     d''4. ^\downbow   g''8    fis''8    g''8  \bar "|"   e''4.    d''8    c''8  
   b'8  \bar "|"   d''4 (   e''8  -)   g''4 (   a''8  -) \bar "|"   b''4 (   
 e''8  -)   e''4    r8   \bar "|"     d''4.    g''8    fis''8    g''8  \bar "|"  
@@ -24,7 +24,7 @@ e''8  -)   e''4    r8   \bar "|"     d''4.    g''8    fis''8    g''8  \bar "|"
 fis''8    g''8  \bar "|"   fis''4 (   d''8  -)   d''4.    \bar "|"   e''4 (   
 b'8  -)   b'8    a'8    g'8  \bar "|"   a'4 (   e'8  -)   e'4.    \bar "|"     
 g'4 (   e'8  -)   e'8    d'8    e'8  \bar "|"   g'4.    g''4.  \bar "|"   e''8  
-  d''8    b'8    b'8    a'8    g'8  \bar "|"   a'4. ^"4"   g'4.    \bar "|."   
+  d''8    b'8    b'8    a'8    g'8  \bar "|"   a'4.-4   g'4.    \bar "|."   
 }
 
 \score{
