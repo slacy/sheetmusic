@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>Ryan-Cole Tunes</title>
+</head>
+<body>
+	<center><H1>Ryan-Cole Tunes</H1></center>
+<hr>
+
+This is the set of tunes from the Ryan and Cole collections that have
+been transcribed so far.
+
+<form method=GET action=/~jc/cgi/abc/tunelist>
+	If you don't have ABC software, and you see a simple list of the files,
+	you might like to try a tool that returns the tunes in various formats.
+		<input type=hidden name=DIR value=/~jc/music/book/ryan-cole/Tunes/>
+		<input type=submit value="Push this button" size=100>
+	This will return the page you're looking at now, but the ABC files
+	will be expanded to show all the tunes, and each tune will have a
+	line of links that will return it in a number of different formats.
+</form>
