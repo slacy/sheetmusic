@@ -10,19 +10,33 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \time 2/4 \key d \major   a'8 ^\downbow   a'16    b'16    a'16    fis'16    
-e'16    d'16    \bar "|"   b'8    b'16    a'16    b'8    d''8    \bar "|"   a'8 
-   a'16    b'16    a'16    fis'16    e'16    d'16    \bar "|"   g''16    
-fis''16    e''16    d''16    b'8    d''8    \bar "|"     a'8    a'16    b'16    
-a'16    fis'16    e'16    d'16    \bar "|"   b'8    b'16    a'16    b'8    d''8 
-   \bar "|"   a'8    a'16    b'16    a'16    fis'16    e'16    d'16    \bar "|" 
+e'16    d'16    |
+   b'8    b'16    a'16    b'8    d''8    |
+   a'8 
+   a'16    b'16    a'16    fis'16    e'16    d'16    |
+   g''16    
+fis''16    e''16    d''16    b'8    d''8    |
+     a'8    a'16    b'16    
+a'16    fis'16    e'16    d'16    |
+   b'8    b'16    a'16    b'8    d''8 
+   |
+   a'8    a'16    b'16    a'16    fis'16    e'16    d'16    |
+ 
   g''16    fis''16    e''16    d''16    b'8    d''8    \bar "|."     fis''8 
-^\downbow   fis''16    d''16    g''8    g''16    e''16    \bar "|"   fis''8    
-fis''16    d''16    e''16    cis''16    b'16    a'16    \bar "|"   fis''8    
-fis''16    d''16    g''8    g''16    e''16    \bar "|"   a''16    fis''16    
-e''16    d''16    b'8    d''8    \bar "|"     fis''8    fis''16    d''16    
-g''8    g''16    e''16    \bar "|"   fis''8    fis''16    d''16    e''16    
-cis''16    b'16    a'16    \bar "|"   d''16    e''16    fis''16    g''16    
-a''16    fis''16    b''16    a''16    \bar "|"   g''16    fis''16    e''16    
+^\downbow   fis''16    d''16    g''8    g''16    e''16    |
+   fis''8    
+fis''16    d''16    e''16    cis''16    b'16    a'16    |
+   fis''8    
+fis''16    d''16    g''8    g''16    e''16    |
+   a''16    fis''16    
+e''16    d''16    b'8    d''8    |
+     fis''8    fis''16    d''16    
+g''8    g''16    e''16    |
+   fis''8    fis''16    d''16    e''16    
+cis''16    b'16    a'16    |
+   d''16    e''16    fis''16    g''16    
+a''16    fis''16    b''16    a''16    |
+   g''16    fis''16    e''16    
 d''16    b'8    d''8    \bar "|."   
 }
 

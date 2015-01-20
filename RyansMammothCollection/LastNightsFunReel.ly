@@ -10,24 +10,40 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 2/4 \key a \major   a'16 ^\downbow   fis'16        \bar "|"   e'16    
-a'16    a'16    cis''16    b'16    a'16    a''16    fis''16    \bar "|"   e''16 
-   cis''16    b'16    d''16    cis''16    a'16    fis'16    a'16    \bar "|"   
-e'16    a'16    a'16    cis''16    b'16    a'16    a''16    fis''16    \bar "|" 
-  e''16    cis''16    b'16    cis''16    a'8    a'16    fis'16        \bar "|"  
+\time 2/4 \key a \major   a'16 ^\downbow   fis'16        |
+   e'16    
+a'16    a'16    cis''16    b'16    a'16    a''16    fis''16    |
+   e''16 
+   cis''16    b'16    d''16    cis''16    a'16    fis'16    a'16    |
+   
+e'16    a'16    a'16    cis''16    b'16    a'16    a''16    fis''16    |
+ 
+  e''16    cis''16    b'16    cis''16    a'8    a'16    fis'16        |
+  
  e'16    a'16    a'16    cis''16    b'16    a'16    a''16    fis''16    
-\bar "|"   e''16    cis''16    b'16    d''16    cis''16    a'16    fis'16    
-a'16    \bar "|"   e'16    a'16    a'16    cis''16    b'16    a'16    a''16    
-fis''16    \bar "|"   e''16    cis''16    b'16    cis''16    a'8    }     
+|
+   e''16    cis''16    b'16    d''16    cis''16    a'16    fis'16    
+a'16    |
+   e'16    a'16    a'16    cis''16    b'16    a'16    a''16    
+fis''16    |
+   e''16    cis''16    b'16    cis''16    a'8    }     
 \repeat volta 2 {   \times 2/3 {   e''16 (^\upbow   fis''16    gis''16  -) }    
-   \bar "|"   a''16    gis''16    a''16    fis''16    e''16    a''16    cis''16 
-   e''16    \bar "|"   d''16    b'16    cis''16    a'16    b'16    a'16    
-fis''16    gis''16    \bar "|"   a''16    gis''16    a''16    fis''16    e''16  
-  a''16    cis'''16    a''16    \bar "|"   b''16    a''16    b''16    cis'''16  
-  a''8    a''16    b''16        \bar "|"   cis'''16    a''16    fis''16    
-a''16    e''16    a''16    cis''16    e''16    \bar "|"   d''16    b'16    
-cis''16    a'16    b'16    a'16    fis'16    a'16    \bar "|"   b'16    a'16    
-e''16    cis''16    b'16    a'16    a''16    fis''16    \bar "|"   e''16    
+   |
+   a''16    gis''16    a''16    fis''16    e''16    a''16    cis''16 
+   e''16    |
+   d''16    b'16    cis''16    a'16    b'16    a'16    
+fis''16    gis''16    |
+   a''16    gis''16    a''16    fis''16    e''16  
+  a''16    cis'''16    a''16    |
+   b''16    a''16    b''16    cis'''16  
+  a''8    a''16    b''16        |
+   cis'''16    a''16    fis''16    
+a''16    e''16    a''16    cis''16    e''16    |
+   d''16    b'16    
+cis''16    a'16    b'16    a'16    fis'16    a'16    |
+   b'16    a'16    
+e''16    cis''16    b'16    a'16    a''16    fis''16    |
+   e''16    
 cis''16    b'16    cis''16    a'8    }   
 }
 

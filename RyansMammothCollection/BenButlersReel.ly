@@ -11,23 +11,39 @@ voicedefault =  {
 
 \repeat volta 2 {
 \time 2/4 \key bes \major   \times 2/3 {   f'16 ^\upbow(   g'16    a'16  -) } 
-\bar "|"     bes'16    f'16    d''16    bes'16    a'16    f'16    ees''16    
-c''16    \bar "|"   bes'16    f'16    d''16    bes'16    g''16    f''16    
-ees''16    c''16    \bar "|"   bes'16    f'16    d''16    bes'16    a'16    
-f'16    ees''16    c''16    \bar "|"   a'16    f'16    g'16    a'16    bes'8  } 
-    \repeat volta 2 {   d''8  \bar "|"     c''16    bes'16    a'16    g'16    
-f'16    a'16    c''16    ees''16    \bar "|"   d''16    bes'16    f''16    
-d''16    bes''16    f''16    ees''16    d''16    \bar "|"   c''16    bes'16    
-a'16    g'16    f'16    a'16    c''16    ees''16    \bar "|"   d''16    ees''16 
-   c''16    a'16    bes'8  }     \repeat volta 2 {   f''16    f''16  \bar "|"   
+|
+     bes'16    f'16    d''16    bes'16    a'16    f'16    ees''16    
+c''16    |
+   bes'16    f'16    d''16    bes'16    g''16    f''16    
+ees''16    c''16    |
+   bes'16    f'16    d''16    bes'16    a'16    
+f'16    ees''16    c''16    |
+   a'16    f'16    g'16    a'16    bes'8  } 
+    \repeat volta 2 {   d''8  |
+     c''16    bes'16    a'16    g'16    
+f'16    a'16    c''16    ees''16    |
+   d''16    bes'16    f''16    
+d''16    bes''16    f''16    ees''16    d''16    |
+   c''16    bes'16    
+a'16    g'16    f'16    a'16    c''16    ees''16    |
+   d''16    ees''16 
+   c''16    a'16    bes'8  }     \repeat volta 2 {   f''16    f''16  |
+   
   e''16    g''16    bes'16    g''16    e''16    g''16    bes'16    g''16    
-\bar "|"   f''16    c''16    a''16    f''16    bes''16    a''16    g''16    
-f''16    \bar "|"   e''16    g''16    bes'16    g''16    e''16    g''16    
-bes'16    g''16    \bar "|"   f''16    a''16    g''16    e''16    f''8  }     
-\repeat volta 2 {   f''8  \bar "|"     f''16    ees''16    c''16    a'16    
-f'16    ees'16    c'16    ees'16    \bar "|"   d'16    f'16    bes'16    d''16  
-  f''16    d''16    bes''16    f''16    \bar "|"   f''16    ees''16    c''16    
-a'16    f'16    ees'16    c'16    ees'16    \bar "|"   d'16    bes'16    a'16   
+|
+   f''16    c''16    a''16    f''16    bes''16    a''16    g''16    
+f''16    |
+   e''16    g''16    bes'16    g''16    e''16    g''16    
+bes'16    g''16    |
+   f''16    a''16    g''16    e''16    f''8  }     
+\repeat volta 2 {   f''8  |
+     f''16    ees''16    c''16    a'16    
+f'16    ees'16    c'16    ees'16    |
+   d'16    f'16    bes'16    d''16  
+  f''16    d''16    bes''16    f''16    |
+   f''16    ees''16    c''16    
+a'16    f'16    ees'16    c'16    ees'16    |
+   d'16    bes'16    a'16   
  c''16    bes'8    }   
 }
 

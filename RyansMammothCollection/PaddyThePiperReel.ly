@@ -9,24 +9,39 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 2/4 \key g \major     d''16 (^\upbow   c''16  -)     \bar "|"     
+\time 2/4 \key g \major     d''16 (^\upbow   c''16  -)     |
+     
 \bar "|."   b'16 ^"Segno"(   e'16  -)   e'16 -.   c''16 -.   d''16 (   c''16    
-d''16.  -)   b'32    \bar "|"   a'8 -. \times 2/3 {   fis'16 (   e'16    d'16  
--) }   fis'16    a'16    a'8    \bar "|"   b'16    e'16    e'16    fis'16    
-g'16    a'16    b'16    c''16    \bar "|"   d''16    b'16    a'16    c''16    
-b'16    e'16    e'8    \bar "|"     b'16 (   e'16  -)   e'16 -.   c''16 -.   
-d''16 (   c''16    d''16.  -)   b'32    \bar "|"   a'8 -. \times 2/3 {   fis'16 
-(   e'16    d'16  -) }   fis'16    a'16    a'8    \bar "|"   b'16    e'16    
-e'16    fis'16    g'16    a'16    b'16    c''16    \bar "|"   d''16    b'16    
+d''16.  -)   b'32    |
+   a'8 -. \times 2/3 {   fis'16 (   e'16    d'16  
+-) }   fis'16    a'16    a'8    |
+   b'16    e'16    e'16    fis'16    
+g'16    a'16    b'16    c''16    |
+   d''16    b'16    a'16    c''16    
+b'16    e'16    e'8    |
+     b'16 (   e'16  -)   e'16 -.   c''16 -.   
+d''16 (   c''16    d''16.  -)   b'32    |
+   a'8 -. \times 2/3 {   fis'16 
+(   e'16    d'16  -) }   fis'16    a'16    a'8    |
+   b'16    e'16    
+e'16    fis'16    g'16    a'16    b'16    c''16    |
+   d''16    b'16    
 a'16    c''16    b'16    e'16    e'8      \bar "|."     e''8. ^"H"   fis''16    
-g''16    fis''16    g''16    e''16    \bar "|"   d''16    e''16    fis''16    
-g''16    a''16    fis''16    d''8    \bar "|" \grace {    fis''16  }   e''16    
+g''16    fis''16    g''16    e''16    |
+   d''16    e''16    fis''16    
+g''16    a''16    fis''16    d''8    |
+ \grace {    fis''16  }   e''16    
 dis''16    e''16    fis''16    g''16 (   fis''16  -)   e''16 -.   c''16 -.   
-\bar "|"   d''16    b'16    a'16    c''16    b'16    e'16    e'8    \bar "|"    
+|
+   d''16    b'16    a'16    c''16    b'16    e'16    e'8    |
+    
  \grace {    fis''16  }   e''16    dis''16    e''16    fis''16    g''16    
-fis''16    e''16    cis''16    \bar "|"   d''16    e''16    fis''16    g''16    
-a''16 (   fis''16  -)   d''16 -.   fis''16 -.   \bar "|"   g''8    fis''16    
-d''16    e''16    c''16    d''16    a'16    \bar "|"   \times 2/3 {   b'16 (   
+fis''16    e''16    cis''16    |
+   d''16    e''16    fis''16    g''16    
+a''16 (   fis''16  -)   d''16 -.   fis''16 -.   |
+   g''8    fis''16    
+d''16    e''16    c''16    d''16    a'16    |
+   \times 2/3 {   b'16 (   
 c''16    d''16  -) }   a'16    c''16    b'16    e'16    e'8      \bar "|."   
 }
 

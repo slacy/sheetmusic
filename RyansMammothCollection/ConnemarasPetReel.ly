@@ -12,20 +12,34 @@ voicedefault =  {
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \major   cis''8 ^\downbow   b'8    cis''8    a'8    e'8    
-a'8    a'8    cis''8  \bar "|"   a''8    e''8    cis''8    e''8    d''8    b'8  
-  b'4  \bar "|"   cis''8    b'8    cis''8    a'8    e'8    a'8    a'8    cis''8 
- \bar "|"   b'8    d''8    cis''8    b'8    cis''8    a'8    a'4  \bar "|"     
-cis''8    b'8    cis''8    a'8    e'8    a'8    a'8    cis''8  \bar "|"   a''8  
-  e''8    cis''8    e''8    d''8    b'8    b'4  \bar "|"   cis''8    b'8    
-cis''8    a'8    e'8    a'8    a'8    cis''8  \bar "|"   b'8    d''8    cis''8  
+a'8    a'8    cis''8  |
+   a''8    e''8    cis''8    e''8    d''8    b'8  
+  b'4  |
+   cis''8    b'8    cis''8    a'8    e'8    a'8    a'8    cis''8 
+ |
+   b'8    d''8    cis''8    b'8    cis''8    a'8    a'4  |
+     
+cis''8    b'8    cis''8    a'8    e'8    a'8    a'8    cis''8  |
+   a''8  
+  e''8    cis''8    e''8    d''8    b'8    b'4  |
+   cis''8    b'8    
+cis''8    a'8    e'8    a'8    a'8    cis''8  |
+   b'8    d''8    cis''8  
   b'8    cis''8    a'8    a'4  } \repeat volta 2 {     cis''8    d''8    e''8   
- fis''8    e''8    cis''8    cis''8    e''8  \bar "|"   fis''8    d''8    d''8  
-  fis''8    e''8    cis''8    b'8    a'8  \bar "|"   cis''8    d''8    e''8    
-fis''8    e''8    a''8    gis''8    fis''8  \bar "|"   e''8    d''8    cis''8   
- b'8    cis''8    a'8    a'4  \bar "|"     cis''8    d''8    e''8    fis''8    
-e''8    cis''8    cis''8    e''8  \bar "|"   fis''8    d''8    d''8    fis''8   
- e''8    cis''8    b'8    a'8  \bar "|"   cis''8    d''8    e''8    fis''8    
-e''8    a''8    gis''8    fis''8  \bar "|"   fis''8    e''8    d''8    b'8    
+ fis''8    e''8    cis''8    cis''8    e''8  |
+   fis''8    d''8    d''8  
+  fis''8    e''8    cis''8    b'8    a'8  |
+   cis''8    d''8    e''8    
+fis''8    e''8    a''8    gis''8    fis''8  |
+   e''8    d''8    cis''8   
+ b'8    cis''8    a'8    a'4  |
+     cis''8    d''8    e''8    fis''8    
+e''8    cis''8    cis''8    e''8  |
+   fis''8    d''8    d''8    fis''8   
+ e''8    cis''8    b'8    a'8  |
+   cis''8    d''8    e''8    fis''8    
+e''8    a''8    gis''8    fis''8  |
+   fis''8    e''8    d''8    b'8    
 cis''8    a'8    a'4  }   
 }
 

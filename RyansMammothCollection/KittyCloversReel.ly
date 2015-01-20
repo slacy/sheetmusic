@@ -12,16 +12,26 @@ voicedefault =  {
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major   a'8 ^\upbow   \bar "||"     d''8 ^"Segno"   cis''8   
- d''8    a'8    b'8    e'8    e'4  \bar "|"   b'8    e'8    e'4    fis'8    d'8 
-   fis'8    a'8  \bar "|"   d''8    cis''8    d''8    a'8    b'8    e'8    e'4  
-\bar "|"   fis'8    a'8    a'8    g'8    fis'8    d'8    fis'8    a'8  
+ d''8    a'8    b'8    e'8    e'4  |
+   b'8    e'8    e'4    fis'8    d'8 
+   fis'8    a'8  |
+   d''8    cis''8    d''8    a'8    b'8    e'8    e'4  
+|
+   fis'8    a'8    a'8    g'8    fis'8    d'8    fis'8    a'8  
 } \repeat volta 2 {     b'8    a'8    b'8    cis''8    d''4    fis''8    d''8  
-\bar "|"   b'8    a'8    b'8    cis''8    d''8    a'8    fis'8    a'8  \bar "|" 
-  b'8    a'8    b'8    cis''8    d''4    e''8    g''8  \bar "|"   fis''8    
-d''8    e''8    cis''8    d''8    a'8    fis'8    a'8  \bar "|"     b'8    a'8  
-  b'8    cis''8    d''4    fis''8    d''8  \bar "|"   b'8    a'8    b'8    
-cis''8    d''8    a'8    fis'8    a'8  \bar "|"   b'8    a'8    b'8    cis''8   
- d''4    e''8    g''8  \bar "|"   fis''8    a''8    e''8    cis''8    d''8    
+|
+   b'8    a'8    b'8    cis''8    d''8    a'8    fis'8    a'8  |
+ 
+  b'8    a'8    b'8    cis''8    d''4    e''8    g''8  |
+   fis''8    
+d''8    e''8    cis''8    d''8    a'8    fis'8    a'8  |
+     b'8    a'8  
+  b'8    cis''8    d''4    fis''8    d''8  |
+   b'8    a'8    b'8    
+cis''8    d''8    a'8    fis'8    a'8  |
+   b'8    a'8    b'8    cis''8   
+ d''4    e''8    g''8  |
+   fis''8    a''8    e''8    cis''8    d''8    
 a'8    fis'8    a'8    }   
 }
 

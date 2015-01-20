@@ -9,24 +9,39 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 2/4 \key e \mixolydian     e''16 (^\upbow   cis''16  -)   \bar "|"     
-b'8 -.   gis'16 (   b'16  -)   e'16    b'16    gis'16    b'16    \bar "|"   b'8 
--.   gis'16 (   b'16  -)   cis''16    fis'16    fis'16    cis''16    \bar "|"   
-b'8 -.   gis'16 (   b'16  -)   e'16    b'16    gis'16    b'16    \bar "|"   
+\time 2/4 \key e \mixolydian     e''16 (^\upbow   cis''16  -)   |
+     
+b'8 -.   gis'16 (   b'16  -)   e'16    b'16    gis'16    b'16    |
+   b'8 
+-.   gis'16 (   b'16  -)   cis''16    fis'16    fis'16    cis''16    |
+   
+b'8 -.   gis'16 (   b'16  -)   e'16    b'16    gis'16    b'16    |
+   
 b'16    cis''16    e''16    fis''16    gis''16    fis''16    e''16    cis''16   
- \bar "|"     b'8 -.   gis'16 (   b'16  -)   e'16    b'16    gis'16    b'16    
-\bar "|"   b'8 -.   gis'16 (   b'16  -)   cis''16    fis'16    fis'16    
-cis''16    \bar "|"   b'8 -.   gis'16 (   b'16  -)   e'16    b'16    gis'16    
-b'16    \bar "|"   b'16    cis''16    e''16    fis''16    gis''16    e''16    
+ |
+     b'8 -.   gis'16 (   b'16  -)   e'16    b'16    gis'16    b'16    
+|
+   b'8 -.   gis'16 (   b'16  -)   cis''16    fis'16    fis'16    
+cis''16    |
+   b'8 -.   gis'16 (   b'16  -)   e'16    b'16    gis'16    
+b'16    |
+   b'16    cis''16    e''16    fis''16    gis''16    e''16    
 e''8    \bar "|."     b'16 ^\fermata   e''16    gis''16    e''16    b''16    
-e''16    gis''16    e''16    \bar "|"   b'16    e''16    gis''16    e''16    
-a''16 (   fis''16  -)   fis''8 -.   \bar "|"   b'16    e''16    gis''16    
-e''16    b''16    e''16    gis''16    e''16    \bar "|"   b'16    cis''16    
-e''16    fis''16    gis''16 (   e''16  -)   e''8 -.   \bar "|"     b'16    
-e''16    gis''16    e''16    b''16    e''16    gis''16    e''16    \bar "|"   
+e''16    gis''16    e''16    |
+   b'16    e''16    gis''16    e''16    
+a''16 (   fis''16  -)   fis''8 -.   |
+   b'16    e''16    gis''16    
+e''16    b''16    e''16    gis''16    e''16    |
+   b'16    cis''16    
+e''16    fis''16    gis''16 (   e''16  -)   e''8 -.   |
+     b'16    
+e''16    gis''16    e''16    b''16    e''16    gis''16    e''16    |
+   
 b'16    e''16    gis''16    e''16    a''16    fis''16    fis''16    a''16    
-\bar "|"   gis''16    a''16    fis''16    gis''16    e''16    fis''16    e''16  
-  cis''16    \bar "|"   b'16    cis''16    e''16    fis''16    gis''16    e''16 
+|
+   gis''16    a''16    fis''16    gis''16    e''16    fis''16    e''16  
+  cis''16    |
+   b'16    cis''16    e''16    fis''16    gis''16    e''16 
    e''8    
 }
 

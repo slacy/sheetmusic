@@ -11,23 +11,41 @@ voicedefault =  {
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key a \major   e'4 ^\upbow       \bar "|"   a'4    cis''8.    a'16  
-  e'8.    a'16    cis''8.    a'16    \bar "|"   gis'8.    a'16    b'8.    
-gis'16    a'4    cis''4    \bar "|"   fis''8.    e''16    d''8.    cis''16    
-d''8.    cis''16    b'8.    a'16    \bar "|"   gis'8.    a'16    b'8.    gis'16 
-   e'8.    d''16    cis''8.    b'16    \bar "|"     \bar "|"   a'4    cis''8.   
- a'16    e'8.    a'16    cis''8.    a'16    \bar "|"   gis'8.    a'16    b'8.   
- gis'16    a'4    cis''4    \bar "|"   d''8.    fis''16    e''8.    d''16    
-cis''8.    b'16    a'8.    gis'16    \bar "|"   a'4    cis''4    a'4    }     
-\repeat volta 2 {   cis''8. ^\upbow   d''16        \bar "|"   e''8.    a'16    
-cis''8.    e''16    a''8.    gis''16    fis''8.    e''16    \bar "|"   gis'8.   
- a'16    b'8.    cis''16    d''8.    e'16    fis'8.    gis'16    \bar "|"   a8. 
-   cis'16    e'8.    a'16    fis'8.    cis''16    b'8.    a'16    \bar "|"   
-gis'8.    a'16    b'8.    gis'16    e'4    cis''8.    d''16    \bar "|"     
-\bar "|"   e''8.    a'16    cis''8.    e''16    a''8.    gis''16    fis''8.    
-e''16    \bar "|"   fis''8.    b'16    d''8.    fis''16    b''8.    a''16    
-gis''8.    fis''16    \bar "|"   cis''8.    e''16    a'8.    cis''16    b'8.    
-d''16    gis'8.    b'16    \bar "|"   a'4    cis''4    a'4    }   
+ \time 2/2 \key a \major   e'4 ^\upbow       |
+   a'4    cis''8.    a'16  
+  e'8.    a'16    cis''8.    a'16    |
+   gis'8.    a'16    b'8.    
+gis'16    a'4    cis''4    |
+   fis''8.    e''16    d''8.    cis''16    
+d''8.    cis''16    b'8.    a'16    |
+   gis'8.    a'16    b'8.    gis'16 
+   e'8.    d''16    cis''8.    b'16    |
+     |
+   a'4    cis''8.   
+ a'16    e'8.    a'16    cis''8.    a'16    |
+   gis'8.    a'16    b'8.   
+ gis'16    a'4    cis''4    |
+   d''8.    fis''16    e''8.    d''16    
+cis''8.    b'16    a'8.    gis'16    |
+   a'4    cis''4    a'4    }     
+\repeat volta 2 {   cis''8. ^\upbow   d''16        |
+   e''8.    a'16    
+cis''8.    e''16    a''8.    gis''16    fis''8.    e''16    |
+   gis'8.   
+ a'16    b'8.    cis''16    d''8.    e'16    fis'8.    gis'16    |
+   a8. 
+   cis'16    e'8.    a'16    fis'8.    cis''16    b'8.    a'16    |
+   
+gis'8.    a'16    b'8.    gis'16    e'4    cis''8.    d''16    |
+     
+|
+   e''8.    a'16    cis''8.    e''16    a''8.    gis''16    fis''8.    
+e''16    |
+   fis''8.    b'16    d''8.    fis''16    b''8.    a''16    
+gis''8.    fis''16    |
+   cis''8.    e''16    a'8.    cis''16    b'8.    
+d''16    gis'8.    b'16    |
+   a'4    cis''4    a'4    }   
 }
 
 \score{

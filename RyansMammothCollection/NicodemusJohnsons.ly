@@ -9,20 +9,35 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 2/4 \key g \major   g16    g16    g'8    g16    g16    g'8    \bar "|"   
-fis'16    g'16    a'16    g'16    fis'16    d'16    e'16    fis'16    \bar "|"  
- g'16    fis'16    g'16    e'16    d'16    g'16    b'16    e''16    \bar "|"   
-d''16    c''16    a'16    fis'16    g'16    e'16    d'16    b16    \bar "|"     
-g16    g16    g'8    g16    g16    g'8    \bar "|"   fis'16    g'16    a'16    
-g'16    fis'16    d'16    e'16    fis'16    \bar "|"   g'16    fis'16    g'16   
- e'16    d'16    g'16    b'16    e''16    \bar "|"   d''16    b'16    g'16    
+\time 2/4 \key g \major   g16    g16    g'8    g16    g16    g'8    |
+   
+fis'16    g'16    a'16    g'16    fis'16    d'16    e'16    fis'16    |
+  
+ g'16    fis'16    g'16    e'16    d'16    g'16    b'16    e''16    |
+   
+d''16    c''16    a'16    fis'16    g'16    e'16    d'16    b16    |
+     
+g16    g16    g'8    g16    g16    g'8    |
+   fis'16    g'16    a'16    
+g'16    fis'16    d'16    e'16    fis'16    |
+   g'16    fis'16    g'16   
+ e'16    d'16    g'16    b'16    e''16    |
+   d''16    b'16    g'16    
 b'16    c''16    d''16    e''16    fis''16    \bar "|."     g''8.    fis''16    
-e''8    fis''8    \bar "|"   g''8 -.   \times 2/3 {   fis''16 (   g''16    
-a''16  -) }   g''8    b'8    \bar "|"   g''8.    fis''16    e''8    fis''8    
-\bar "|"   g''8.    fis''16    g''16    a''16    b''8    \bar "|"     g''8.    
-fis''16    e''8.    fis''16    \bar "|"   g''8    fis''8    g''8    a''8    
-\bar "|"   b''8    b'16    b'16    b'8    b'8    \bar "|"   b'4    r8   a'16    
-c''16    \bar "|"   b'16    g'16    a'16    fis'16    g'16    e'16    d'16    
+e''8    fis''8    |
+   g''8 -.   \times 2/3 {   fis''16 (   g''16    
+a''16  -) }   g''8    b'8    |
+   g''8.    fis''16    e''8    fis''8    
+|
+   g''8.    fis''16    g''16    a''16    b''8    |
+     g''8.    
+fis''16    e''8.    fis''16    |
+   g''8    fis''8    g''8    a''8    
+|
+   b''8    b'16    b'16    b'8    b'8    |
+   b'4    r8   a'16    
+c''16    |
+   b'16    g'16    a'16    fis'16    g'16    e'16    d'16    
 b16  \bar "|."   
 }
 

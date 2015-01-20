@@ -11,23 +11,39 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 2/4 \key a \major   e''8 ^\upbow \bar "|"   a'16    cis''16    b'16    
-cis''16    a'16    fis'16    fis'16    e'16  \bar "|"   a'16    cis''16    
-e''16    a''16    fis''8 -.   fis''16 (   gis''16  -) \bar "|"   a''16    
-gis''16    fis''16    e''16    fis''16    e''16    cis''16    a'16  \bar "|"   
-b'16    cis''16    b'16    a'16    fis'8 -.   e'8 -. \bar "|"     a'16    
-cis''16    b'16    cis''16    a'16    fis'16    e'16    fis'16  \bar "|"   a'16 
-   cis''16    e''16    a''16    fis''8 -.   fis''16 (   gis''16  -) \bar "|"   
+\time 2/4 \key a \major   e''8 ^\upbow |
+   a'16    cis''16    b'16    
+cis''16    a'16    fis'16    fis'16    e'16  |
+   a'16    cis''16    
+e''16    a''16    fis''8 -.   fis''16 (   gis''16  -) |
+   a''16    
+gis''16    fis''16    e''16    fis''16    e''16    cis''16    a'16  |
+   
+b'16    cis''16    b'16    a'16    fis'8 -.   e'8 -. |
+     a'16    
+cis''16    b'16    cis''16    a'16    fis'16    e'16    fis'16  |
+   a'16 
+   cis''16    e''16    a''16    fis''8 -.   fis''16 (   gis''16  -) |
+   
 a''16    gis''16    fis''16    e''16    fis''16    e''16    cis''16    a'16  
-\bar "|"   b'8    a'8    a'8  }     \repeat volta 2 {     cis''16 (^\upbow   
-d''16  -) \bar "|"   e''16-0   a''16    gis''16    a''16    fis''16    e''16 
-   cis''16    e''16  \bar "|"   fis''16    a''16    gis''16    a''16    fis''8 
--.   fis''16 (   gis''16  -) \bar "|"   a''16    gis''16    fis''16    e''16    
-fis''16    e''16    cis''16    a'16  \bar "|"   b'16    cis''16    b'16    a'16 
-   fis'8 -.   e'8 -. \bar "|"     a'16    cis''16    b'16    cis''16    a'16    
-fis'16    e'16    fis'16  \bar "|"   a'16    cis''16    e''16    a''16    
-fis''8 -.   fis''16 (   gis''16  -) \bar "|"   a''16    gis''16    fis''16    
-e''16    fis''16    e''16    cis''16    a'16  \bar "|"   b'8    a'8    a'8  }   
+|
+   b'8    a'8    a'8  }     \repeat volta 2 {     cis''16 (^\upbow   
+d''16  -) |
+   e''16-0   a''16    gis''16    a''16    fis''16    e''16 
+   cis''16    e''16  |
+   fis''16    a''16    gis''16    a''16    fis''8 
+-.   fis''16 (   gis''16  -) |
+   a''16    gis''16    fis''16    e''16    
+fis''16    e''16    cis''16    a'16  |
+   b'16    cis''16    b'16    a'16 
+   fis'8 -.   e'8 -. |
+     a'16    cis''16    b'16    cis''16    a'16    
+fis'16    e'16    fis'16  |
+   a'16    cis''16    e''16    a''16    
+fis''8 -.   fis''16 (   gis''16  -) |
+   a''16    gis''16    fis''16    
+e''16    fis''16    e''16    cis''16    a'16  |
+   b'8    a'8    a'8  }   
 }
 
 \score{

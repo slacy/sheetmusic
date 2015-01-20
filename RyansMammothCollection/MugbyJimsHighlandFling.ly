@@ -14,9 +14,12 @@ voicedefault =  {
 cis''8 ^\downbow   e''4   >>     <<   cis''4 ^\accent^\downbow   e''4   >> <<   
 cis''8 ^\downbow   e''4   >>     \repeat volta 2 {     e''8. (^\downbow   a''16 
  -)   cis'''8.-4   a''16    fis''8.    a''16    e''16 (   cis''8.  -)   
-\bar "|"     e''8.-2   a''16-1   cis'''8-3   a''8-1     b''8-2(  
- e'''8 ^"40"     e'''4 ^"40"   \bar "|"       e''8. (^\downbow   a''16  -)   
-cis'''8.-4   a''16    fis''8.    a''16    e''8.    fis''16    \bar "|"     
+|
+     e''8.-2   a''16-1   cis'''8-3   a''8-1     b''8-2(  
+ e'''8 ^"40"     e'''4 ^"40"   |
+       e''8. (^\downbow   a''16  -)   
+cis'''8.-4   a''16    fis''8.    a''16    e''8.    fis''16    |
+     
 e''16-4(   cis''8.  -)   b'8.    e''16-4   cis''16 (   a'8.  -)   a'4    
 }   
 }

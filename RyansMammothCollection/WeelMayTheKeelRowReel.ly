@@ -11,23 +11,39 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key d \major   a''8 ^\upbow \bar "|"     fis''8 ^\downbow   d''8    
-d''8    fis''8    g''4    e''8 (   a''8  -)   \bar "|"   fis''4    d''8 (   
-fis''8  -)   e''4    cis''8    e''8    \bar "|"   fis''8    d''8    d''16    
-d''16    d''8    g''4    e''8    g''8    \bar "|"   fis''8    d''8    e''8-4 
-  cis''8    d''4    d''8 (   a''8  -)   \bar "|"     fis''8    d''8    d''8    
-fis''8    g''4    e''8 (   a''8  -)   \bar "|"   fis''4    d''8 (   fis''8  -)  
- e''4    cis''8    e''8    \bar "|"   fis''8    d''8    d''16    d''16    d''8  
-  g''4    e''8    g''8    \bar "|"   fis''8    d''8    e''8-4   cis''8    
-d''4    d''8    \bar "|."     g''8 ^\upbow \bar "|"     fis''8 ^\downbow   a''8 
-   a''8-1   d'''8-4     b''4-2   g''8-2(   b''8  -)   \bar "|" 
+ \time 2/2 \key d \major   a''8 ^\upbow |
+     fis''8 ^\downbow   d''8    
+d''8    fis''8    g''4    e''8 (   a''8  -)   |
+   fis''4    d''8 (   
+fis''8  -)   e''4    cis''8    e''8    |
+   fis''8    d''8    d''16    
+d''16    d''8    g''4    e''8    g''8    |
+   fis''8    d''8    e''8-4 
+  cis''8    d''4    d''8 (   a''8  -)   |
+     fis''8    d''8    d''8    
+fis''8    g''4    e''8 (   a''8  -)   |
+   fis''4    d''8 (   fis''8  -)  
+ e''4    cis''8    e''8    |
+   fis''8    d''8    d''16    d''16    d''8  
+  g''4    e''8    g''8    |
+   fis''8    d''8    e''8-4   cis''8    
+d''4    d''8    \bar "|."     g''8 ^\upbow |
+     fis''8 ^\downbow   a''8 
+   a''8-1   d'''8-4     b''4-2   g''8-2(   b''8  -)   |
+ 
 \grace {    g''8  }   fis''4    d''8    fis''8    e''4    cis''8    e''8    
-\bar "|"     fis''8    a''8    a''8-1   d'''8-4     b''4-2   g''8 
-^"2"(   b''8  -)   \bar "|"   fis''8    d''8    e''8-4   cis''8    d''4    
-d''8 (   g''8  -)   \bar "|"     fis''8    a''8    a''8-1   d'''8-4     
-b''4-2   g''8-2(   b''8  -)   \bar "|" \grace {    g''8  }   fis''4    
-d''8    fis''8    e''4    cis''8    e''8    \bar "|"     fis''8    a''8    a''8 
-^"1"   d'''8-4     b''4-2   g''8-2(   b''8  -)   \bar "|"   fis''8    
+|
+     fis''8    a''8    a''8-1   d'''8-4     b''4-2   g''8 
+^"2"(   b''8  -)   |
+   fis''8    d''8    e''8-4   cis''8    d''4    
+d''8 (   g''8  -)   |
+     fis''8    a''8    a''8-1   d'''8-4     
+b''4-2   g''8-2(   b''8  -)   |
+ \grace {    g''8  }   fis''4    
+d''8    fis''8    e''4    cis''8    e''8    |
+     fis''8    a''8    a''8 
+^"1"   d'''8-4     b''4-2   g''8-2(   b''8  -)   |
+   fis''8    
 d''8    e''8-4   cis''8    d''4    d''8    \bar "|."   
 }
 

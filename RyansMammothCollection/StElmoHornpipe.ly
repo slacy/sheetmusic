@@ -11,31 +11,49 @@ voicedefault =  {
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key a \major   cis''8 ^\downbow   d''8        \bar "|"   
+ \time 2/2 \key a \major   cis''8 ^\downbow   d''8        |
+   
 \times 2/3 {   e''8 (   a''8    e''8  -) }   \times 2/3 {   cis''8 (   e''8    
 cis''8  -) }   \times 2/3 {   a'8 (   cis''8    a'8  -) }   e'8 (   a'8  -)   
-\bar "|"   cis'8    e'8    a'8    cis''8    e''8    cis''8    a'8    cis''8    
-\bar "|"   \times 2/3 {   d''8 (   fis''8    d''8  -) }   \times 2/3 {   cis''8 
+|
+   cis'8    e'8    a'8    cis''8    e''8    cis''8    a'8    cis''8    
+|
+   \times 2/3 {   d''8 (   fis''8    d''8  -) }   \times 2/3 {   cis''8 
 (   e''8    cis''8  -) }   \times 2/3 {   b'8 (   d''8    b'8  -) }   
-\times 2/3 {   a'8 (   cis''8    a'8  -) }   \bar "|"   gis'8    b'8    a'8    
-fis'8    e'4    cis''8 (   d''8  -)   \bar "|"     \bar "|"   e''8    a''8    
-cis''8    e''8    a'8    cis''8    e'8    a'8    \bar "|"   cis'8    e'8    a'8 
-   cis''8    e''8    cis''8    a'8    cis''8    \bar "|"   \times 2/3 {   d''8 
+\times 2/3 {   a'8 (   cis''8    a'8  -) }   |
+   gis'8    b'8    a'8    
+fis'8    e'4    cis''8 (   d''8  -)   |
+     |
+   e''8    a''8    
+cis''8    e''8    a'8    cis''8    e'8    a'8    |
+   cis'8    e'8    a'8 
+   cis''8    e''8    cis''8    a'8    cis''8    |
+   \times 2/3 {   d''8 
 (   fis''8    d''8  -) }   \times 2/3 {   cis''8 (   e''8    cis''8  -) }   
 \times 2/3 {   b'8 (   d''8    b'8  -) }   \times 2/3 {   gis'8 (   b'8    
-gis'8  -) }   \bar "|"   a'4    a''4    a'4    }     \repeat volta 2 {   b'8 
-^\downbow   cis''8        \bar "|"   d''8    b'8    gis'8    b'8    e'8    
-gis'8    b'8    cis''8    \bar "|"   d''8    b'8    gis'8    b'8    d''4    
-cis''8 (   d''8  -)   \bar "|"   e''8    cis''8    \times 2/3 {   a'8 (   
-cis''8    a'8  -) }   e'8 (   a'8  -)   cis''8    d''8    \bar "|"   e''8    
+gis'8  -) }   |
+   a'4    a''4    a'4    }     \repeat volta 2 {   b'8 
+^\downbow   cis''8        |
+   d''8    b'8    gis'8    b'8    e'8    
+gis'8    b'8    cis''8    |
+   d''8    b'8    gis'8    b'8    d''4    
+cis''8 (   d''8  -)   |
+   e''8    cis''8    \times 2/3 {   a'8 (   
+cis''8    a'8  -) }   e'8 (   a'8  -)   cis''8    d''8    |
+   e''8    
 cis''8    \times 2/3 {   a'8 (   cis''8    e''8  -) }   a''4    gis''8    a''8  
-  \bar "|"     \bar "|"   fis''8    d''8    b'8    d''8    \times 2/3 {   
+  |
+     |
+   fis''8    d''8    b'8    d''8    \times 2/3 {   
 fis''8 (   e''8    d''8  -) }   \times 2/3 {   cis''8 (   b'8    a'8  -) }   
-\bar "|"   \times 2/3 {   gis'8 (   a'8    b'8  -) }   \times 2/3 {   a'8 (   
-gis'8    fis'8  -) }   e'4    cis''8 (   d''8  -)   \bar "|"   \times 2/3 {   
+|
+   \times 2/3 {   gis'8 (   a'8    b'8  -) }   \times 2/3 {   a'8 (   
+gis'8    fis'8  -) }   e'4    cis''8 (   d''8  -)   |
+   \times 2/3 {   
 e''8 (   a''8    gis''8  -) }   \times 2/3 {   fis''8 (   e''8    d''8  -) }   
 \times 2/3 {   cis''8 (   b'8    a'8  -) }   \times 2/3 {   b'8 (   a'8    
-gis'8  -) }   \bar "|"   a'4    a''4    a'4    }   
+gis'8  -) }   |
+   a'4    a''4    a'4    }   
 }
 
 \score{

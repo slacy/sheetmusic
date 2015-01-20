@@ -11,21 +11,35 @@ voicedefault =  {
 
 \repeat volta 2 {
 \time 2/4 \key d \minor   \grace {    gis''16  }   a''4 ^\downbow \grace {    
-gis''16  }   a''8.    g''!16  \bar "|"   f''16    e''16    d''16    f''16    
-e''16    cis''16    a'8  \bar "|" \grace {    gis''16  }   a''4  \grace {    
-gis''16  }   a''8.    g''!16  \bar "|"   f''16    e''16    d''16    cis''16    
-d''16    e''16    f''16    g''16  \bar "|"     \grace {    gis''16  }   a''4  
-\grace {    gis''16  }   a''8.    g''!16  \bar "|"   f''16    e''16    d''16    
-f''16    e''16    cis''16    a'16    cis''16  \bar "|"   d''16    e''16    
-f''16    g''16    a''16    f''16    g''16    e''16  \bar "|"   f''16    d''16   
+gis''16  }   a''8.    g''!16  |
+   f''16    e''16    d''16    f''16    
+e''16    cis''16    a'8  |
+ \grace {    gis''16  }   a''4  \grace {    
+gis''16  }   a''8.    g''!16  |
+   f''16    e''16    d''16    cis''16    
+d''16    e''16    f''16    g''16  |
+     \grace {    gis''16  }   a''4  
+\grace {    gis''16  }   a''8.    g''!16  |
+   f''16    e''16    d''16    
+f''16    e''16    cis''16    a'16    cis''16  |
+   d''16    e''16    
+f''16    g''16    a''16    f''16    g''16    e''16  |
+   f''16    d''16   
  e''16    cis''16    d''4  } \repeat volta 2 {     f'4 -.  ~    f'8 -.   a'16 ( 
-  bes'16  -) \bar "|"   c''16    f''16    a''16    g''16    f''16    d''16    
-c''16    a'16  \bar "|"   f'16    g'16    f'16    e'16    f'16    g'16    a'16  
-  bes'16  \bar "|"   c''16    b'16    d''16    c''16    g'4    \bar "|"     f'8 
- \grace {    g'16  }   f'16    e'16    f'16    g'16    a'16    bes'16  \bar "|" 
-  c''16    f''16    a''16    g''16    f''16    d''16    c''16    a'16  \bar "|" 
+  bes'16  -) |
+   c''16    f''16    a''16    g''16    f''16    d''16    
+c''16    a'16  |
+   f'16    g'16    f'16    e'16    f'16    g'16    a'16  
+  bes'16  |
+   c''16    b'16    d''16    c''16    g'4    |
+     f'8 
+ \grace {    g'16  }   f'16    e'16    f'16    g'16    a'16    bes'16  |
+ 
+  c''16    f''16    a''16    g''16    f''16    d''16    c''16    a'16  |
+ 
   bes''16    c''16    a''16    c''16    g''16    c''16    f''16    c''16  
-\bar "|"   g''16    f''16    a''16    g''16    f''8    r8 }   
+|
+   g''16    f''16    a''16    g''16    f''8    r8 }   
 }
 
 \score{

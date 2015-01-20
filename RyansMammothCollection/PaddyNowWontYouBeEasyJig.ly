@@ -11,21 +11,36 @@ voicedefault =  {
 
 \repeat volta 2 {
 \time 9/8 \key d \major   d'8 ^\downbow   d'8    d'8    d''8    cis''8    d''8  
-  b'8    a'8    fis'8    \bar "|"   d'8    d'8    d'8    d''8    cis''8    d''8 
-   b'4    a'8    \bar "|"   d'8    d'8    d'8    d''8    cis''8    d''8    b'8  
-  a'8    fis'8    \bar "|"   b'8    e'8    e'8    e'8    fis'8    a'8    b'4    
+  b'8    a'8    fis'8    |
+   d'8    d'8    d'8    d''8    cis''8    d''8 
+   b'4    a'8    |
+   d'8    d'8    d'8    d''8    cis''8    d''8    b'8  
+  a'8    fis'8    |
+   b'8    e'8    e'8    e'8    fis'8    a'8    b'4    
 a'8    }     \repeat volta 2 {   d''8    d''8    d''8    d''8    e''8    d''8   
- cis''8    b'8    a'8    \bar "|"   d''8    e''8    d''8    d''8    e''8    
-fis''8    g''4    e''8    \bar "|"   d''8    d''8    d''8    d''8    e''8    
-d''8    cis''8    b'8    a'8    \bar "|"   b'8    e'8    e'8    e'8    fis'8    
-a'8    b'4    a'8    }     \bar "|" }   d''8 ^\downbow   d'8    d'8    d''8    
-cis''8    d''8    b'8    a'8    fis'8    \bar "|"   d''8    d'8    d'8    d''8  
-  cis''8    d''8    b'4    a'8    \bar "|"   d''8    d'8    d'8    d''8    
-cis''8    d''8    b'8    a'8    fis'8    \bar "|"   b'8    e'8    e'8    e'8    
-fis'8    a'8    b'4    a'8    \bar "|"     \bar "|"   d''8    d'8    d'8    
-d''8    cis''8    d''8    b'8    a'8    fis'8    \bar "|"   d''8    d'8    d'8  
-  d''8    cis''8    d''8    b'4    a'8    \bar "|"   d''8    d'8    d'8    d''8 
-   cis''8    d''8    b'8    a'8    fis'8    \bar "|"   b'8    e'8    e'8    e'8 
+ cis''8    b'8    a'8    |
+   d''8    e''8    d''8    d''8    e''8    
+fis''8    g''4    e''8    |
+   d''8    d''8    d''8    d''8    e''8    
+d''8    cis''8    b'8    a'8    |
+   b'8    e'8    e'8    e'8    fis'8    
+a'8    b'4    a'8    }     |
+ }   d''8 ^\downbow   d'8    d'8    d''8    
+cis''8    d''8    b'8    a'8    fis'8    |
+   d''8    d'8    d'8    d''8  
+  cis''8    d''8    b'4    a'8    |
+   d''8    d'8    d'8    d''8    
+cis''8    d''8    b'8    a'8    fis'8    |
+   b'8    e'8    e'8    e'8    
+fis'8    a'8    b'4    a'8    |
+     |
+   d''8    d'8    d'8    
+d''8    cis''8    d''8    b'8    a'8    fis'8    |
+   d''8    d'8    d'8  
+  d''8    cis''8    d''8    b'4    a'8    |
+   d''8    d'8    d'8    d''8 
+   cis''8    d''8    b'8    a'8    fis'8    |
+   b'8    e'8    e'8    e'8 
    fis'8    a'8    b'4    a'8    \bar "|."   
 }
 

@@ -12,23 +12,43 @@ voicedefault =  {
 
 \time 2/4 \key b \minor % %indent 600
    <<   b''4 ^\accent^\downbow   b'4   >>   <<   b''4 ^\accent   b'4   >>   
-\bar "|"   <<   b''4 ^\accent   b'4   >>   <<   b''4 ^\accent   b'4   >>   
-\bar "|"       \repeat volta 2 {     b''8    fis''8      b''4-2   \bar "|"   
-    d''4   ~    d''8    e''8    \bar "|"   fis''8    d''8    a'8    fis'8    
-\bar "|"   e'4.    g'16    fis'16    \bar "|"   e'4    r8 e'8 ^\upbow   
-\bar "|."       e''8-4   e''8    dis''8    fis''8    \bar "|"   e''4.    b'8 
-   \bar "|"   e''8    e''8    dis''8    fis''8    \bar "|"   e''4.    b'8    
-\bar "|"     e''4   ~    e''8    fis''8    \bar "|"   g''8    e''8    cis''8    
-a'8    \bar "|"   gis'8    a'8    b'8    cis''8    \bar "|"   d''4    r8 a'8    
+|
+   <<   b''4 ^\accent   b'4   >>   <<   b''4 ^\accent   b'4   >>   
+|
+       \repeat volta 2 {     b''8    fis''8      b''4-2   |
+   
+    d''4   ~    d''8    e''8    |
+   fis''8    d''8    a'8    fis'8    
+|
+   e'4.    g'16    fis'16    |
+   e'4    r8 e'8 ^\upbow   
+\bar "|."       e''8-4   e''8    dis''8    fis''8    |
+   e''4.    b'8 
+   |
+   e''8    e''8    dis''8    fis''8    |
+   e''4.    b'8    
+|
+     e''4   ~    e''8    fis''8    |
+   g''8    e''8    cis''8    
+a'8    |
+   gis'8    a'8    b'8    cis''8    |
+   d''4    r8 a'8    
 \bar "|."           d''16 ^"dance"^\downbow   cis''16    d''16    e''16    
-fis''16    e''16    d''16    cis''16    \bar "|"   b'16    ais'16    b'16    
-cis''16    d''16    cis''16    d''16    ais'16    \bar "|"   d''16    cis''16   
- d''16    e''16    fis''16    e''16    d''16    cis''16    \bar "|"   b'16    
-d''16    cis''16    e''16-4   d''8    a'8    \bar "|"     d''16    cis''16   
- d''16    e''16    fis''16    e''16    d''16    cis''16    \bar "|"   b'16    
-ais'16    b'16    cis''16    d''16    cis''16    d''16    ais'16    \bar "|"   
+fis''16    e''16    d''16    cis''16    |
+   b'16    ais'16    b'16    
+cis''16    d''16    cis''16    d''16    ais'16    |
+   d''16    cis''16   
+ d''16    e''16    fis''16    e''16    d''16    cis''16    |
+   b'16    
+d''16    cis''16    e''16-4   d''8    a'8    |
+     d''16    cis''16   
+ d''16    e''16    fis''16    e''16    d''16    cis''16    |
+   b'16    
+ais'16    b'16    cis''16    d''16    cis''16    d''16    ais'16    |
+   
 d''16    cis''16    d''16    e''16    fis''16    e''16    d''16    cis''16    
-\bar "|"   b'16    d''16    cis''16    e''16-4   d''8    r8     }
+|
+   b'16    d''16    cis''16    e''16-4   d''8    r8     }
 }
 
 \score{

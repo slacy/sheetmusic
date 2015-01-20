@@ -10,23 +10,39 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 2/4 \key bes \major   f'16 ^\downbow   ees'16  \bar "|"   d'16    f'16    
-g'16    a'16    bes'8 -.   bes'8 -. \bar "|"   a'16    bes'16    c''16    d''16 
-   ees''8 -.   ees''8 -. \bar "|"   d''16    f''16    d''16    bes'16    c''16  
-  ees''16    c''16    a'16  \bar "|"   c''16    bes'16    a'16    f'16    f'8 
--.^\downbow   f'16 ^\downbow   ees'16 ^\upbow \bar "|"     d'16    f'16    g'16 
-   a'16    bes'8 -.   bes'8 -. \bar "|"   a'16    bes'16    c''16    d''16    
-ees''8 -.   ees''8 -. \bar "|"   d''16    f''16    d''16    bes'16    c''16    
-ees''16    c''16    a'16  \bar "|"   bes'8    bes'8    bes'8  }     
-\repeat volta 2 {   d''16 ^\downbow   ees''16  \bar "|"   f''16    d''16    
-f''16    d''16    bes''8 -.   a''16 ^\downbow   g''16 ^\upbow \bar "|"   f''16  
+\time 2/4 \key bes \major   f'16 ^\downbow   ees'16  |
+   d'16    f'16    
+g'16    a'16    bes'8 -.   bes'8 -. |
+   a'16    bes'16    c''16    d''16 
+   ees''8 -.   ees''8 -. |
+   d''16    f''16    d''16    bes'16    c''16  
+  ees''16    c''16    a'16  |
+   c''16    bes'16    a'16    f'16    f'8 
+-.^\downbow   f'16 ^\downbow   ees'16 ^\upbow |
+     d'16    f'16    g'16 
+   a'16    bes'8 -.   bes'8 -. |
+   a'16    bes'16    c''16    d''16    
+ees''8 -.   ees''8 -. |
+   d''16    f''16    d''16    bes'16    c''16    
+ees''16    c''16    a'16  |
+   bes'8    bes'8    bes'8  }     
+\repeat volta 2 {   d''16 ^\downbow   ees''16  |
+   f''16    d''16    
+f''16    d''16    bes''8 -.   a''16 ^\downbow   g''16 ^\upbow |
+   f''16  
   ees''16    d''16    c''16    bes'8 -.   c''16 ^\downbow   d''16 ^\upbow 
-\bar "|"   ees''16    f''16    g''16    f''16    ees''16    d''16    c''16    
-bes'16  \bar "|"   a'16    bes'16    c''16    a'16    f'8 -.   f'16 ^\downbow   
-ees'16 ^\upbow \bar "|"     d'16    f'16    bes'16    d'16    ees'16    g'16    
-c''16    bes'16  \bar "|"   a'16    bes'16    c''16    d''16    ees''16    
-g''16    f''16    ees''16  \bar "|"   d''16    f''16    d''16    bes'16    
-c''16    ees''16    c''16    a'16  \bar "|"   bes'8    bes'8    bes'8  }   
+|
+   ees''16    f''16    g''16    f''16    ees''16    d''16    c''16    
+bes'16  |
+   a'16    bes'16    c''16    a'16    f'8 -.   f'16 ^\downbow   
+ees'16 ^\upbow |
+     d'16    f'16    bes'16    d'16    ees'16    g'16    
+c''16    bes'16  |
+   a'16    bes'16    c''16    d''16    ees''16    
+g''16    f''16    ees''16  |
+   d''16    f''16    d''16    bes'16    
+c''16    ees''16    c''16    a'16  |
+   bes'8    bes'8    bes'8  }   
 }
 
 \score{

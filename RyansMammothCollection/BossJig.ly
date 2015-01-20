@@ -12,19 +12,33 @@ voicedefault =  {
 \repeat volta 2 {
 \time 6/8 \key bes \major   \grace {    f''8 ^"fz"(^\downbow   g''8    a''8  }  
  bes''4 ^\accent   bes'8 -. -) \grace {    c''8  }   bes'8    a'8    bes'8    
-\bar "|"   g'8    bes'8    bes'8    f'8    bes'8    bes'8    \bar "|"     
+|
+   g'8    bes'8    bes'8    f'8    bes'8    bes'8    |
+     
 bes''4 ^"fz"(^\downbow^\accent   bes'8 -. -) \grace {    c''8  }   bes'8    a'8 
-   bes'8    \bar "|"   g'8    c''8    bes'8    a'8    g'8    f'8        
-\bar "|"     bes''4 ^"fz"(^\downbow^\accent   bes'8 -. -) \grace {    c''8  }   
-bes'8    a'8    bes'8    \bar "|"   g'8    bes'8    bes'8    f'8    bes'8    
-bes'8    \bar "|"   g'8    bes'8    bes'8    a'8    c''8    c''8    \bar "|"   
+   bes'8    |
+   g'8    c''8    bes'8    a'8    g'8    f'8        
+|
+     bes''4 ^"fz"(^\downbow^\accent   bes'8 -. -) \grace {    c''8  }   
+bes'8    a'8    bes'8    |
+   g'8    bes'8    bes'8    f'8    bes'8    
+bes'8    |
+   g'8    bes'8    bes'8    a'8    c''8    c''8    |
+   
 d''8    bes'8    bes'8    bes'4    r8   }     \repeat volta 2 {   d''8 
-^\downbow   f''8    f''8    f''8    d''8    bes'8    \bar "|"   d''8    f''8    
-f''8    f''8    d''8    bes'8    \bar "|"   d''8    f''8    f''8    f''8    
-d''8    bes'8    \bar "|"   ees''8    c''8    c''8    c''4    r8       \bar "|" 
-  d''8 ^\downbow   f''8    f''8    f''8    d''8    bes'8    \bar "|"   d''8    
-f''8    f''8    f''8    d''8    bes'8    \bar "|"   bes''8    a''8    g''8    
-f''8    ees''8    d''8    \bar "|"   c''8    d''8    bes'8    a'8    g'8    f'8 
+^\downbow   f''8    f''8    f''8    d''8    bes'8    |
+   d''8    f''8    
+f''8    f''8    d''8    bes'8    |
+   d''8    f''8    f''8    f''8    
+d''8    bes'8    |
+   ees''8    c''8    c''8    c''4    r8       |
+ 
+  d''8 ^\downbow   f''8    f''8    f''8    d''8    bes'8    |
+   d''8    
+f''8    f''8    f''8    d''8    bes'8    |
+   bes''8    a''8    g''8    
+f''8    ees''8    d''8    |
+   c''8    d''8    bes'8    a'8    g'8    f'8 
    <<   \bar "|."   }   
 }
 

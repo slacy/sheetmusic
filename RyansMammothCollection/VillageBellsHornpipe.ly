@@ -12,24 +12,40 @@ voicedefault =  {
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key ees \major   \grace {    c''8 ^\upbow( }   bes'8.    a'16 -. -) 
-\bar "|"   bes'8. ^\downbow   ees''16    g'8.    bes'16    ees'8.    g'16    
-bes8.    ees'16  \bar "|"   g8.    bes16    ees'8.    g'16    bes'8.    g'16    
-c''8.    bes'16  \bar "|"     aes'8.    f'16    d'8.    aes'16    g'8.    
-ees'16    c'8.    bes16  \bar "|"   a8.    g'16    f'8.    ees'16    f'8.    
-aes'!16    a'8.    c''16  \bar "|"     bes'8.    ees''16    g'8.    bes'16    
-ees'8.    g'16    bes8.    ees'16  \bar "|"   g8.    bes16    ees'8.    g'16    
-bes'8.    g'16    c''8.    bes'16  \bar "|"     aes'8.    f'16    d'8.    bes16 
-   a8.    bes16    aes!8.    d'16  \bar "|"   ees'8.    bes16    g8.    g'16    
+|
+   bes'8. ^\downbow   ees''16    g'8.    bes'16    ees'8.    g'16    
+bes8.    ees'16  |
+   g8.    bes16    ees'8.    g'16    bes'8.    g'16    
+c''8.    bes'16  |
+     aes'8.    f'16    d'8.    aes'16    g'8.    
+ees'16    c'8.    bes16  |
+   a8.    g'16    f'8.    ees'16    f'8.    
+aes'!16    a'8.    c''16  |
+     bes'8.    ees''16    g'8.    bes'16    
+ees'8.    g'16    bes8.    ees'16  |
+   g8.    bes16    ees'8.    g'16    
+bes'8.    g'16    c''8.    bes'16  |
+     aes'8.    f'16    d'8.    bes16 
+   a8.    bes16    aes!8.    d'16  |
+   ees'8.    bes16    g8.    g'16    
 ees'4  }     \repeat volta 2 {   \grace {    g'8 ^\upbow( }   f'8.    e'16 -. 
--) \bar "|"   f'8. ^\downbow   ees''16    c''8.    bes'16    a'8.    g''16    
-f''8.    ees''16  \bar "|"   d''8.    bes''16    aes''8.    bes''16    e''8.    
-f''16    c''8.    d''16  \bar "|"     ees''8.    c''16    a'8.    ees''16    
-c''8.    a'16    f'8.    ees'16  \bar "|"   c'8.  \grace {    c''16  }   bes'8  
-  a'8.    bes'16    f'8.    d''16    c''8.    bes'16  \bar "|"     f'8.    
-ees''16    c''8.    bes'16    a'8.    g''16    f''8.    ees''16  \bar "|"   
+-) |
+   f'8. ^\downbow   ees''16    c''8.    bes'16    a'8.    g''16    
+f''8.    ees''16  |
+   d''8.    bes''16    aes''8.    bes''16    e''8.    
+f''16    c''8.    d''16  |
+     ees''8.    c''16    a'8.    ees''16    
+c''8.    a'16    f'8.    ees'16  |
+   c'8.  \grace {    c''16  }   bes'8  
+  a'8.    bes'16    f'8.    d''16    c''8.    bes'16  |
+     f'8.    
+ees''16    c''8.    bes'16    a'8.    g''16    f''8.    ees''16  |
+   
 d''8.    bes''16    aes''8.    bes''16    fis''8.    g''16    ees''8.    c''16  
-\bar "|"     e''8.    f''16    d''8.    bes'16    a'8.    f'16    ees'8.    
-c'16  \bar "|"   bes8.    d'16    f'8.    d''16    bes'4  }   
+|
+     e''8.    f''16    d''8.    bes'16    a'8.    f'16    ees'8.    
+c'16  |
+   bes8.    d'16    f'8.    d''16    bes'4  }   
 }
 
 \score{

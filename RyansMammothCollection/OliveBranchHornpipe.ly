@@ -12,22 +12,36 @@ voicedefault =  {
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \major   a'4 ^\downbow     cis''8. (^\upbow   a'16 -. -)   
-e''8. ^\downbow   a'16      fis''8. (^\upbow   a'16 -. -) \bar "|"   e''8. 
+e''8. ^\downbow   a'16      fis''8. (^\upbow   a'16 -. -) |
+   e''8. 
 ^"Segue"   a'16    fis''8.    a'16    e''8.    cis''16    b'8.    cis''16  
-\bar "|"     a'4    cis''8.    a'16    e''8.    a'16    fis''8.    a'16  
-\bar "|"   e''8.    cis''16    b'8.    cis''16    a'8.    fis'16    gis'8.    
-e'16  \bar "|"     a'4    cis''8.    a'16    e''8.    a'16    fis''8.    a'16  
-\bar "|"   e''8.    a'16    fis''8.    a'16    e''8.    cis''16    b'8.    
-cis''16  \bar "|"     a'8.    b'16    a'8.    fis'16    e'8.    cis''16    
-d''8.    fis''16  \bar "|"   e''8.    cis''16    b'8.    cis''16    a'4    r4 } 
+|
+     a'4    cis''8.    a'16    e''8.    a'16    fis''8.    a'16  
+|
+   e''8.    cis''16    b'8.    cis''16    a'8.    fis'16    gis'8.    
+e'16  |
+     a'4    cis''8.    a'16    e''8.    a'16    fis''8.    a'16  
+|
+   e''8.    a'16    fis''8.    a'16    e''8.    cis''16    b'8.    
+cis''16  |
+     a'8.    b'16    a'8.    fis'16    e'8.    cis''16    
+d''8.    fis''16  |
+   e''8.    cis''16    b'8.    cis''16    a'4    r4 } 
     \repeat volta 2 {   a'4 ^\downbow   cis''8.    e''16    a''4    a''8.    
-fis''16  \bar "|"   e''8.    fis''16    e''8.    d''16    cis''8.    d''16    
-b'8.    cis''16  \bar "|"     a'4    cis''8.    e''16    a''4    a''8.    
-gis''16  \bar "|"   fis''8.    b''16    b''8.    a''16    gis''8.    b''16    
-e''8.    gis''16  \bar "|"     a''8.    gis''16    a''8.    e''16    fis''8.    
-a''16    e''8.    cis''16  \bar "|"   d''8.    b'16    cis''8.    a'16    b'8.  
-  a'16    fis'8.    gis'16  \bar "|"     a'8.    b'16    a'8.    fis'16    e'8. 
-   cis''16    d''8.    fis''16  \bar "|"   e''8.    cis''16    b'8.    cis''16  
+fis''16  |
+   e''8.    fis''16    e''8.    d''16    cis''8.    d''16    
+b'8.    cis''16  |
+     a'4    cis''8.    e''16    a''4    a''8.    
+gis''16  |
+   fis''8.    b''16    b''8.    a''16    gis''8.    b''16    
+e''8.    gis''16  |
+     a''8.    gis''16    a''8.    e''16    fis''8.    
+a''16    e''8.    cis''16  |
+   d''8.    b'16    cis''8.    a'16    b'8.  
+  a'16    fis'8.    gis'16  |
+     a'8.    b'16    a'8.    fis'16    e'8. 
+   cis''16    d''8.    fis''16  |
+   e''8.    cis''16    b'8.    cis''16  
   a'4    r4 }   
 }
 

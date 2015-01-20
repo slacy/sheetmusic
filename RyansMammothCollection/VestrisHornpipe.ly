@@ -11,23 +11,41 @@ voicedefault =  {
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key d \major   fis'8. ^\downbow   g'16 ^\upbow       \bar "|"   
-a'8.    fis'16    g'8.    a'16    b'8.    cis''16    d''8.    b'16    \bar "|"  
+ \time 2/2 \key d \major   fis'8. ^\downbow   g'16 ^\upbow       |
+   
+a'8.    fis'16    g'8.    a'16    b'8.    cis''16    d''8.    b'16    |
+  
  a'8.    d''16    fis''8.    e''16    d''8.    cis''16    b'8.    a'16    
-\bar "|"   a'8.    g'16    g'8.    fis'16    fis'8.    e'16    e'8.    d'16    
-\bar "|"   e'8.    d'16    e'8.    fis'16    e'4    fis'8.    g'16    \bar "|"  
-   \bar "|"   a'8.    fis'16    g'8.    a'16    b'8.    cis''16    d''8.    
-b'16    \bar "|"   a'8.    d''16    fis''8.    e''16    d''8.    cis''16    
-b'8.    a'16    \bar "|"   a'8.    g''16    b''8.    g''16    fis''8.    e''16  
-  d''8.    cis''16    \bar "|"   d''4    fis''4    d''4    }     
-\repeat volta 2 {   e''8. ^\downbow   fis''16 ^\upbow       \bar "|"   g''8.    
-fis''16    g''8.    e''16    a'4    cis''4    \bar "|"   d''8.    a'16    d''8. 
-   e''16    fis''4    fis''4    \bar "|"   g''8.    fis''16    g''8.    e''16   
- a'4    cis''4    \bar "|"   d''8.    fis''16    e''8.    d''16    cis''8.    
-b'16    a'8.    g'16    \bar "|"     \bar "|"   a'8.    fis'16    g'8.    a'16  
-  b'8.    cis''16    d''8.    b'16    \bar "|"   a'8.    d''16    fis''8.    
-e''16    d''8.    cis''16    b'8.    a'16    \bar "|"   a'8.    g''16    
-fis''8.    e''16    cis''8.    a'16    b'8.    cis''16    \bar "|"   d''4    
+|
+   a'8.    g'16    g'8.    fis'16    fis'8.    e'16    e'8.    d'16    
+|
+   e'8.    d'16    e'8.    fis'16    e'4    fis'8.    g'16    |
+  
+   |
+   a'8.    fis'16    g'8.    a'16    b'8.    cis''16    d''8.    
+b'16    |
+   a'8.    d''16    fis''8.    e''16    d''8.    cis''16    
+b'8.    a'16    |
+   a'8.    g''16    b''8.    g''16    fis''8.    e''16  
+  d''8.    cis''16    |
+   d''4    fis''4    d''4    }     
+\repeat volta 2 {   e''8. ^\downbow   fis''16 ^\upbow       |
+   g''8.    
+fis''16    g''8.    e''16    a'4    cis''4    |
+   d''8.    a'16    d''8. 
+   e''16    fis''4    fis''4    |
+   g''8.    fis''16    g''8.    e''16   
+ a'4    cis''4    |
+   d''8.    fis''16    e''8.    d''16    cis''8.    
+b'16    a'8.    g'16    |
+     |
+   a'8.    fis'16    g'8.    a'16  
+  b'8.    cis''16    d''8.    b'16    |
+   a'8.    d''16    fis''8.    
+e''16    d''8.    cis''16    b'8.    a'16    |
+   a'8.    g''16    
+fis''8.    e''16    cis''8.    a'16    b'8.    cis''16    |
+   d''4    
 fis''4    d''4    }   
 }
 

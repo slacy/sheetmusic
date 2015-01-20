@@ -11,21 +11,35 @@ voicedefault =  {
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major   g''4 ^\downbow   d''8    c''8    b'4    a'8 
-^\downbow   g'8    \bar "|"   fis'8 -.   g'8 (   a'8  -)   b'8 (   c''8  -)   
-a'8 -.   a'8 -.   fis''8 (   \bar "|"   g''8  -)   d''8 (   e''8  -)   c''8 (   
-b'4  -)   a'8    g'8    \bar "|"       d'8 -.   fis'8 (   a'8  -)   c''8 (   
-b'8  -)   g'8    g'4    \bar "|"     g''4 ^\downbow   d''8    c''8    b'4    
-a'8    g'8    \bar "|"   fis'8 -.   g'8 (   a'8  -)   b'8 (   c''8  -)   a'8 -. 
-  a'8 -.   fis''8 (   \bar "|"   g''8  -)   d''8 (   e''8  -)   c''8 (   b'4  
--)   a'8    g'8    \bar "|"       d'8    fis'8 (   a'8  -)   c''8 (   b'8  -)   
+^\downbow   g'8    |
+   fis'8 -.   g'8 (   a'8  -)   b'8 (   c''8  -)   
+a'8 -.   a'8 -.   fis''8 (   |
+   g''8  -)   d''8 (   e''8  -)   c''8 (   
+b'4  -)   a'8    g'8    |
+       d'8 -.   fis'8 (   a'8  -)   c''8 (   
+b'8  -)   g'8    g'4    |
+     g''4 ^\downbow   d''8    c''8    b'4    
+a'8    g'8    |
+   fis'8 -.   g'8 (   a'8  -)   b'8 (   c''8  -)   a'8 -. 
+  a'8 -.   fis''8 (   |
+   g''8  -)   d''8 (   e''8  -)   c''8 (   b'4  
+-)   a'8    g'8    |
+       d'8    fis'8 (   a'8  -)   c''8 (   b'8  -)   
 g'8    g'4    \bar "|."     \bar "|."   d'8 ^\downbow   g'8    b'8    g'8    
-a'8    g'8    b'8    g'8    \bar "|"   d'8    g'8    b'8    g'8    c''8 (   a'8 
- -)   a'8 (   c''8  -)   \bar "|"   b'8 -.   d''8 (   e''8  -)   fis''8 (   
-g''8  -)   e''8 (   d''8  -)   c''8 ^\upbow-.   \bar "|"   b'8    d''8    a'8   
- c''8    b'8    g'8    g'8    b'8    \bar "|"     d'8 ^\upbow   g'8    b'8    
-g'8    a'8    g'8    b'8    g'8    \bar "|"   d'8    g'8    b'8    g'8    c''8 
-(   a'8  -)   a'8 (   c''8  -)   \bar "|"   b'8 -.   d''8 (   e''8  -)   fis''8 
-(   g''8  -)   e''8 (   d''8  -)   c''8 ^\upbow-.   \bar "|"     b'8 (   d''8  
+a'8    g'8    b'8    g'8    |
+   d'8    g'8    b'8    g'8    c''8 (   a'8 
+ -)   a'8 (   c''8  -)   |
+   b'8 -.   d''8 (   e''8  -)   fis''8 (   
+g''8  -)   e''8 (   d''8  -)   c''8 ^\upbow-.   |
+   b'8    d''8    a'8   
+ c''8    b'8    g'8    g'8    b'8    |
+     d'8 ^\upbow   g'8    b'8    
+g'8    a'8    g'8    b'8    g'8    |
+   d'8    g'8    b'8    g'8    c''8 
+(   a'8  -)   a'8 (   c''8  -)   |
+   b'8 -.   d''8 (   e''8  -)   fis''8 
+(   g''8  -)   e''8 (   d''8  -)   c''8 ^\upbow-.   |
+     b'8 (   d''8  
 -)   a'8 (   c''8  -)   b'8 (   g'8  -)   g'4    \bar "|."   
 }
 
