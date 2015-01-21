@@ -17,7 +17,7 @@ voicedefault =  {
 -1) |
  f'8-4 e'8-3 d'8-2 e'8-3 f'8-4   
 d'8-2 d''8^"4,0" d'8-2 |
- e'8^"SEGUE" d'8 c'8 d'8   
+ e'8^\segue d'8 c'8 d'8   
  e'8 f'8 g'8 e'8  |
  f'8 d'8 g'8 e'8 c'4 c'4  
 |

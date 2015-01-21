@@ -14,7 +14,7 @@ voicedefault =  {
  \time 4/4 % %slurgraces 1
  \key d \major a'8^\upbow   |
  d'8. (a'16-0-.) fis'8. (
- a'16-0-.) d'8.^"SEGUE" a'16-0 fis'8. a'16-0   |
+ a'16-0-.) d'8.^\segue a'16-0 fis'8. a'16-0   |
   
  e'8.^\downbow c''4.. (^\upbow g'16 -.) e'4^\downbow cis'8. (
 e'16 -.)   |
@@ -32,7 +32,7 @@ c''4.. (g'16 -.) e'4 cis'8. e'16 -.   |
  d'8 d''4 (a'8 -.) fis'4 (^\trill d'8)   \bar "|." fis''8 
 ^\upbow   |
  d''8. (fis''16 -.) a'8. (fis''16 -.)     
-d''8.^"SEGUE" fis''16 a'8. b'16    |
+d''8.^\segue fis''16 a'8. b'16    |
  c''8. d''16 e''8.  
  fis''16 g''4 a''16 (g''16 fis''16 e''16)   |
      

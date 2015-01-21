@@ -29,7 +29,7 @@ d''16 (a'8.)   r8. ees''16    |
  d''8. c''16 bes'8. a'16 
  g'4    r4   \bar ":|" d''8. c''16 bes'8. a'16 g'4 f'4    
 \bar "|."     \bar "|:" bes'8. (^\downbow a'16 -.) bes'8. (c''16 
--.) d''8.^"SEGUE" c''16 bes'4    |
+-.) d''8.^\segue c''16 bes'4    |
  c''8. b'16 c''8.  
  d''16 ees''8. d''16 c''4        |
  f''8. e''16 f''8.   

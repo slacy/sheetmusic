@@ -27,7 +27,7 @@ g'8 d'8    |
  g'16^\downbow g'8.^\upbow \grace {    
 g'16 a'16  } b'8. g'16 fis'16 (a'8.-0) a'8. (b'16 -.) 
   |
- g'16^"SEGUE"^\upbow g'8. b'8. g'16 d''8. g'16    
+ g'16^\segue^\upbow g'8. b'8. g'16 d''8. g'16    
 b'8. g'16        |
  c''8 (e''16-4 c''16) b'8 (d''16  
  c''16) c''16 (b'16 a'16 g'16) fis'8. a'16-4   

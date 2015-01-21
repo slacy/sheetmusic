@@ -13,7 +13,7 @@ voicedefault =  {
 \repeat volta 2 {
 \time 2/4 \key g \major g'8^"mf"^\downbow-. a'8 -. b'8 -. c''8 -. 
 |
- d''8^"SEGUE" d''8 g''8 d''8  |
+ d''8^\segue d''8 g''8 d''8  |
  e''8 e''8    
 g''8 e''8  |
  d''4. d''8  |

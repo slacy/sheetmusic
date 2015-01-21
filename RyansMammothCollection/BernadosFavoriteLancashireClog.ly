@@ -16,7 +16,7 @@ voicedefault =  {
  d''8. 
 ^\downbow(fis''16 -.) a'8. (d''16 -.)   \times 2/3 { d'8 fis'8 
  a'8  } d''8.^\upbow(fis''16 -.)   |
- a''8._"SEGUE"   
+ a''8._\segue   
 fis''16 b''8. fis''16 a''8. g''16 fis''8. e''16    |
    
  d''8. fis''16 a'8. d''16    \times 2/3 { d'8 fis'8 a'8  }   

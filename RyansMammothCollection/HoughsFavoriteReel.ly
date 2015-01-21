@@ -30,7 +30,7 @@ g'16 fis'16 g'16 a'16 b'16 cis''16 d''16 e''16    |
  fis''16 d''16 cis''16 e''16-4 d''8 
    }     \repeat volta 2 { a''4_"ff"^\downbow d''8.^\upbow(fis''16 -. 
 -)   |
- e''16^"SEGUE" d''16 e''16 fis''16 e''16 d''16  
+ e''16^\segue d''16 e''16 fis''16 e''16 d''16  
  b'8    |
  a''4-1 d''8. (fis''16 -.)   |
  e''16  

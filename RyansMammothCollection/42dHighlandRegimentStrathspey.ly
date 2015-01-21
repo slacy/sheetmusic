@@ -7,7 +7,6 @@
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
 	title = "42d Highland Regiment -- Strathspey"
 }
-segue = \markup { \tiny "SEGUE" }
 voicedefault =  {
   \override Staff.TimeSignature #'style = #'C
   \override Score.SpacingSpanner #'common-shortest-duration = #(ly:make-moment 1 2)

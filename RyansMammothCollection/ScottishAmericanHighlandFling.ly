@@ -34,7 +34,7 @@ fis'16 -.) e'8. (d'16 -.) cis'8. (b16 -.)   |
  b'8. (e'16 -.) fis'8. (gis'16 
 -.) a'4    \bar ":|" b'8. (e'16 -.) fis'8. (gis'16 -.) a'2  
   \bar "|."     \bar "|:" cis''8. (e''16 -.) e''8. (fis''16 -.)   
- e''8.^"SEGUE" cis''16 b'8. a'16    |
+ e''8.^\segue cis''16 b'8. a'16    |
  a'8. fis''16    
 fis''8. e''16 fis''8. gis''16 a''8. fis''16        |
    

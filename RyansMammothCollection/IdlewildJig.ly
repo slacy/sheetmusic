@@ -34,7 +34,7 @@ b'8 (cis''8 d''8) } a'8. fis'16 e'8. d'16 b8. a16
  eis'8 fis'8) } d''8.^\downbow(b'16 -.)   \grace { cis''8 
 ^\upbow }   \times 2/3 { b'8 (a'8 b'8) }   |
  fis''8. 
-_"SEGUE" b'16  \grace { cis''8  }   \times 2/3 { b'8 (a'8 b'8) 
+_\segue b'16  \grace { cis''8  }   \times 2/3 { b'8 (a'8 b'8) 
 } b''8. fis''16  \grace { g''8  }   \times 2/3 { fis''8 (e''8    
 fis''8) }   |
  g''8. e''16 fis''8. d''16 e''8. 
