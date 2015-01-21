@@ -32,11 +32,11 @@ a'8 ais'8  } b'8. e''16 g''8. e''16    |
  d'8 fis'8  }   \times 2/3 { a'8 e''8-4 d''8  } d'8. e'16    
 fis'8. g'16  \bar ":|"   \times 2/3 { d''8 d'8 fis'8  }   
 \times 2/3 { a'8 e''8 d''8  } d'4    r4   \bar "|." e''4 
-^"2"^\trill \grace { dis''8 e''8  } gis''8.-4 e''16 b''8. 
-^"2" e''16  \grace { e''8  } e'''4 ^"04"   |
+-2^\trill \grace { dis''8 e''8  } gis''8.-4 e''16 b''8. 
+-2 e''16  \grace { e''8  } e'''4 ^"04"   |
  e''4 
-^"2"^\trill \grace { dis''8 e''8  } a''8.-1 e''16 cis'''8. 
-^"0" e''16  \grace { e''8  } e'''4 ^"04"   |
+-2^\trill \grace { dis''8 e''8  } a''8.-1 e''16 cis'''8. 
+-0 e''16  \grace { e''8  } e'''4 ^"04"   |
      \times 2/3 {   
  d'''8-4 b''8-2 gis''8-2 }   \times 2/3 { e''8 d''8 b'8  
 }   \times 2/3 { gis'8 e'8 d'8  }   \times 2/3 { b8 gis8 b8  }  
@@ -45,7 +45,7 @@ fis'8. g'16  \bar ":|"   \times 2/3 { d''8 d'8 fis'8  }
 cis''8 e''8) }   \times 2/3 { a''8-1 cis'''8-3 << e''8 
 ^"02" } e'''8   >>   << d''4 ^"01" a'''4   >>   |
  e''4 
-^"2"^\trill \grace { dis''8 e''8  } gis''8. e''16 b''8. e''16  
+-2^\trill \grace { dis''8 e''8  } gis''8. e''16 b''8. e''16  
 \grace { e''8  } e'''4    |
  e''4  \grace { dis''8 e''8  }   
 a''8. e''16 cis'''8. e''16  \grace { e''8  } e'''4    |

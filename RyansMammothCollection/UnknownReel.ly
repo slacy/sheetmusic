@@ -28,7 +28,7 @@ cis''8 a'8 b'8 ^\downbow a'8 gis'8 b'8    |
 cis''8 b'8 d''8 cis''8 b'8 a'8 cis''8    |
  b'8    
 d''8 gis'8 b'8 a'4    }     \repeat volta 2 {   \times 2/3 { e''8 
-^"4"_"p"^\upbow(dis''8 e''8) } |
+-4_"p"^\upbow(dis''8 e''8) } |
  fis''8 d''!8    
 \times 2/3 { d''8 (e''8-4 d''8) } a'8 d''8 fis''8 d''8  
   |

@@ -28,7 +28,7 @@ g'16 a'16 g'16 e'16 g'16 a16 g'16  |
  d''8 d''8   
  d''8  }     \repeat volta 2 { cis''16 ^\downbow d''16  |
  e''16 
-^"4" cis''16 a'16 cis''16 e'16 a'16 cis''16 e''16  |
+-4 cis''16 a'16 cis''16 e'16 a'16 cis''16 e''16  |
  
  fis''16 d''16 a'16 d''16 fis'16 a'16 d''16 fis''16  
 |

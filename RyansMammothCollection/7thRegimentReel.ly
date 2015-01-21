@@ -14,7 +14,7 @@ voicedefault =  {
 \time 2/4 \key a \major a'8 ^\downbow a'16 (cis''16) e''16-4   
 a'16 cis''16 e''16-0   |
  a''16 cis''16 e''16 a''16 
-^"1" cis'''8-3^\trill b''16-2(a''16-1)   |
+-1 cis'''8-3^\trill b''16-2(a''16-1)   |
      
 fis''16-1 a''16 e''16 a''16 cis''16 e''16 a''16 fis''16  
   |
@@ -27,7 +27,7 @@ a'16 cis''16 e''16-0   |
  fis''16 a''16 e''16   
  a''16 cis''16 e''16 fis''16 e''16    |
  cis''16 e''16 
-^"4" b'16 e''16-4 a'8    r8   }     \repeat volta 2 { a'8 ^\downbow 
+-4 b'16 e''16-4 a'8    r8   }     \repeat volta 2 { a'8 ^\downbow 
  a'16 (cis''16) b'16 a'16 fis'16 a'16    |
  a''16    
 gis''16 a''16 fis''16 e''16 cis''16 b'16 a'16    |
@@ -35,7 +35,7 @@ gis''16 a''16 fis''16 e''16 cis''16 b'16 a'16    |
 d''16 fis''16 cis''16 e''16-4 b'16 d''16 a'16 cis''16    
 |
  d''16 b'16 cis''16 a'16 b'16 a'16 fis'16 a'16 
-^"4"   |
+-4   |
  e'16 a'16 cis''16 e''16 a''16 cis''16    
 e''16 a''16-1   |
  d'''16-4 b''16-2 cis'''16-3   

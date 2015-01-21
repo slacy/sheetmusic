@@ -32,7 +32,7 @@ a'16 d'16 a'16 cis'16 a'16  |
  fis'16 d'16-0 fis'16 
  a'16-0 d''16 cis''16 b'16 a'16  |
  gis'16 a'16 
-^"4" b'16 gis'16 e'8 e'8  |
+-4 b'16 gis'16 e'8 e'8  |
  fis'16 d'16 fis'16    
 a'16 d''16 cis''16 b'16 a'16  |
  gis'16 e'16 gis'16   

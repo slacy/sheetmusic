@@ -26,9 +26,9 @@ e''8 d''8 fis''8 g''8 a''8    |
  fis''8 e''8 d''8    
 fis''8 g''8 a''8-1   |
  b''8-2 cis'''8-3 d'''8 
-^"4" a''8-1 fis''8-3 d''8-1   |
+-4 a''8-1 fis''8-3 d''8-1   |
  e''8-2 d''8 
-^"1" d''8 d''4    }     \repeat volta 2 { a'8-0       |
+-1 d''8 d''4    }     \repeat volta 2 { a'8-0       |
    
 a''8 ^\downbow fis''8 a''8 g''8 e''8 g''8    |
  fis''8    

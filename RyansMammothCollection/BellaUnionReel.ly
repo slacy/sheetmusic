@@ -29,7 +29,7 @@ e''8 gis''8 fis''8 e''8 cis''8 e''8    |
 a'8    r8 fis'4 ^\accent a'8 (fis'8)   |
  cis''8 e''8    
 dis''8 fis''8 e''4    }     \repeat volta 2 { dis''8 ^\upbow(e''8 
-^"4") |
+-4) |
  fis''8 -. b'8 (a'8 b'8) gis''8 -. b'8 (
 a'8 b'8)   |
  a''8 -. b'8 -. gis''8 -. b'8 -. fis''8 -.   

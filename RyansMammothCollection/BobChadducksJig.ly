@@ -11,14 +11,14 @@ voicedefault =  {
 
 \repeat volta 2 {
 \time 2/4 \key a \major e'8 ^\downbow a'16 b'16 cis''32 e''16. 
-^"4"   r16 e''16-0^\upbow   |
+-4   r16 e''16-0^\upbow   |
  fis''16 e''16 cis''16    
 e''16 a''8  \grace { gis''16  } a''8    |
  e'8 ^\downbow a'16 
  b'16 cis''32 e''16.-4   r16 e''16-0^\upbow   |
      
 fis''16 e''16 d''16 cis''16 b'16 e''16-4 dis''16 e''16 
-^"4"   |
+-4   |
      r16 e'16 ^\upbow a'16 b'16 cis''32 e''16.-4   
 r16 e''16-0^\upbow   |
  fis''16 e''16 dis''16 e''16    

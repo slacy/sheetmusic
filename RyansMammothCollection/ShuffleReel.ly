@@ -43,7 +43,7 @@ cis''8 a'8    \grace { fis'8 (} e'8 dis'8) e'8 -. a'8 -.
  e''4-4 cis''8 a'8    \grace { cis''8 (} b'8 a'8) 
  fis'8 -. a'8 -. |
  e''8-4 e''4 e''8 fis''4 e''8 
-^"0" d''8  |
+-0 d''8  |
  cis''8 (e''8-4) d''8 -. b'8 -. \grace {   
  cis''8  } b'8 a'8 (b'8 cis''8)     \bar "|."   
 }

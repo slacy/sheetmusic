@@ -24,7 +24,7 @@ b''4    r8   |
  a''4. ^\accent fis''4. ^\accent   |
  e''8    
 d''8 d''8 d''4    r8   }     \repeat volta 2 {   \grace { a''8 
-^"3"^\downbow } g''8 fis''8 g''8 b''8 a''8 g''8    |
+-3^\downbow } g''8 fis''8 g''8 b''8 a''8 g''8    |
    
 fis''8 e''8 fis''8 a''8 g''8 fis''8    |
  e''8 d''8   

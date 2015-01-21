@@ -14,7 +14,7 @@ voicedefault =  {
  \time 2/2 \key f \major c''8 (^\upbow bes'8) |
  a'8. c''16 
  f''8. a''16    \times 2/3 { g''8 (a''8 bes''8) } e''8 
-^"0"(g''8) |
+-0(g''8) |
    \times 2/3 { f''8 (g''8 a''8) } f''8 (
  c''8) a'8. c''16 a'8. f'16  |
  e'8. f'16 g'8.   

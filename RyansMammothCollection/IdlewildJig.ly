@@ -37,7 +37,7 @@ _"SEGUE" b'16  \grace { cis''8  }   \times 2/3 { b'8 (a'8 b'8)
 } b''8. fis''16  \grace { g''8  }   \times 2/3 { fis''8 (e''8    
 fis''8) }   |
  g''8. e''16 fis''8. d''16 e''8. 
-^"4" cis''16 d''8. a'16    |
+-4 cis''16 d''8. a'16    |
    \times 2/3 { b'8 (cis''8    
 d''8) } a'8. cis''16 b'8. a'16 fis'8. a'16    |
      
