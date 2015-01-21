@@ -8,7 +8,7 @@
 	title = "BUTTER-MILK MARY'S -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key a \major a'16 (^\upbow b'16) |

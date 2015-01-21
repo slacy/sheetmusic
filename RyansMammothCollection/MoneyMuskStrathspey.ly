@@ -8,7 +8,7 @@
 	title = "MONEY MUSK -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key a \dorian e''8-4^\upbow       |

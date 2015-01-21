@@ -8,7 +8,7 @@
 	title = "Idlewild -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major d'8.^\downbow(d'16 -.)   \times 2/3 { fis'8 

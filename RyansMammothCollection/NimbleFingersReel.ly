@@ -9,7 +9,7 @@
 	title = "NIMBLE FINGER'S -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key c \major c'4-1^"3d POSITION."^\downbow e'8 

@@ -9,7 +9,7 @@
 	title = "\"Sally Growler\" -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major   \times 2/3 { d''16 (e''16 fis''16) } 

@@ -8,7 +8,7 @@
 	title = "SIR ROGER DE COVERLY -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key g \lydian g'8^\downbow a'8 g'8 g'4 (b'8) d''8 
 (b'8) g'8 -.   |

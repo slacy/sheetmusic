@@ -8,7 +8,7 @@
 	title = "The Irishman's Love -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major g'8^\downbow-. b'16 (g'16) b'16 d''16   

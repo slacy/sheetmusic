@@ -8,7 +8,7 @@
 	title = "Downfall of Wat:er Street -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major   \times 2/3 { e''16^\upbow(fis''16 gis''16  
 -) }   \repeat volta 2 { a''8_"Segno"^\downbow gis''16. (e''32 -.)  

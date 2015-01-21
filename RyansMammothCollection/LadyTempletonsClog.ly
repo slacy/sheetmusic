@@ -8,7 +8,7 @@
 	title = "Lady Templeton's -- Clog"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key f \major c'8.^\upbow(bes16) |

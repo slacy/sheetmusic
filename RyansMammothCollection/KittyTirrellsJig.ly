@@ -8,7 +8,7 @@
 	title = "KITTY TIRRELL'S -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key bes \major f'8^\upbow |

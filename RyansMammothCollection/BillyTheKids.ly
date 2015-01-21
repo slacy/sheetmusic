@@ -8,7 +8,7 @@
 	title = "Billy, The Kid's"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major a4-1^\downbow gis!4-1   |

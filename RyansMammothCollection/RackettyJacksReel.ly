@@ -8,7 +8,7 @@
 	title = "Racketty Jack's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major d'16^\downbow g'16 b'8 c''16 b'16 a'16 
  b'16    |

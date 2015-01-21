@@ -8,7 +8,7 @@
 	title = "Le Petre's -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major fis''8.^\downbow g''16^\upbow |
  

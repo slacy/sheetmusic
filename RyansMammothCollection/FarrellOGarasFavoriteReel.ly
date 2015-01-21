@@ -8,7 +8,7 @@
 	title = "Farrell O'Gara's Favorite -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major a'16^\upbow(fis'16) |

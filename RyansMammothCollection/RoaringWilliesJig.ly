@@ -8,7 +8,7 @@
 	title = "Roaring Willie's -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key a \major fis''8^\upbow       |
  e''8^"Segno"   

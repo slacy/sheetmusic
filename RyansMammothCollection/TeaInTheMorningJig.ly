@@ -8,7 +8,7 @@
 	title = "TEA IN THE MORNING -- Jig."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key g \major d''4^\downbow g'8^\upbow g'8 fis'8 g'16 (
  a'16) b'4.^\upbow |

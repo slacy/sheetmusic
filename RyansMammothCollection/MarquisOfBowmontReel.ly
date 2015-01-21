@@ -9,7 +9,7 @@
 	title = "MARQUIS OF BOWMONT -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key bes \major bes'8^\upbow |

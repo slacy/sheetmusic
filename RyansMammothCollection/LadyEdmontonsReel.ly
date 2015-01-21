@@ -8,7 +8,7 @@
 	title = "Lady Edmonton's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key bes \major bes'8^\downbow bes''16 g''16 f''16    

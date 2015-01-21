@@ -8,7 +8,7 @@
 	title = "Cross Road"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key b \dorian d''8^\upbow(cis''8) \repeat volta 2 {     

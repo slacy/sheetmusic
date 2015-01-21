@@ -9,7 +9,7 @@
 	title = "Tete-a-Tete -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major b'16^\downbow d'16 e'16 d'16 b16 d'16  

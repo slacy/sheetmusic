@@ -8,7 +8,7 @@
 	title = "\"All the Go\" -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key b \minor fis''8^\downbow b'8^\upbow(b'4\turn)   

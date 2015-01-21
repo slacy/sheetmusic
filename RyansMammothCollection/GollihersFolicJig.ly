@@ -8,7 +8,7 @@
 	title = "Golliher's Folic -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \major a8^\upbow |

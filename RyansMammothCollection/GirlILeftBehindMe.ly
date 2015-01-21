@@ -8,7 +8,7 @@
 	title = "THE GIRL I LEFT BEHIND ME"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major e''8_"f"^\upbow       |

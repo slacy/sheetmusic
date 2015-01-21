@@ -8,7 +8,7 @@
 	title = "MY BONNIE LADDIE -- HIGHLAND FLING"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major b'8^\upbow       |

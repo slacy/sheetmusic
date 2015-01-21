@@ -8,7 +8,7 @@
 	title = "Crabs in the Skillet -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key c \dorian g'4.^\downbow d''4 (fis'8 -.) |
  g'4 

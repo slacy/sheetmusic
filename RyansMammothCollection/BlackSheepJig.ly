@@ -9,7 +9,7 @@
 	title = "Black Sheep -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major   r16 g''16^\upbow |

@@ -8,7 +8,7 @@
 	title = "McDonald's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
  f''8 a''8 b''8 a''8 c''8 a''8^\accent^\tenuto 

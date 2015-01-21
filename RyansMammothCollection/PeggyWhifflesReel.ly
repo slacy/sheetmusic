@@ -8,7 +8,7 @@
 	title = "Peggy Whiffle's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major   \times 2/3 { e'16^\upbow(fis'16 e'16) }   
 cis'16^\downbow e'16^\upbow a'16 cis''16 e''16-4 cis''16    

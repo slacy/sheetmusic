@@ -9,7 +9,7 @@
 	title = "Charter Oak -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major cis''16^\downbow b'16    |
  a'8 

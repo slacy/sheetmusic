@@ -9,7 +9,7 @@
 	title = "RECREATION -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major   \grace { d'16^\downbow e'16 fis'16  } g'8. 

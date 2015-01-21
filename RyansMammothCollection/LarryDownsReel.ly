@@ -8,7 +8,7 @@
 	title = "Larry Downs' -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key e \major   \times 2/3 { e'16^\downbow(fis'16 e'16) } 

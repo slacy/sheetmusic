@@ -8,7 +8,7 @@
 	title = "COME TO YOUR TAY -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C

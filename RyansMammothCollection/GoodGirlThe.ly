@@ -8,7 +8,7 @@
 	title = "\"GOOD GIRL\", THE"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major a'8^\upbow   |
  d''8 fis''16 d''16    

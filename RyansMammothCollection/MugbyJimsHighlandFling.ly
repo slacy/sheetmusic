@@ -8,7 +8,7 @@
 	title = "MUGBY JIM'S -- HIGHLAND FLING."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \major   << cis''4^\accent^\downbow e''4   >> <<   

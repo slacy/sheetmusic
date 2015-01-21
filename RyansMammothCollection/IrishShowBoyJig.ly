@@ -8,7 +8,7 @@
 	title = "IRISH SHOW BOY -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \major fis''16 (^\upbow g''16)       |

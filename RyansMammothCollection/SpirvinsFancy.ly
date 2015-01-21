@@ -8,7 +8,7 @@
 	title = "Spirvins' Fancy"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \minor d''16^\upbow c''16    \bar "|." bes'16^"Segno"  
  g'16 f'16 d'16 d'8 c'16 c'16  |

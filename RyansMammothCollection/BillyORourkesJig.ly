@@ -8,7 +8,7 @@
 	title = "BILLY O'ROURKE'S -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key e \minor g''16^\downbow e''16        |

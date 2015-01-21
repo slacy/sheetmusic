@@ -8,7 +8,7 @@
 	title = "FAREWELL TO ERIN -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major d'4^\downbow   \times 2/3 { fis'8 (e'8 d'8  

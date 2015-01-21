@@ -8,7 +8,7 @@
 	title = "THUNDER -- HORNPIPE"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key ees \major ees'16^\downbow ees'16 ees'8 ees'16    

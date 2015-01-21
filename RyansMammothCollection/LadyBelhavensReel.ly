@@ -9,7 +9,7 @@
 	title = "LADY BELHAVEN'S -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major c''8^\upbow |

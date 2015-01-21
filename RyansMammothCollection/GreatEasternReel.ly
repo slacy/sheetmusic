@@ -9,7 +9,7 @@
 	title = "Great: Eastern -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major a8^\upbow |

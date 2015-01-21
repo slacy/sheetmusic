@@ -8,7 +8,7 @@
 	title = "SUNDAY IS MY WEDDING-DAY -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key e \minor c''8^\upbow       |

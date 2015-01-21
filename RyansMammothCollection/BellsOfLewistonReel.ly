@@ -8,7 +8,7 @@
 	title = "Bells of Lewiston -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major d'16^\downbow-. fis'16 -. a'16 (fis'16)   

@@ -8,7 +8,7 @@
 	title = "Jenny Nettle's Fancy -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major b'8^\downbow a'8 a'8 b'8 d''8 a'8    

@@ -8,7 +8,7 @@
 	title = "SHUFFLE AND CUT -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key d \major d''8^\downbow b'8 g'8 fis'8 a'8-4   
 fis'8 e'16 (fis'16 g'8) e'8 -.   |

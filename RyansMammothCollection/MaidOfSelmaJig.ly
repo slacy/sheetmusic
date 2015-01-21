@@ -9,7 +9,7 @@
 	title = "Maid of Selma -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major g'4^\downbow(e'8 -.) e'8^\upbow d'8 e'8 

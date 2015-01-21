@@ -9,7 +9,7 @@
 	title = "Novelty (Lancashire) -- Clog"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \major a'8.^\downbow(cis''16 -.) e'8.^\upbow(

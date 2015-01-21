@@ -8,7 +8,7 @@
 	title = "ONE BOTTLE MORE -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key a \dorian g'8^\upbow       |

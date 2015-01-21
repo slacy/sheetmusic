@@ -8,7 +8,7 @@
 	title = "SOLDIERS' JOY."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major fis'16 (^\upbow g'16)   |

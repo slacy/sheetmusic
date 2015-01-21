@@ -8,7 +8,7 @@
 	title = "WALK AROUND. -- CHAW ROAST BEEF."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key c \major     << e'4^"ff"^\accent c''4   >>   << e'4 
 ^\accent c''4   >>   |

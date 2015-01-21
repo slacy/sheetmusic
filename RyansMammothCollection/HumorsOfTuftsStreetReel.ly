@@ -8,7 +8,7 @@
 	title = "Humors of Tufts Street -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key e \dorian d''16^\upbow cis''16  |

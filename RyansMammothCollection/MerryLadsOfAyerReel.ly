@@ -9,7 +9,7 @@
 	title = "MERRY LADS OF AYER -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major g''8^\upbow   |

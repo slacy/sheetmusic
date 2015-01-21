@@ -8,7 +8,7 @@
 	title = "Indy's Favorite -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major fis'16^\downbow a'16 a'16 b'16 a'16    

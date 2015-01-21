@@ -8,7 +8,7 @@
 	title = "BELLES OF TIPPERARY -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major d'8.^\downbow d'16 fis'8 a'8    |

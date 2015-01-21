@@ -8,7 +8,7 @@
 	title = "FOREST FLOWER -- HIGHLAND FLING"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \major       |

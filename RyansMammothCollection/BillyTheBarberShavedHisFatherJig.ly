@@ -8,7 +8,7 @@
 	title = "Billy the Barber Shaved His Fat:her -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major c''8^\upbow |

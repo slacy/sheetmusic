@@ -7,7 +7,7 @@
 	title = "PADDY MILES' FRICASSEE -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major g''8^\downbow fis''8  \repeat volta 2 { e''8    

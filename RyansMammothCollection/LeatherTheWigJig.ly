@@ -8,7 +8,7 @@
 	title = "LEATHER THE WIG- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key g \minor d''8^\upbow         \repeat volta 2 { c''8 
 ^"Segno"(^\downbow a'8 g'8) g'4^\accent d''8 -. g'4^\accent   

@@ -8,7 +8,7 @@
 	title = "ROY'S WIFE -- HIGHLAND FLING"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major d''16 (^\downbow b'8.) b'8. (^\upbow   

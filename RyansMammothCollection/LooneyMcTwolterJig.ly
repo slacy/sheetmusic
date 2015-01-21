@@ -8,7 +8,7 @@
 	title = "LOONEY McTWOLTER -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key g \major g'4.^\downbow^\accent b'4.^\accent |
  a'8 

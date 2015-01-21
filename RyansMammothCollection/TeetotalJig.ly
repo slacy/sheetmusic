@@ -9,7 +9,7 @@
 	title = "TEETOTAL -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key a \minor c''8.^\downbow a'16 g'8 g'8 e'8 c'8    
 d'8 e'8 g'8    |

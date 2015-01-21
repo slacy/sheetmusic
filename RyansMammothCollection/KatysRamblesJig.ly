@@ -8,7 +8,7 @@
 	title = "Kat:y's Rambles -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \minor a'4^\downbow d''8 c''8 bes'8 a'8    

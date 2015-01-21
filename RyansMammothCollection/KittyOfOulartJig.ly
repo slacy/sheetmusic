@@ -8,7 +8,7 @@
 	title = "KITTY OF OULART -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key f \major a'16 (^\upbow bes'16) |

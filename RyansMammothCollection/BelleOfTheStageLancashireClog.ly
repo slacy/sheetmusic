@@ -9,7 +9,7 @@
 	title = "Belle of the Stage (Lancashire) -- Clog"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major a'4    \times 2/3 { fis'8 g'8 gis'8  }   

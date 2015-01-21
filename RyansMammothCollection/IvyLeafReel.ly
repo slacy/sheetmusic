@@ -9,7 +9,7 @@
 	title = "IVY LEAF -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major   \times 2/3 { a'16 (^\upbow b'16 cis''16) } 

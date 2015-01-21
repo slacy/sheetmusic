@@ -8,7 +8,7 @@
 	title = "OLD SPORT -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major cis''16 (^\upbow b'16)       |

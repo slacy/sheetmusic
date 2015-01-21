@@ -9,7 +9,7 @@
 	title = "DUCHESS OF ATHOL'S -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key a \major e'8. (^\downbow a'16 -.) cis''8. (a'16 -. 

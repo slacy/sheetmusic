@@ -9,7 +9,7 @@
 	title = "Hang Fire -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major a'8^\downbow cis''16 e''16 a''16 gis''16  
  fis''16 e''16    |

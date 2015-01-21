@@ -8,7 +8,7 @@
 	title = "The Jolly Pedler's -- SlipJig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key g \major g'8^\upbow |
  g'8^\downbow a'8-4 g'8 

@@ -8,7 +8,7 @@
 	title = "Jack Smith's Favorite -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key c \major g''16^\upbow(f''16) |

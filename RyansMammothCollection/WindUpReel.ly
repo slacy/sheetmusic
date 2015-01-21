@@ -8,7 +8,7 @@
 	title = "The Wind Up -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \minor   \grace { gis''16  } a''4^\downbow \grace {    

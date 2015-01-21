@@ -8,7 +8,7 @@
 	title = "THE BOYNE HUNT -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major d''8^\downbow b'8  <<   \bar "|."     

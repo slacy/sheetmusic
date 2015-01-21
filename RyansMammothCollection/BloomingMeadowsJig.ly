@@ -8,7 +8,7 @@
 	title = "The Blooming Meadows -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major d'4^\downbow(g'8 -.) g'4 (a'8 -.)   

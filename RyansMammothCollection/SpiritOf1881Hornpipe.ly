@@ -8,7 +8,7 @@
 	title = "Spirit of 1881 -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major   \times 2/3 { a'16^\downbow a'16 a'16  }   

@@ -8,7 +8,7 @@
 	title = "I'M O'ER YOUNG TO MARRY YET -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key d \major a'8^\upbow       |

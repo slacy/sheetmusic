@@ -8,7 +8,7 @@
 	title = "Margery's Favorite -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key f \major f'8^\downbow a'16 d''16 c''8 a'16    

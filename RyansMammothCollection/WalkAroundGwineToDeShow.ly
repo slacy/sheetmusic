@@ -8,7 +8,7 @@
 	title = "WALK AROUND. -- GWINE TO DE SHOW."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \mixolydian d'8 fis''8    r8 fis''8    |
    r8 

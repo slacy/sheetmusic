@@ -9,7 +9,7 @@
 	title = "IRISH AMERICAN -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major d''8^\downbow e''8-4 d''8 d''8 b'8    

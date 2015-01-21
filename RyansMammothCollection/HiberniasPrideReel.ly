@@ -8,7 +8,7 @@
 	title = "HIBERNIA'S PRIDE -- REEL. — Peeler's Jacket, The — Flannel Jacket, The"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major   \times 2/3 { d'16 (^\upbow e'16 fis'16) }   
 \repeat volta 2 { g'8^"Segno"^\downbow b'16 (a'16) g'8 b'16 (

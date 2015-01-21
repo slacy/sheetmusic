@@ -8,7 +8,7 @@
 	title = "LADY CAWDOR'S -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key d \major a'4 (^\downbow a'8 -.) d''4 (d''8 -.)   

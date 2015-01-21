@@ -8,7 +8,7 @@
 	title = "The Devil's Own Shot -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \major d''4^\downbow a'8 b'8 cis''8 d''8  

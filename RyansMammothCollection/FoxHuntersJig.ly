@@ -8,7 +8,7 @@
 	title = "Fox Hunters' -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key d \major d'4^\downbow fis'8 fis'4 a'8 g'4 e'8   

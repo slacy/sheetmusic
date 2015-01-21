@@ -8,7 +8,7 @@
 	title = "RUM AND ONIONS -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major   \grace { b'8 c''8  } d''8 g'8 g'8    

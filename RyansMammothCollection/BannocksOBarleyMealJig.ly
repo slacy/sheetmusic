@@ -8,7 +8,7 @@
 	title = "BANNOCKS' O' BARLEY MEAL- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key d \major a'8^\upbow       |
  a'8^\downbow d''8    

@@ -8,7 +8,7 @@
 	title = "OLD NATIONAL THEATRE -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major b'8^\downbow g'16 d'16 e'16 g'16 d'8   

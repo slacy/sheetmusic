@@ -8,7 +8,7 @@
 	title = "KILKENNY ROVER'S - JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key c \major g'8^\upbow       |

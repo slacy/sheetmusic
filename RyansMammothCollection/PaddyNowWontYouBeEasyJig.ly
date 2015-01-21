@@ -8,7 +8,7 @@
 	title = "PADDY, NOW WONT YOU BE EASY? -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key d \major d'8^\downbow d'8 d'8 d''8 cis''8 d''8  

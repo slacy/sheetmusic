@@ -7,7 +7,7 @@
 	title = "COL. McBAIN'S -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \minor g'8^"G minor"^\segno^\upbow(a'8) 

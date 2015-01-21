@@ -8,7 +8,7 @@
 	title = "HOP -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key d \major a'8^\upbow       |
  a'4 fis'8 a'4    

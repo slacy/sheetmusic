@@ -8,7 +8,7 @@
 	title = "Jackson's Rolling -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key g \major g'4.^\trill^\downbow b'8 g'8 b'8    |
  

@@ -8,7 +8,7 @@
 	title = "MISS DALY'S - JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \minor e''8. (^\upbow d''16 -.)       |

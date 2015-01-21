@@ -8,7 +8,7 @@
 	title = "DARK HAIRED LASS -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \dorian e''16 (^\upbow d''16)         |
    

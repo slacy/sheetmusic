@@ -8,7 +8,7 @@
 	title = "CAPTAIN HOLMES' -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key e \dorian d''8^\upbow       |

@@ -9,7 +9,7 @@
 	title = "MARCHIONESS OF HUNTLY'S -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key a \major a8. (^\downbow cis'16 -.) e'8. (^\upbow   

@@ -8,7 +8,7 @@
 	title = "NEW BOSTON SICILLIAN CIRCLE."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major g'8^"mf"^\downbow-. a'8 -. b'8 -. c''8 -. 

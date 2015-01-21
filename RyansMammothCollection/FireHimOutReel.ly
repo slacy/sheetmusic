@@ -8,7 +8,7 @@
 	title = "\"FIRE HIM OUT\" -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major e'8^\downbow a'16 b'16 cis''4^">"   
 |

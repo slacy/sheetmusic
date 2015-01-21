@@ -8,7 +8,7 @@
 	title = "Speed the Plough -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major e'8^\upbow |

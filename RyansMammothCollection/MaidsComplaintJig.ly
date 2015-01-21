@@ -8,7 +8,7 @@
 	title = "THE MAID'S COMPLAINT -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key f \major c''4^\upbow a'8 a'4 f''8 e''8 d''8    
 c''8    |

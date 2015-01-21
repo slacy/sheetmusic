@@ -9,7 +9,7 @@
 	title = "WHAT THE DE'IL AILS YOU? -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key a \minor e''8-4^\upbow   |

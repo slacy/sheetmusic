@@ -8,7 +8,7 @@
 	title = "PICNIC -- REEL. — Higgins' Best Hornpipe — Flowing Tide, The"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major a8^\downbow-. a16^\upbow cis'16 e'16 a16  

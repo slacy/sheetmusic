@@ -8,7 +8,7 @@
 	title = "THREE MERRY SISTERS -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key e \dorian     \repeat volta 2 { b'8^"Segno"^\downbow-.   

@@ -9,7 +9,7 @@
 	title = "AMERICAN RIFLE TEAM -- HORNPIPE"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major % %staffsep 55
    |

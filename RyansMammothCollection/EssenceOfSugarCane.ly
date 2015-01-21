@@ -8,7 +8,7 @@
 	title = "ESSENCE OF SUGAR CANE."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key c \major g8. g16 a8. b16 c'8 (e'4^">") 

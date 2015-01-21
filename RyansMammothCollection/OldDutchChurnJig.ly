@@ -8,7 +8,7 @@
 	title = "THE OLD DUTCH CHURN -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key g \minor bes'4 (^\downbow d''8 -.) g'4 (d''8 -.)  
  d''8 c''8 bes'8    |

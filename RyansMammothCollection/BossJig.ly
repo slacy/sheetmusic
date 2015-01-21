@@ -8,7 +8,7 @@
 	title = "THE \"BOSS\" -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key bes \major   \grace { f''8^"fz"(^\downbow g''8 a''8  }  

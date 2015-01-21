@@ -8,7 +8,7 @@
 	title = "THE COCK AND THE HEN -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key g \major b'8^\downbow c''8 b'8 b'8 a'8 b'8    

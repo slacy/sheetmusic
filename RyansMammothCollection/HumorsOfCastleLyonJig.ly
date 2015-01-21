@@ -8,7 +8,7 @@
 	title = "HUMORS OF CASTLE LYON -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major g'4.^\downbow b'8 a'8 g'8    |

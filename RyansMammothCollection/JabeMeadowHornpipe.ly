@@ -8,7 +8,7 @@
 	title = "Jabe Meadow -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key bes \major f'16^\upbow ees'16  |

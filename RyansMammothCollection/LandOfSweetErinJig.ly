@@ -8,7 +8,7 @@
 	title = "LAND OF SWEET ERIN -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \major   \times 2/3 { a'16^\upbow(b'16 cis''16) } 

@@ -8,7 +8,7 @@
 	title = "Donegall Boys' -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major   \bar "|." d''8^"Segno"^\downbow c''8 b'8 

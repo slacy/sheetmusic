@@ -8,7 +8,7 @@
 	title = "Drink of Brandy -- Slipjig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key g \major d'8^\upbow   |
  g'4^"Segno" b'8 b'8  

@@ -8,7 +8,7 @@
 	title = "WALK AROUND. -- \"BRUDDER BONES.\""
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key bes \major g4^"ff"^\accent^\downbow a4^\accent   
 |

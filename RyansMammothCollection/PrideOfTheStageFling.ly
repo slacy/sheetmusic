@@ -8,7 +8,7 @@
 	title = "PRIDE OF THE STAGE -- FLING"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key bes \major   \repeat volta 2 {   \times 2/3 { d''8 (^\downbow 

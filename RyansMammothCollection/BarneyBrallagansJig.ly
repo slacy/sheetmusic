@@ -8,7 +8,7 @@
 	title = "Barney Brallagan's -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key d \major fis'4^\downbow a'8 a'8 b'8 a'8 a'8    
 b'8 a'8    |

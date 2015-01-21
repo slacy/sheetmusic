@@ -8,7 +8,7 @@
 	title = "JENNY DANGED THE WEAVER -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major a'8^\upbow <<   \bar "|."     \repeat volta 2 {   

@@ -8,7 +8,7 @@
 	title = "Green Fields of America -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major a'16^\upbow(b'16) |

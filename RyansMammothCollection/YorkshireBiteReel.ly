@@ -8,7 +8,7 @@
 	title = "The Yorkshire Bite -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \dorian a'8^\downbow e''16 (d''16) b'16 d''16  

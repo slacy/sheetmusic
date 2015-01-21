@@ -8,7 +8,7 @@
 	title = "Captain Kelley's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major d'8^\upbow   |
  g'16^"Segno" b'16    

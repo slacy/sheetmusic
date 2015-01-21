@@ -8,7 +8,7 @@
 	title = "Tell Her I Am -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key g \major e''8^\upbow   |
  d''8^"Segno" c''8    

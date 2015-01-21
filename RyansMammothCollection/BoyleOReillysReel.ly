@@ -8,7 +8,7 @@
 	title = "Boyle O'Reilly's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key e \minor d''16^\upbow(c''16) |

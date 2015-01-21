@@ -8,7 +8,7 @@
 	title = "The Munster Lass -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key f \major c'8^\upbow |

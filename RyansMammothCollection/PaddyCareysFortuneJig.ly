@@ -8,7 +8,7 @@
 	title = "PADDY CAREY'S FORTUNE -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key c \major g'4 (^\downbow c''8 -.) \grace { d''8  }   

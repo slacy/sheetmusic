@@ -8,7 +8,7 @@
 	title = "SCOTTISH AMERICAN -- HIGHLAND FLING"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \major   \times 2/3 { e'8^\upbow fis'8 gis'8  }       

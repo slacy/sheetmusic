@@ -8,7 +8,7 @@
 	title = "WADE HAMPTON'S -- HORNPIPE"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key bes \major f''16 (^\downbow g''16-3 a''16        

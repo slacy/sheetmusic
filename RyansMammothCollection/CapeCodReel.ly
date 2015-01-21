@@ -8,7 +8,7 @@
 	title = "Cape Cod -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major b'16^\downbow g'16 b'16 d''16 c''16    

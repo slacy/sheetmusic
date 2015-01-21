@@ -8,7 +8,7 @@
 	title = "WALK AROUND. -- \"CARVE DAT POSSUM.\""
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major     << g''4_"f"^\accent^\downbow b'4 d'4 g4  
  >>   << g''4^\accent b'4 d'4 g4   >>   |

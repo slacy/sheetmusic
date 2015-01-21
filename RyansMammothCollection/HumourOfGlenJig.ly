@@ -8,7 +8,7 @@
 	title = "HUMOUR OF GLEN- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key b \minor fis'8^\upbow       |

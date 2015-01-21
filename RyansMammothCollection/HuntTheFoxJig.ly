@@ -8,7 +8,7 @@
 	title = "HUNT THE FOX -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key d \mixolydian d''4^\downbow b'8 a'8 fis'8 a'8    

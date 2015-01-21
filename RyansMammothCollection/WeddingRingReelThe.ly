@@ -9,7 +9,7 @@
 	title = "WEDDING RING -- REEL., THE"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key bes \major a'8^\upbow |

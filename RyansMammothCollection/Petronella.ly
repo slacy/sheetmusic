@@ -8,7 +8,7 @@
 	title = "PETRONELLA"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major g''16^\downbow d''16        |

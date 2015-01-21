@@ -8,7 +8,7 @@
 	title = "JACK ON THE GREEN -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key g \major d''8    <<   \bar "|."     \repeat volta 2 { g''4 
 ^"Segno"(g''8 -.) g''8 fis''8 g''8 e''8 fis''8 g''8    

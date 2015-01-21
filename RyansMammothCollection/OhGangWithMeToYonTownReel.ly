@@ -8,7 +8,7 @@
 	title = "Oh, Gang With Me To Yon Town -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major   \times 2/3 { e''16^\upbow(fis''16 gis''16  
 -) }   |

@@ -8,7 +8,7 @@
 	title = "GO TO THE DEVIL AND SHAKE YOURSELF -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \major a'8^\downbow d''8 d''8 d''8 cis''8 b'8 

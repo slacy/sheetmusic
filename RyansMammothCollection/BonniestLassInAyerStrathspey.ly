@@ -8,7 +8,7 @@
 	title = "BONNIEST LASS IN AYER -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 % %slurgraces 1

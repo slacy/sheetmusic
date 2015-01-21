@@ -8,7 +8,7 @@
 	title = "ESSENCE OF OLD VIRGINNY."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key g \major d'8^"Slow"^\upbow   |
  \grace { fis'8 

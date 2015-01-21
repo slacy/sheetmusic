@@ -9,7 +9,7 @@
 	title = "Dar's Sugar in de Gourd -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \minor a8^\upbow |

@@ -8,7 +8,7 @@
 	title = "Bob Taylor's -- Clog"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key f \major c''16.^\upbow(bes'32 -.) |

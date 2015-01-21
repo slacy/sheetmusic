@@ -9,7 +9,7 @@
 	title = "THE LASS WITH THE YELLOW COATEE -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key g \major g'16^\downbow g'8.^\upbow g'8. (b'16 -.)  

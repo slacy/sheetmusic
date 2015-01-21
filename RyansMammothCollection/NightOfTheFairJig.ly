@@ -9,7 +9,7 @@
 	title = "NIGHT OF THE FAIR -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major a'8^\upbow       |

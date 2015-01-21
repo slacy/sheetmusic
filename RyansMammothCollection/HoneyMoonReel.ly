@@ -8,7 +8,7 @@
 	title = "Honey-Moon -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major d''8^\downbow c''8  |

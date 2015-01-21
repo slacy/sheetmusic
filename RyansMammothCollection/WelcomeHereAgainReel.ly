@@ -8,7 +8,7 @@
 	title = "WELCOME HERE AGAIN -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major d'4^\downbow a'8 (b'8) a'8 fis'8    

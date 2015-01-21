@@ -9,7 +9,7 @@
 	title = "LORD BYRON'S FAVORITE -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key e \minor c''8^\upbow   |

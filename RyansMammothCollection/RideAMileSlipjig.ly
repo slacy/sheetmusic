@@ -8,7 +8,7 @@
 	title = "RIDE A MILE -- SLIPJIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key g \major d''8^\downbow(b'8 g'8) g'4 (b'8)   

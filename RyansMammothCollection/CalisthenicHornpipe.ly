@@ -8,7 +8,7 @@
 	title = "Calisthenic -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key bes \major f'16 (^\upbow bes'16) |
  d''16    

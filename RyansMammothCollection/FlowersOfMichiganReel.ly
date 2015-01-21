@@ -8,7 +8,7 @@
 	title = "Flowers of Michigan -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 4/4 \key a \mixolydian e'4^\upbow |

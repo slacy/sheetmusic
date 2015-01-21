@@ -8,7 +8,7 @@
 	title = "TERENCE'S RAMBLE -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key f \major c''16^\downbow f'16    \times 2/3 { f'16 f'16 

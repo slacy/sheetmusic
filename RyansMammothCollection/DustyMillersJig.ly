@@ -8,7 +8,7 @@
 	title = "THE DUSTY MILLER'S -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key g \major b'4^\downbow d''8 c''4 a'8 b'8 (g'4  

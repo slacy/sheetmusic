@@ -8,7 +8,7 @@
 	title = "Spirit of 1880 -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major a8^\downbow cis'16 e'16 d'8 fis'16    

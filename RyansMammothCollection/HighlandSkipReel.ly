@@ -8,7 +8,7 @@
 	title = "HIGHLAND SKIP -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key e \mixolydian e''16 (^\upbow cis''16)   |
      

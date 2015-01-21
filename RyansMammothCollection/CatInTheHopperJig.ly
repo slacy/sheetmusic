@@ -8,7 +8,7 @@
 	title = "CAT IN THE HOPPER -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \dorian d'8^\downbow g'8 a'8 bes'4 c''8    

@@ -8,7 +8,7 @@
 	title = "\"PADDY'S THE BOY\"- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key g \mixolydian d''16 (^\upbow c''16)       |
    

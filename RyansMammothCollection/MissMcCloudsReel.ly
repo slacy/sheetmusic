@@ -8,7 +8,7 @@
 	title = "Miss McCloud's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major   \grace { c''16^\upbow } b'16 (a'16) 

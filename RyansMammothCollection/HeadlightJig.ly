@@ -8,7 +8,7 @@
 	title = "THE HEADLIGHT -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \minor bes2^\downbow^\accent a2^\accent   |

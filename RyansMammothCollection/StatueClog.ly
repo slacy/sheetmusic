@@ -8,7 +8,7 @@
 	title = "Stat:ue -- Clog"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \major << cis''2. a''2.   >>   |

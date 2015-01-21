@@ -8,7 +8,7 @@
 	title = "\"Swallow\" Sloop of War -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major fis'8^\downbow(d'8) fis'8 a'8 d''4    

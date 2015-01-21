@@ -8,7 +8,7 @@
 	title = "Pride  of the Ball -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C

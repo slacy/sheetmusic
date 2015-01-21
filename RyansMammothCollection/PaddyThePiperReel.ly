@@ -8,7 +8,7 @@
 	title = "PADDY THE PIPER -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major d''16 (^\upbow c''16)     |
      

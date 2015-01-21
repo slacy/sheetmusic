@@ -8,7 +8,7 @@
 	title = "ARKANSAS TRAVELLER -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major   \times 2/3 { a16 (b16 cis'16) }   |

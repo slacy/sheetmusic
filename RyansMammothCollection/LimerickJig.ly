@@ -8,7 +8,7 @@
 	title = "LIMERICK -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key f \major a'4 (^\downbow f'8 -.) c''4 (a'8 -.)   

@@ -8,7 +8,7 @@
 	title = "Lady Forbe's Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major d'8^\downbow fis'8 a'8 d''8 b'8 a'8   

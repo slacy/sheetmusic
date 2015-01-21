@@ -8,7 +8,7 @@
 	title = "Fire-Fly -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major d'16^\downbow-. cis''16 (d''16) fis''16 -. 
  e''16 -. cis''16 (d''16) b'16 -.   |

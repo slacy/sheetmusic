@@ -8,7 +8,7 @@
 	title = "The Soldier's Cloak -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key d \major a'8^\downbow b'8 a'8 a'8 fis'8 a'8    
 |

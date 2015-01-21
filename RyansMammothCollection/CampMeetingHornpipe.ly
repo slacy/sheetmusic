@@ -9,7 +9,7 @@
 	title = "Camp Meeting -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key c \major   \times 2/3 { g'16 (^\upbow a'16 b'16) } 

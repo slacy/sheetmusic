@@ -8,7 +8,7 @@
 	title = "\"Limber Up\" -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major g'8^\downbow-. b'16 e''16-4 d''8 -. b'16 

@@ -8,7 +8,7 @@
 	title = "Blackberry Blossom -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major d''16^"Segno"^\downbow b'16 a'16 c''16    

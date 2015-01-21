@@ -8,7 +8,7 @@
 	title = "Whiskey and Beer"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key d \major a'8^\downbow b'8 a'8 a'4 g'8 fis'4    
 g'8    |

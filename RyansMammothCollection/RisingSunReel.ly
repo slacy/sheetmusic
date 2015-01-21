@@ -8,7 +8,7 @@
 	title = "Rising Sun -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major d''4^\downbow d''8 a'8    |

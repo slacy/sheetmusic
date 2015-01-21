@@ -9,7 +9,7 @@
 	title = "PADDY'S FAREWELL TO AMERICA -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major d''8^\downbow b'8 g'8 e''8 fis''8 g''8 

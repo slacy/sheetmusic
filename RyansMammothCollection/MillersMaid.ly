@@ -8,7 +8,7 @@
 	title = "The Miller's Maid"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major d''8^\downbow b'8    \repeat volta 2 { a'4 

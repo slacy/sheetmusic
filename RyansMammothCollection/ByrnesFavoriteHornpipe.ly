@@ -8,7 +8,7 @@
 	title = "Byrne's Favorite -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major d''16^\downbow cis''16  |

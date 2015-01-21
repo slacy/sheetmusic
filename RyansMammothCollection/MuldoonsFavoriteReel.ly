@@ -8,7 +8,7 @@
 	title = "Muldoon's Favorite -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major g''4^\downbow d''8 c''8 b'4 a'8 

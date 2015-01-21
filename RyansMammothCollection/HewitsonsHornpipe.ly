@@ -8,7 +8,7 @@
 	title = "Hewitson's -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key f \major   \times 2/3 { c''16 (^\upbow d''16 e''16) } 

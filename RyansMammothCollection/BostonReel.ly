@@ -8,7 +8,7 @@
 	title = "The Boston -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key f \major a'16^\upbow(bes'16) |

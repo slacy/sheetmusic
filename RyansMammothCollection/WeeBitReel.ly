@@ -8,7 +8,7 @@
 	title = "Wee Bit -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major fis'8^\upbow(g'8) \repeat volta 2 { d'8 

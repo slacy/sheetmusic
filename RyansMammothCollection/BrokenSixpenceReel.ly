@@ -8,7 +8,7 @@
 	title = "The Broken Sixpence -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major     << b'8_"fz"^\downbow g''8   >> d''16^\downbow 

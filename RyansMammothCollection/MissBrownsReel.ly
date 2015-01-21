@@ -8,7 +8,7 @@
 	title = "Miss Brown's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major   \times 2/3 { g'16 (fis'16 e'16) } |

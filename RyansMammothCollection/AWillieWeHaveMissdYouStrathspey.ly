@@ -9,7 +9,7 @@
 	title = "A'WILLIE, WE HAVE MISS'D YOU -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key e \dorian d'''8-4^\upbow   |

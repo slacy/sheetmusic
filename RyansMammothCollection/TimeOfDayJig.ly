@@ -8,7 +8,7 @@
 	title = "The Time of Day Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key e \minor g''8^\upbow |
  b'8 c''8 b'8 b'4   

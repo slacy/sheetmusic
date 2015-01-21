@@ -8,7 +8,7 @@
 	title = "DOUGLAS' FAVORITE -- HORNPIPE"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major g'8^\downbow g''16.^\downbow d''32^\upbow     

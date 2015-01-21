@@ -8,7 +8,7 @@
 	title = "The Rambler from Clare -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key a \minor a'16^\upbow(b'16) |

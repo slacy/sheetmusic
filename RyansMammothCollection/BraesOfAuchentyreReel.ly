@@ -9,7 +9,7 @@
 	title = "Braes of Auchentyre -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key c \major   \times 2/3 { c'16^\downbow-. c'16 -. c'16 -. } 

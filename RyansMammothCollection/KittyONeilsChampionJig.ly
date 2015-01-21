@@ -8,7 +8,7 @@
 	title = "Kitty O'Neil's Champion -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major cis''4^\downbow bis'4 cis''4 bis'4    

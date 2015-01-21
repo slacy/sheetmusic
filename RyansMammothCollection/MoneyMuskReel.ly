@@ -7,7 +7,7 @@
 	title = "MONEY MUSK -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major fis''16^\upbow |
  e''16 a'16 cis''16   

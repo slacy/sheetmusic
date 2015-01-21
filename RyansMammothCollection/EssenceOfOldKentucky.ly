@@ -8,7 +8,7 @@
 	title = "ESSENCE OF OLD KENTUCKY."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key f \major c'8^">"^"Slow"^\upbow d'8^">" e'8^">" 
 |

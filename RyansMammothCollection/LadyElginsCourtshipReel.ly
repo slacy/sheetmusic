@@ -8,7 +8,7 @@
 	title = "Lady Elgin's Courtship -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key bes \major d''8^\upbow |
  bes'8 f'16 (bes'16  

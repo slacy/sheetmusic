@@ -8,7 +8,7 @@
 	title = "ROCKY ROAD TO DUBLIN -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key e \dorian e''4-4^\downbow d''8 b'8 cis''8 b'8  

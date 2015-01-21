@@ -8,7 +8,7 @@
 	title = "RED STOCKINGS' -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key d \major a'8^\upbow |

@@ -8,7 +8,7 @@
 	title = "BRIDE OF KILDARE -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major   \times 2/3 { a'8 (^\upbow b'8 cis''8) }   

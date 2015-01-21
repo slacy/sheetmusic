@@ -8,7 +8,7 @@
 	title = "Mardi Gras -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major     << d'8_"p"^\downbow-. fis'8   >>  ~    <<   

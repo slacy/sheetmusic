@@ -8,7 +8,7 @@
 	title = "CONNAUGHT LASS'ES -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major     \bar "|." d'8^"Segno"   \times 2/3 { fis'16 
 (e'16 d'16) } fis'16 a'16 a'16 fis'16    |

@@ -8,7 +8,7 @@
 	title = "CHORUS -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major a'16 (^\upbow g'16)       |
  fis'8 -.  

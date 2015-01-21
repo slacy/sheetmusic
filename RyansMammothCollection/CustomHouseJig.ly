@@ -8,7 +8,7 @@
 	title = "The Custom House -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 %  one sharp in the book
  \key d \mixolydian a'8^\upbow   \repeat volta 2 { b'8^"Segno"^\downbow   

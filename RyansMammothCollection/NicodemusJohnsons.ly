@@ -8,7 +8,7 @@
 	title = "Nicodemus Johnson's"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major g16 g16 g'8 g16 g16 g'8    |
    

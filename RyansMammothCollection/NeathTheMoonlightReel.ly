@@ -8,7 +8,7 @@
 	title = "'NEATH THE MOONLIGHT -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major a'16 (^\upbow fis'16)     |
  e''16 

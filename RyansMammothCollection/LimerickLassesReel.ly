@@ -8,7 +8,7 @@
 	title = "Limerick Lasses -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major   \bar "|." d''16^"Segno"^\downbow b'16 a'16    
 fis'16 d'8 e'16 fis'16  |

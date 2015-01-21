@@ -8,7 +8,7 @@
 	title = "Flee as a Bird"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 4/4 \key g \major   \times 2/3 { b'8 c''8 cis''8  }       

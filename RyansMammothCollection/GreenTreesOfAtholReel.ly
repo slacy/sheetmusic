@@ -8,7 +8,7 @@
 	title = "Green Trees of Athol -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major d''16^\downbow d'16 d'16 fis'16 e'16    
 d'16 e'16 fis''16    |

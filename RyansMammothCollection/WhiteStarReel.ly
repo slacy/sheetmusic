@@ -8,7 +8,7 @@
 	title = "White Star -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major   \times 2/3 { d'16^\downbow d'16 d'16  }   
 e'16^\upbow(d'16) g'16 b'16 g'16 b'16    |

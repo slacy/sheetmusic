@@ -9,7 +9,7 @@
 	title = "Peep O' Day -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major a'4^\upbow   \repeat volta 2 {     \times 2/3 {   

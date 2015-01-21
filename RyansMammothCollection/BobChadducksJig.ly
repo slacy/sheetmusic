@@ -8,7 +8,7 @@
 	title = "Bob Chadduck's -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major e'8^\downbow a'16 b'16 cis''32 e''16. 

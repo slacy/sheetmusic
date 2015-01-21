@@ -8,7 +8,7 @@
 	title = "James Lee's Favorite -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major e'8^\upbow   |
  a'16^"Segno"^\downbow   

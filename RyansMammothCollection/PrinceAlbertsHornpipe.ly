@@ -8,7 +8,7 @@
 	title = "Prince Alberts -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key c \major f''16^\downbow g''16  |

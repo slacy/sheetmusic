@@ -9,7 +9,7 @@
 	title = "City of Savannah -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major   \times 2/3 { a'16^\downbow b'16 a'16) }   

@@ -8,7 +8,7 @@
 	title = "Pulaski Guards' -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key bes \major f'8_"mf"^\downbow bes'8 bes'8 d'8    

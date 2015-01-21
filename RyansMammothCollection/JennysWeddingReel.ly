@@ -9,7 +9,7 @@
 	title = "Jenny's Wedding -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major     \times 2/3 { d'8 -. d'8 -. d'8 -. } fis'8 

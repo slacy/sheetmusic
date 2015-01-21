@@ -8,7 +8,7 @@
 	title = "Caledonian Laddie -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major d'4.^\downbow e'8 fis'8 e'8 fis'8 a'8 

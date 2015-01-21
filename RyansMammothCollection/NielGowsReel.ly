@@ -8,7 +8,7 @@
 	title = "Niel Gow's Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major fis'16^\downbow(|
  e'8) cis'16.    

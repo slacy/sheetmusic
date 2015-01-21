@@ -9,7 +9,7 @@
 	title = "THE MOUNTAIN SPRITE -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key c \major g8^\downbow c'4 e'8 g'2    |

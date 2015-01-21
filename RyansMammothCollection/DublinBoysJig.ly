@@ -8,7 +8,7 @@
 	title = "THE DUBLIN BOY'S -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key e \minor g'4 (^\downbow a'8 -.) b'8 g'8 e'8    
 b'8 g'8 e'8    |

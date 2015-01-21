@@ -8,7 +8,7 @@
 	title = "I'm Over Young to Marry Yet -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major e''16^\upbow \bar "|." d''16^"Segno" b'16    

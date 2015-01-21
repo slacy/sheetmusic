@@ -8,7 +8,7 @@
 	title = "Masons' Apron -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major gis''8^\upbow |
  a''16 a'16 a'16    

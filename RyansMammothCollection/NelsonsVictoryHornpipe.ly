@@ -8,7 +8,7 @@
 	title = "Nelson's Victory -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major d'8^\downbow-. g'16^\downbow fis'16^\upbow   

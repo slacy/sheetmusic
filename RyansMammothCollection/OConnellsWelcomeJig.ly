@@ -8,7 +8,7 @@
 	title = "O'CONNELL'S WELCOME -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major g''8^\downbow fis''8 g''8 e''8 d''8    

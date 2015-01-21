@@ -9,7 +9,7 @@
 	title = "PEA PATCH -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \tempo  4=60
  \key d \major   \times 2/3 { a16 (^\upbow b16 cis'16) }   |

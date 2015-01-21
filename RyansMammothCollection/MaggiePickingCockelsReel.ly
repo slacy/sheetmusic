@@ -8,7 +8,7 @@
 	title = "MAGGIE PICKING COCKELS -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \mixolydian fis'16 (^\upbow g'16)     \bar "|."     

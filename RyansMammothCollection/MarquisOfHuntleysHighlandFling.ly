@@ -8,7 +8,7 @@
 	title = "MARQUIS OF HUNTLEY'S -- HIGHLAND FLING"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major a'8^\upbow       |

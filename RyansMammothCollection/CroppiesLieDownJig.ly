@@ -8,7 +8,7 @@
 	title = "CROPPIES, LIE DOWN -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key g \major g''8^\downbow e''8^\upbow       |
  d''8 

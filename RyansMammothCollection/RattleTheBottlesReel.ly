@@ -8,7 +8,7 @@
 	title = "Rat:tle the Bottles -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major e''8-4^\upbow |

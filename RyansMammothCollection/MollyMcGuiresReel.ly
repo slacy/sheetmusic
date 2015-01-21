@@ -8,7 +8,7 @@
 	title = "Molly McGuire's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key e \major e''16^\downbow cis''16  <<   |

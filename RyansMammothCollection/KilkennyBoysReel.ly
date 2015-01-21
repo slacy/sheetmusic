@@ -8,7 +8,7 @@
 	title = "Kilkenny Boy's -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major d'8.^\downbow^\accent b'16 a'16 fis'16    
 fis'16 b'16    |

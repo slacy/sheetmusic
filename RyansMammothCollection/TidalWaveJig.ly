@@ -9,7 +9,7 @@
 	title = "Tidal Wave -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key f \major c'4^"Segno"^\downbow(e'4)   |
  a'4 (

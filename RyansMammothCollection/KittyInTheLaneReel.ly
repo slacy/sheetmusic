@@ -8,7 +8,7 @@
 	title = "Kitty in the Lane -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \mixolydian fis''16^\downbow e''16    |
      

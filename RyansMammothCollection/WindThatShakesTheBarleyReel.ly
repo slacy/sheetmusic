@@ -8,7 +8,7 @@
 	title = "Wind That: Shakes the Barley -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major a'8^\downbow a'16 b'16 a'16 fis'16    
 e'16 d'16    |

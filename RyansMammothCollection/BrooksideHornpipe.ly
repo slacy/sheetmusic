@@ -8,7 +8,7 @@
 	title = "Brookside -- Hornpipe"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key bes \major   \times 2/3 { f'8 (^\upbow g'8 a'8) } 

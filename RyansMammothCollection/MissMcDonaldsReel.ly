@@ -8,7 +8,7 @@
 	title = "MISS McDONALD'S -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major d''16^\downbow c''16        |
  b'16    

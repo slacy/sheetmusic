@@ -9,7 +9,7 @@
 	title = "LITTLE BROWN JUG - JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \major d''16 (^\upbow e''16)       |

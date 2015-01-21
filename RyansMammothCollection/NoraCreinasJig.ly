@@ -8,7 +8,7 @@
 	title = "NORA CREINA'S -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key g \major g''4 (^\downbow^\accent g'8 -.) g'4 (a'8 

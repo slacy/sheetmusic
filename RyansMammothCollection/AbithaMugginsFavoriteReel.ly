@@ -8,7 +8,7 @@
 	title = "Abitha Muggins' Favorite -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \lydian d''16^"Segno"^\downbow(b'16) b'8\turn    

@@ -8,7 +8,7 @@
 	title = "Pull Down Your Vest -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major d'16 -. d''16 -. cis''16 (d''16) b'8 -. 

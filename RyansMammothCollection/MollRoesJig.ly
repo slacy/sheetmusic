@@ -8,7 +8,7 @@
 	title = "MOLL ROE'S -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key g \minor d'8^\upbow       |

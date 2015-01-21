@@ -8,7 +8,7 @@
 	title = "Lotta's Favorite -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major a4  |

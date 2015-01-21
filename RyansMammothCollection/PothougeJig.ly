@@ -8,7 +8,7 @@
 	title = "POTHOUGE - JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key c \major g'4^\downbow g'8 g'8 f'8 e'8 g'8    

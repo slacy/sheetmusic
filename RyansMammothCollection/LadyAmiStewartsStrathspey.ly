@@ -8,7 +8,7 @@
 	title = "LADY AMI STEWART'S -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key bes \major     \times 2/3 { f''16 (^\downbow g''16 a''16 

@@ -8,7 +8,7 @@
 	title = "THE BUTCHER BOY -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major a'16^\upbow       |
  d''8^\downbow a'16 

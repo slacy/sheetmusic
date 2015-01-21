@@ -8,7 +8,7 @@
 	title = "GREEN GROW THE RUSHES O -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 % %slurgraces 1
  \key g \major g'8^\downbow-. g'16 (a'16) b'16 g'16 g'16    

@@ -8,7 +8,7 @@
 	title = "Lady Baird's -- Strathspey"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key d \major d'''8-4^\upbow |

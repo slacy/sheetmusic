@@ -9,7 +9,7 @@
 	title = "MERRY NIGHT AT TUMBLE BRIG -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key e \minor e'8^\downbow b'8 g'8 b'8 e'16 e'16    

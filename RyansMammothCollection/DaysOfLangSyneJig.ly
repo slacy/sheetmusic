@@ -9,7 +9,7 @@
 	title = "Days of 'Lang Syne -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key d \mixolydian fis''8. e''16 d''8 d''8. b'16    
 a'8  |

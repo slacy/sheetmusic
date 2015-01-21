@@ -8,7 +8,7 @@
 	title = "BELLES OF CAMPBELLTOWN -- STRATHSPEY — or \"Lady Lomon's\""
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 % %slurgraces 1

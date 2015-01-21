@@ -8,7 +8,7 @@
 	title = "TIBBIE INGLIS' FANCY -- FLING"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major   \repeat volta 2 { d'8. (^\downbow fis'16 -.) 

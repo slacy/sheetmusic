@@ -8,7 +8,7 @@
 	title = "Hit or Miss -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key c \major g'8^\upbow |

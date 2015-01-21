@@ -8,7 +8,7 @@
 	title = "TO CASHELL I'M GOING -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \mixolydian a''16 (^\upbow g''16)       |

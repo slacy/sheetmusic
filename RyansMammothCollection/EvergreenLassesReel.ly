@@ -8,7 +8,7 @@
 	title = "Evergreen Lasses - Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key e \minor g'16^\downbow fis'16    \bar "|." e'8 

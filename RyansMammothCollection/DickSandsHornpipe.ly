@@ -8,7 +8,7 @@
 	title = "DICK SAND'S -- HORNPIPE — (Can be used as a clog.)"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C

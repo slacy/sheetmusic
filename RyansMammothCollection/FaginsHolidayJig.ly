@@ -8,7 +8,7 @@
 	title = "FAGIN'S HOLIDAY -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key f \major f''4^\downbow^\accent   r8 d''4^\upbow^\accent   

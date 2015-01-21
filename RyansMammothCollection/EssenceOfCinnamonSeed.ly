@@ -8,7 +8,7 @@
 	title = "ESSENCE OF CINNAMON SEED."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
    \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key d \major     \times 2/3 { a8^"Slow"^\upbow(b8 cis'8  

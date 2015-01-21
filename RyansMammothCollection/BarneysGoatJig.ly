@@ -8,7 +8,7 @@
 	title = "BARNEY'S GOAT -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 9/8 \key e \minor b'4^\downbow e''8 e''4 fis''8 g''4.    
 |

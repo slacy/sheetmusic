@@ -8,7 +8,7 @@
 	title = "STICK IT IN THE ASHES -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key a \major a'8^\upbow   |

@@ -8,7 +8,7 @@
 	title = "LEAP YEAR -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major fis'16 (^\upbow g'16)   |
  a'16    

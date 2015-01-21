@@ -8,7 +8,7 @@
 	title = "WALK AROUND. -- CARRY THE NEWS TO MARY."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major     << a''8_"ff"^\accent^\downbow cis''8   >>   r8 
   << cis''8^\accent a''8   >>   r8   |

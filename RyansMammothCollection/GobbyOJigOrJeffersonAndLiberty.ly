@@ -8,7 +8,7 @@
 	title = "The Gobby O -- Jig (or Jefferson and Liberty)"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key a \minor a'16 b'16  |

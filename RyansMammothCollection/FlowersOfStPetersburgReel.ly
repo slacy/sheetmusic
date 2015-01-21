@@ -8,7 +8,7 @@
 	title = "FLOWERS OF ST. PETERSBURG -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key f \major a'16^\downbow bes'16        |

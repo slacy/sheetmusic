@@ -8,7 +8,7 @@
 	title = "Bird on the Wing -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major d''8^\downbow^\accent dis''8^\accent e''4 

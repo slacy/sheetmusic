@@ -8,7 +8,7 @@
 	title = "GREEN SLEEVES -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key c \major a'16 (^\downbow b'16  |

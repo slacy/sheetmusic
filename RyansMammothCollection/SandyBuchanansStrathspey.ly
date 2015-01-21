@@ -8,7 +8,7 @@
 	title = "SANDY BUCHANAN'S -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key a \minor e'16 (a'8.) a'8. (g'16 -.) e'16 (

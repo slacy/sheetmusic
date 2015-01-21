@@ -8,7 +8,7 @@
 	title = "Widow Machree"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \major a'8^\downbow a'8 b'8    \grace { e''8-4 } 

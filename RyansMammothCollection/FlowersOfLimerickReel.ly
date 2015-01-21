@@ -7,7 +7,7 @@
 	title = "FLOWERS OF LIMERICK -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C

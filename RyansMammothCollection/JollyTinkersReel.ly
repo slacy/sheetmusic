@@ -8,7 +8,7 @@
 	title = "The Jolly Tinker's Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \dorian g''8^\downbow fis''8    |

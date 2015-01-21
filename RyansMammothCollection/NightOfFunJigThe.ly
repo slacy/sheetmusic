@@ -8,7 +8,7 @@
 	title = "NIGHT OF FUN -- JIG., THE"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
   \time 9/8 \key g \major g'4^\upbow b'8 e'4 b'8 b'8 a'8    

@@ -9,7 +9,7 @@
 	title = "UP AND WAUR THEM A' WILLIE -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key a \major e''8-4^\upbow   |

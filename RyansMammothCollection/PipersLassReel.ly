@@ -8,7 +8,7 @@
 	title = "The Piper's Lass -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major a'16^\downbow g'16    \repeat volta 2 { fis'8 
 ^"Segno" a'16 fis'16 d'16 fis'16 a'16 fis'16  |

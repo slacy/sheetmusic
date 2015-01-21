@@ -8,7 +8,7 @@
 	title = "Castles in the Air -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key g \major b'16.^\upbow(a'32 -.) |

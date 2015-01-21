@@ -8,7 +8,7 @@
 	title = "THE RAKISH HIGHLANDER -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major d'4^\downbow b'8 a'8 b'8 (d''8)   

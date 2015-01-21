@@ -8,7 +8,7 @@
 	title = "League and Slasher -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C

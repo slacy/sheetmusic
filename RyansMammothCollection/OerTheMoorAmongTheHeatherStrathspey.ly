@@ -8,7 +8,7 @@
 	title = "OE'R THE MOOR, AMONG THE HEATHER -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key g \major d'16 (^\downbow g'8.) g'8. (^\upbow   

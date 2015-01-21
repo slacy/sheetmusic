@@ -8,7 +8,7 @@
 	title = "WINNICK'S FAVORITE -- JIG."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \tempo  4=50

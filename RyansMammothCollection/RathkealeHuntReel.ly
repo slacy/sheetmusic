@@ -8,7 +8,7 @@
 	title = "Rat:hkeale Hunt -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major a'16^\upbow(g'16) |
  fis'8 -. a'16 

@@ -8,7 +8,7 @@
 	title = "HERE AWA' -- HIGHLAND FLING"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key g \major   \repeat volta 2 { g'8.^\downbow g'16 g'8. 

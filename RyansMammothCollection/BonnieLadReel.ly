@@ -8,7 +8,7 @@
 	title = "The Bonnie Lad -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key a \major e''16^\upbow(d''16) |
  cis''16 b'16 

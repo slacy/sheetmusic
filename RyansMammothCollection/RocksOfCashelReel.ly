@@ -9,7 +9,7 @@
 	title = "The Rocks of Cashel -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key c \major   \times 2/3 { g16^\downbow(a16 b16) } 
 |

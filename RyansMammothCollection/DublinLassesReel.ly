@@ -8,7 +8,7 @@
 	title = "Dublin Lasses -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key f \major d''8^\upbow   \repeat volta 2 { c''8^"Segno"   

@@ -8,7 +8,7 @@
 	title = "THE SCOTCH PATRIOT'S -- REEL"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key d \major   \grace { cis''8  } d''4^\upbow     |

@@ -8,7 +8,7 @@
 	title = "Congress Park -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key g \major d'8^\upbow |
  g'8. b'16 d''16 (

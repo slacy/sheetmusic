@@ -8,7 +8,7 @@
 	title = "New Bedford -- Reel"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key d \major   \times 2/3 { e'16^\upbow(fis'16 g'16) } 

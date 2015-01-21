@@ -8,7 +8,7 @@
 	title = "Rub the Bag -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key a \minor c''4.^\downbow e''8-4 d''8 c''8  

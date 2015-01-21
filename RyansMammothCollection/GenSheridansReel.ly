@@ -9,7 +9,7 @@
 	title = "GEN. SHERIDAN'S -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 2/4 \key f \major   << d''8^\accent^\downbow f'8   >> a'16^\upbow   

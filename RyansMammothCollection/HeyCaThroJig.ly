@@ -8,7 +8,7 @@
 	title = "HEY, CA' THRO' -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 9/8 \key d \major d''8.^\downbow e''16 d''8 a'8. b'16    

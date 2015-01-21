@@ -8,7 +8,7 @@
 	title = "VELOCIPEDE -- HORNPIPE"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key bes \major f'4^\downbow         \repeat volta 2 { bes'8 

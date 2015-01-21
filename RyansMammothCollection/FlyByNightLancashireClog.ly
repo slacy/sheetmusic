@@ -8,7 +8,7 @@
 	title = "Fly-By-Night (Lancashire) -- Clog"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key bes \major bes8.^\downbow(f'16 -.) d'8. (d''16 -. 

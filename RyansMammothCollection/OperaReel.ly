@@ -7,7 +7,7 @@
 	title = "OPERA -- REEL."
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major   \times 2/3 { a16^\upbow(b16 cis'16) } 
 |

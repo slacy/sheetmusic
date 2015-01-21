@@ -8,7 +8,7 @@
 	title = "BAG OF MEAL, THE — Banish Misfortune"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \time 6/8 \key d \major d''16^\downbow e''16^\upbow |

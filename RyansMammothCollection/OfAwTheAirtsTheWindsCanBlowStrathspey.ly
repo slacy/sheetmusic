@@ -9,7 +9,7 @@
 	title = "OF AW THE AIRTS THE WINDS CAN BLOW -- STRATHSPEY"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 \key a \major e'8^\upbow   |

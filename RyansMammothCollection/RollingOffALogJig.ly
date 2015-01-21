@@ -8,7 +8,7 @@
 	title = "Rolling off a Log -- Jig"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 6/8 \key c \major c''8^\downbow e''8^\upbow |
  g''4 

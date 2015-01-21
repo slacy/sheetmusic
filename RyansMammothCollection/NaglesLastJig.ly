@@ -9,7 +9,7 @@
 	title = "NAGLE'S LAST -- JIG"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \time 2/4 \key d \major a8^\downbow cis'16^\downbow e'16 d'16    
 fis'16    r16 fis'16^\upbow   |

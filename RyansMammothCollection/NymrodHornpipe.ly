@@ -9,7 +9,7 @@
 	title = "NYMROD -- HORNPIPE — (Can be used as a Clog.)"
 }
 voicedefault =  {
-\set Score.defaultBarType = "empty"
+
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
