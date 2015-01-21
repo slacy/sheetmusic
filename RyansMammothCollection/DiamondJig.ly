@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection"
+	%% book = "Ryan's Mammoth Collection"
 	crossRefNumber = "1"
 	footnotes = "\\\\The D Minor stat:ement over the first bar does not agree with the\\\\one sharp key signiture."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

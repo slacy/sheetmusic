@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection"
+	%% book = "Ryan's Mammoth Collection"
 	crossRefNumber = "1"
 	footnotes = "\\\\GARRY OWEN. (FORE AND AFTER.) Two couples stand in a line, partners\\\\facing each other.  All balance, straight or Highland chain, (this is\\\\repeat:ed two or three times) a lady and gent, stop in the centre and\\\\balance, straight right and left, other couple the same. Repeat: at:\\\\pleasure."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

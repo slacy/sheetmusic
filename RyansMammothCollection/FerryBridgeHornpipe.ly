@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection of Fiddle Tunes"
+	%% book = "Ryan's Mammoth Collection of Fiddle Tunes"
 	crossRefNumber = "1"
 	footnotes = "\\\\(Can be used as a Clog.)"
 	subtitle = "As performed by J. HAND."

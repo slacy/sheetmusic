@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Cole's 1000 Fiddle Tunes"
+	%% book = "Cole's 1000 Fiddle Tunes"
 	crossRefNumber = "1"
 	footnotes = ""
 	subtitle = "Bob Puckette <BobP:at:workcom.com> 2003-3-7"

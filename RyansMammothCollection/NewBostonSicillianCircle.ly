@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Coles 26.5"
+	%% book = "Coles 26.5"
 	crossRefNumber = "5"
 	footnotes = "\\\\SICILLIAN CIRCLE. -- Right and left.  Cross four hands half round,\\\\back with left hands.  Ladies chain.  All forward and back,\\\\forward, pass by  to next couples. [Repeat:.]"
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

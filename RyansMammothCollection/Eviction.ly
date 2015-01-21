@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection, p104"
+	%% book = "Ryan's Mammoth Collection, p104"
 	crossRefNumber = "1"
 	footnotes = "\\\\\"Scat:ter the Mud\" in CRE 1.\\\\\"The Maids of Tramore\" Roche"
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

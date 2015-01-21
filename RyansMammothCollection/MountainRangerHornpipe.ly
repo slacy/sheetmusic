@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection of Fiddle Tunes"
+	%% book = "Ryan's Mammoth Collection of Fiddle Tunes"
 	crossRefNumber = "1"
 	footnotes = "\\\\\\\\MOUNTAIN RANGER. (First couple cross over.) First lady down the centre with\\\\2d gent, and back. (Same time.) First gent balance with 2d lady, and turn.\\\\First gent down the centre with 2d lady, and back. (Same time.) First lady\\\\balance to 2d gent, and turn.  First couple down the centre and back, cast off.\\\\Ladies' chain."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Coles pg 30.2"
+	%% book = "Coles pg 30.2"
 	crossRefNumber = "10"
 	footnotes = "\\\\DEVIL's DREAM. (Form in sets of six couples)\\\\-- First couple down the outside and back, (foot couples up the\\\\centre and back at: same time) First couple down the centre, back,\\\\cast off, (foot couples up the outside and back at: the same time)\\\\Ladies' chain (first four) -- Right and left."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

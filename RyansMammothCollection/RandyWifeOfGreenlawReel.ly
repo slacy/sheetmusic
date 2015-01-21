@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Coles 43.7"
+	%% book = "Coles 43.7"
 	composer = "SCOTCH."
 	crossRefNumber = "1"
 	footnotes = ""

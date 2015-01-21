@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Coles pg 26.6"
+	%% book = "Coles pg 26.6"
 	crossRefNumber = "6"
 	footnotes = "\\\\FIGURE EIGHT -- First couple cross over, [inside] below second couple,\\\\return [outside] to head.  Again cross over [inside] dwon centre, back\\\\to places.  First coule down centre, back, cast off.  Right and left."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

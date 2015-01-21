@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection of Fiddle Tunes"
+	%% book = "Ryan's Mammoth Collection of Fiddle Tunes"
 	crossRefNumber = "1"
 	footnotes = "\\\\Original Key, Eb.\\\\\\\\W: PETRONELLA. -- (Form as for Contra Dance.) First couple to the right, balance\\\\W: opposite each other in centre of set, [4 bars]. Again to the right, and\\\\W: balance on sides of set, [4 bars]. Again to the right, and balance in centre\\\\W: of set, [4 bars]. Again to the right, and balance to places [4 bars]. Down\\\\W: the centre and back, [8 bars]. Cast off, right and left 4, [8 bars]."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

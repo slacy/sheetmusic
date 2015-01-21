@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection"
+	%% book = "Ryan's Mammoth Collection"
 	crossRefNumber = "1"
 	footnotes = "\\\\168\\\\(Or TWIN SISTERS.)\\\\TWIN SISTERS.-First two ladies join hands, chassa across.\\\\[same time] First two gents chassa across, outside singly,\\\\join hands, chassa back, [same time] two ladies return\\\\outside.-First couple down the centre, back, cast off,\\\\right and left. [Next two ladies, etc."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

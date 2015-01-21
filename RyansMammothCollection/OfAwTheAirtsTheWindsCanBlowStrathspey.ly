@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection of Fiddle Tunes"
+	%% book = "Ryan's Mammoth Collection of Fiddle Tunes"
 	composer = ""
 	crossRefNumber = "1"
 	footnotes = "\\\\\"4\" fingering on {A}F4 grace notes omitted because several ABC programs complain."

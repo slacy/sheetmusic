@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Cole's 1000 Fiddle Tunes"
+	%% book = "Cole's 1000 Fiddle Tunes"
 	crossRefNumber = "1"
 	footnotes = "\\\\\\\\QUINDARO HORNPIPE -- First and 3d couples balance, swing 6 hands half round;\\\\balance again, swing 6 hands round to place; First couple down the centre;\\\\back, cast off, right and left 4."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

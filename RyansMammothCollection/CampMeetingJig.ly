@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Coles pg 82.1"
+	%% book = "Coles pg 82.1"
 	composer = "DAN EMMETT."
 	crossRefNumber = "1"
 	footnotes = "\\\\In the last part, the nat:urals on the G's are meant to hold in all octaves."

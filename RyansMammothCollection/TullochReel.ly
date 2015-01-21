@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection"
+	%% book = "Ryan's Mammoth Collection"
 	crossRefNumber = "1"
 	footnotes = "\\\\249\\\\the key is A mixolydian but the book shows 3 sharps and\\\\puts each G as neutral"
 	origin = "SCOTCH."

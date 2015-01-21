@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection"
+	%% book = "Ryan's Mammoth Collection"
 	crossRefNumber = "1"
 	footnotes = "\\\\276"
 	origin = "SCOTCH"

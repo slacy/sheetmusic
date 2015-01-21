@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection of Fiddle Tunes"
+	%% book = "Ryan's Mammoth Collection of Fiddle Tunes"
 	crossRefNumber = "1"
 	footnotes = "\\\\OLD ZIP COON. -- First couple down the outside and back  up  the centre,\\\\[second couple down  the centre and back up the outside at: same time.]\\\\First couple down the centre and back up the outside, [second couple down\\\\the outside and back up the centre at: same time.] First and second couples\\\\down the centre together, back. -- First couple cast off,  right and  left\\\\four."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

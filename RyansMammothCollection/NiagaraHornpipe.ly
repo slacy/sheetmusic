@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Cole's 1000 Fiddle Tunes"
+	%% book = "Cole's 1000 Fiddle Tunes"
 	crossRefNumber = "1"
 	footnotes = "\\\\\\\\NIAGARA HORNPIPE -- First couple down the outside, back and cross over;\\\\First lady balance with 2d gent, (Same time first gent. balance with 2d lady.)\\\\First couple swing to place, ladies' chain. Right and left 4."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

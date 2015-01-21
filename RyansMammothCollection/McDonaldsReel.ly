@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection"
+	%% book = "Ryan's Mammoth Collection"
 	crossRefNumber = "1"
 	footnotes = "\\\\162\\\\(Often used for Virginia Reel)\\\\VIRGINIA REEL. First lady and foot gent, forward (meet each other) and =\\\\places.- First gent and foot lady same - First lady and foot gent, =\\\\with right hands. back to places.- First gent and foot lady =\\\\foot gent, forward, turn with left hands, back to places- First gent =\\\\same.- First lady and foot gent, forward, turn with both hands, back =\\\\First gent and foot lady same.-(First lady and foot gent, forward, =\\\\gent and foot lady same)-[SELDOM USED.] First couple give right =\\\\to opposite (so on to foot of set) up centre with partner to places.- =\\\\to right, gents to left, all up the centre. First couple down centre ="
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

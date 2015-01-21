@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection"
+	%% book = "Ryan's Mammoth Collection"
 	crossRefNumber = "1"
 	footnotes = "\\\\LAND OF SWEET ERIN.-First and 3d couples balance, swing to opposite\\\\places-balance there, swing to place; first couple down the centre,\\\\back-cast off, right and left."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

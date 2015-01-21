@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Ryan's Mammoth Collection of Fiddle Tunes"
+	%% book = "Ryan's Mammoth Collection of Fiddle Tunes"
 	crossRefNumber = "1"
 	footnotes = "\\\\Often called Lady Washington's Reel or Boston Fancy\\\\LADY WALPOLE'S REEL. -- First couple cross over and balance, turn same;\\\\down the centre with partners, and back, (each remain on the others side\\\\of set until the foot) Ladies' chain. -- half promenade, half right and\\\\left to places."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

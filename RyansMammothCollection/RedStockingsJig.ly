@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Coles pg. 75.3"
+	%% book = "Coles pg. 75.3"
 	crossRefNumber = "11"
 	footnotes = "\\\\Compare Rakes of Westmeat:h/Blast of Wind, pg 65"
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

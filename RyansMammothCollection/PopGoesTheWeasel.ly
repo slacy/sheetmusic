@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Coles pg. 24.6"
+	%% book = "Coles pg. 24.6"
 	crossRefNumber = "22"
 	footnotes = "\\\\POP GOES THE WEASEL -- First couple down the outside, back.  Down the\\\\centre, back. Three hands half round with second lady; first couple\\\\raise hands, second lady pops under to place.  First couple, three\\\\hands half round with second gent; first couple raise hands, second\\\\gent pops under to place."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

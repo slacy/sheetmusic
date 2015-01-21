@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Cole's 1000 Fiddle Tunes"
+	%% book = "Cole's 1000 Fiddle Tunes"
 	crossRefNumber = "1"
 	footnotes = "\\\\\\\\HULL'S VICTORY. First couple give right hands and swing half round, (First lady\\\\give left hand to 2d gent's right, gent. give left hand to 2d lady's right,)\\\\balance 4 in a line; First lady swing with 2d gent, first gent. swing with 2d\\\\lady at: same time and pass partner; join hands again with 2d couple, balance\\\\4 in a line, swing to places, down the centre with partner, up, cast off, right\\\\and left 4."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"

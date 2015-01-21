@@ -1,7 +1,7 @@
 \version "2.7.40"
 \include "Mammoth.ily"
 \header {
-	book = "Coles pg 26.8"
+	%% book = "Coles pg 26.8"
 	crossRefNumber = "8"
 	footnotes = "\\\\GOOD GIRL -- First lady turn second gent, first gent turn second lady.\\\\Four hands half round, and back to places.  Two couples down centre,\\\\back, first couple cast off.  Right and left 4."
 	tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
