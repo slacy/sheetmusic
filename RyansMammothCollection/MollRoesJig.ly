@@ -10,23 +10,23 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 9/8 \key g \minor   d'8 ^\upbow       |
-   d'8    g'8    g'8    a'8 
-   bes'8    g'8    f'8    g'8    a'8    |
-   bes'8    g'8    bes'8    
-c''8    a'8    bes'8    c''4    a'8    |
-   d'8    g'8    g'8    a'8    
-bes'8    g'8    f'8    g'8    a'8    |
-   d''8    ees''8    d''8    c''8  
-  a'8    f'8    g'4    }     \repeat volta 2 {   d''8        |
-   d''8    
-bes'8    d''8    c''8    a'8    g'8    f'8    g'8    a'8    |
-   d''8    
-bes'8    d''8    c''8    a'8    bes'8    c''4    ees''8    |
-   d''8    
-bes'8    d''8    c''8    a'8    g'8    f'8    g'8    a'8    |
-   bes'8    
-d''8    bes'8    c''8    a'8    f'8    g'4    }   
+\time 9/8 \key g \minor d'8 ^\upbow       |
+ d'8 g'8 g'8 a'8 
+ bes'8 g'8 f'8 g'8 a'8    |
+ bes'8 g'8 bes'8    
+c''8 a'8 bes'8 c''4 a'8    |
+ d'8 g'8 g'8 a'8    
+bes'8 g'8 f'8 g'8 a'8    |
+ d''8 ees''8 d''8 c''8  
+ a'8 f'8 g'4    }     \repeat volta 2 { d''8        |
+ d''8    
+bes'8 d''8 c''8 a'8 g'8 f'8 g'8 a'8    |
+ d''8    
+bes'8 d''8 c''8 a'8 bes'8 c''4 ees''8    |
+ d''8    
+bes'8 d''8 c''8 a'8 g'8 f'8 g'8 a'8    |
+ bes'8    
+d''8 bes'8 c''8 a'8 f'8 g'4    }   
 }
 
 \score{

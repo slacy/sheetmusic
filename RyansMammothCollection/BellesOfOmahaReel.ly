@@ -11,37 +11,37 @@ voicedefault =  {
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key g \major   b'4 ^\downbow(\grace {    c''8  }   b'8)   a'8   
- b'8    g'8    e'8    fis'8    |
-   g'8    a'8    b'8    d''8    e''8    
-fis''8    g''8    e''8    |
-   b'4 (\grace {    c''8  }   b'8)   a'8  
-  b'8    g'8    e'8    fis'8    |
-   g'8    b'8    a'8    fis'8    e'8    
-fis'8    g'8    a'8    |
-     b'4 (\grace {    c''8  }   b'8)   a'8   
- b'8    g'8    e'8    fis'8    |
-   g'8    a'8    b'8    d''8    e''8    
-fis''8    g''8    e''8    |
-   b'4 (\grace {    c''8  }   b'8)   a'8  
-  b'8    g'8    e'8    fis'8    |
-   g'8    b'8    a'8    fis'8    e'8    
-fis'8    g'8    a'8    }     \repeat volta 2 {   b'8 ^\downbow   d''8    e''8   
- fis''8 (\grace {    a''8  }   g''8)   fis''8    g''8    b''8    |
+ \time 2/2 \key g \major b'4 ^\downbow(\grace { c''8  } b'8) a'8   
+ b'8 g'8 e'8 fis'8    |
+ g'8 a'8 b'8 d''8 e''8    
+fis''8 g''8 e''8    |
+ b'4 (\grace { c''8  } b'8) a'8  
+ b'8 g'8 e'8 fis'8    |
+ g'8 b'8 a'8 fis'8 e'8    
+fis'8 g'8 a'8    |
+ b'4 (\grace { c''8  } b'8) a'8   
+ b'8 g'8 e'8 fis'8    |
+ g'8 a'8 b'8 d''8 e''8    
+fis''8 g''8 e''8    |
+ b'4 (\grace { c''8  } b'8) a'8  
+ b'8 g'8 e'8 fis'8    |
+ g'8 b'8 a'8 fis'8 e'8    
+fis'8 g'8 a'8    }     \repeat volta 2 { b'8 ^\downbow d''8 e''8   
+ fis''8 (\grace { a''8  } g''8) fis''8 g''8 b''8    |
    
-a''8    g''8    fis''8    g''8    e''8    d''8    b'8    a'8    |
-   b'8  
-  d''8    e''8    fis''8 (\grace {    a''8  }   g''8)   fis''8    g''8    
+a''8 g''8 fis''8 g''8 e''8 d''8 b'8 a'8    |
+ b'8  
+ d''8 e''8 fis''8 (\grace { a''8  } g''8) fis''8 g''8    
 b''8    |
-   a''8    g''8    fis''8    g''8    e''8    fis''8    g''8    
+ a''8 g''8 fis''8 g''8 e''8 fis''8 g''8    
 e''8    |
-     b'4 (\grace {    c''8  }   b'8)   a'8    b'8    g'8    
-e'8    fis'8    |
-   g'8    a'8    b'8    d''8    e''8    fis''8    g''8  
-  e''8    |
-       b'4 (\grace {    c''8  }   b'8)   a'8    b'8    
-g'8    e'8    fis'8    } \alternative{{   g'8    b'8    a'8    fis'8    e'4    
-b'4    } {     g'8 ^"last"   b'8    a'8    fis'8    e'4 ^\fermata   r4   
+ b'4 (\grace { c''8  } b'8) a'8 b'8 g'8    
+e'8 fis'8    |
+ g'8 a'8 b'8 d''8 e''8 fis''8 g''8  
+ e''8    |
+ b'4 (\grace { c''8  } b'8) a'8 b'8    
+g'8 e'8 fis'8    } \alternative{{ g'8 b'8 a'8 fis'8 e'4    
+b'4    } { g'8 ^"last" b'8 a'8 fis'8 e'4 ^\fermata   r4   
 \bar "|."   }}
 }
 

@@ -9,36 +9,36 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 2/4 \key g \major   \times 2/3 {   d'16 (^\upbow   e'16    fis'16) }   
-\repeat volta 2 {   g'8 ^"Segno"^\downbow   b'16 (a'16)   g'8    b'16 (
+\time 2/4 \key g \major   \times 2/3 { d'16 (^\upbow e'16 fis'16) }   
+\repeat volta 2 { g'8 ^"Segno"^\downbow b'16 (a'16) g'8 b'16 (
 g'16) |
-   fis'16    g'16    a'16    b'16    c''8    b'16 (c''16  
+ fis'16 g'16 a'16 b'16 c''8 b'16 (c''16  
 -) |
-   d''16 (g''16)   g''16 (fis''16)   d''8    e''16 (
+ d''16 (g''16) g''16 (fis''16) d''8 e''16 (
 g''16) |
-   fis''16    d''16    c''16    a'16    b'16 (g'16)   
+ fis''16 d''16 c''16 a'16 b'16 (g'16)   
 a'16 (fis'16) |
-     g'8    b'16 (a'16)   g'8    b'16 (
+ g'8 b'16 (a'16) g'8 b'16 (
 g'16) |
-   fis'16    g'16    a'16    b'16    c''8    b'16 (c''16  
+ fis'16 g'16 a'16 b'16 c''8 b'16 (c''16  
 -) |
-   d''16 (g''16)   g''16 (fis''16)   d''8    e''16 (
+ d''16 (g''16) g''16 (fis''16) d''8 e''16 (
 g''16) |
-   fis''16    d''16    c''16    a'16    b'16    g'16    g'8  
-}       g''16 (^\downbow   fis''16    g''16)   e''16 -.   d''8    e''16 (
+ fis''16 d''16 c''16 a'16 b'16 g'16 g'8  
+} g''16 (^\downbow fis''16 g''16) e''16 -. d''8 e''16 (
 fis''16) |
-   g''16    fis''16    g''16    a''16    b''16    g''16    
-a''16    fis''16  |
-   g''16 (fis''16    g''16)   e''16 -.   d''8   
+ g''16 fis''16 g''16 a''16 b''16 g''16    
+a''16 fis''16  |
+ g''16 (fis''16 g''16) e''16 -. d''8   
  e''16 (g''16) |
-   fis''16    d''16    c''16    a'16    b'16 (
-g'16)   g'8  |
-     g''16 (fis''16    g''16)   e''16 -.   d''8   
+ fis''16 d''16 c''16 a'16 b'16 (
+g'16) g'8  |
+ g''16 (fis''16 g''16) e''16 -. d''8   
  e''16 (fis''16) |
-   g''16    fis''16    g''16    a''16    b''16   
- g''16    a''16    fis''16  |
-   g''16 (fis''16    g''16)   e''16 
--.   d''8    e''16 (g''16) \bar "||"   
+ g''16 fis''16 g''16 a''16 b''16   
+ g''16 a''16 fis''16  |
+ g''16 (fis''16 g''16) e''16 
+-. d''8 e''16 (g''16) \bar "||"   
 }
 
 \score{

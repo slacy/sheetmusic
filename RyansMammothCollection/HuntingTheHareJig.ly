@@ -9,35 +9,35 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 6/8 \key d \major   \grace {    a'8 (^\downbow   b'8    cis''8  }     
-d''4 _"fz"   d'8 -.)   fis'8    g'8    a'8    |
-   b'8    cis''8    
-d''8      e''8-4   d''8    cis''8    |
-     d''4 (^\accent   d'8 -.) 
-  fis'8    g'8    a'8    |
-   b'8    d''8    cis''8    d''4.        
+\time 6/8 \key d \major   \grace { a'8 (^\downbow b'8 cis''8  }     
+d''4 _"fz" d'8 -.) fis'8 g'8 a'8    |
+ b'8 cis''8    
+d''8 e''8-4 d''8 cis''8    |
+ d''4 (^\accent d'8 -.) 
+ fis'8 g'8 a'8    |
+ b'8 d''8 cis''8 d''4.        
 |
-   \grace {    a'8 (^\downbow   b'8    cis''8  }     d''4 _"fz"   d'8 
--.)   fis'8    g'8    a'8    |
-   b'8    cis''8    d''8      e''8-4  
- d''8    cis''8    |
-     d''4 (^\accent   d'8 -.)   fis'8    g'8    
+   \grace { a'8 (^\downbow b'8 cis''8  } d''4 _"fz" d'8 
+-.) fis'8 g'8 a'8    |
+ b'8 cis''8 d''8 e''8-4  
+ d''8 cis''8    |
+ d''4 (^\accent d'8 -.) fis'8 g'8    
 a'8    |
-   b'8    d''8    cis''8    d''4.    \bar "||"  >> \bar "|."     
-fis''8 ^\fermata^\downbow   e''8    d''8    fis''8    e''8    d''8    |
+ b'8 d''8 cis''8 d''4.    \bar "||"  >> \bar "|."     
+fis''8 ^\fermata^\downbow e''8 d''8 fis''8 e''8 d''8    |
   
- fis''8    e''8    d''8    fis''8    e''8    d''8    |
-     e''8-4   
-cis''8    d''8      e''8-4   cis''8    d''8    |
-     e''8-0   g''8 
-   fis''8    e''4.        |
-   fis''8    e''8    d''8    fis''8    e''8   
+ fis''8 e''8 d''8 fis''8 e''8 d''8    |
+ e''8-4   
+cis''8 d''8 e''8-4 cis''8 d''8    |
+ e''8-0 g''8 
+ fis''8 e''4.        |
+ fis''8 e''8 d''8 fis''8 e''8   
  d''8    |
-   fis''8    e''8    d''8    fis''8    e''8    d''8    
+ fis''8 e''8 d''8 fis''8 e''8 d''8    
 |
-     e''8-4   cis''8    d''8      e''8-4   cis''8    d''8    
+ e''8-4 cis''8 d''8 e''8-4 cis''8 d''8    
 |
-     e''8-0   g''8    fis''8    e''4.    <<   \bar "|."  >>   
+ e''8-0 g''8 fis''8 e''4.    <<   \bar "|."  >>   
 }
 
 \score{

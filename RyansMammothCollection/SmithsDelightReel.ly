@@ -10,42 +10,42 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 2/4 \key d \major   \grace {    g''16  }   fis''16 ^\downbow-.   e''16 -. 
+\time 2/4 \key d \major   \grace { g''16  } fis''16 ^\downbow-. e''16 -. 
 |
-     d''8 -.   b'16    d''16    a'8 -.   fis'16    a'16    |
+ d''8 -. b'16 d''16 a'8 -. fis'16 a'16    |
  
-\grace {    cis''16  }   b'16 -.   a'16 -.   fis'16 (a'16)   d'8 -. 
-\grace {    fis'16  }   e'16 -.   d'16 -.   |
-   b16    d'16    a16    
-d'16    d'16    fis'16    b'16    fis'16    |
-   a'16    a'16    d'16    
-fis'16    e'8  \grace {    g''16  }   fis''16 -.   e''16 -.   |
-     d''8 
--.   b'16    d''16    a'8 -.   fis'16    a'16    |
- \grace {    cis''16  
-}   b'16 -.   a'16 -.   fis'16 (a'16)   d'8 -. \grace {    fis'16  }   
-e'16 -.   d'16 -.   |
-   b16    d'16    a16    d'16    d'16    fis'16    
-b'16    a'16    |
-   fis'16    a'16    e'16    a'16    d'8    
-} \repeat volta 2 {     e''16 ^\upbow(fis''16) |
-     a''16    
-fis''16    e''16    d''16    b''16    a''16    fis''16    d''16    |
+\grace { cis''16  } b'16 -. a'16 -. fis'16 (a'16) d'8 -. 
+\grace { fis'16  } e'16 -. d'16 -.   |
+ b16 d'16 a16    
+d'16 d'16 fis'16 b'16 fis'16    |
+ a'16 a'16 d'16    
+fis'16 e'8  \grace { g''16  } fis''16 -. e''16 -.   |
+ d''8 
+-. b'16 d''16 a'8 -. fis'16 a'16    |
+ \grace { cis''16  
+} b'16 -. a'16 -. fis'16 (a'16) d'8 -. \grace { fis'16  }   
+e'16 -. d'16 -.   |
+ b16 d'16 a16 d'16 d'16 fis'16    
+b'16 a'16    |
+ fis'16 a'16 e'16 a'16 d'8    
+} \repeat volta 2 { e''16 ^\upbow(fis''16) |
+ a''16    
+fis''16 e''16 d''16 b''16 a''16 fis''16 d''16    |
    
-a'16    d''16    fis''16    d''16    e''16 -.   d''16 (b'16    d''16)   
+a'16 d''16 fis''16 d''16 e''16 -. d''16 (b'16 d''16)   
 |
-   d'16    fis'16    a'16    d''16    fis'16    a'16    d''16    e''16  
+ d'16 fis'16 a'16 d''16 fis'16 a'16 d''16 e''16  
   |
-   fis''16    a''16    d''16    fis''16    e''8 -.   fis''16 (
+ fis''16 a''16 d''16 fis''16 e''8 -. fis''16 (
 g''16)   |
-     a''16    fis''16    e''16    d''16    b''16    a''16   
- fis''16    d''16    |
-   a'16    d''16    fis''16    d''16    e''16 -.   
-d''16 (b'16    d''16)   |
-   d'16    fis'16    a'16    d''16    
-fis'16    a'16    d''16    fis''16    |
-   e''16 -.   a'16 (cis''16  
--)   e''16 -.   d''8    }   
+ a''16 fis''16 e''16 d''16 b''16 a''16   
+ fis''16 d''16    |
+ a'16 d''16 fis''16 d''16 e''16 -.   
+d''16 (b'16 d''16)   |
+ d'16 fis'16 a'16 d''16    
+fis'16 a'16 d''16 fis''16    |
+ e''16 -. a'16 (cis''16  
+-) e''16 -. d''8    }   
 }
 
 \score{

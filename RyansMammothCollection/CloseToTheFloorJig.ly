@@ -11,37 +11,37 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 6/8 \key g \major   b'16 ^\upbow(c''16) |
-     d''8. (
-g''16)   e''8 -.   d''8.    b'16    g'8    |
-   a'8 -.   e'8 (fis'8 
-)   g'8.    d'16    b8    |
-   g8    b8    d'8    g'8    b'8    d''8    
+\time 6/8 \key g \major b'16 ^\upbow(c''16) |
+ d''8. (
+g''16) e''8 -. d''8. b'16 g'8    |
+ a'8 -. e'8 (fis'8 
+) g'8. d'16 b8    |
+ g8 b8 d'8 g'8 b'8 d''8    
 |
- \grace {    d''8  }   c''8    b'8    c''8    a'8    b'8    c''8    
+ \grace { d''8  } c''8 b'8 c''8 a'8 b'8 c''8    
 |
-     d''8 (g''8)   e''8 -.   d''8.    b'16    g'8    |
+ d''8 (g''8) e''8 -. d''8. b'16 g'8    |
    
-a'8.    e'16 (fis'8)   g'8.    d'16    b8    |
-   g8    b8    d'8   
- g'8    a'8    c''8    |
-   b'8    g'8    g'8    g'4  }     
-\repeat volta 2 {   d''16 ^\upbow(c''16) |
-     b'8 -.   d''8 -.   
-g''8 (b''8)   a''8 -.   g''8 -.   |
-   fis''8 -.   e''8 -.   d''8 (
-  c''8)   a'8 -.   fis'8 -.   |
-   d'8 (g'8)   g'8 -.   fis'8 (
- a'8)   a'8 -.   |
-   g'8 (b'8)   b'8 -.   a'8 -.   b'8 (c''8 
+a'8. e'16 (fis'8) g'8. d'16 b8    |
+ g8 b8 d'8   
+ g'8 a'8 c''8    |
+ b'8 g'8 g'8 g'4  }     
+\repeat volta 2 { d''16 ^\upbow(c''16) |
+ b'8 -. d''8 -.   
+g''8 (b''8) a''8 -. g''8 -.   |
+ fis''8 -. e''8 -. d''8 (
+ c''8) a'8 -. fis'8 -.   |
+ d'8 (g'8) g'8 -. fis'8 (
+ a'8) a'8 -.   |
+ g'8 (b'8) b'8 -. a'8 -. b'8 (c''8 
 )   |
-     b'8 -.   d''8 (g''8)   b''8.    a''16    g''8   ~    
+ b'8 -. d''8 (g''8) b''8. a''16 g''8   ~    
 |
-   g''8    fis''8 -.   e''8 -.   d''8    b'8    g'8    |
-   c''8. 
-   e''16 (c''8)   b'8.    a'16    g'8    |
-   a'8 -.   e'8 (
-fis'8)   g'4  }   
+ g''8 fis''8 -. e''8 -. d''8 b'8 g'8    |
+ c''8. 
+ e''16 (c''8) b'8. a'16 g'8    |
+ a'8 -. e'8 (
+fis'8) g'4  }   
 }
 
 \score{

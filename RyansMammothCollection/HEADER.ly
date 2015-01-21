@@ -6,7 +6,7 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-                    b''8 ^\trill   e''8    e''8                        
+ b''8 ^\trill e''8 e''8                        
 }
 
 \score{
