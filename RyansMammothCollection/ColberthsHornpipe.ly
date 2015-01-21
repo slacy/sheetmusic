@@ -29,7 +29,7 @@ g''16 d''16 e''16 c''16 a'16 fis'16    |
  g'8 g'8    
 g'8    }     \repeat volta 2 { d''16 (^\upbow c''16)       |
    
-b'16 ^\downbow-. g'16 (^\upbow d'16 g'16) b'16 g'16 d'16    
+b'16^\downbow-. g'16 (^\upbow d'16 g'16) b'16 g'16 d'16    
 g'16    |
  b'16 -. g'16 (d'16 g'16) d''8 -. c''16 
 (^\upbow b'16)   |

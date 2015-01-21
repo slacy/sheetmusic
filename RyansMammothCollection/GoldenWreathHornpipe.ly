@@ -11,8 +11,8 @@ voicedefault =  {
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key d \major a'4 ^\upbow       |
- d''8 ^\downbow cis''8 
+ \time 2/2 \key d \major a'4^\upbow       |
+ d''8^\downbow cis''8 
  d''8 e''8-4 d''8 e''8-0 fis''8 d''8    |
  e''8 
 -4 dis''8 e''8-0 fis''8 e''8 fis''8 g''8 e''8    
@@ -29,7 +29,7 @@ fis''8 e''8 fis''8 g''8 e''8    |
  fis''8 a''8 d''8   
  fis''8 e''8 g''8 cis''8 e''8-4   |
  d''4 fis''4    
-d''4    }     \repeat volta 2 { a''8 ^\downbow g''8 ^\upbow       |
+d''4    }     \repeat volta 2 { a''8^\downbow g''8^\upbow       |
   
  fis''8 g''8 a''8 fis''8 g''8 a''8 b''8 g''8    |
    

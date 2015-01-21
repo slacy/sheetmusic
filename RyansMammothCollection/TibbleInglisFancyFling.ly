@@ -13,12 +13,12 @@ voicedefault =  {
  \time 2/2 \key d \major   \repeat volta 2 { d'8. (^\downbow fis'16 -.) 
  a'8. (^\upbow b'16 -.) a'8. (fis'16 -.) a'8. (d''16 -.)   
 |
- d'8. ^"SEGUE" fis'16 a'8. b'16 a'8. fis'16 e'4      
+ d'8.^"SEGUE" fis'16 a'8. b'16 a'8. fis'16 e'4      
   |
  d'8. fis'16 a'8. b'16 a'8. fis'16 a'8. d''16  
   |
  fis''8. d''16 e''8.-4 cis''16 d''4 d''4    }     
-\repeat volta 2 { fis''8. ^\fermata^\downbow d''16 e''8. fis''16    
+\repeat volta 2 { fis''8.^\fermata^\downbow d''16 e''8. fis''16    
 g''8. fis''16 e''8. d''16    |
  cis''8. a'16 e''8.    
 a'16 fis''8. a'16 e''8. a'16    |

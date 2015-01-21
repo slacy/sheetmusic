@@ -10,7 +10,7 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \time 2/4 \key g \major   \times 2/3 { d'16 (^\upbow e'16 fis'16) }   
-      \repeat volta 2 { g'8 ^"Segno" b'16 g'16 d''16 g'16 b'16  
+      \repeat volta 2 { g'8^"Segno" b'16 g'16 d''16 g'16 b'16  
  g'16    |
  fis'16 d'16 a'16 d'16 b'16 d'16 a'16    
 d'16    |
@@ -26,7 +26,7 @@ d'16    |
  g'8 b'16 g'16 d''16 g'16 b'16 d''16    
 |
  e''16 g''16 fis''16 a''16 g''8 g''8    <<   \bar "|." 
-  } g''16 ^"Fermat:a" d''16 b'16 d''16 e''16 d''16 b'16    
+  } g''16^"Fermat:a" d''16 b'16 d''16 e''16 d''16 b'16    
 d''16    |
  g''16 a''16 a''16 g''16 fis''16 d''16    
 e''16 fis''16    |

@@ -13,7 +13,7 @@ voicedefault =  {
 \repeat volta 2 {
 \time 2/4 \key bes \major d''16. (^\upbow c''32 -.)       |
    
-bes'16 ^\downbow g'16    r16 a'16 ^\upbow bes'8 d'16. (^\upbow   
+bes'16^\downbow g'16    r16 a'16^\upbow bes'8 d'16. (^\upbow   
 ees'32 -.)   |
  f'16. bes'32 a'16. c''32  \grace { c''16  
 } bes'16. a'32 bes'16. c''32    |
@@ -30,7 +30,7 @@ bes'16. c''32    |
  d''16. a'32 bes'16. d''32 g''16.    
 f''32 ees''16. d''32    |
  c''16. bes'32 a'16. c''32    
-bes'8    \bar "||"  >> }     \repeat volta 2 { bes'16. ^\fermata(^\upbow   
+bes'8    \bar "||"  >> }     \repeat volta 2 { bes'16.^\fermata(^\upbow   
 c''32 -.)       |
  d''16. f''32 g''16. a''32 bes''8.    
 f''16    |

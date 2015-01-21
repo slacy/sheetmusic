@@ -9,21 +9,21 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 2/4 \key g \major d''8 ^\upbow     \bar "||" g''16 ^"'"^"Segno"   
+\time 2/4 \key g \major d''8^\upbow     \bar "||" g''16^"'"^"Segno"   
 b'16 (ais'16 b'16) g''16 -. b'16 -. a''16 -. b'16 -.   
 |
- g''16 ^"'" b'16 (ais'16 b'16) d''16 ^"'" b'16 (
+ g''16^"'" b'16 (ais'16 b'16) d''16^"'" b'16 (
 ais'!16 b'16)   |
- g''16 ^"'" b'16 (ais'16 b'16)   
+ g''16^"'" b'16 (ais'16 b'16)   
 g''16 -. b'16 -. a''16 -. fis''16 -.   |
  e''16 fis''16    
 g''16 a''16 g''16 fis''16 e''16 d''16    |
  g''16 
 ^"'" b'16 (ais'16 b'16) g''16 -. b'16 -. a''16 -. b'16 -.   
 |
- g''16 ^"'" b'16 (ais'16 b'16) d''16 ^"'" b'16 (
+ g''16^"'" b'16 (ais'16 b'16) d''16^"'" b'16 (
 ais'!16 b'16)   |
- g''16 ^"'" b'16 (ais'16 b'16)   
+ g''16^"'" b'16 (ais'16 b'16)   
 g''16 -. b'16 -. a''16 -. fis''16 -.   |
  e''16 fis''16    
 g''16 a''16 g''16 fis''16 e''16 d''16    \bar "|." a''8 

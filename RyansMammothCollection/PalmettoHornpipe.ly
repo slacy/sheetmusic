@@ -30,7 +30,7 @@ b'8. cis''16 b'8. fis'16 d''8. cis''16  |
 cis''16 d''8. e''16 fis''8. gis''16 a''8. fis''16  |
  
 \times 2/3 { e''8 -. fis''8 -. e''8 -. }   \times 2/3 { d''8 -.   
-cis''8 -. b'8 -. } a'4  }     \repeat volta 2 { cis''4 ^\upbow |
+cis''8 -. b'8 -. } a'4  }     \repeat volta 2 { cis''4^\upbow |
    
 b'8. e''16-4 dis''8. e''16 b'8. gis''16 fis''!8.    
 gis''16  |

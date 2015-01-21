@@ -10,7 +10,7 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key bes \major f'4 ^\downbow         \repeat volta 2 { bes'8 
+ \time 2/2 \key bes \major f'4^\downbow         \repeat volta 2 { bes'8 
 ^"Segno"(d''8) f'8 (bes'8) d'8 -. f'8 -. bes'8 -. d''8 -. 
   |
  f''8 (bes''8) d''8 (f''8) bes'8 -. d''8 -. f'8 
@@ -25,11 +25,11 @@ d''8) f'8 (bes'8) d'8 -. f'8 -. bes'8 -. d''8 -.   |
   
  f''8 (bes''8) d''8 (f''8) bes'8 -. d''8 -. f'8 -. bes'8 
 -.       |
-   \times 2/3 { c''8 ^\downbow(b'8 c''8  } ees''8.  
+   \times 2/3 { c''8^\downbow(b'8 c''8  } ees''8.  
 -) c''16 a'8 -. f'8 -. g'8 -. a'8 -.   } \alternative{{ bes'4  <<  
  d''4 f'4   >> << bes'4 d'4   >> f'4        } { bes'4  << d''4    
-f'4   >> << bes'4 d'4   >>     \bar "|." c''8 ^"Fermat:a"(bes'8)   
-\bar "|."     \repeat volta 2 { a'8. ^\downbow f''16 c''8. f''16    
+f'4   >> << bes'4 d'4   >>     \bar "|." c''8^"Fermat:a"(bes'8)   
+\bar "|."     \repeat volta 2 { a'8.^\downbow f''16 c''8. f''16    
 a'8. f''16 c''8. f''16    |
  a'8. f'16 a'8. c''16    
 f''4 f''8 (e''8)       |

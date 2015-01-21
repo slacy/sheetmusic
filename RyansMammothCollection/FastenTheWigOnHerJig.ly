@@ -9,7 +9,7 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 6/8 \key d \mixolydian b'4 ^\downbow b'8 b'8 (a'8) b'8 -.  
+\time 6/8 \key d \mixolydian b'4^\downbow b'8 b'8 (a'8) b'8 -.  
  |
  d''8 e''8 fis''8 g''8 d''8 b'8    |
  a'4    
@@ -23,7 +23,7 @@ b'8 a'8        |
 -) a''8 -. a''4 g''8    |
  fis''8 d''8 d''8 d''4    
 c''8    \bar ":|" g''8 d''8 d''8 d''8 e''8 fis''8    \bar "|." 
-    \bar "|:" g''8 ^\downbow a''8 g''8 g''8 fis''8 e''8    
+    \bar "|:" g''8^\downbow a''8 g''8 g''8 fis''8 e''8    
 |
  d''4 d''8 d''8 (c''8) b'8 -.   |
  a'4 a'8   

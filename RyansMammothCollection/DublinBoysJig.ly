@@ -27,7 +27,7 @@ g'8 e'8 b'8 g'8 e'8    |
  fis'8 e'4    r8   \bar "|." e''4 (^\downbow fis''8 -.) g''4 (
  a''8 -.) b''8 g''8 e''8    |
  d''4 (^\upbow e''8 -.)  
- fis''4 ^"SEGUE" g''8 a''8 fis''8 d''8    |
+ fis''4^"SEGUE" g''8 a''8 fis''8 d''8    |
  e''4 
 ^\downbow fis''8 g''4 a''8 b''8 g''8 e''8    |
  d''8   

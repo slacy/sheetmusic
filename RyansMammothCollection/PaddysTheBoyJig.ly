@@ -11,14 +11,14 @@ voicedefault =  {
 
 \time 6/8 \key g \mixolydian d''16 (^\upbow c''16)       |
    
-b'4. ^\accent g'8 b'8 d''8    |
+b'4.^\accent g'8 b'8 d''8    |
  c''8 b'8 c''8 a'8    
 b'8 c''8    |
  b'8 a'8 b'8 g'8 b'8 d''8    |
    
 c''8 a'8 g'8 f'8 g'8 a'8        |
      \repeat volta 2 {   
-d''8 ^\upbow       |
+d''8^\upbow       |
  f''8 a''8 g''8 f''8 e''8 d''8    
 |
  c''8 a'8 g'8 f'8 g'8 a'8    |

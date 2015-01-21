@@ -9,7 +9,7 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 2/4 \key a \major e''16 ^\upbow(d''16) |
+\time 2/4 \key a \major e''16^\upbow(d''16) |
  cis''16 b'16 
  a'16 a''16    \times 2/3 { fis''16 (gis''16 a''16) } e''16 
 -. cis''16 -. |
@@ -27,7 +27,7 @@ b'16 (d''16) |
  cis''16 (e''16) fis''16 gis''16    
 a''16 gis''16 b''16 gis''16  |
  a''16 fis''16 e''16    
-cis''16 d''16 a'16 a'16  \bar "|." d''16 ^\upbow |
+cis''16 d''16 a'16 a'16  \bar "|." d''16^\upbow |
    
 \times 2/3 { cis''16 (b'16 a'16) } e''16 -. a'16 -. fis''16    
 a'16 e''16 a'16  |

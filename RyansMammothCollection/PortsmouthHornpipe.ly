@@ -11,7 +11,7 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 2/4 \key a \major e''8 ^\upbow |
+\time 2/4 \key a \major e''8^\upbow |
  a'16 cis''16 b'16    
 cis''16 a'16 fis'16 fis'16 e'16  |
  a'16 cis''16    

@@ -32,18 +32,18 @@ ees''8 (d''8 c''8) } |
  bes'4 bes''4 bes'4  }     
 \repeat volta 2 {   \times 2/3 { f''8 (^\upbow g''8 a''8) } |
   
- << bes''4 ^\accent d''4   >> d'8. f'16 bes'8. d''16 f''8.    
+ << bes''4^\accent d''4   >> d'8. f'16 bes'8. d''16 f''8.    
 bes''16  |
-   << g''4 ^\accent bes'4   >> ees'8. g'16 bes'8.    
+   << g''4^\accent bes'4   >> ees'8. g'16 bes'8.    
 ees''16 g''8. bes''16  |
-     << f''4 ^\accent a'4   >> c'8.    
+     << f''4^\accent a'4   >> c'8.    
 ees'16 a'8. c''16 ees''8. f''16  |
-   << d''4 ^\accent   
+   << d''4^\accent   
 f'4   >> bes8. d'16 f'8. a'16 d''8. f''16  |
      <<   
-bes''4 ^\accent d''4   >> d'8. f'16 bes'8. d''16 f''8. bes''16 
+bes''4^\accent d''4   >> d'8. f'16 bes'8. d''16 f''8. bes''16 
  |
-   << g''4 ^\accent bes'4   >> ees'8. g'16 bes'8. ees''16 
+   << g''4^\accent bes'4   >> ees'8. g'16 bes'8. ees''16 
  g''8. bes''16  |
  a''8. g''16 f''8. e''16 ees''!8.  
  a'16 d''8. c''16  |

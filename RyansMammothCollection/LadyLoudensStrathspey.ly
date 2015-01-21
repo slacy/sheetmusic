@@ -10,11 +10,11 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
  \override Staff.TimeSignature #'style = #'C
- \time 4/4 \key c \major e''8 ^\upbow       |
+ \time 4/4 \key c \major e''8^\upbow       |
  g''16 (^\downbow   
 c''8.) g''8. (e''16 -.) g''16 (c''8.) g''8. (e''16 -.) 
   |
- g''16 ^"SEGUE"(c''8.) g''8. e''16 a''16 (d''8.  
+ g''16^"SEGUE"(c''8.) g''8. e''16 a''16 (d''8.  
 -) d''8. e''16        |
  g''16 (c''8.) g''8. e''16    
 g''16 (c''8.) g''8. e''16    |
@@ -33,7 +33,7 @@ e''16 (c''8.) c''8    \bar "|." e''8-4^\upbow       |
    
  g'8. (^\downbow c''16) e'8. (c''16 -.) g'8. (c''16 -.)   
 e''8.-4 c''16    |
- g'8. ^"SEGUE" c''16 e'8. c''16    
+ g'8.^"SEGUE" c''16 e'8. c''16    
 d''16 (d'8.) d'8. e''16-4       |
  g'8. c''16 e'8.  
  c''16 g'8. c''16 e''8.-4 c''16    |

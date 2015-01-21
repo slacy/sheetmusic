@@ -20,13 +20,13 @@ d'8    |
  
 \grace { d''8  } cis''8 b'8 cis''8  \grace { cis''8  } b'8    
 a'8 fis'8        |
- fis''4. ^\accent d''4 (b'8)   |
+ fis''4.^\accent d''4 (b'8)   |
    
 a'8 d''8 b'8  \grace { cis''8  } b'8 a'8 fis'8    |
    
 fis'8 b'8 b'8 b'8 cis''8 d''8    |
  \grace { d''8  }   
-cis''8 b'8 cis''8 b'4    }     \repeat volta 2 { a'8 ^\upbow       
+cis''8 b'8 cis''8 b'4    }     \repeat volta 2 { a'8^\upbow       
 |
  fis''8. e''16 d''8 fis''8. e''16 d''8    |
    

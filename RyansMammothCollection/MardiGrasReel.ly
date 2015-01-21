@@ -11,7 +11,7 @@ voicedefault =  {
 
 \repeat volta 2 {
 \time 2/4 \key a \major     << d'8 _"p"^\downbow-. fis'8   >>  ~    <<   
-d'8 ^\downbow-. fis'8   >>   << cis'8 ^\upbow-. e'8   >>  ~    << cis'8 
+d'8^\downbow-. fis'8   >>   << cis'8^\upbow-. e'8   >>  ~    << cis'8 
 ^\upbow-. e'8   >>   |
      << d'8 -. fis'8   >>  ~    << d'8 -.  
  fis'8   >>   << cis'8 -. e'8   >>  ~    << cis'8 -. e'8   >>   
@@ -34,16 +34,16 @@ b'16    |
 b'16 a'16    |
  e''8 cis''16 a'16 fis''8 d''16 b'16   
  |
- e''8    << d''8 ^\accent gis''8   >>   << cis''4 
+ e''8    << d''8^\accent gis''8   >>   << cis''4 
 _"ff"^\accent a''4   >>   |
  e''8 _"mf" cis''16 a'16    
 fis''8 d''16 b'16    |
  e''8 _"cresc~~~" cis''16 a'16    
 d''16 cis''16 b'16 a'16    |
- a8    << cis'8 ^\accent e'8  
- >>   << d'4 ^\accent fis'4   >>   |
+ a8    << cis'8^\accent e'8  
+ >>   << d'4^\accent fis'4   >>   |
  e'8 _"ff"   << d''8 
-^\accent gis''8   >>   << cis''4 ^\accent a''4   >>   }   
+^\accent gis''8   >>   << cis''4^\accent a''4   >>   }   
 }
 
 \score{

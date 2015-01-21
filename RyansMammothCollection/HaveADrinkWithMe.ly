@@ -24,10 +24,10 @@ g'8 e'8 g'8 d'8  |
  b'8 a'8 g'8 
  e'8 g'8 d'8  |
  e'8 g'8 (-. g'8 -.) g'4  }     
-\repeat volta 2 { d'8 ^\upbow |
+\repeat volta 2 { d'8^\upbow |
  g'8 b'8 d''8 e''4-4   
 d''8  |
- d''8 g''8 d''8 b'4 ^"tr" a'8  |
+ d''8 g''8 d''8 b'4^"tr" a'8  |
  g'8    
 b'8 d''8 e''4 d''8  |
  e''8 a''8 a''8 a''8 g''8 (

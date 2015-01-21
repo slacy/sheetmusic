@@ -10,9 +10,9 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key d \major   \grace { cis''8  } d''4 ^\upbow     |
+ \time 2/2 \key d \major   \grace { cis''8  } d''4^\upbow     |
     
- a'8 ^"Segno" d'8 fis'8 d'8 a'8 d'8 fis'8 d'8    |
+ a'8^"Segno" d'8 fis'8 d'8 a'8 d'8 fis'8 d'8    |
    
 a'8 d'8 fis'8 d'8 a'4 g'8 (fis'8)   |
  e'8    
@@ -27,7 +27,7 @@ d'8 fis'8 a'4 b'8 (cis''8)   |
 a'8 b'8 g'8 a'8-4 fis'8    |
  e'8 fis'8 g'8 a'8  
  b'4    \bar ":|" e'8 fis'8 g'8 a'8 b'4    r8   \bar "|."     
-\bar "|:" a'8 ^\downbow d''8 fis''8 d''8 a'8 d''8 fis''8    
+\bar "|:" a'8^\downbow d''8 fis''8 d''8 a'8 d''8 fis''8    
 d''8    |
  a'8 d''8 fis''8 d''8 a''4 g''8 (fis''8) 
   |

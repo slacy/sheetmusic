@@ -27,7 +27,7 @@ e'16 f'16) |
  bes'16 d''16  |
  c''16 bes'16 a'16 c''16 bes'8  
 \bar ":|" c''16 bes'16 a'16 c''16 bes'8    r8 \bar "|."     
-\bar "|:" f''8. ^\downbow g''16 f''16 e''16 f''16 fis''16  
+\bar "|:" f''8.^\downbow g''16 f''16 e''16 f''16 fis''16  
 |
  g''8 g''8 g''8. a''16  |
  bes''16 a''16 g''16 

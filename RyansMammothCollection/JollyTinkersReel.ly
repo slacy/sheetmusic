@@ -10,8 +10,8 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key a \dorian g''8 ^\downbow fis''8    |
- e''8 ^"Segno" 
+ \time 2/2 \key a \dorian g''8^\downbow fis''8    |
+ e''8^"Segno" 
  a'8 a'8 g''8 e''8 d''8 b'8 d''8  |
  e''8 a'8    
 a'8 fis''8 g''4 fis''8 g''8  |

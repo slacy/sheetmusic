@@ -15,22 +15,22 @@ voicedefault =  {
  f''4 
 ^\downbow^\trill e''8. f''16 c''8. f''16 a''8. g''16    
 |
- f''4 ^\trill e''8. f''16 c''8. f''16 a''8. g''16    
+ f''4^\trill e''8. f''16 c''8. f''16 a''8. g''16    
 |
  f''4 a'8. c''16 f''8. a''16-1 d'''8.-4 c'''16 
 -3   |
      \times 2/3 { c'''8-3 bes''8-2 g''8-2 }     
 e''4-0   \times 2/3 { bes''8 g''8 e''8  } c''4    |
      
-f''4 ^\trill e''8. f''16 c''8. f''16 a''8. g''16    |
+f''4^\trill e''8. f''16 c''8. f''16 a''8. g''16    |
    
-f''4 ^\trill e''8. f''16 c''8. f''16 a''8. g''16    |
+f''4^\trill e''8. f''16 c''8. f''16 a''8. g''16    |
    
  f''8.-1 a''16-1 d'''8. c'''16 bes''8.-2 g''16-2   
 d''8. e''16    |
  f''4 a''4 f''4  }     \repeat volta 2 {   
-bes''8. ^\upbow(a''16 -.) |
-     \times 2/3 { a''8 ^\downbow(
+bes''8.^\upbow(a''16 -.) |
+     \times 2/3 { a''8^\downbow(
 bes''8 a''8) } e''8. g''16 f''8. d''16    \times 2/3 { d''8 
 (cis''8 d''8) }   |
  e''8.-4 a'16 cis''8. e''16 
@@ -49,8 +49,8 @@ d''8) } a'8. bes''16 a''8. f''16 e''!8. f''16    |
  f''8 (e''8 g''8) } f''4    \times 2/3 { a''8 (g''8 bes''8  
 -) } a''4    |
  bes''8. c''16 e''8. g''16 f''4    }   
-\key bes \major g''8. ^\upbow(f''16 -.) |
- f''8. ^\downbow(
+\key bes \major g''8.^\upbow(f''16 -.) |
+ f''8.^\downbow(
 ees''16 -.) c''8. a'16 f'8. ees'16 c'8. a16    |
    
 bes4 d'8. f'16 bes'8. d''16    \times 2/3 { f''8 (g''8 a''8 

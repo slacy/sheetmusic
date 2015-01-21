@@ -12,9 +12,9 @@ voicedefault =  {
 
 \repeat volta 2 {
 \time 2/4 \key g \major d'16 _"f"^\upbow |
- d'16 ^\downbow g'8 
+ d'16^\downbow g'8 
 _"<>" g'16 g'16. a'32  |
- b'16 ^"SEGUE." g'16 a'16-4   
+ b'16^"SEGUE." g'16 a'16-4   
 fis'16 g'16 fis'16 e'16 d'16  |
  d'16 a'8 _"<>" a'16   
  a'16. c''32  |
@@ -32,9 +32,9 @@ d'16.   >> c''16  |
 -4^\upbow |
  d''16 b'16 g'16 a'16 b'8 g'8  |
    
-b'8 b'16 b'16    r16 a'32 ^\downbow g'16. ^\upbow |
+b'8 b'16 b'16    r16 a'32^\downbow g'16.^\upbow |
  d'16    
-g'8 ^"<>" b'16 a'16 g'16  |
+g'8^"<>" b'16 a'16 g'16  |
  d'16 d''16 d''16.      
 e''32-4^\upbow |
  d''16 b'16 g'16 a'16 b'16 g'16  

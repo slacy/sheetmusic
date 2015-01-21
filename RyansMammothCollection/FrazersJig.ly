@@ -28,11 +28,11 @@ d''8 b'8  |
 fis''16 _"f"^\upbow g''16  |
  a''8 fis''8 d''8 d''8    
 fis''8 d''8  |
- a''8 fis''8 d''8 d''4 fis''16 ^\upbow(
+ a''8 fis''8 d''8 d''4 fis''16^\upbow(
 g''16) |
  a''8 fis''8 d''8 d''8 fis''8 d''8  |
  
- g''8 e''8 e''8 e''4 fis''16 ^\upbow(g''16) |
+ g''8 e''8 e''8 e''4 fis''16^\upbow(g''16) |
      
 a''8 fis''8 d''8 d''8 fis''8 d''8  |
  a''8 fis''8    

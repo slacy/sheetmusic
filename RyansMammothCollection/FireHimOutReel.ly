@@ -9,7 +9,7 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 2/4 \key a \major e'8 ^\downbow a'16 b'16 cis''4 ^">"   
+\time 2/4 \key a \major e'8^\downbow a'16 b'16 cis''4^">"   
 |
  \grace { cis''16  } b'16 a'16 b'16 cis''16 b'16    
 a'16 fis'8    |
@@ -23,7 +23,7 @@ b'16 cis''16 b'16 a'16 fis'16 e'16    |
  a''16    
 gis''16 a''16 e''16 fis''16 e''16 cis''16 a'16    |
  << 
-      \repeat volta 2 { e'8 ^\upbow   |
+      \repeat volta 2 { e'8^\upbow   |
      \grace { b'16  } a'16 
  gis'16 a'16 b'16 a'16 e'16 cis'16 e'16    |
      

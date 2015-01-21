@@ -9,7 +9,7 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 2/4 \key g \major b16 ^\downbow e'8 ^\upbow fis'16 ^\upbow g'8    
+\time 2/4 \key g \major b16^\downbow e'8^\upbow fis'16^\upbow g'8    
 fis'16 (e'16) |
  d'8 fis'16 (d'16) a'16 (d'16)   
 fis'16 (d'16) |

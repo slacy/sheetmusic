@@ -11,24 +11,24 @@ voicedefault =  {
 
  \override Staff.TimeSignature #'style = #'C
  \time 4/4 % %slurgraces 1
- \key a \minor a''8 ^\upbow   |
- a'16 ^\downbow a'8. ^\upbow   
+ \key a \minor a''8^\upbow   |
+ a'16^\downbow a'8.^\upbow   
 e''8. (d''16 -.) e''16 (g''8.) a''4    |
- g''8. ^\upbow  
- d''16 ^\downbow e''16 (g''8.) d''8. (a'16 -.) b'16 (g'8.  
+ g''8.^\upbow  
+ d''16^\downbow e''16 (g''8.) d''8. (a'16 -.) b'16 (g'8.  
 -)   |
- a'16 ^\downbow a'8. ^\upbow e''8.-4(d''16 -.)   
-b'8. ^\upbow d''16 ^\downbow e''8. (^\upbow a''16 -.)   |
+ a'16^\downbow a'8.^\upbow e''8.-4(d''16 -.)   
+b'8.^\upbow d''16^\downbow e''8. (^\upbow a''16 -.)   |
    
 g''8. (a''16 -.)   \grace { g''16 (a''16  } b''8. b'16 -.)   
 b'16 (a'8.) a'8 (a''8)   |
- a'16 ^\downbow a'8. 
+ a'16^\downbow a'8. 
 ^\upbow e''8.-4(d''16 -.) e''8. (d''16 -.) e''16 (g''8. 
 ) a''4    |
- g''8. ^\upbow d''16 ^\downbow e''16 (g''8.)  
+ g''8.^\upbow d''16^\downbow e''16 (g''8.)  
  d''8. c''16 b'16 (g'8.)   |
- a'16 ^\downbow a'8. 
-^\upbow e''8.-4(d''16 -.) b'8. ^\upbow d''16 ^\downbow     
+ a'16^\downbow a'8. 
+^\upbow e''8.-4(d''16 -.) b'8.^\upbow d''16^\downbow     
 e''8. (^\upbow a''16 -.)   |
  g''8. (^\downbow a''16 -.)   
 \grace { g''16 (a''16  } b''8. b'16 -.) b'16 (a'8.) a'4  
@@ -40,7 +40,7 @@ e''8. (^\upbow a''16 -.)   |
  e''8. (a''16 -.) a''8. (g''16 -.) e''16 (g''8.  
 -) a''8. (b''16 -.)   |
  g''8. (a''16 -.) b''8. (b'16 
--.) b'16 ^"SEGUE"(a'8.) a'4    |
+-.) b'16^"SEGUE"(a'8.) a'4    |
  a'8. a''16    
 a''8. g''16 a''16 (b''8.) a''4    |
  g''8. a''16  

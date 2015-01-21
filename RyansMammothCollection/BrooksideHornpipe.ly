@@ -26,7 +26,7 @@ bes'8 a'8 bes'8 d''8  |
  c''8 (a''8) g''8 f''8    
 e''8 (d'''8-4) c'''8 bes''8  |
        \repeat volta 2 {   
-g''8 ^\downbow f''8 ees''8 c''8 a'8 f''8 g''8 (a''8) 
+g''8^\downbow f''8 ees''8 c''8 a'8 f''8 g''8 (a''8) 
 |
  c''8 (bes''8) f''8-1 d''8 bes'4 (\turn a'8    
 g'8) |

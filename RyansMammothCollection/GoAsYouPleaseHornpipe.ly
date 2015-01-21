@@ -28,7 +28,7 @@ c''8) } |
  bes''16 f''8. d''16    \times 2/3 { f''8 g''8 f''8  }   
 \times 2/3 { ees''8 d''8 c''8  } |
  bes'4 bes''4 bes'4  } 
-    \repeat volta 2 { a'8. ^\upbow bes'16  |
+    \repeat volta 2 { a'8.^\upbow bes'16  |
  c''8. b'16    
 c''8. a'16 f'8. a'16 c''8. ees''!16  |
  d''8. cis''16 

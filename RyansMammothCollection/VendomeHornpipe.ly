@@ -31,7 +31,7 @@ bes''16 a''8. g''16  |
 f'8) }   \times 2/3 { g'8 (f'8 e'8) } |
  \times 2/3 { f'8 
  a'8 c''8  }   \times 2/3 { f''8 c''8 a'8  } f'4  }     
-\repeat volta 2 { a'4 ^\upbow |
+\repeat volta 2 { a'4^\upbow |
  \times 2/3 { bes'8 a'8 g'8  }  
  \times 2/3 { a'8 g'8 f'8  }   \times 2/3 { e'8 (g'8 bes'8) 
 }   \times 2/3 { d''8 (c''8 bes'8) } |

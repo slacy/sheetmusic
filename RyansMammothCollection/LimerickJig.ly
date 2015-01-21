@@ -18,11 +18,11 @@ f''8 g''8 a''8    |
 (a'8 -.) f''8 g''8 a''8    |
  bes''4 (^\upbow a''8 -. 
 -) g''4 (f''8 -.) e''8 d''8 c''8    }     \repeat volta 2 {   
-c''8 ^\downbow d''8 c''8 f''4 (c''8 -.) f''8 g''8 a''8    
+c''8^\downbow d''8 c''8 f''4 (c''8 -.) f''8 g''8 a''8    
 |
- c''8 ^\upbow d''8 c''8 f''4 (c''8 -.) bes'8 a'8    
+ c''8^\upbow d''8 c''8 f''4 (c''8 -.) bes'8 a'8    
 g'8        |
- c''8 ^\downbow d''8 c''8 f''4 (c''8 -.)   
+ c''8^\downbow d''8 c''8 f''4 (c''8 -.)   
 f''8 g''8 a''8    |
  bes''4 (a''8 -.) g''4 (f''8 -.)  
  e''8 d''8 c''8    }   

@@ -29,15 +29,15 @@ fis''16 d''16 cis''16 b'16 a'16    |
  b'16 cis''16    
 d''16 a'16 b'16 g'16 e'16 cis'16    |
  d'8 d'8 d'8 
-   }     \repeat volta 2 { fis'16 ^\downbow g'16        |
+   }     \repeat volta 2 { fis'16^\downbow g'16        |
  a'16    
 fis'16 d''16 b'16 fis''16 d''16 a'16 fis'16    |
    
-g'16 a'16 b'16 g'16 e'8. fis''16 ^\upbow   |
+g'16 a'16 b'16 g'16 e'8. fis''16^\upbow   |
  g''16    
 fis''16 e''16 d''16 cis''16 d''16 e''16 fis''16    |
    
-e''16 d''16 cis''16 b'16 a'8. a'16 ^\upbow   |
+e''16 d''16 cis''16 b'16 a'8. a'16^\upbow   |
      
 |
    \times 2/3 { d''32 (e''32 d''32) } a'16 d''16    

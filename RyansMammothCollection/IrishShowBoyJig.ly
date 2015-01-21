@@ -25,7 +25,7 @@ cis''8. b'16 cis''8    |
  d''8 (fis''8) d''8 -.  
  a'8 fis'8 d'8    |
  e'8 (d'8) d'8 d'4    }     
-\repeat volta 2 { a'8 ^\upbow       |
+\repeat volta 2 { a'8^\upbow       |
  d''8 cis''8 d''8 b'8  
  cis''8 d''8    |
  e''8 fis''8 d''8 cis''8 b'8 a'8   

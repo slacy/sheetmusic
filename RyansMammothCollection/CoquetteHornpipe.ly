@@ -26,7 +26,7 @@ g''16 a''16 bes''16 g''16 f''16 e''16 d''16 c''16
 |
  d''16 bes'16 a'16 bes'16 c''16 bes''16 g''16    
 e''16  |
- f''8 f''8 f''8  }     \repeat volta 2 { c''8 ^\upbow 
+ f''8 f''8 f''8  }     \repeat volta 2 { c''8^\upbow 
 |
  g''16 a''16 bes''16 g''16 e''16-0 c''16 d''16  
  e''16  |

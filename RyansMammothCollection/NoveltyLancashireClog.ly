@@ -11,10 +11,10 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key a \major a'8. ^\downbow(cis''16 -.) e'8. ^\upbow(
+ \time 2/2 \key a \major a'8.^\downbow(cis''16 -.) e'8.^\upbow(
 gis'16 -.) a'8. (cis''16 -.) e''8. (a''16 -.)   |
      
-fis''8. ^"SEGUE" d''16 b'8. fis'16 d'8. fis'16 b'8. d''16   
+fis''8.^"SEGUE" d''16 b'8. fis'16 d'8. fis'16 b'8. d''16   
  |
  gis''8. e''16 d''8. b'16 fis''8. e''16 cis''8.  
  a'16    |
@@ -29,9 +29,9 @@ b'8. d''16    |
  a''16 cis''8. dis''16    |
  e''8. dis''16 e''8. fis''16 
  d''!8. b'16 gis'8. e'16    \bar ":|" e''4 gis''4 e''4  
-\bar "|." dis''8. ^\upbow(e''16-4) |
- fis''8. ^\downbow(
- e''16 -.) d''8. (b'16 -.) gis'8. ^"SEGUE" e'16 fis'8.    
+\bar "|." dis''8.^\upbow(e''16-4) |
+ fis''8.^\downbow(
+ e''16 -.) d''8. (b'16 -.) gis'8.^"SEGUE" e'16 fis'8.    
 gis'16    |
  a'8. e''16 cis''8. a''16 e''8. cis'''16 
 -3 a''8.-1 e''16-0   |
@@ -48,7 +48,7 @@ e''16 d''8. b'16 gis'8. e'16 fis'8. gis'16    |
  d''8  } eis''8. cis'''16-3 a''8.-1 fis''16-1   |
      
 \times 2/3 { e''8 fis''8 e''8  }   \times 2/3 { d''8 cis''8 b'8 
- } a'4      \bar ":|" cis''4 ^\fermata^\upbow |
+ } a'4      \bar ":|" cis''4^\fermata^\upbow |
  cis''8. 
 ^\downbow(a''16 -.) gis''8. (a''16 -.) fis''8. cis''16    
 \times 2/3 { cis''8 (bis'8 cis''8) }   |

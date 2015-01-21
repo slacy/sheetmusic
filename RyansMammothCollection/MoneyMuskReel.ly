@@ -8,7 +8,7 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 2/4 \key a \major fis''16 ^\upbow |
+\time 2/4 \key a \major fis''16^\upbow |
  e''16 a'16 cis''16   
  a'16 e''16 a'16 d''16 fis''16  |
  e''16 a'16 cis''16 
@@ -52,7 +52,7 @@ b''16 e''16 fis''16 gis''16  |
 a''16-1 cis'''16 a''16 b''16 a''16  |
  gis''16-2   
 fis''16 d''16 b'16 a'16  }     \repeat volta 2 {   \times 2/3 {   
-e''16 ^"Variat:ion second. -- To second strain, ad lib."(fis''16 gis''16  
+e''16^"Variat:ion second. -- To second strain, ad lib."(fis''16 gis''16  
 -) } |
  a''16-1 cis'''16 e''16-2 a''16 cis'''16    
 e''16-0 e'''16-0 e''16-0 |

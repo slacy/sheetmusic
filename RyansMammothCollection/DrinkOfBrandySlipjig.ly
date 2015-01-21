@@ -9,8 +9,8 @@
 voicedefault =  {
 \set Score.defaultBarType = "empty"
 
-\time 9/8 \key g \major d'8 ^\upbow   |
- g'4 ^"Segno" b'8 b'8  
+\time 9/8 \key g \major d'8^\upbow   |
+ g'4^"Segno" b'8 b'8  
  a'8 b'8 b'8 a'8 b'8    |
  g'4 b'8 b'8 a'8 b'8 
  c''4 a'8    |
@@ -24,7 +24,7 @@ b'8    |
  g'4 b'8 b'8 a'8    
 b'8 b'8 a'8 b'8    |
  a'8 b'8 a'8 a'4 b'8 c''4  
- a'8    \bar "|." g'4 ^\fermata^\downbow b'8 d''4 b'8 d''4    
+ a'8    \bar "|." g'4^\fermata^\downbow b'8 d''4 b'8 d''4    
 b'8    |
  g'4 b'8 d''4 b'8 c''4 a'8    |
  g'4    
