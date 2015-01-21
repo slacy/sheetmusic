@@ -11,7 +11,7 @@
 }
 
 mbreak = { \break }
-nbreak = { \noBreak }
+nbreak = { \noBreak  }
 mupbow = \upbow
 smallp = \markup { \small \dynamic "p" }
 tick = \markup { \musicglyph #"scripts.tickmark" }
