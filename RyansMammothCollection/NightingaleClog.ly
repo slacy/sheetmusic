@@ -12,7 +12,8 @@ voicedefault =  {
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key f \major   \times 2/3 { a'8 (bes'8 b'8) } |
+ \time 2/2 
+\key f \major   \times 2/3 { a'8 (bes'8 b'8) } |
    
  c''8. a''16 f''8. d''16    \times 2/3 { c''8 (b'8 c''8) } 
   \times 2/3 { d''8 (c''8 a'8) } |

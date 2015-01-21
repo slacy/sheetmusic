@@ -11,7 +11,8 @@ voicedefault =  {
 
 
  \override Staff.TimeSignature #'style = #'C
- \time 4/4 \key a \mixolydian cis''8^\upbow       |
+ \time 4/4 
+\key a \mixolydian cis''8^\upbow       |
  a'16^\downbow  
  a'8.^\upbow e''8. (cis''16 -.) e''8. (fis''16 -.) e''8    
 cis''8    |

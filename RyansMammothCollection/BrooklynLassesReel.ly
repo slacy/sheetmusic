@@ -12,6 +12,7 @@ voicedefault =  {
 
 \repeat volta 2 {
 \time 2/4
+
 \key e \dorian
   \override Score.SpacingSpanner #'common-shortest-duration = #(ly:make-moment 1 2)
 b'16^\downbow-. e''16-. e''16-. cis''16 (

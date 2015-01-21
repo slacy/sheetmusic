@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 2/4 \key g \major g''16^\downbow^\accent   \times 2/3 { b'32 
+\time 2/4 
+\key g \major g''16^\downbow^\accent   \times 2/3 { b'32 
 ^\upbow(c''32 b'32  } a'16 b'16) g''16^\accent b'16 a''16 
 ^\accent b'16    |
  g''16^\accent   \times 2/3 { b'32 (c''32    

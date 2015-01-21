@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 2/4 \key d \major a'16^\upbow       |
+\time 2/4 
+\key d \major a'16^\upbow       |
  d''8^\downbow a'16 
 ^\downbow d''16^\upbow b'16 d''16 a'16 d''16    |
  d''8 

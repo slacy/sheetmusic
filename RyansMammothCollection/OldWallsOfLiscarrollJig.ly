@@ -11,7 +11,8 @@ voicedefault =  {
 
 
 \repeat volta 2 {
-\time 6/8 \key a \mixolydian a'16^\upbow b'16  |
+\time 6/8 
+\key a \mixolydian a'16^\upbow b'16  |
  c''8 b'8    
 c''8 d''8 c''8 d''8    |
  e''8 c''8 b'8 a'8 g'8    

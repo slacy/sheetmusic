@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 9/8 \key e \minor g'4 (^\downbow a'8 -.) b'8 g'8 e'8    
+\time 9/8 
+\key e \minor g'4 (^\downbow a'8 -.) b'8 g'8 e'8    
 b'8 g'8 e'8    |
  fis'4 (^\upbow g'8 -.) a'8 fis'8    
 d'8 a'8 fis'8 d'8    |

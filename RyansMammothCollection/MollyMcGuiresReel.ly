@@ -11,7 +11,8 @@ voicedefault =  {
 
 
 \repeat volta 2 {
-\time 2/4 \key e \major e''16^\downbow cis''16  <<   |
+\time 2/4 
+\key e \major e''16^\downbow cis''16  <<   |
  b'8 
 ^"Segno" gis'16 b'16 e'16 b'16 gis'16 b'16    |
  e'16  

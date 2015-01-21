@@ -12,7 +12,8 @@ voicedefault =  {
   \override Score.SpacingSpanner #'common-shortest-duration = #(ly:make-moment 1 2)
   \time 4/4
   \tempo 4=100
-  \key a \minor
+  
+\key a \minor
   \partial 8
   \repeat volta 2 {
  e''8^\upbow |

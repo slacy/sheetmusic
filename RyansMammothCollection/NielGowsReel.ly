@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 2/4 \key a \major fis'16^\downbow(|
+\time 2/4 
+\key a \major fis'16^\downbow(|
  e'8) cis'16.    
 e'32 a16. e'32 cis'16. e'32  |
  a16. e'32 cis'16.    

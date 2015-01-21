@@ -11,7 +11,8 @@
 voicedefault =  {
 
 
-\time 2/4 \key b \minor % %indent 600
+\time 2/4 
+\key b \minor % %indent 600
    << b''4^\accent^\downbow b'4   >>   << b''4^\accent b'4   >>   
 |
    << b''4^\accent b'4   >>   << b''4^\accent b'4   >>   

@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 2/4 \key bes \major bes8_"mf"^\downbow bes'8 bes16 bes'16  
+\time 2/4 
+\key bes \major bes8_"mf"^\downbow bes'8 bes16 bes'16  
 \grace { c''16  }   \times 2/3 { bes'16 (a'16 bes'16) }   
 |
  d''16^\downbow bes'16 f''16 d''16 bes''16 bes'16  

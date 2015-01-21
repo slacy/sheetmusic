@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 6/8 \key d \major   \grace { a'8 (^\downbow b'8 cis''8  }     
+\time 6/8 
+\key d \major   \grace { a'8 (^\downbow b'8 cis''8  }     
 d''4_"fz" d'8 -.) fis'8 g'8 a'8    |
  b'8 cis''8    
 d''8 e''8-4 d''8 cis''8    |

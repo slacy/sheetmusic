@@ -13,7 +13,8 @@ voicedefault =  {
 
 \repeat volta 2 {
 \time 2/4 \tempo  4=75
- \key a \major e'8^\upbow   |
+ 
+\key a \major e'8^\upbow   |
    \times 2/3 { a'16^\segno^\downbow  
  a'16 a'16  } a'16 a'16    r16 a'16-4 gis'16 b'16    
 |

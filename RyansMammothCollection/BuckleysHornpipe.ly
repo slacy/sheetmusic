@@ -12,7 +12,8 @@ voicedefault =  {
 
 
 \repeat volta 2 {
-\time 2/4 \key ees \major % %staffsep 50
+\time 2/4 
+\key ees \major % %staffsep 50
  bes'32.^\downbow a'32. (^\upbow-. c''32^\upbow-.)       |
    
 bes'16.^\downbow g'32 ees'16. bes32 g16. bes'32 a'16.    

@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 2/4 \key bes \major g4^"ff"^\accent^\downbow a4^\accent   
+\time 2/4 
+\key bes \major g4^"ff"^\accent^\downbow a4^\accent   
 |
  bes4^\accent c'4^\accent   |
  d'4^"mf" ees'8. (

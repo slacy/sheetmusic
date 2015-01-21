@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 2/4 \key g \minor d''16^\upbow c''16    \bar "|." bes'16^"Segno"  
+\time 2/4 
+\key g \minor d''16^\upbow c''16    \bar "|." bes'16^"Segno"  
  g'16 f'16 d'16 d'8 c'16 c'16  |
  d'16 g'16 g'16   
  fis'16 g'16 a'16 bes'16 c''16  |

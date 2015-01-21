@@ -12,7 +12,8 @@ voicedefault =  {
 
 
 \repeat volta 2 {
-\time 2/4 \key g \major d''16^\downbow c''16    |
+\time 2/4 
+\key g \major d''16^\downbow c''16    |
  b'8 
 ^"Segno"^\downbow b'16^\downbow a'16^\upbow g'8^\downbow g'16 
 ^\downbow fis'16^\upbow   |
@@ -28,7 +29,8 @@ g'16 fis'16    |
 c'16    |
  b16 d'16 g'16 b'16 a'16 d'16 fis'16    
 a'16    |
- g'8 b'8 g'8  }   \key d \major   \repeat volta 2 {   
+ g'8 b'8 g'8  }   
+\key d \major   \repeat volta 2 {   
 fis'16^\downbow g'16  |
  a'8.^\downbow d''16^\downbow   
 \times 2/3 { d''16^\upbow(cis''16 d''16) } fis''8.^\downbow   

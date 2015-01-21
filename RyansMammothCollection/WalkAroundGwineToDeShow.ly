@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 2/4 \key a \mixolydian d'8 fis''8    r8 fis''8    |
+\time 2/4 
+\key a \mixolydian d'8 fis''8    r8 fis''8    |
    r8 
 fis''8    r8 fis''8    |
  fis''8 e''8 fis''8 gis''8    

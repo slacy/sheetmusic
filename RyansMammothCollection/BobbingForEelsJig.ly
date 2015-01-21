@@ -11,7 +11,8 @@
 voicedefault =  {
 
 
-\time 6/8 \key a \major   \grace { e'8^\downbow fis'8 gis'8  } a'4   
+\time 6/8 
+\key a \major   \grace { e'8^\downbow fis'8 gis'8  } a'4   
  a''8^\accent e''8 -. cis''8 (a'8)   |
  \grace { cis''8  }  
  b'8 a'8 b'8 d''8 cis''8 b'8        |

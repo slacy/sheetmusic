@@ -10,7 +10,8 @@
 voicedefault =  {
 
 
-\time 2/4 \key a \major e'8^\downbow a'16 b'16 cis''4^">"   
+\time 2/4 
+\key a \major e'8^\downbow a'16 b'16 cis''4^">"   
 |
  \grace { cis''16  } b'16 a'16 b'16 cis''16 b'16    
 a'16 fis'8    |
