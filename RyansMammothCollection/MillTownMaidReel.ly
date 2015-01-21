@@ -12,18 +12,18 @@ voicedefault =  {
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
  \time 2/2 \key a \mixolydian   d''8 ^\downbow   cis''8    \bar "|."   b'8 
-^"Segno"   e'8    e'4 ^"~"    b'8    d''8    cis''8    d''8  |
+^"Segno"   e'8    e'4\turn    b'8    d''8    cis''8    d''8  |
    b'8    
-e'8    e'4 ^"~"    d''8    a'8    fis'8    a'8  |
+e'8    e'4\turn    d''8    a'8    fis'8    a'8  |
    b'8    e'8    e'4 
-^"~"    b'8    cis''8    d''8    e''8  |
+\turn    b'8    cis''8    d''8    e''8  |
    fis''8    d''8    e''8    
 cis''8    d''8    a'8    fis'8    a'8  |
-     b'8    e'8    e'4 ^"~"    
+     b'8    e'8    e'4\turn    
 b'8    d''8    cis''8    d''8  |
-   b'8    e'8    e'4 ^"~"    d''8    a'8 
+   b'8    e'8    e'4\turn    d''8    a'8 
    fis'8    a'8  |
-   b'8    e'8    e'4 ^"~"    b'8    cis''8    d''8    
+   b'8    e'8    e'4\turn    b'8    cis''8    d''8    
 e''8  |
    fis''8    d''8    e''8    cis''8    d''8    a'8    fis'8    
 a'8  }     \repeat volta 2 {   b'8    e''8    e''8    cis''8    d''4    d''8    

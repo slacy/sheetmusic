@@ -10,20 +10,20 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key b \minor   fis''8 ^\downbow   b'8 ^\upbow(   b'4 ^"~"  -)   
+ \time 2/2 \key b \minor   fis''8 ^\downbow   b'8 ^\upbow(   b'4\turn  -)   
 fis''8 ^\downbow   b'8    d''8 ^"SEGUE"   e''8    |
    fis''8    b'8 (   
-b'4 ^"~"  -)   e''8    a'8    cis''8    e''8    |
+b'4\turn  -)   e''8    a'8    cis''8    e''8    |
    fis''8    b'8 (   
-b'4 ^"~"  -)   fis''8    b'8    d''8    e''8    |
+b'4\turn  -)   fis''8    b'8    d''8    e''8    |
        fis''8    gis''8 
    a''8    fis''8    e''8    a'8    cis''8    e''8    |
      fis''8    
-b'8 (   b'4 ^"~"  -)   fis''8    b'8    d''8    e''8    |
+b'8 (   b'4\turn  -)   fis''8    b'8    d''8    e''8    |
    fis''8    
-b'8 (   b'4 ^"~"  -)   e''8    a'8    cis''8    e''8    |
+b'8 (   b'4\turn  -)   e''8    a'8    cis''8    e''8    |
    fis''8    
-b'8 (   b'4 ^"~"  -)   fis''8    b'8    d''8    e''8    |
+b'8 (   b'4\turn  -)   fis''8    b'8    d''8    e''8    |
    fis''8    
 gis''8    a''8    fis''8    e''8    a'8    cis''8    e''8    \bar "|."     
 fis''8 ^\fermata^\downbow(   b''8  -)   r8   b''8 ^\upbow   fis''8 ^\downbow   

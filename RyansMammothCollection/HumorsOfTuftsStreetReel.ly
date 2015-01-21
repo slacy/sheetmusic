@@ -12,15 +12,15 @@ voicedefault =  {
 \repeat volta 2 {
 \time 2/4 \key e \dorian   d''16 ^\upbow   cis''16  |
    b'16    e'16    
-e'8 ^"~"    b'16    a'16    fis'16    a'16  |
+e'8\turn    b'16    a'16    fis'16    a'16  |
    \times 2/3 {   b'16 (   
 cis''16    d''16  -) }   a'16 -.   fis'16 -.   d'16 (   fis'16  -)   a'16 -.   
 cis''16 -. |
-   b'16    e'16    e'8 ^"~"    b'16    a'16    b'16    
+   b'16    e'16    e'8\turn    b'16    a'16    b'16    
 cis''16  |
    d''16    b'16    a'16    fis'16    e'16    d''16    cis''16 
    d''16  |
-     b'16    e'16    e'8 ^"~"    b'16    a'16    fis'16    
+     b'16    e'16    e'8\turn    b'16    a'16    fis'16    
 a'16  |
    \times 2/3 {   b'16 (   cis''16    d''16  -) }   a'16 -.   
 fis'16 -.   d'16 (   fis'16  -)   a'16 -.   cis''16 -. |
