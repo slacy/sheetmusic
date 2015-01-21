@@ -13,7 +13,7 @@ voicedefault =  {
  \time 2/2 \key d \major d'8.^\downbow(d'16 -.)   \times 2/3 { fis'8 
 ^\upbow(e'8 d'8) } fis'8.^\downbow(a'16 -.) d''8.^\upbow(
 a'16 -.)   |
-     \times 2/3 { b'8 _"SEGUE."(cis''8 d''8) }  
+     \times 2/3 { b'8_"SEGUE."(cis''8 d''8) }  
  a'8. fis'16 e'8. d'16 b8. a16    |
  d'8. d'16    
 \times 2/3 { fis'8 (e'8 d'8) } fis'8. a'16 d''8. a'16    

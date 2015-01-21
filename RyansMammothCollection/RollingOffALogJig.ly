@@ -18,7 +18,7 @@ g''8 e''8 c''8 (\grace { d''8  } c''8) b'8 c''8  |
 d''8 b'8 g'8 g'8 a'8 b'8  |
  c''8 d''8 dis''8    
 e''8 f''8 fis''8  |
- g''4 _"fz"(fis''8 -.) a''4 
+ g''4_"fz"(fis''8 -.) a''4 
 ^\upbow(fis''8 -.) |
  g''8 e''8 c''8 (\grace { d''8  }   
 c''8) b'8 c''8  |

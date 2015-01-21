@@ -27,8 +27,8 @@ bes''16 (a''16) g''16 f''16 g''16 f''16 d''16 bes'16
  bes''16 (a''16) g''16 f''16 g''16 f''16 d''16    
 bes'16    |
  c''16 bes'16 g'16 a'16 bes'8    }     
-\repeat volta 2 { f''8 _"f"^\upbow       |
- g''8. _"fz"(a''16 
+\repeat volta 2 { f''8_"f"^\upbow       |
+ g''8._"fz"(a''16 
 -.) bes''8 a''16 g''16    |
  f''16 (bes''16) d''16    
 f''16 bes'16 d''16 f'8    |

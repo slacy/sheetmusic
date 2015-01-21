@@ -26,7 +26,7 @@ a'8 d''4.^\accent       |
  e''16 (g''8.) e''8 d''8 b'8 g'8    |
  a'8. 
 -4^\downbow g'16^\upbow a'8-4 g'4    r8   }   % %staffsep 70pt
-   \repeat volta 2 {       << g''4 _"fz"(^\accent^\downbow b'4 d'4 g4 
+   \repeat volta 2 {       << g''4_"fz"(^\accent^\downbow b'4 d'4 g4 
   >> fis''8 -.) e''8 d''8 b'8    |
        << g''4 
 _"fz"(^\accent^\downbow b'4 d'4 g4   >> fis''8 -.) e''8 d''8    
@@ -35,7 +35,7 @@ b'8        |
 fis''8 g''8    |
  a''16 (^\upbow b''8.) g''8 fis''8    
 e''8 d''8        |
-       << g''4 _"fz"(^\accent b'4 d'4 g4  
+       << g''4_"fz"(^\accent b'4 d'4 g4  
  >> fis''8 -.) e''8 d''8 b'8    |
        << g''4 
 _"fz"(^\accent b'4 d'4 g4   >> fis''8 -.) e''8 d''8 b'8       
