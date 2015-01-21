@@ -1,4 +1,5 @@
 \version "2.7.40"
+\include "Mammoth.ily"
 \header {
 	book = "Coles 26.5"
 	crossRefNumber = "5"

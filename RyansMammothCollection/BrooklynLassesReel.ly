@@ -1,4 +1,5 @@
 \version "2.16.2"
+\include "Mammoth.ily"
 \header {
 %%	book = "Ryan's Mammoth Collection"
 	crossRefNumber = "1"

@@ -1,4 +1,5 @@
 \version "2.7.40"
+\include "Mammoth.ily"
 \header {
 	book = "Cole's 1000 Fiddle Tunes"
 	composer = "G.L. Tracy"

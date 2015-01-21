@@ -1,4 +1,5 @@
 \version "2.7.40"
+\include "Mammoth.ily"
 \header {
 	crossRefNumber = "3"
 	footnotes = ""
