@@ -12,7 +12,7 @@ voicedefault =  {
 \repeat volta 2 {
 \time 6/8 \key g \major     e''8-4^\upbow       |
      e''8 
-^"4"^\downbow   d''8    b'8    d''4 (   b'8 -. -)   |
+^"4"^\downbow   d''8    b'8    d''4 (b'8 -.)   |
    d''4    b'8    
 b'4    e''8-4   |
      e''8-4   d''8    b'8    d''4    b'8    
@@ -26,9 +26,9 @@ e''8    d''8    b'8  \grace {    a''8  }   g''8    fis''8    g''8    |
    
 b'4    g'8    g'4    }     \repeat volta 2 {   g''8 ^\upbow       |
      
-g''4 (^\downbow   g''8 -. -)   g''8    a''8    fis''8    |
-   g''4 (   
-e''8 -. -)     e''4 ^"SEGUE"   e''8    |
+g''4 (^\downbow   g''8 -.)   g''8    a''8    fis''8    |
+   g''4 (
+e''8 -.)     e''4 ^"SEGUE"   e''8    |
    a''4    a''8    a''8    g''8  
   a''8    |
    b''4    e''8    e''4    fis''8        |

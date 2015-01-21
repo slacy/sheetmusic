@@ -29,7 +29,7 @@ fis''8    e''8    |
 |
    g'8    a'8    b'8    d''8    g''4    fis''8    g''8    |
    
-a''8    a'8    a'8    a'8    a'4    \times 2/3 {   b'8 (   a'8    g'8  -) }   
+a''8    a'8    a'8    a'8    a'4    \times 2/3 {   b'8 (a'8    g'8) }   
 |
    a'8    b'8    d''8    e''8    fis''4    e''8    fis''8        
 |

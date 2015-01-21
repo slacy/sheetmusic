@@ -24,11 +24,11 @@ a'8  |
 cis''8    b'8    a'8    g'8    b'8    e'8    g'8  |
    fis'4    d'4    
 d'4    r8 \bar ":|"   fis'4    d'4    d'4  \bar "|."     \bar "|:"     d''8 
-(^\upbow   e''8  -) |
+(^\upbow   e''8) |
    fis''4 ^\downbow   fis''4    g''8    fis''8    
 e''8    d''8  |
-   cis''8    d''8    e''8-4   cis''8    a'4    b'8 (   
-cis''8  -) |
+   cis''8    d''8    e''8-4   cis''8    a'4    b'8 (
+cis''8) |
    d''4    b'4    b'8    cis''8    d''8    e''8  |
    
 fis''4    b'4    b'4    d''4  |

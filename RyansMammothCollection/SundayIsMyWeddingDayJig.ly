@@ -25,7 +25,7 @@ e'8    d''8    e'8    e'8    |
 fis''8    e''8    |
    a''8    fis''8    d''8    a'8    fis'8    d'8    
 |
-   fis'8 (   e'8  -)   e'8    e'4    }     \repeat volta 2 {   fis''8 
+   fis'8 (e'8)   e'8    e'4    }     \repeat volta 2 {   fis''8 
 ^\upbow       |
    e''8    fis''8    e''8    fis''8    d''8    b'8    
 |
@@ -40,8 +40,8 @@ fis''8    e''8    |
    e''8    fis''8    e''8    fis''8    d''8    b'8    
 |
    a'8    g'8    fis'8    d''8    a'8    fis'8    |
-   fis'8 (   
-e'8  -)   e'8    e'4    }   
+   fis'8 (
+e'8)   e'8    e'4    }   
 }
 
 \score{

@@ -13,44 +13,44 @@ voicedefault =  {
  \time 4/4 % %slurgraces 1
  \key bes \major   d''8 ^\upbow   |
        bes'8. (^\downbow   bes'16 -. 
--)   bes'4\turn    c''8. (   a'16 -. -)   f'8. (   a'16 -. -)   |
+-)   bes'4\turn    c''8. (a'16 -.)   f'8. (a'16 -.)   |
    
-bes'16 ^\downbow   bes'8. ^\upbow   \grace {    d''16 ( }   c''8.    bes'16 -. 
--)     a'16-4(   f'8.  -)   f'4    |
+bes'16 ^\downbow   bes'8. ^\upbow   \grace {    d''16 (}   c''8.    bes'16 -. 
+-)     a'16-4(f'8.)   f'4    |
        g'16 (^\downbow   g'8. 
-^\upbow -)   bes'8. (   g'16 -. -)   f'8. (   d'16 -. -)   bes8. (   d'16 -. -) 
+^\upbow)   bes'8. (g'16 -.)   f'8. (d'16 -.)   bes8. (d'16 -.) 
   |
-   ees'16 ^\upbow   ees'8. ^\downbow   \grace {    g'16 ( }   f'8.    
-ees'16 -. -)   d'16 (   bes8.  -)   bes8. (   d''16 ^\upbow -)   |
+   ees'16 ^\upbow   ees'8. ^\downbow   \grace {    g'16 (}   f'8.    
+ees'16 -.)   d'16 (bes8.)   bes8. (d''16 ^\upbow)   |
        
-bes'8. (^\downbow   bes'16 -. -)   bes'4\turn      c''8. ^"SEGUE"(   a'16  -)   
+bes'8. (^\downbow   bes'16 -.)   bes'4\turn      c''8. ^"SEGUE"(a'16)   
 f'8.    a'16    |
    bes'16    bes'8.  \grace {    d''16  }   c''8.    
-bes'16      a'16-4(   f'8.  -)   f'4    |
+bes'16      a'16-4(f'8.)   f'4    |
      g'16 ^\upbow   g'8.    
 bes'8.    g'16    f'8.    d'16    bes8.    d'16    |
    ees'16 ^\downbow  
- ees'8.  \grace {    g'16  }   f'8.    ees'16    d'16 (   bes8.  -)   bes8    
+ ees'8.  \grace {    g'16  }   f'8.    ees'16    d'16 (bes8.)   bes8    
 \bar "|."     bes'8 ^\upbow   |
-       d''8. (^\downbow   bes'16 -. -)   
-f''8. (   bes'16 -. -)   bes''8. (   bes'16 -. -)   f''8. ^"SEGUE"   bes'16    
+       d''8. (^\downbow   bes'16 -.)   
+f''8. (bes'16 -.)   bes''8. (bes'16 -.)   f''8. ^"SEGUE"   bes'16    
 |
-   a'16 (   bes'16    c''8  -)   \grace {    d''16 ( }   c''8. ^\trill  
- bes'16  -)     a'16-4(   f'8.  -)   f'4    |
+   a'16 (bes'16    c''8)   \grace {    d''16 (}   c''8. ^\trill  
+ bes'16)     a'16-4(f'8.)   f'4    |
      g'16 ^\downbow   
 g'8. ^\upbow   bes'8.    g'16    f'8.    d'16    bes8.    d'16    |
      
-ees'8 (^\upbow   d'16    ees'16  -)   f'8.    ees'16    d'16 (   bes8.  -)   
+ees'8 (^\upbow   d'16    ees'16)   f'8.    ees'16    d'16 (bes8.)   
 bes8.    bes'16 ^\upbow   |
      d''8. ^\downbow   bes'16    f''8.    
 bes'16    bes''8.    bes'16    f''8.    bes'16    |
-   a'16 (   bes'16    
-c''8  -)   \grace {    d''16 ( }   c''8. ^\trill   bes'16  -)     a'16-4(   
-f'8.  -)   f'8. (   aes'16  -)   |
-     g'8.    ees'16    ees'16 (   
-ees''8.  -)   f'8.    d'16    d'16 (   d''8.  -)   |
+   a'16 (bes'16    
+c''8)   \grace {    d''16 (}   c''8. ^\trill   bes'16)     a'16-4(
+f'8.)   f'8. (aes'16)   |
+     g'8.    ees'16    ees'16 (
+ees''8.)   f'8.    d'16    d'16 (d''8.)   |
    ees'8.    c'16    
-c'16 (   f'8.  -)   d'16 (   bes8.  -)   bes8    \bar "|."   
+c'16 (f'8.)   d'16 (bes8.)   bes8    \bar "|."   
 }
 
 \score{

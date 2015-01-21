@@ -31,20 +31,20 @@ gis'16.    e'32    cis'16.    d'32    e'16.    fis'32    |
    gis'16.    
 e'32    fis'16.    e'32    cis'32    a16.  }     a8 ^\upbow |
    bes4 
-^\accent(   a8  -)   r8   |
+^\accent(a8)   r8   |
    r16     a'16-4^\upbow   fis'16    d'16  
   e'16    d'16    r16   a16    |
-   bes4 ^\accent(   a8  -)   r8   
+   bes4 ^\accent(a8)   r8   
 |
-   r16     a'16-4     gis'16. (\turn    e'32  -)   cis'16    a16    
+   r16     a'16-4     gis'16. (\turn    e'32)   cis'16    a16    
 r16   a16 ^\upbow   |
-       bes4 (^\accent   a8  -)   r8   |
+       bes4 (^\accent   a8)   r8   |
    
 r16   a'16    fis'16    d'16    e'16    d'16    r16   a16    |
      bes4 
-(^\accent   a8  -)   r8   |
+(^\accent   a8)   r8   |
    r16   a'16 ^\downbow     gis'16. (\turn    
-e'32  -)   cis'16    a16    r16   a16 ^\upbow   |
+e'32)   cis'16    a16    r16   a16 ^\upbow   |
      a8  \grace {    
 gis'16  }     a'8-4   r16   a'16-4^\upbow   cis'16    a'16    |
    

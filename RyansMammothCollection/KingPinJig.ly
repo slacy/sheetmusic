@@ -32,7 +32,7 @@ r16 e'16 ^\upbow   a'16    b'16    cis''16    e''16    r16 e''16 ^\upbow
 e''16    fis''4    |
    r8 e''8 ^\upbow   e''4 ^\downbow   |
    
-\times 2/3 {   cis''16 ^\upbow(   b'16    a'16  -) }   b'16    gis'16    a'16   
+\times 2/3 {   cis''16 ^\upbow(b'16    a'16) }   b'16    gis'16    a'16   
  gis'16    fis'16    e'16    |
      a'8 ^\downbow \grace {    gis''16  }  
  a''8    a'8  \grace {    gis''16  }   a''8    |

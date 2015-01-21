@@ -31,13 +31,13 @@ b'8    b'8    b'8  }   d''8    cis''8    b'8    cis''8  |
 fis''8    e''8    cis''8    b'4    r8 \bar "|."     fis''8 ^\upbow |
    
 d''8 ^\downbow   b'8    d''8    fis''8  \grace {    ais''8  }   b''4    fis''8 
-(   d''8  -) |
+(d''8) |
    cis''8    a'8    cis''8    e''8  \grace {    gis''8  }  
- a''4    e''8 (   cis''8  -) |
+ a''4    e''8 (cis''8) |
    d''8    b'8    d''8    fis''8  
-\grace {    ais''8  }   b''4    fis''8 (   d''8  -) |
+\grace {    ais''8  }   b''4    fis''8 (d''8) |
    cis''8    a''8   
- e''8    cis''8    b'4    b'8 (   fis''8  -) |
+ e''8    cis''8    b'4    b'8 (fis''8) |
      d''8    b'8    d''8   
  fis''8    b''8    fis''8    d''8    b'8  |
    cis''8    a'8    cis''8    

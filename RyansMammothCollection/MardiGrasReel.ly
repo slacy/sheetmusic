@@ -16,10 +16,10 @@ d'8 ^\downbow-.   fis'8   >>   <<   cis'8 ^\upbow-.   e'8   >>  ~    <<   cis'8
      <<   d'8 -.   fis'8   >>  ~    <<   d'8 -.  
  fis'8   >>   <<   cis'8 -.   e'8   >>  ~    <<   cis'8 -.   e'8   >>   
 |
-     e'16 (   f'16    fis'!16    gis'16    a'16    ais'16    b'16    
-c''16  -)   |
-   cis''!16 (   c''16    b'16    ais'16    a'!16    gis'16  
-  g'16    fis'16  -)   |
+     e'16 (f'16    fis'!16    gis'16    a'16    ais'16    b'16    
+c''16)   |
+   cis''!16 (c''16    b'16    ais'16    a'!16    gis'16  
+  g'16    fis'16)   |
      <<   d'8 _"p"-.   fis'8   >>  ~    <<   d'8 
 -.   fis'8   >>   <<   cis'8 -.   e'8   >>  ~    <<   cis'8 -.   e'8   >>   
 |

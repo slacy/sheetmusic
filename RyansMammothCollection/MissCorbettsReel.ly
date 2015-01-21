@@ -16,23 +16,23 @@ fis'8    d'8  |
 |
    d'4    fis'8    d'8    a'8    d'8    fis'8    d'8  |
    
-\times 2/3 {   b'8 (   c''8    d''8  -) }   a'8    d''8    fis'8    d'8    d'4  
+\times 2/3 {   b'8 (c''8    d''8) }   a'8    d''8    fis'8    d'8    d'4  
 |
      d'4    fis'8    d'8    a'8    d'8    fis'8    d'8  |
    e'8  
   c''8    g'8    c''8    e'8    c''8    c''4  |
    d'4    fis'8    d'8    
 a'8    d'8    fis'8    d'8  |
-   \times 2/3 {   b'8 (   c''8    d''8  -) 
+   \times 2/3 {   b'8 (c''8    d''8) 
 }   a'8    d''8    fis'8    d'8    d'4    \bar "||"     \times 2/3 {   fis''8 
-^\fermata(   g''8    a''8  -) }   d''8    g''8    fis''8    d''8    a''8    
+^\fermata(g''8    a''8) }   d''8    g''8    fis''8    d''8    a''8    
 d''8  |
-   \times 2/3 {   fis''8 (   g''8    a''8  -) }   c''8    g''8    
+   \times 2/3 {   fis''8 (g''8    a''8) }   c''8    g''8    
 e''8    c''8    g''8    c''8  |
-   \times 2/3 {   fis''8 (   g''8    a''8 
- -) }   d''8    g''8    fis''8    d''8    a''8    d''8  |
+   \times 2/3 {   fis''8 (g''8    a''8 
+) }   d''8    g''8    fis''8    d''8    a''8    d''8  |
    \times 2/3 { 
-  b'8 (   c''8    d''8  -) }   a'8    d''8    fis'8    d'8    d'8    g''8  
+  b'8 (c''8    d''8) }   a'8    d''8    fis'8    d'8    d'8    g''8  
 |
      fis''8    a''8    d''8    g''8    fis''8    d''8    a''8    d''8  
 |

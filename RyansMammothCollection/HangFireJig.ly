@@ -25,7 +25,7 @@ gis'16    b'16    e'8    |
      b'8    gis'16    b'16    r16 gis'16    
 b'8    |
    a'8    cis''8    a'8    r8   \bar ":|"   a'8    cis''8    a'8 
- \bar "|."     a'32 ^\upbow(   b'32    cis''32    d''32  -) |
+ \bar "|."     a'32 ^\upbow(b'32    cis''32    d''32) |
      e''8 
 ^\downbow   cis''16    e''16    r16 cis''16 ^\upbow   e''8 ^\downbow   |
  

@@ -15,25 +15,25 @@ voicedefault =  {
 a''8    gis''16    fis''16    |
    e''16    cis''16    d''16    b'16    
 cis''16    a'16    fis'16    a'16    |
-   e'8    a'16 (   b'16  -)   
+   e'8    a'16 (b'16)   
 cis''16    a'16    a''16    fis''16    |
    e''16    cis''16    a'16    
-cis''16    b'16 (   a'16  -)   fis'16 (   b'16  -)   |
+cis''16    b'16 (a'16)   fis'16 (b'16)   |
      a'8    
 cis''16    e''16    a''8    cis''16    fis''16    |
    e''16    cis''16   
  d''16    b'16    cis''16    a'16    fis'16    a'16    |
-   e'8    a'16 ( 
-  b'16  -)   cis''16    a'16    a''16    fis''16    |
+   e'8    a'16 (
+  b'16)   cis''16    a'16    a''16    fis''16    |
    e''16    cis''16 
-   b'16    cis''16    a'8    } \repeat volta 2 {     a'16 ^\upbow(   d''16  -) 
+   b'16    cis''16    a'8    } \repeat volta 2 {     a'16 ^\upbow(d''16) 
 |
      fis''8    fis''16    gis''16    a''8    a''16    fis''16    
 |
-   e''16    fis''16    e''16    cis''16    d''16 (   cis''16  -)   b'16 
-(   a'16  -)   |
-   a'16 (   cis''16  -)   e''16 (   cis''16  -)   a'16 ( 
-  d''16  -)   fis''16 (   d''16  -)   |
+   e''16    fis''16    e''16    cis''16    d''16 (cis''16)   b'16 
+(a'16)   |
+   a'16 (cis''16)   e''16 (cis''16)   a'16 (
+  d''16)   fis''16 (d''16)   |
    e''16    fis''16    e''16    
 cis''16    d''16    cis''16    b'16    a'16    |
      a16    cis'16    

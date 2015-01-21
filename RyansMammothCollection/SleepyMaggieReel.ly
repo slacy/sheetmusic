@@ -18,20 +18,20 @@ e''8    fis''8    b'8    d''8    e''8    |
  \grace {    g''8  
 }   fis''4    d''8    e''8    fis''8    b'8    d''8    e''8    |
    
-fis''8 -.   gis''8 (   a''8  -)   fis''8 -.   e''8    a'8    cis''8    e''8    
+fis''8 -.   gis''8 (a''8)   fis''8 -.   e''8    a'8    cis''8    e''8    
 } \repeat volta 2 {     fis''8    b'8    d''8    b'8    fis''8    b'8    d''8   
  e''8    |
    fis''8    b'8    d''8    b'8    e''8    a'8    cis''8    
 e''8    |
    fis''8    b'8    d''8    b'8    fis''8    b'8    d''8    
 e''8    |
-   fis''8 -.   gis''8 (   a''8  -)   fis''8 -.   e''8    a'8    
+   fis''8 -.   gis''8 (a''8)   fis''8 -.   e''8    a'8    
 cis''8    e''8    } \repeat volta 2 {     \grace {    g''8  }   fis''4    d''8 
-(   b''8  -)   b'8    fis''8    d''8    e''8    |
+(b''8)   b'8    fis''8    d''8    e''8    |
  \grace {    g''8  }   
-fis''4    d''8 (   b''8  -)   a'8    d''8    b'8    d''8    |
+fis''4    d''8 (b''8)   a'8    d''8    b'8    d''8    |
  \grace {   
- g''8  }   fis''4    d''8 (   b''8  -)   b'8    fis''8    d''8    e''8    
+ g''8  }   fis''4    d''8 (b''8)   b'8    fis''8    d''8    e''8    
 |
    d''8    b''8    a''8    fis''8    e''8    a'8    cis''8    e''8    
 } \repeat volta 2 {     fis''8    b'8    b''8    b'8    fis''8    b'8    d''8   

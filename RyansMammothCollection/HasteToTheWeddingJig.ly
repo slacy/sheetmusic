@@ -17,7 +17,7 @@ a'8    g''8    fis''8    |
 b'8    |
    a'8    fis'8    a'8    a'8    d''8    fis'8    |
    e'8 
-   fis'8    e'8    e'4    fis'16 (   g'16  -)       |
+   fis'8    e'8    e'4    fis'16 (g'16)       |
    a'8    fis'8    
 g'8    a'8    a''8    fis''8    |
    e''8    d''8    e''8    fis''8    

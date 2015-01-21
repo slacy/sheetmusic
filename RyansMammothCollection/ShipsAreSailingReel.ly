@@ -27,7 +27,7 @@ d'8  |
    e'8    dis'8    e'8    fis'8    g'8    fis'8    g'8    a'8  
 |
    b'8    e''8    e''8    dis''8    e''4    }     e''8 
-^\fermata^\upbow(   fis''8  -) |
+^\fermata^\upbow(fis''8) |
    g''8    fis''8    g''8    a''8    
 b''8    g''8    e''8    g''8  |
    fis''8    e''8    fis''8    g''8    
@@ -35,7 +35,7 @@ a''8    fis''8    d''8    fis''8  |
    g''8    fis''8    g''8    a''8    
 b''8    g''8    e''8    g''8  |
    a''8    fis''8    d''8    fis''8    
-e''4    e''8 (   fis''8  -) |
+e''4    e''8 (fis''8) |
      g''8    fis''8    g''8    a''8    b''8 
    g''8    e''8    g''8  |
    fis''8    e''8    fis''8    g''8    a''8    

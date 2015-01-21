@@ -17,7 +17,7 @@ e'8      b'4 ^"tr" |
   e'8    fis'8    d'8  |
    e'8    b'8    g'8    b'8    e'16    e'16    
 e'8      b'4 ^"tr" |
-   fis'8    d'8    a'8-4   fis'8    b'8 (   e'8  
+   fis'8    d'8    a'8-4   fis'8    b'8 (e'8  
 -)   e'4  |
      e'8 ^\downbow   b'8    g'8    b'8    e'16    e'16    e'8 
      b'4 ^"tr" |

@@ -10,8 +10,8 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key d \major   \repeat volta 2 {     d'8. (^\downbow   fis'16 -. -) 
-    a'8. (^\upbow   b'16 -. -)   a'8. (   fis'16 -. -)   a'8. (   d''16 -. -)   
+ \time 2/2 \key d \major   \repeat volta 2 {     d'8. (^\downbow   fis'16 -.) 
+    a'8. (^\upbow   b'16 -.)   a'8. (fis'16 -.)   a'8. (d''16 -.)   
 |
    d'8. ^"SEGUE"   fis'16    a'8.    b'16    a'8.    fis'16    e'4      
   |

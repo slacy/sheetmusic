@@ -28,16 +28,16 @@ d''8    ees''8    d''8    c''8    bes'!8  |
 a''8    bes'8    c''8    e''8    g''8  |
    f''4    a''4    f''4    r8 }  
    \repeat volta 2 {   f''8  |
-     g''8 (^\downbow   ees''8  -)   d''8   
- ees''8    g''8    ees''8    bes''8 (   ees''8  -) |
-   f''8 (   d''8  -) 
-  cis''8    d''8    f''8    d''8    bes''8 (   d''8  -) |
+     g''8 (^\downbow   ees''8)   d''8   
+ ees''8    g''8    ees''8    bes''8 (ees''8) |
+   f''8 (d''8) 
+  cis''8    d''8    f''8    d''8    bes''8 (d''8) |
    g''8    
 ees''8    f''8    d''8    ees''8    c''8    d''8    bes'8  |
    c''8    
 a'8    bes'8    g'8    bes'8    a'8    g'8    f'8  |
-     d'8 (   f'8  -) 
-  bes'8    d''8    ees'8 (   g'8  -)   c''8    ees''8  |
+     d'8 (f'8) 
+  bes'8    d''8    ees'8 (g'8)   c''8    ees''8  |
    d''8    bes'8 
    ees''8    c''8    f''8    d''8    g''8    ees''8  |
    f''8    d''8    

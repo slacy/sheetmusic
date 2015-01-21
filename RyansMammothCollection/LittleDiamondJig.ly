@@ -21,7 +21,7 @@ e''16    cis''16    r16 a'16    b'16    cis''16    a'8    }
 a'16  }   cis''16    cis''16    r16 cis''16    |
    r16 d''16    r16 
 fis''16    e''4    |
-   \times 2/3 {   e''16 (   fis''16    gis''16  -) } 
+   \times 2/3 {   e''16 (fis''16    gis''16) } 
   a''16    a'16    b'16    cis''16    a'8    |
    e'16    cis''16    r16 
 a'16    b'16    cis''16    a'8    }   

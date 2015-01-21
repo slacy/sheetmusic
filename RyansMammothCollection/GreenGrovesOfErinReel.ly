@@ -33,8 +33,8 @@ a''8    a''8    gis''8    |
    fis''8    gis''4    |
    e''8    a''8    a''8    gis''8    e''8    
 a''8    a''8    gis''8    |
-   e''8    gis''8    \times 2/3 {   fis''8 (  
- gis''8    a''8  -) }   gis''8    e''8    d''8    b'8    |
+   e''8    gis''8    \times 2/3 {   fis''8 (
+ gis''8    a''8) }   gis''8    e''8    d''8    b'8    |
      e''8    
 a''8    a''4    b''8    gis''8    a''8    fis''8    |
    e''8    d''8    
@@ -42,7 +42,7 @@ e''8    fis''8    gis''8    fis''8    gis''8    e''8    |
    d''8    e''8 
    fis''8    a''8    b''4    a''8    gis''8    |
      \times 2/3 {   e''8 
-(   fis''8    gis''8  -) }   \times 2/3 {   fis''8 (   gis''8    a''8  -) }   
+(fis''8    gis''8) }   \times 2/3 {   fis''8 (gis''8    a''8) }   
 gis''8    e''8    d''8    b'8      }   
 }
 

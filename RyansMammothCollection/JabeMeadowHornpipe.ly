@@ -18,7 +18,7 @@ a'16    c''16    bes'16    a'16    bes'16    c''16  |
    d''16    bes'16  
   g''16    f''16    ees''16    d''16    c''16    bes'16  |
  \times 2/3 {  
- c''16 ^\downbow-.   c''16 -.   c''16 -. }     c''16 (^\upbow   bes'16  -)   
+ c''16 ^\downbow-.   c''16 -.   c''16 -. }     c''16 (^\upbow   bes'16)   
 g'16 ^\downbow   bes'16    f'16    ees'16  |
      d'16    bes16    d'16   
  f'16    bes'16    ees'16    g'16    bes'16  |

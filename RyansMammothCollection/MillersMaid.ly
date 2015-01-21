@@ -21,7 +21,7 @@ e''8  |
      a'4    fis'8    a'8    b'4    g'8    b'8  |
    a'4    fis'8  
   a'8    g'8    e'8    e'4  |
-   a'4    fis'8    a'8    b'8 (   d''8  -)  
+   a'4    fis'8    a'8    b'8 (d''8)  
  cis''8    e''8  |
    d''8    a'8    b'8    g'8    fis'8    d'8    d'4    
 } \repeat volta 2 {     d''8 ^\fermata   a'8    fis'8    a'8    d''4    fis''8  

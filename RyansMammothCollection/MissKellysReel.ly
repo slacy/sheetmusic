@@ -11,20 +11,20 @@ voicedefault =  {
 
 \repeat volta 2 {
 \override Staff.TimeSignature #'style = #'C
- \time 2/2 \key d \lydian   d''4 ^\downbow   a''8 (   d''8  -)   fis''8 (   
-d''8  -)   a''8 (   d''8  -)   |
+ \time 2/2 \key d \lydian   d''4 ^\downbow   a''8 (d''8)   fis''8 (
+d''8)   a''8 (d''8)   |
    d''8    a''8    a''8    fis''8    
 e''8    cis''8    a'8    cis''8    |
-   d''4    a''8 (   d''8  -)   
-fis''8 (   d''8  -)   a''8 (   d''8  -)   |
+   d''4    a''8 (d''8)   
+fis''8 (d''8)   a''8 (d''8)   |
    b''8    gis''!8    a''8    
 fis''8    e''8    cis''8    a'8    cis''8    |
-     d''4    fis''8 (   
-d''8  -)   a''8 (   d''8  -)   fis''8 (   d''8  -)   |
-   d''4    a''8 (  
- fis''8  -)   e''8    cis''8    a'8    cis''8    |
+     d''4    fis''8 (
+d''8)   a''8 (d''8)   fis''8 (d''8)   |
+   d''4    a''8 (
+ fis''8)   e''8    cis''8    a'8    cis''8    |
    d''8    e''8    
-fis''8    gis''!8    a''4    gis''8 (   a''8  -)   |
+fis''8    gis''!8    a''4    gis''8 (a''8)   |
    b''8    gis''8    
 a''8    fis''8    e''8    cis''8    a'8    cis''8    }     \repeat volta 2 {   
 d''8 -.   fis''8 -.   b'8 -.   fis''8 -.   d''8 -.   fis''8 -.   b'8 -.   
@@ -32,7 +32,7 @@ fis''8 -.   |
    d''8 -.   fis''8 -.   b'8 -.   fis''8 -.   e''8 -.   
 cis''8 -.   a'8 -.   cis''8 -.   |
    d''8    e''8    fis''8    gis''8    
-a''4    gis''8 (   a''8  -)   |
+a''4    gis''8 (a''8)   |
    b''8    gis''8    a''8    fis''8    
 e''8    cis''8    a'8    cis''8    |
      d''8    fis''8    b'8    fis''8 
@@ -40,7 +40,7 @@ e''8    cis''8    a'8    cis''8    |
    d''8    fis''8    b'8    
 fis''8    e''8    cis''8    a'8    cis''8    |
    d''8    e''8    fis''8  
-  gis''8    a''4    gis''8 (   a''8  -)   |
+  gis''8    a''4    gis''8 (a''8)   |
    b''8    gis''8    a''8    
 fis''8    e''8    cis''8    a'8    cis''8    }   
 }

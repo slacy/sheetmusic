@@ -38,11 +38,11 @@ gis'8    e'8    cis'8    a8    r8 a'8    |
 d'8    e'8    fis'8    |
    gis'8    e'8    fis'8    d'8    cis'8    a8   
  }     \repeat volta 2 {   a8 ^\upbow       |
-   bes2 (   a4  -)   r8 a'8 
+   bes2 (a4)   r8 a'8 
 ^\upbow   |
    a'8    a'8    gis'8    e'8    cis'8    a8    r8 a8 ^\upbow 
 |
-   bes2 (   a4  -)   r8 a'8 ^\upbow   |
+   bes2 (a4)   r8 a'8 ^\upbow   |
    a'8    a'8    gis'8    
 e'8    cis'8    a8    }     a'8 ^\upbow       |
    a'8    gis''8    a''8  
@@ -55,14 +55,14 @@ a''8  }   g''8    e''8    d''8    b'8    g'8    b'8    |
  \grace {    a''8  }   g''8    e''8    d''8    b'8    g'8    b'8    |
     
  |
-     a'8. (^\downbow   a''16 -. -) \times 2/3 {   a''8    a''8    a''8 
+     a'8. (^\downbow   a''16 -.) \times 2/3 {   a''8    a''8    a''8 
  }   cis''8    a''8    b'8    a''8    |
-   a'8. (   a''16 -. -) 
+   a'8. (a''16 -.) 
 \times 2/3 {   a''8    a''8    a''8  }   cis''8    a''8    b'8    a''8        
 |
-   g'8. (   g''16 -. -)   \times 2/3 {   g''8    g''8    g''8  }   b'8  
+   g'8. (g''16 -.)   \times 2/3 {   g''8    g''8    g''8  }   b'8  
   g''8    a'8    g''8    |
-   g'8. (   g''16 -. -)   \times 2/3 {   g''8  
+   g'8. (g''16 -.)   \times 2/3 {   g''8  
   g''8    g''8  }   b'8    g''8    a'8    g''8    <<   \bar "|."   \bar "|."   
 }
 

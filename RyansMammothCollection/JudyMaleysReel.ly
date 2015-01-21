@@ -38,10 +38,10 @@ cis''16    a'4    e'8.    g'16    |
 cis''8    |
    b'8.    a'16    cis''8    d''8  \grace {    cis''8  }   
 b'4    a'8    fis'8    |
-     a'8    fis'8    a'8 (   b'16    cis''16  -) 
+     a'8    fis'8    a'8 (b'16    cis''16) 
   d''4.    e''8    |
  \grace {    d''8    e''8  }   fis''8.    e''16    
-d''8    b'8    a'8 (   b'16    cis''16  -)   d''8    g'8    |
+d''8    b'8    a'8 (b'16    cis''16)   d''8    g'8    |
    fis'4    
 e'8.    d'16    d'4    \bar "|."   
 }

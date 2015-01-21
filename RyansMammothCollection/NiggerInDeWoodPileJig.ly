@@ -29,7 +29,7 @@ d''16    r16 \grace {    cis''16  }   d''16 ^\upbow |
 ^\upbow   fis'16    d'16    e'8 ^\downbow   d'16 ^\downbow   fis'16  |
    
 g'16.    b'32 -.   a'16.    fis'32 -.   d'8  }     \repeat volta 2 {   
-\times 2/3 {   a'16 (   b'16    cis''16  -) } |
+\times 2/3 {   a'16 (b'16    cis''16) } |
    d''8 ^\downbow   e''8  
   fis''8    g''8  |
    fis''16    b'16    b'8\turn    fis''16    b'16    
@@ -42,10 +42,10 @@ e''32    fis''16.    d''32    cis''16.    e''32-4   a'8  |
    d''8 ^\downbow   e''8    fis''8    g''8  |
    fis''16    b'16  
   b'8\turn    fis''16    b'16    b'8\turn  |
-   a''16. (   b''32 -. -)   
-g''16. (   a''32 -. -)   fis''16. (   g''32 -. -)   e''16. (   cis''32 -. -)   
-} \alternative{{   d''16. (   fis''32 -. -)   e''16. (   cis''32 -. -) } {   
-d''16. (   b'32 -. -)   a'16. (   g'32 -. -)   fis'16    d'16  \bar "|."   }}
+   a''16. (b''32 -.)   
+g''16. (a''32 -.)   fis''16. (g''32 -.)   e''16. (cis''32 -.)   
+} \alternative{{   d''16. (fis''32 -.)   e''16. (cis''32 -.) } {   
+d''16. (b'32 -.)   a'16. (g'32 -.)   fis'16    d'16  \bar "|."   }}
 }
 
 \score{

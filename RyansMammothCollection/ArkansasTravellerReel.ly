@@ -10,7 +10,7 @@ voicedefault =  {
 \set Score.defaultBarType = "empty"
 
 \repeat volta 2 {
-\time 2/4 \key d \major   \times 2/3 {   a16 (   b16    cis'16  -) }   |
+\time 2/4 \key d \major   \times 2/3 {   a16 (b16    cis'16) }   |
  
     d'16    fis'16    e'16    d'16    b8    b8    |
    a8    a8    d'4    

@@ -28,7 +28,7 @@ bes'16    f'16    d'16    f'16    |
    bes'16    d''16    f''16   
  g''16    f''16    d''16    a'16    c''16    |
    bes'8    bes'8    bes'8 
-   }     \repeat volta 2 {     bes'16 (^\upbow   d''16  -)       |
+   }     \repeat volta 2 {     bes'16 (^\upbow   d''16)       |
    
 f''8 ^\downbow-.   f''16 ^\downbow   g''16    f''16    d''16    f''16    
 bes''16    |
@@ -37,14 +37,14 @@ f''16    g''16    a''16    |
    bes''16    a''16    g''16    f''16    
 ees''16    d''16    c''16    bes'16    |
    a'16    bes'16    c''16    
-a'16    f'8    d''16 (   ees''16  -)   |
+a'16    f'8    d''16 (ees''16)   |
      |
    f''8 -.   f''16  
   g''16    f''16    d''16    f''16    bes''16    |
    g''8 -.   g''16    
 a''16    g''16    f''16    g''16    a''16    |
    bes''8 ^\accent   f''16 
-(   d''16  -)   ees''16    c''16    a'16    c''16    |
+(d''16)   ees''16    c''16    a'16    c''16    |
    bes'8    bes'8  
   bes'8    }   
 }

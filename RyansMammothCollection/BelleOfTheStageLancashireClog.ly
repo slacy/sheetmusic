@@ -42,7 +42,7 @@ fis'8.    g'16  \bar ":|"   \times 2/3 {   d''8    d'8    fis'8  }
 }   \times 2/3 {   gis'8    e'8    d'8  }   \times 2/3 {   b8    gis8    b8  }  
  |
      \times 2/3 {   a8    cis'8    e'8  }   \times 2/3 {   a'8    
-cis''8    e''8  -) }   \times 2/3 {     a''8-1   cis'''8-3 <<   e''8 
+cis''8    e''8) }   \times 2/3 {     a''8-1   cis'''8-3 <<   e''8 
 ^"02" }   e'''8   >>   <<   d''4 ^"01"   a'''4   >>   |
        e''4 
 ^"2"^\trill \grace {    dis''8    e''8  }   gis''8.    e''16    b''8.    e''16  

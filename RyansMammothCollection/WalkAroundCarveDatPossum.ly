@@ -13,17 +13,17 @@ voicedefault =  {
  >>   <<   g''4 ^\accent   b'4    d'4    g4   >>   |
    <<   g''4 
 ^\accent   b'4    d'4    g4   >>   <<   g''4 ^\accent   b'4    d'4    g4   >>   
-\repeat volta 2 {         b'4. _"p"(^\downbow   d''8  -)   |
-   a'4. (   
-d''8  -) |
-     b'4. ^\upbow(   d''8  -)   |
-   a'4. (   d''8  -)   
+\repeat volta 2 {         b'4. _"p"(^\downbow   d''8)   |
+   a'4. (
+d''8) |
+     b'4. ^\upbow(d''8)   |
+   a'4. (d''8)   
 |
-     b'4. ^\downbow(   d''8  -)   |
-   a'4. (   d''8  -)   
+     b'4. ^\downbow(d''8)   |
+   a'4. (d''8)   
 |
-     b'4. ^\upbow(   d''8  -)   |
-   a'4. (   d''8  -)   |
+     b'4. ^\upbow(d''8)   |
+   a'4. (d''8)   |
  
         d''16 _"f"^"DANCE"^\upbow   cis''16    d''16    e''16    g''16    
 fis''16    e''16    g''16    |

@@ -25,7 +25,7 @@ bes''!8.    a''16    bes''8.    g''16    e''8.    cis''16    a'8.    cis''16
 |
    d''4    f''4    d''4  } \repeat volta 2 {   \key d \major   d''4 
 ^\upbow |
-   d''8. ^\downbow(   b''16 -. -)   b''8. (   b''16 -. -)     
+   d''8. ^\downbow(b''16 -.)   b''8. (b''16 -.)     
 b''8. ^"SEGUE"   a''16    a''8.    cis''16  |
        d''8.-1   d'''16 
 ^"4"   d'''8.    d'''16      e'''8. ^"04"   d'''16-4   a''8.-1   fis''16 
