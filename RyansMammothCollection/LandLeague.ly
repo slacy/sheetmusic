@@ -18,16 +18,14 @@ voicedefault =  {
     \time 2/4 
     \key g \major
     d'8^\upbow |
-    g'8^\downbow-. d'16 
-    ^\downbow c'16^\upbow b16 g16 b16 d'16    |
+    g'8^\downbow-. d'16 ^\downbow c'16^\upbow b16 g16 b16 d'16    |
     e'16 c'16 
     fis'16 a'16 g'16 fis'16 g'16 a'16    |
     b'16 g'16  
     fis'16 g'16 c''8 -. b'8 -.   |
     a'16 g'16 fis'16    
     g'16 a'8 -. d'8 -.   |
-    g'8^\downbow-. d'16^\downbow c'16 
-    ^\upbow b16 g16 b16 d'16    |
+    g'8^\downbow-. d'16^\downbow c'16 ^\upbow b16 g16 b16 d'16    |
     e'16 c'16 fis'16    
     a'16 g'16 fis'16 g'16 b'16    |
     b'16 g'16 c''16    

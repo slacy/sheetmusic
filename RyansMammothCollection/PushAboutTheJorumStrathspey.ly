@@ -32,8 +32,7 @@ voicedefault =  {
   
   d''8. g'16 b'8. g'16 fis'8. (a'16 -.) a'16 (b'8. -.)   
   |
-  e'8. g'16 fis'8. a'16 g'4 g'8    \bar "|." d''8 
-  ^\upbow |
+  e'8. g'16 fis'8. a'16 g'4 g'8    \bar "|." d''8 ^\upbow |
   << b'4^\downbow g''4   >> fis''8. (g''16 -.)   
   a''8. (fis''16 -.) e''8. (d''16 -.)   |
   g''16^\downbow   
@@ -49,8 +48,7 @@ voicedefault =  {
   fis''8. g''16  \grace { fis''8 g''8  
 			} a''8. fis''16 e''8.    
   d''16    |
-  g''8. g''16 fis''16 (g''8. -.) a''4 a''8. 
-  ^\upbow(d''16 -.)   |
+  g''8. g''16 fis''16 (g''8. -.) a''4 a''8. ^\upbow(d''16 -.)   |
   d''8. g''16 fis''8. g''16    
   a''8. fis''16 e''8. d''16    |
   e''8. (g''16 -.)   

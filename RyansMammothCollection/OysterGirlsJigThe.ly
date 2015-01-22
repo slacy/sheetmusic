@@ -29,8 +29,7 @@ voicedefault =  {
     e''8  
     d''8 b'8 d''8 c''8 a'8  |
     g'4.   ~ g'4      
-  } b'8 
-  ^\fermata |
+  } b'8 ^\fermata |
   b'4^\accent b'8 b'4 b'8  |
   b'4 e''8   
   b'4 bes'8  |
@@ -54,8 +53,7 @@ voicedefault =  {
   g''4 e''8 c''4    
   e''8  |
   d''4 b'8 d''8 c''8 a'8  |
-  g'4.   ~ g'4 
-  ^"D.C." \bar "|."   
+  g'4.   ~ g'4 ^"D.C." \bar "|."   
 
 }
 

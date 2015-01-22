@@ -15,8 +15,7 @@ voicedefault =  {
   \time 4/4 
   \key a \minor
   a'16-4^\upbow g'16  |
-  e'16 
-  ^\downbow(a'8.-4) a'8. (a'16 -.) a'8. (g'16 -.) a'8. 
+  e'16 ^\downbow(a'8.-4) a'8. (a'16 -.) a'8. (g'16 -.) a'8. 
   -0(e''16-4-.)   |
   \grace { e''8  
 	 } d''4 d''8. (

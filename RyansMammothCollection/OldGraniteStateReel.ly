@@ -38,8 +38,7 @@ voicedefault =  {
 
   \repeat volta 2 {
     cis''8^\upbow |
-    fis''8^\downbow fis''16 
-    ^\downbow gis''16^\upbow a''16 (gis''16 a''16) fis''16 -.   
+    fis''8^\downbow fis''16 ^\downbow gis''16^\upbow a''16 (gis''16 a''16) fis''16 -.   
     |
     e''16 (dis''16 e''16) fis''16 -. e''16 cis''16    
     b'16 a'16    |

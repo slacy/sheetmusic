@@ -64,8 +64,7 @@ voicedefault =  {
 	     } e''16  
   cis''16 a'16 cis''16 fis''16 e''16    |
   d''8^\accent   
-  fis''8^\accent g''8^\accent a''8^\accent   \bar ":|" d''8 cis''8 
-  ^\accent b'8^\accent bes'8^\accent   \bar "|."   
+  fis''8^\accent g''8^\accent a''8^\accent   \bar ":|" d''8 cis''8 ^\accent b'8^\accent bes'8^\accent   \bar "|."   
 
 }
 

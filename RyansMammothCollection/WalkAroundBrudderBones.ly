@@ -18,8 +18,7 @@ voicedefault =  {
   d'4^"mf" ees'8. (
   c'16)   |
   d'8. (bes16) g4    |
-  << bes''4 
-     ^\accent d''4   >>   << bes''4^\accent d''4   >>   |
+  << bes''4 ^\accent d''4   >>   << bes''4^\accent d''4   >>   |
   <<   
     bes''4^\accent d''4   >> << a''8 c''8   >> << bes'8 g''8   >>   
   |
@@ -29,8 +28,7 @@ voicedefault =  {
   d'4^"mf" ees'8. (
   c'16)   |
   d'8. (bes16) g4    |
-  << bes''4 
-     ^\accent des''4   >>   << bes''4^\accent des''4   >>   |
+  << bes''4 ^\accent des''4   >>   << bes''4^\accent des''4   >>   |
   <<   
     bes''4 d''!4   >> a''8 g''8    |
   f''4 c''8 d''8    

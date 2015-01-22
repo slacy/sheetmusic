@@ -60,8 +60,7 @@ voicedefault =  {
 	     }   \times 2/3 { d''8 cis''8 b'8 
 			      
 			    } a'4      \bar ":|" cis''4^\fermata^\upbow |
-  cis''8. 
-  ^\downbow(a''16 -.) gis''8. (a''16 -.) fis''8. cis''16    
+  cis''8. ^\downbow(a''16 -.) gis''8. (a''16 -.) fis''8. cis''16    
   \times 2/3 { cis''8 (bis'8 cis''8) 
 	     }   |
   cis''8. a''16   

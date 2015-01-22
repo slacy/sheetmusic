@@ -43,8 +43,7 @@ voicedefault =  {
     \grace { g''16  
 	   } f''16 e''16 f''16 a''16 g''16 -. e''16 -.  
     c''8 -.   |
-    g''8^\accent c''8^\accent g''8^\accent c''8 
-    ^\accent   |
+    g''8^\accent c''8^\accent g''8^\accent c''8 ^\accent   |
     \grace { a''16  
 	   } g''16 fis''16 g''16 a''16   
     g''16 -. e''16 -. c''8 -.   |

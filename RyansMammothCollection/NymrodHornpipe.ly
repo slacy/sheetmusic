@@ -39,8 +39,7 @@ voicedefault =  {
     f''8. e''16 ees''!8. c''16 bes'4    
   }     
   \repeat volta 2 {
-    a'8. 
-    ^\upbow bes'16        |
+    a'8. ^\upbow bes'16        |
     c''8. f'16 a'8. c''16    
     \times 2/3 { d''8 (cis''8 d''8) 
 	       } e''8. d''16    |

@@ -32,8 +32,7 @@ voicedefault =  {
     d''4. (d''4)   
   }     
   \repeat volta 2 {
-    fis''8 
-    ^\fermata |
+    fis''8 ^\fermata |
     a''4 fis''8 d''4 e''8    |
     fis''4    
     g''8 a''8 g''8 fis''8    |

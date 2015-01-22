@@ -19,8 +19,7 @@ voicedefault =  {
 				^\accent c''4   >>   \bar "|." e''8-4_"mf"^\downbow e''16    
   d''16 c''8 a'8    |
   g'8 e'8 g'4    |
-  d''4. 
-  ^\accent cis''16 d''16    |
+  d''4. ^\accent cis''16 d''16    |
   e''16-4 c''16 a'8    r8   
   g'8^\upbow   |
   e''8-4 e''16 d''16 c''8 a'8    

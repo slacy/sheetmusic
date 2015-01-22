@@ -32,8 +32,7 @@ voicedefault =  {
     g'4 b'8 d''8 g''8 d''8 b'8    
     d''8  |
     e''8 c''8 a'8 c''8 b'8 g'8 g'8    
-  } g''8 
-  ^\fermata |
+  } g''8 ^\fermata |
   fis''8 g''8 a''8 g''8 fis''8 d''8 d''8   
   g''8  |
   fis''8 g''8 a''8 g''8 b''8 g''8 e''8    

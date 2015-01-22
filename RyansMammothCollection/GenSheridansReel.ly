@@ -36,8 +36,7 @@ voicedefault =  {
     f''8-3 d''8-1 d''8 
     -1   r8 
   }       \times 2/3 { c''16 (^\downbow d''16 c''16) 
-		     } a'16 
-  ^\upbow-. f'16 -.     \times 2/3 { e''16 (^\upbow f''16 e''16) 
+		     } a'16 ^\upbow-. f'16 -.     \times 2/3 { e''16 (^\upbow f''16 e''16) 
 				   }   
   bes'16^\upbow-. g'16 -. |
   \times 2/3 { e''16 (f''16 e''16  

@@ -19,8 +19,7 @@ voicedefault =  {
     \time 2/2 
     \key g \major
     d''8.^\upbow(c''16 -.)   |
-    b'8. 
-    ^"SEGNO"^\downbow d''16 b''8. a''16 g''8. e''16 c''8. e''16 
+    b'8. ^"SEGNO"^\downbow d''16 b''8. a''16 g''8. e''16 c''8. e''16 
     -4   |
     d''8. e''16-4 d''8. b'16 g'8. d'16 g'8.   
     b'16    |

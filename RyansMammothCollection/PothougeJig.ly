@@ -32,8 +32,7 @@ voicedefault =  {
     c''8 e''8 g''8 g''8 e''8 c''8 b'8 a'8 g'8    
     |
     a'4 a'8 a'4 g'8 a'8 b'8 c''8    
-  } e'8 
-  ^\downbow g'8 e'8 c''8 g'8 e'8 c''8 g'8 e'8    |
+  } e'8 ^\downbow g'8 e'8 c''8 g'8 e'8 c''8 g'8 e'8    |
   
   e'8 g'8 e'8 c''8 g'8 e'8 a'8 b'8 c''8    |
   

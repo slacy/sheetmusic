@@ -27,8 +27,7 @@ voicedefault =  {
 			   } b'8 a'16 g'16  
   -) d'16 (g'8.) g'8. (d'16 -.)   |
   |
-  g'4 
-  ^\downbow^\trill b'8. (g'16 -.) b'16 (d''8.) g''4    |
+  g'4 ^\downbow^\trill b'8. (g'16 -.) b'16 (d''8.) g''4    |
   
   g'4    \grace { c''16 (
 		} b'8 a'16 g'16) fis'16 (a'8.)   

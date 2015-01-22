@@ -39,8 +39,7 @@ voicedefault =  {
     cis''4 a'4    \bar "||"  >> 
 }     
 \repeat volta 2 {
-  gis'8 
-  ^\fermata(^\upbow a'8)       |
+  gis'8 ^\fermata(^\upbow a'8)       |
   b'8. b'16 b'8. b'16    
   b'8. gis''16 fis''!8. gis''16    |
   b'8. b'16 b'8.    
