@@ -41,7 +41,7 @@ g8  \grace { fs'16 } gs'8 r16 gs'16 b16 gs'16    |
 a16 a'16-4 r16 a'16-4 cs'16 a'16-4 b16 a'16-4    |
 a16 a'16 r16 a'16 cs'16 a'16 b16 a'16     |
 g16 gs'16 r16 gs'16 b16 gs'16 a16 gs'16     |
-g16 gs'16 r16 gs'16 b16 a'16 a16 gs'!16^"D.S."   \bar "| |"   
+g16 gs'16 r16 gs'16 b16 a'16 a16 gs'!16^"D.S." \bar "| |"   
 
 }
 

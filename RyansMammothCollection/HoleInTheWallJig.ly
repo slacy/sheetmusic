@@ -43,7 +43,7 @@ voicedefault =  {
   a16 a8. r8. b16 c'8. a16 b8. c'16    |
   d'16-4 d'8. r8. e'16 f'8. d'16 e'8. f'16         |
   e'8. gs'16 b'8. c''16 d''8. b'16 gs'8. b'16     |
-  a'16 a'8. e'8. c'16 a4 r8   \bar " |."   
+  a'16 a'8. e'8. c'16 a4 r8 \bar " |."   
 
 }
 

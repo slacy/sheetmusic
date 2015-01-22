@@ -19,7 +19,7 @@ voicedefault =  {
   d''16 d'16 d'16 fs'16 e'16 d'16 e'16 fs''16  |
   g''16 e''16 fs''16 d''16 e''16-4 d''16 b'16 e''16     |
   d''16 d'16 d'16 fs'16 e'16 d'16 e'16 g''16     |
-  fs''16 d''16 e''16 fs''16       \times 2/3 { d''16-. d''16-. d''16-. } d''8-.     \bar "  |."     
+  fs''16 d''16 e''16 fs''16       \times 2/3 { d''16-. d''16-. d''16-. } d''8-. \bar "  |."     
 
   \repeat volta 2 {
     a''16^\fermata^\downbow fs''16 d''16 fs''16 a''16 b''16 a''16 fs''16      |

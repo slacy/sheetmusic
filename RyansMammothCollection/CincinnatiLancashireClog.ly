@@ -41,7 +41,7 @@ voicedefault =  {
   } \alternative{{ d''4 fs''4 d''4  
 	 } { 
 		   \times 2/3 { d''8 d'8 fs'8  
-	 }   \times 2/3 { a'8 c''!8 d''8 } fs''8. e''16 d''8. c''16        \bar "  |."   
+	 }   \times 2/3 { a'8 c''!8 d''8 } fs''8. e''16 d''8. c''16 \bar "  |."   
 	 }
 	 }
 

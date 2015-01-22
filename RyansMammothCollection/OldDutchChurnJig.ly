@@ -19,14 +19,14 @@ voicedefault =  {
   bf'4 d''8 g'4 d''8 d''8 c''8 bf'8     |
   a'4 c''8 f'4 c''8 c''8 bf'8 a'8     |
   bf'4 d''8 g'4 d''8 d''8 c''8 bf'8     |
-  d''8 f''8 d''8 c''8 bf'8 a'8 g'4.    \bar "|." bf''4 (^\downbow g''8-.) bf''4 (g''8-.) g''8 f''8 d''8      |
+  d''8 f''8 d''8 c''8 bf'8 a'8 g'4. \bar "|." bf''4 (^\downbow g''8-.) bf''4 (g''8-.) g''8 f''8 d''8      |
   a''4 (^\upbow f''8-.) f''8^\segue g''8 f''8 a''8 g''8 f''8     |
   bf''4 g''8 bf''4 g''8 g''8 f''8 d''8     |
   f''8 d''8 bf'8 bf'8 d''8 f''8 g''4.         |
   bf''4 g''8 bf''4 g''8 g''8 f''8 d''8     |
   a''4 f''8 f''8 g''8 f''8 a''8 g''8 f''8     |
   bf''4 g''8 a''4 fs''8 g''8 f''!8 d''8  |
-  d''8 f''8 d''8 c''8 bf'8 a'8 g'4.    \bar "|." 
+  d''8 f''8 d''8 c''8 bf'8 a'8 g'4. \bar "|." 
   
 
 }

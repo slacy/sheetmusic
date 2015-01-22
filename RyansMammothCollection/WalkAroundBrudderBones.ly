@@ -23,7 +23,7 @@ voicedefault =  {
   << bf''4^\accent df''4   >>   << bf''4^\accent df''4   >>   |
   << bf''4 d''!4   >> a''8 g''8     |
   f''4 c''8 d''8     |
-  bf'4.    \bar "|." d''16^"f"^"DANCE"(^\accent ef''16) |
+  bf'4. \bar "|." d''16^"f"^"DANCE"(^\accent ef''16) |
   f''16 g''16 f''16 g''16 f''16 d''16 bf'16 d''16     |
   f''16 g''16 f''16 g''16 f''16 d''16 bf'16 d''16     |
   ef''8 ef''16 c''16 d''8 d''16 bf'16     |
@@ -31,7 +31,7 @@ voicedefault =  {
   f''16 g''16 f''16 g''16 f''16 d''16 bf'16 d''16     |
   f''16 g''16 f''16 g''16 f''16 d''16 bf'16 d''16     |
   ef''8 ef''16 c''16 d''8 d''16 bf'16     |
-  c''16 (bf'16) a'16 c''16 bf'4       \bar "|." bf''8^"BREAK"^\accent a''16 g''16 f''8 ef''8      |
+  c''16 (bf'16) a'16 c''16 bf'4 \bar "|." bf''8^"BREAK"^\accent a''16 g''16 f''8 ef''8      |
   d''8^\accent c''8^\accent bf'8^\accent r8 \bar "|."   
 
 }

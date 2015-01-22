@@ -28,7 +28,7 @@ voicedefault =  {
   e''4-4 cs''8 a'8    \grace { fs'8 ( } e'8 ds'8) e'8-. a'8-.    |
   e''4-4 cs''8 a'8    \grace { cs''8 ( } b'8 a'8) fs'8-. a'8-.   |
   e''8-4 e''4 e''8 fs''4 e''8-0 d''8  |
-  cs''8 (e''8-4) d''8-. b'8-. \grace { cs''8 } b'8 a'8 (b'8 cs''8)     \bar "  |."   
+  cs''8 (e''8-4) d''8-. b'8-. \grace { cs''8 } b'8 a'8 (b'8 cs''8) \bar "  |."   
 
 }
 

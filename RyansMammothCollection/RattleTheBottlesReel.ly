@@ -20,7 +20,7 @@ voicedefault =  {
   d''8 b'8 a'8 g'8 fs'8 a'8 a'8 c''8     |
   b'8 g'8 b'8 d''8 e''8 (fs''16 g''16) fs''8 (e''8)    |
   d''8 b'8 a'8 g'8 fs'8 a'8 a'8 c''8     |
-  b'8 d''8 a'8 c''8 b'8 g'8 g'8    \bar "|." d''8^\upbow  |
+  b'8 d''8 a'8 c''8 b'8 g'8 g'8 \bar "|." d''8^\upbow  |
   g''4^\downbow fs''8 (g''8) a''8 fs''8 d''8 fs''8    |
   g''8 g''8 fs''8 g''8 a''4 g''8 (a''8)    |
   b''8 a''8 g''8 fs''8 g''8 fs''8 e''8 d''8     |
@@ -28,7 +28,7 @@ voicedefault =  {
   g''4^\downbow fs''8 (g''8) a''8 fs''8 d''8 fs''8    |
   g''8 g''8 fs''8 g''8 a''4 g''8 (a''8)    |
   b''8 a''8 g''8 fs''8 g''8 fs''8 e''8 d''8     |
-  e''8^\downbow(g''8) fs''8 a''8 g''4^\upbow g''8^\downbow      \bar " |."   
+  e''8^\downbow(g''8) fs''8 a''8 g''4^\upbow g''8^\downbow \bar " |."   
 
 }
 

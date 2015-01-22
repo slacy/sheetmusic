@@ -19,7 +19,7 @@ voicedefault =  {
   e'16 (c'16) c'8\turn e'16 (g'16) g'8\turn     |
   a'16-. c''16-. g'16-. c''16-. a'16 (g'16) c''16-. g'16-.   |
   e'16 (c'16) c'8\turn e'16 (g'16) g'8\turn     |
-  a'16 (c''16) g'16-. f'16-. e'16 (d'16) d'8-.   \bar " |."     
+  a'16 (c''16) g'16-. f'16-. e'16 (d'16) d'8-. \bar " |."     
 
   \repeat volta 2 {
     e''8.^\accent c''16 d''8.^\accent c''16       |

@@ -52,7 +52,7 @@ voicedefault =  {
     d''8 gs''4 fs''8 e''8 d''8    
     cs''8 b'8    
   } \alternative{{ a'8 r8 e'4_"ff"(f'4 e'4) } { a'4 a''4 a'4 r4     |
-								     \bar "|."   
+ \bar "|."   
 	 }
 	 }
 

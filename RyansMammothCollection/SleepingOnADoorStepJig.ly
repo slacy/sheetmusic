@@ -35,7 +35,7 @@ voicedefault =  {
     g''8 fs''8 e''8-0 e''8-4 ds''8 e''8-4 |
     fs''8 g''8 fs''8  
     b'8 (g''8 fs''8) 
-  } \alternative{{ e''8 b'8 g'8 e'4 } { e''8 d''8 c''8 a'8 fs'8 d'8    <<   \bar "  |."  >>   
+  } \alternative{{ e''8 b'8 g'8 e'4 } { e''8 d''8 c''8 a'8 fs'8 d'8    << \bar "  |."  >>   
 	 }
 	 }
 

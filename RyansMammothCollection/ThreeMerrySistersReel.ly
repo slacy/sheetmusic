@@ -41,7 +41,7 @@ voicedefault =  {
     b'8 d''8 cs''8 a'8 b'8 fs'8 a'8 fs'8     |
     b'8-. e'8-.      \times 2/3 { e'8 e'8 e'8 } b'8 e'8 fs'8 a'8      |
     d'8 fs'8 a'8 cs''8 d''4 e''8 g''8     |
-    fs''8 d''8 e''8 cs''8 d''8 a'8 fs'8 a'8    <<   \bar " |."   
+    fs''8 d''8 e''8 cs''8 d''8 a'8 fs'8 a'8    << \bar " |."   
 	 }   
 
 	 }

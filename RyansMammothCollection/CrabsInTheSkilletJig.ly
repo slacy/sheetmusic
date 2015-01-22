@@ -18,21 +18,21 @@ voicedefault =  {
   g'4. d''4 (fs'8-.) |
   g'4 (a'8-.) bf'4 (d''8-.) |
   c''8 a'8 c''8 f''8 e''8 d''8  |
-  c''8 a'8 f'8 f'8 e'8 f'8  \bar ": |" c''8 a'8 f'8 f'4.    \bar "|." g''8^\downbow a''8 g''8 g''8 f''8 e''8    |
+  c''8 a'8 f'8 f'8 e'8 f'8 \bar ": |" c''8 a'8 f'8 f'4. \bar "|." g''8^\downbow a''8 g''8 g''8 f''8 e''8    |
   f''8 g''8 f''8 f''8 e''8 d''8  |
   c''8 d''8 e''8 f''8 e''8 d''8   |
   c''8 a'8 g'8 g'4.     |
   g''8 a''8 g''8 g''8 f''8 e''8  |
   f''8 g''8 f''8 f''8 e''8 d''8   |
   c''8 d''8 e''8 f''8 e''8 f''8   |
-  c''8 a'8 f'8 f'4 r8 \bar ":|" c''8 a'8 f'8 f'8 e'8 f'8  \bar "|." g'4^\downbow^\accent r8 a'4^\upbow^\accent r8    |
+  c''8 a'8 f'8 f'4 r8 \bar ":|" c''8 a'8 f'8 f'8 e'8 f'8 \bar "|." g'4^\downbow^\accent r8 a'4^\upbow^\accent r8    |
   bf'4^\accent r8 c''4^\accent r8  |
   d''8 ef''!8 d''8 c''8 bf'8 a'8  |
   d''8 c''8 bf'8 a'8 g'8 fs'8   |
   g'4^\accent r8 a'4^\accent r8 |
   bf'4^\accent r8 d''4^\accent r8 |
   c''8 a'8 c''8 f''8 e''8 d''8   |
-  c''8 a'8 f'8 f'8 e'8 f'8  \bar ":|" c''8 a'8 f'8 f'4 r8   \bar " |."   
+  c''8 a'8 f'8 f'8 e'8 f'8 \bar ":|" c''8 a'8 f'8 f'4 r8 \bar " |."   
 
 }
 

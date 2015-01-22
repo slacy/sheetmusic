@@ -30,7 +30,7 @@ voicedefault =  {
   cs''8 e''8 a'8 e''8 cs''8 e''8 a'8 e''8     |
   cs''8 e''8 a'8 a''8 fs''8 e''8 d''8 cs''8     |
   fs''8-. d''8 (cs''8^\trill) b'8-. e''8-. cs''8 (b'8^\trill) a'8-.    |
-  e'4 gs'4^\trill a'4 r8   \bar "|."   
+  e'4 gs'4^\trill a'4 r8 \bar "|."   
 
 }
 

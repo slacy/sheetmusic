@@ -21,7 +21,7 @@ voicedefault =  {
   d'8.^\downbow a'16-0 fs'8. a'16-0 d'8. a'16-0 fs'8. a'16-0    |
   e'8. c''4.. (g'16-.) e'4 cs'8. e'16-.    |
   d'8. a'16-0 fs'8. a'16-0 d'8. a'16-0 fs'8. a'16-0   |
-  d'8 d''4 (a'8-.) fs'4 (^\trill d'8)   \bar "|." fs''8^\upbow    |
+  d'8 d''4 (a'8-.) fs'4 (^\trill d'8) \bar "|." fs''8^\upbow    |
   d''8. (fs''16-.) a'8. (fs''16-.) d''8.^\segue fs''16 a'8. b'16     |
   c''8. d''16 e''8. fs''16 g''4 a''16 (g''16 fs''16 e''16)    |
   d''8. fs''16 a'8. fs''16 d''8. fs''16 a'8. e''16-4     |
@@ -29,7 +29,7 @@ voicedefault =  {
   d''8. fs''16 a'8. fs''16 d''8. fs''16 a'8. b'16     |
   c''8. d''16 e''8. fs''16 g''4 e''8 (fs''16 g''16)    |
   a''8. fs''16 g''8. e''16 fs''8. d''16 e''8.-4 cs''16      |
-  d''8. a'16 b'8. g'16 fs'4 (^\trill d'8)      \bar " |."   
+  d''8. a'16 b'8. g'16 fs'4 (^\trill d'8) \bar " |."   
 
 }
 

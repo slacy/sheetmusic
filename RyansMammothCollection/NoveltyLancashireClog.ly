@@ -23,7 +23,7 @@ voicedefault =  {
   a'8. cs''16 e'8. gs'16 a'8. cs''16 e''8. a''16     |
   fs''8. d''16 b'8. fs'16 d'8. fs'16 b'8. d''16     |
   gs''8. b''16 e''8. gs''16 fs''8. a''16 cs''8. ds''16     |
-  e''8. ds''16 e''8. fs''16 d''!8. b'16 gs'8. e'16    \bar ": |" e''4 gs''4 e''4     \bar "|." ds''8.^\upbow(e''16-4)  |
+  e''8. ds''16 e''8. fs''16 d''!8. b'16 gs'8. e'16 \bar ": |" e''4 gs''4 e''4 \bar "|." ds''8.^\upbow(e''16-4)  |
   fs''8.^\downbow( e''16-.) d''8. (b'16-.) gs'8.^\segue e'16 fs'8. gs'16      |
   a'8. e''16 cs''8. a''16 e''8. cs'''16-3 a''8.-1 e''16-0   |
   d''8. b''16 cs''8. a''16 b'8. gs''16 a'8. fs''16     |
@@ -35,7 +35,7 @@ voicedefault =  {
 	 }   \times 2/3 { b'8 cs''8 d''8 } es''8. cs'''16-3 a''8.-1 fs''16-1     |
   
   \times 2/3 { e''8 fs''8 e''8  
-	 }   \times 2/3 { d''8 cs''8 b'8 } a'4      \bar ":|" cs''4^\fermata^\upbow   |
+	 }   \times 2/3 { d''8 cs''8 b'8 } a'4 \bar ":|" cs''4^\fermata^\upbow   |
   cs''8.^\downbow(a''16-.) gs''8. (a''16-.) fs''8. cs''16       \times 2/3 { cs''8 (bs'8 cs''8) }     |
   cs''8. a''16   
   gs''8. a''16 fs''8. cs''16    \times 2/3 { cs''8 (bs'8 cs''8) }     |
@@ -46,7 +46,7 @@ voicedefault =  {
   \times 2/3 { gs''8  
 	 fs''8 e''8  
 	 } b'8. gs''16    \times 2/3 { fs''8 ds''8 b'8 } b'8. ds''16      |
-  e''8. fs''16 gs''8. fs''16 e''8. ds''16 d''!8. b'16      \bar " |."   
+  e''8. fs''16 gs''8. fs''16 e''8. ds''16 d''!8. b'16 \bar " |."   
 
 }
 
