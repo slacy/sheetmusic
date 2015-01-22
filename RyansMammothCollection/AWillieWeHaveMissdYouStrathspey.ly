@@ -15,6 +15,8 @@ voicedefault =  {
   \override Staff.TimeSignature #'style = #'C
   \time 4/4
   \key e \dorian
+
+  \partial 8
   d'''8-4^\upbow     |
   b''16-2( e''8.-2) b''8. (a''16-.) b''16 (e''8.) e''8 (d'''8-.)    |
   b''16 (e''8.) b''8. (a''16-.) d'''16 (d''8.) d''8. (d'''16-.)   |
@@ -31,7 +33,7 @@ voicedefault =  {
   e'16 (b'16 e''8) g'8. e''16 b'16 (e'8.) e'8. g'16     |
   e'16 (b'16 e''8) g'8. e''16 d''16 ( d'8.) d'8. g'16     |
   e'16 (b'16 e''8) g'8. e''16 b'8. e''16 g''8. b''16-2    |
-  d'''16-4( cs'''16 b''16 a''16) d'''8.-4 a''16-1 fs''16-1( d''8.-3) d''8-1 \bar "  |."   
+  d'''16-4( cs'''16 b''16 a''16) d'''8.-4 a''16-1 fs''16-1( d''8.-3) d''8-1 \bar "  |."
 
 }
 
@@ -40,13 +42,13 @@ voicedefault =  {
 
     \context Staff="default"
     {
-      \voicedefault 
-      
+      \voicedefault
+
     }
 
   >>
   \layout {
-    
+
   }
   \midi {
   }
