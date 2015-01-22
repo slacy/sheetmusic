@@ -35,7 +35,7 @@ voicedefault =  {
     \acciaccatura { b''16 } a''16 gs''16 a''16 e''16-0 fs''16 a''16 e''16 cs''16 | \nb
     \acciaccatura { e''16 } d''16 b'16 cs''16 a'16 b'16 (a'16) fs'8-. | \nb
     e'16 a'16 a'16 b'16 cs''16 a'16 a''16 fs''16 | \nb
-    e''16 cs''16 b'16 cs''16 a'8 \hideNotes r8 \unHideNotes  | \nb % XXX
+    e''16 cs''16 b'16 cs''16 a'8 \hideNotes r8 \unHideNotes | \nb % XXX
   }
 
 }

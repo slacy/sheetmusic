@@ -13,26 +13,26 @@ voicedefault =  {
 
   \time 2/4
   \key a \major
-  e'8^\upbow         |
-  a'8^\downbow b'8 cs''8 d''8     |
-  \times 2/3 { e''16 fs''16 e''16   }      \times 2/3 { d''16 cs''16 b'16 } e''8 a''8      |
-  a'8 b'8 cs''8 d''8     |
-  \times 2/3 { e''16 fs''16 e''16   }    \times 2/3 { d''16 cs''16 b'16 } a'8 e'8          |
-  a'8 b'8 cs''8 d''8     |
-  \times 2/3 { e''16 fs''16 e''16  }   \times 2/3 { d''16 cs''16 b'16 } e''8 e''16 (fs''16)    |
-  g''16 e''16 fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16     |
-  r16 e''16-4^\upbow d''16 b'16 a'8 \bar "|." e''16 (^\upbow fs''16)        |
+  e'8^\upbow |
+  a'8^\downbow b'8 cs''8 d''8 |
+  \times 2/3 { e''16 fs''16 e''16   }      \times 2/3 { d''16 cs''16 b'16 } e''8 a''8 |
+  a'8 b'8 cs''8 d''8 |
+  \times 2/3 { e''16 fs''16 e''16   }    \times 2/3 { d''16 cs''16 b'16 } a'8 e'8 |
+  a'8 b'8 cs''8 d''8 |
+  \times 2/3 { e''16 fs''16 e''16  }   \times 2/3 { d''16 cs''16 b'16 } e''8 e''16 (fs''16) |
+  g''16 e''16 fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16 |
+  r16 e''16-4^\upbow d''16 b'16 a'8 \bar "|." e''16 (^\upbow fs''16) |
   
-  g''16^\downbow e''16 fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16     |
-  r16 e''16-4 d''16 b'16 e''8-4 e''16-0(fs''16)        |
+  g''16^\downbow e''16 fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16 |
+  r16 e''16-4 d''16 b'16 e''8-4 e''16-0(fs''16) |
   g''16 e''16    
-  fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16     |
-  \times 2/3 { e''16 fs''16 e''16   }   \times 2/3 { d''16 cs''16 b'16 } a'8 e''16-0(fs''16)         |
+  fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16 |
+  \times 2/3 { e''16 fs''16 e''16   }   \times 2/3 { d''16 cs''16 b'16 } a'8 e''16-0(fs''16) |
   
-  g''16 e''16 fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16     |
-  r16 e''16-4 d''16 b'16 e''8-4 e''16-0(fs''16)       |
-  g''16 e''16 fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16      |
-  \times 2/3 { e''16-0 fs''16 e''16   }   \times 2/3 { d''16 cs''16 b'16 } a'8 \bar "  |."   
+  g''16 e''16 fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16 |
+  r16 e''16-4 d''16 b'16 e''8-4 e''16-0(fs''16) |
+  g''16 e''16 fs''16 d''16    \times 2/3 { e''16-4 e''16 e''16 } e''16 r16 |
+  \times 2/3 { e''16-0 fs''16 e''16   }   \times 2/3 { d''16 cs''16 b'16 } a'8 \bar " |."   
 
 }
 

@@ -17,13 +17,13 @@ voicedefault =  {
 
   \partial 4
   \repeat volta 2 {
-    g''8^\downbow e''8^\upbow         |
-    d''8^\downbow b'8 g'8 g'8 fs'8 g'8    |
-    a'8 b'8 a'8 a'8 b'8 d''8     |
-    g''4\fz(e''8-.) d''8 b'8 d''8     |
-    g''8 g'8 g'8 g'8 g''8 e''8        |
-    d''8 b'8 g'8 g'8 fs'8 g'8     |
-    a'8 b'8 a'8 a'8 b'8 d''8     |
+    g''8^\downbow e''8^\upbow |
+    d''8^\downbow b'8 g'8 g'8 fs'8 g'8 |
+    a'8 b'8 a'8 a'8 b'8 d''8 |
+    g''4\fz(e''8-.) d''8 b'8 d''8 |
+    g''8 g'8 g'8 g'8 g''8 e''8 |
+    d''8 b'8 g'8 g'8 fs'8 g'8 |
+    a'8 b'8 a'8 a'8 b'8 d''8 |
     g''4\fz(e''8-.) d''8 b'8 d''8
   }
   \alternative {
@@ -33,11 +33,11 @@ voicedefault =  {
 
   \repeat volta 2 {
     d''8^\fermata^\downbow e''8 fs''8 g''8 fs''8 g''8 |
-    e''8 fs''8 g''8 a''8 g''8 fs''8     |
-    g''8 a''8 b''8 e''8 fs''8 g''8     |
-    d''8 b'8 g'8 b'4 (a'8)       |
-    g'4^\downbow^\accent r8 e''4^\upbow^\accent r8   |
-    d''8^\downbow b'8 d''8 g'8 b'8 d''8     |
+    e''8 fs''8 g''8 a''8 g''8 fs''8 |
+    g''8 a''8 b''8 e''8 fs''8 g''8 |
+    d''8 b'8 g'8 b'4 (a'8) |
+    g'4^\downbow^\accent r8 e''4^\upbow^\accent r8 |
+    d''8^\downbow b'8 d''8 g'8 b'8 d''8 |
     g''4^\accent r8 e''4^\accent r8
   }
   \alternative {

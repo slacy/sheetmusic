@@ -16,26 +16,26 @@ voicedefault =  {
 
     \time 6/8
     \key a \major
-    fs''8^\upbow         |
-    e''8 cs''8 a'8 a'8 cs''8 a'8     |
-    e''8 cs''8 a'8 fs'4 a'8     |
-    e'8 fs'8 a'8 a'8 b'8 cs''8    |
-    e''8 d''8 cs''8 b'4 fs''8    |  |
-    e''8 cs''8 a'8 a'8 cs''8 a'8     |
-    fs'4 a'8 e'4 cs''8     |
-    d''4 fs''8 e''8 cs''8 a'8    |
+    fs''8^\upbow |
+    e''8 cs''8 a'8 a'8 cs''8 a'8 |
+    e''8 cs''8 a'8 fs'4 a'8 |
+    e'8 fs'8 a'8 a'8 b'8 cs''8 |
+    e''8 d''8 cs''8 b'4 fs''8 | |
+    e''8 cs''8 a'8 a'8 cs''8 a'8 |
+    fs'4 a'8 e'4 cs''8 |
+    d''4 fs''8 e''8 cs''8 a'8 |
     b'8 a'8    
     a'8 a'4    
   }     
   \repeat volta 2 {
-    fs''8^\upbow         |
-    e''8 cs''8 a'8 a'8 cs''8 e''8     |
-    fs''8 d''8 e''8 fs''8 gs''8 a''8     |
-    e''8 cs''8 a'8  \grace { b'8 } a'8 gs'8 a'8      |
-    b'8 gs'8 e'8 e'8 cs''8 d''8    |  |
-    e''8 cs''8 a'8 a'8 cs''8 e''8   |
-    fs''8 d''8 e''8 fs''8 gs''8 a''8    |
-    e''8 d''8 cs''8 b'8 a'8 b'8     |
+    fs''8^\upbow |
+    e''8 cs''8 a'8 a'8 cs''8 e''8 |
+    fs''8 d''8 e''8 fs''8 gs''8 a''8 |
+    e''8 cs''8 a'8  \grace { b'8 } a'8 gs'8 a'8 |
+    b'8 gs'8 e'8 e'8 cs''8 d''8 | |
+    e''8 cs''8 a'8 a'8 cs''8 e''8 |
+    fs''8 d''8 e''8 fs''8 gs''8 a''8 |
+    e''8 d''8 cs''8 b'8 a'8 b'8 |
     cs''8 a'8 a'8  
     a'4    
   }   

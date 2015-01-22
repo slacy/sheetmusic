@@ -17,26 +17,26 @@ voicedefault =  {
 
     \time 6/8
     \key a \dorian
-    e''16 (^\upbow d''16)         |
-    c''8 b'8 a'8 b'8 g'8 e'8     |
-    e'8 a'8 a'8 a'4 b'8   |
-    c''8 b'8 c''8 b'8 d''8 b'8    |
-    b'8 g'8 g'8 g'4 fs''8         |
-    g''8 fs''8 g''8 e''8 g''8 e''8     |
-    d''8 b'8 g'8 b'8 c''8 d''8     |
-    e''8 c''8 a'8 d''8 b'8 g'8    |
+    e''16 (^\upbow d''16) |
+    c''8 b'8 a'8 b'8 g'8 e'8 |
+    e'8 a'8 a'8 a'4 b'8 |
+    c''8 b'8 c''8 b'8 d''8 b'8 |
+    b'8 g'8 g'8 g'4 fs''8 |
+    g''8 fs''8 g''8 e''8 g''8 e''8 |
+    d''8 b'8 g'8 b'8 c''8 d''8 |
+    e''8 c''8 a'8 d''8 b'8 g'8 |
     e'8 a'8   
     a'8 a'4    
   }     
   \repeat volta 2 {
-    fs''8^\upbow         |
-    g''8 e''8 g''8 g''8 e''8 d''8     |
-    c''8 b'8 c''8 a'4 fs''8     |
-    g''8 fs''8 g''8 g''8 d''8 c''8     |
-    b'8 g'8 g'8 g'4 b'8        |
-    c''8 b'8 c''8 d''8 c''8 d''8     |
-    e''8 g''8 e''8 d''8 c''8 d''8     |
-    e''8 c''8 a'8 d''8 b'8 g'8    |
+    fs''8^\upbow |
+    g''8 e''8 g''8 g''8 e''8 d''8 |
+    c''8 b'8 c''8 a'4 fs''8 |
+    g''8 fs''8 g''8 g''8 d''8 c''8 |
+    b'8 g'8 g'8 g'4 b'8 |
+    c''8 b'8 c''8 d''8 c''8 d''8 |
+    e''8 g''8 e''8 d''8 c''8 d''8 |
+    e''8 c''8 a'8 d''8 b'8 g'8 |
     
     e'8 a'8 a'8 a'4    
   }   

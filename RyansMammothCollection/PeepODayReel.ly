@@ -18,24 +18,24 @@ voicedefault =  {
   a'4^\upbow   
   \repeat volta 2 {
     \times 2/3 { 
-      d''8^"Segno"-. d''8-. d''8-. } d''8 (a'8) b'8 d''8 a'8 fs'8      |
-    a'8 fs'8 a'8 g''8 fs''8 d''8 b'8 cs''8     |
-    \times 2/3 { d''8-. d''8-. d''8-. } d''8 ( a'8) b'8 d''8 a'8 fs'8      |
-    g'8 fs'8 e'8 fs'8 g'8 a'8 b'8 cs''8     |
-    \grace { e''8 } d''8 cs''!8 d''8 a'8 b'8 d''8 a'8 fs'8      |
-    a'8 b'8 d''8 e''8 fs''8 d''8 e''8 fs''8     |
-    \grace { a''8 } g''8 fs''8 g''8 e''8 fs''8 e''8 d''8 fs''8       |
+      d''8^"Segno"-. d''8-. d''8-. } d''8 (a'8) b'8 d''8 a'8 fs'8 |
+    a'8 fs'8 a'8 g''8 fs''8 d''8 b'8 cs''8 |
+    \times 2/3 { d''8-. d''8-. d''8-. } d''8 ( a'8) b'8 d''8 a'8 fs'8 |
+    g'8 fs'8 e'8 fs'8 g'8 a'8 b'8 cs''8 |
+    \grace { e''8 } d''8 cs''!8 d''8 a'8 b'8 d''8 a'8 fs'8 |
+    a'8 b'8 d''8 e''8 fs''8 d''8 e''8 fs''8 |
+    \grace { a''8 } g''8 fs''8 g''8 e''8 fs''8 e''8 d''8 fs''8 |
     e''8 d''8 cs''8 e''8 d''8 a'8 fs'8 a'8    
   }   
   
   \repeat volta 2 {
-    a''8^\downbow b''8 a''8 fs''8 a''8 fs''8 d''8 fs''8      |
-    g''8 e''8 fs''8 d''8 e''8 d''8 b'8 e''8     |
-    a''8 fs''8 d''8 fs''8 a''8 b''8 a''8 fs''8     |
-    e''8 d''8 e''8 fs''8 d''4 d''8 ( fs''8)    |
-    a''8 fs''8 d''8 fs''8 a''8 b''8 a''8 fs''8     |
-    g''8 b''8 fs''8 a''8 e''8 d''8 b'8 d''8     |
-    \times 2/3 { d''8-. d''8-. d''8-. } d''8 ( a'8) b'8 d''8 a'8 fs'8      |
+    a''8^\downbow b''8 a''8 fs''8 a''8 fs''8 d''8 fs''8 |
+    g''8 e''8 fs''8 d''8 e''8 d''8 b'8 e''8 |
+    a''8 fs''8 d''8 fs''8 a''8 b''8 a''8 fs''8 |
+    e''8 d''8 e''8 fs''8 d''4 d''8 ( fs''8) |
+    a''8 fs''8 d''8 fs''8 a''8 b''8 a''8 fs''8 |
+    g''8 b''8 fs''8 a''8 e''8 d''8 b'8 d''8 |
+    \times 2/3 { d''8-. d''8-. d''8-. } d''8 ( a'8) b'8 d''8 a'8 fs'8 |
     a'8 b'8 d''8    
     e''8 fs''8 (d''8) d''4        
   }   
