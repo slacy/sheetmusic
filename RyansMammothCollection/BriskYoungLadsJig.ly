@@ -24,7 +24,7 @@ voicedefault =  {
     a'8. (b'16) a'8 c''4 d''8   |
     e''8-4 d''8 c''8 b'8 c''8 d''8  |
     e''4_"fz"-4(a'8-.) a'8 b'8 gs'8   |
-    a'4. (a''4-0_"4") 
+    a'4. (a''4-0_4) 
   } 
   \repeat volta 2 {
     b'8^\upbow   |
