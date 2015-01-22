@@ -11,8 +11,7 @@
 voicedefault =  {
 
 
-  \time 2/4 
-  \key g \major d'8^\upbow  |
+  \time 2/4    \key g \major d'8^\upbow   |
   g'8.^\downbow^\accent( b'16-.) d''16 (e''16) d''16 b'16     |
   d''16 (e''16) d''16 b'16 d''16 (c''16) b'16 a'16    |
   g'8.^\accent(b'16-.) d''16 (e''16) d''16 b'16    |
@@ -26,8 +25,7 @@ voicedefault =  {
   g''16^\upbow(e''16) b''16 e''16 g''16 (e''16) b''16 e''16     |
   fs''16 (e''16) ds''16 fs''16 e''16 b'16 e''16 fs''16   |
   g''16 ( e''16) b''16 e''16 g''16 (e''16) b''16 e''16     |
-  
-  fs''16 (e''16) ds''16 fs''16 e''16 b'16 e''16 fs''16     |
+     fs''16 (e''16) ds''16 fs''16 e''16 b'16 e''16 fs''16      |
   g''16 (e''16) b''16 e''16 g''16 (e''16) b''16 e''16    |
   fs''16 e''16 ds''16 fs''16 e''8    \bar "| |"   
 
@@ -40,13 +38,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

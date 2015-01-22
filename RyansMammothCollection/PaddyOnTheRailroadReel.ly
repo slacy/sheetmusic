@@ -14,8 +14,7 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 2/4 
-    \key d \major fs''16 (e''16)    |
+    \time 2/4      \key d \major fs''16 (e''16)     |
     d''8-. d''16 (a'16) b'16 a'16 fs'16 a'16    |
     d''8-. d''16 ( a'16) b'16 a'16 fs'16 a'16     |
     a'16 b'16 d''16 e''16 fs''8-. e''16 (d''16)    |
@@ -25,8 +24,9 @@ voicedefault =  {
     a'16 b'16 d''16 e''16 fs''16 d''16 e''16 cs''16     |
     d''16 b'16    
     a'16 fs'16 d'8    
-  }     
-  \repeat volta 2 { fs''16 (g''16)     |
+ }     
+  \repeat volta 2 {
+fs''16 (g''16)      |
 		    a''16 b''16 a''16 g''16 fs''8-. fs''16 (e''16)   |
 		    d''8-. d''16 (a'16) b'16 a'16 fs'16 a'16    |
 		    a'16 b'16 d''16 e''16 fs''8-. e''16 (d''16)    |
@@ -35,7 +35,7 @@ voicedefault =  {
 		    d''8-. d''16 (a'16) b'16 a'16 fs'16 a'16    |
 		    a'16 b'16 d''16 e''16 fs''16 d''16 e''16 cs''16     |
 		    d''16 b'16 a'16 fs'16 d'8    
-		  }   
+		 }   
 
 }
 
@@ -46,13 +46,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

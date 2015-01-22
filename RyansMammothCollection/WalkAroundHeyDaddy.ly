@@ -13,11 +13,11 @@ voicedefault =  {
 
 
   \time 2/4 
-  \key b \minor
-				% %indent 600   << b''4^\accent^\downbow b'4   >>   << b''4^\accent b'4   >>     |
+  \key b \minor 				% %indent 600   << b''4^\accent^\downbow b'4   >>   << b''4^\accent b'4   >>      |
   << b''4^\accent b'4   >>   << b''4^\accent b'4   >>    |
   
-  \repeat volta 2 { b''8 fs''8 b''4-2    |
+  \repeat volta 2 {
+b''8 fs''8 b''4-2     |
 		    d''4   ~ d''8 e''8     |
 		    fs''8 d''8 a'8 fs'8     |
 		    e'4. g'16 fs'16    |
@@ -36,7 +36,7 @@ voicedefault =  {
 		    b'16 as'16 b'16 cs''16 d''16 cs''16 d''16 as'16     |
 		    d''16 cs''16 d''16 e''16 fs''16 e''16 d''16 cs''16      |
 		    b'16 d''16 cs''16 e''16-4 d''8    r8     
-		  }
+		 }
 
 }
 
@@ -47,13 +47,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

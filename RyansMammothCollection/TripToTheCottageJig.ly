@@ -15,8 +15,7 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 6/8 %  Two sharps in the book
-    
-    \key g \lydian b'16 cs''16   |
+         \key g \lydian b'16 cs''16    |
     d''8 b'8 b'8 b'8 g'8 g'8   |
     cs''8 a'8 a'8 a'8 fs'8 d'8  |
     d'8 g'8 g'8 fs'8 a'8 a'8   |
@@ -25,11 +24,12 @@ voicedefault =  {
     cs''8 a'8 a'8 a'8 fs'8 d'8   |
     d'8 g'8 g'8 fs'8 a'8 a'8   |
     b'8 g'8 g'8 g'4  
-  }   
+ }   
   \key g \major
   
 
-  \repeat volta 2 { d''8   |
+  \repeat volta 2 {
+d''8    |
 		    g''8 fs''8 e''8 d''8 c''8 b'8   |
 		    e''8 d''8 c''8 b'8 c''8 d''8  |
 		    e''8 c''8 a'8 d''8 b'8 g'8   |
@@ -39,7 +39,7 @@ voicedefault =  {
 		    e''8 fs''8 g''8 fs''8 e''8 d''8   |
 		    e''8 d''8 d''8    
 		    d''4  
-		  }   
+		 }   
 
 }
 
@@ -50,13 +50,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

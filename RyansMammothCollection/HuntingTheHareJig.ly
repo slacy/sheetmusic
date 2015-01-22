@@ -13,8 +13,7 @@ voicedefault =  {
 
   \time 6/8 
   \key d \major
-  \grace { a'8 (^\downbow b'8 cs''8  
-	 } d''4_"fz" d'8-.) fs'8 g'8 a'8     |
+  \grace { a'8 (^\downbow b'8 cs''8   	 } d''4_"fz" d'8-.) fs'8 g'8 a'8      |
   b'8 cs''8 d''8 e''8-4 d''8 cs''8     |
   d''4 (^\accent d'8-.) fs'8 g'8 a'8     |
   b'8 d''8 cs''8 d''4.         |
@@ -39,13 +38,13 @@ e''8-0 g''8 fs''8 e''4.    <<   \bar "|."  >>
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

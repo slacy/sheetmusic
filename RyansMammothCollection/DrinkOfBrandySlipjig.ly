@@ -11,8 +11,7 @@
 voicedefault =  {
 
 
-  \time 9/8 
-  \key g \major d'8^\upbow    |
+  \time 9/8    \key g \major d'8^\upbow     |
   g'4^"Segno" b'8 b'8 a'8 b'8 b'8 a'8 b'8     |
   g'4 b'8 b'8 a'8 b'8 c''4 a'8     |
   g'4 b'8 b'8 a'8 b'8 b'8 a'8 b'8     |
@@ -38,13 +37,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

@@ -12,8 +12,7 @@ voicedefault =  {
 
 
   \override Staff.TimeSignature #'style = #'C
-  \time 4/4 
-  \key d \major a'8^\upbow        |
+  \time 4/4    \key d \major a'8^\upbow         |
   a'16 (^\accent^\downbow d'8.) d'8. (e'16-.) fs'8. (e'16-.) fs'16 (a'8.)    |
   a'16 (^\accent d'8.) d'8. (e'16-.) fs'16 (e'8.) e'8 (a'8)       |
   a'16 (^\accent d'8.) d'8. (e'16) fs'8. (e'16-.) fs'16 (a'8.)     |
@@ -40,13 +39,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

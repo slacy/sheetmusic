@@ -15,19 +15,18 @@ voicedefault =  {
   \repeat volta 2 {
 
     \override Staff.TimeSignature #'style = #'C
-    \time 2/2 
-    \key a \major e''8.^\downbow d''16^\upbow        |
+    \time 2/2      \key a \major e''8.^\downbow d''16^\upbow         |
     cs''8. a'16 cs''8. fs''16 e''4 e''8. d''16     |
     cs''8. a'16 cs''8. fs''16 e''4 e''8. fs''16     |
     e''8. d''16 b'8. fs''16 e''8. d''16 b'8. fs''16      |
     e''8. gs''16 b''8. a''16 gs''8. fs''16 e''8. d''16    |  |
     cs''8. a'16 cs''8. fs''16 e''4 e''8. d''16     |
-    cs''8. a'16 cs''8. fs''16 e''4    
-    \times 2/3 { e''8 (fs''8 gs''8)  	       }    |
+    cs''8. a'16 cs''8. fs''16 e''4         \times 2/3 { e''8 (fs''8 gs''8)  	 }     |
     a''8. cs''16 d''8. ds''16 e''8. e'16 fs'8. gs'16     |
     a'4 cs''4 a'4    \bar "| |"  >> 
 }     
-\repeat volta 2 { gs'8^\fermata(^\upbow a'8)        |
+\repeat volta 2 {
+gs'8^\fermata(^\upbow a'8)         |
 		  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16     |
 		  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16     |
 		  a''8. gs''16 fs''8. e''16 ds''8. cs''16 b'8. a'16     |
@@ -48,13 +47,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

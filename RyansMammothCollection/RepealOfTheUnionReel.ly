@@ -15,32 +15,25 @@ voicedefault =  {
   \time 2/2 
   \key d \major
   a'8^\downbow d'8    \times 2/3 { fs'8 (e'8  
-				   d'8) 
-				 } a'4    \times 2/3 { fs'8 (e'8 d'8)  						     }    |
+				   d'8)  				 } a'4    \times 2/3 { fs'8 (e'8 d'8)  						 }     |
   g'8 e'8 cs''8 e'8 d''8 e'8 cs''8 e'8     |
   a'8    
   d'8    \times 2/3 { fs'8 (e'8 d'8) 
-		    } a'4    \times 2/3 { fs'8 
-					  (e'8 d'8)  					}    |
-  g'8 e'8 cs''8 e'8    \times 2/3 {   
-    d'8 d'8 d'8     } d'4     |
+		 } a'4    \times 2/3 { fs'8  					  (e'8 d'8)  					}     |
+  g'8 e'8 cs''8 e'8    \times 2/3 {      d'8 d'8 d'8 } d'4      |
   a'8 d'8    \times 2/3 { fs'8 (
-			  e'8 d'8) 
-			} a'4    \times 2/3 { fs'8 (e'8 d'8)  					    }     |
+			  e'8 d'8)  			} a'4    \times 2/3 { fs'8 (e'8 d'8)  					 }      |
   g'8 e'8 cs''8 e'8 d''8 e'8 cs''8 e'8     |
   a'8 d'8    \times 2/3 { fs'8 (e'8 d'8) 
-			} a'4    
-  \times 2/3 { fs'8 (e'8 d'8)  	     }    |
-  g'8 e'8 cs''8    
-  e'8    \times 2/3 { d'8 d'8 d'8   		    } d'4    \bar " |." a'8^\downbow d''8 d''8 e''8 fs''8 d''8 e''8 cs''8     |
+			} a'4       \times 2/3 { fs'8 (e'8 d'8)  	 }     |
+  g'8 e'8 cs''8       e'8    \times 2/3 { d'8 d'8 d'8   		 } d'4    \bar " |." a'8^\downbow d''8 d''8 e''8 fs''8 d''8 e''8 cs''8      |
   a'8 b'8 cs''8 a'8 d''8 b'8 cs''8 a'8     |
   a'8 d''8 d''8 e''8 fs''8 d''8 e''8 cs''8     |
   g'8 e'8 d''8 e'8 d'8 d'8 d'4     |
   a'8 d''8 d''8 e''8 fs''8 d''8 e''8 cs''8     |
   a'8 b'8 cs''8 a'8 d''8 b'8 cs''8 a'8     |
   fs''8 g''8 e''8 fs''8 d''4 e''8 (d''8)    |
-  g'8 e'8 cs''8 e'8    
-  \times 2/3 { d'8 d'8 d'8   	     } d'4    \bar " |."   
+  g'8 e'8 cs''8 e'8       \times 2/3 { d'8 d'8 d'8   	 } d'4    \bar "  |."   
 
 }
 
@@ -51,13 +44,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

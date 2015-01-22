@@ -15,8 +15,7 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 2/4 
-    \key g \lydian
-    d''16^"Segno"^\downbow(b'16) b'8\turn a'16 b'16 d''16 b'16   |
+    \key g \lydian     d''16^"Segno"^\downbow(b'16) b'8\turn a'16 b'16 d''16 b'16    |
     g'16 b'16 d''16 fs''16 g''8 fs''16 g''16   |
     e''16 cs''16 d''16 b'16 a'16 b'16 cs''16 d''16   |
     d''16 fs''16 g''16 gs''16 a''8 g''!16 e''16   |
@@ -25,21 +24,20 @@ voicedefault =  {
     b''16 g''16 a''16 fs''16 g''16 fs''16 e''16 d''16   |
     e''16 fs''16 g''16 gs''16 a''8    
     g''!16 e''16  
-  } 
+ } 
   \repeat volta 2 {
-    d''16 g''16 g''16 g''16 g''8 a''16 fs''16   |
+    d''16 g''16 g''16 g''16 g''8 a''16 fs''16    |
     g''16 b''16 a''16 fs''16 g''16 fs''16 e''16 d''16   |
     e''16 a''16 a''16 a''16 cs''16 a''16 a''16 a''16   |
     b'16 a''16 cs''16 a''16 a''16 g''16 e''16 d''16   |
     b'16 g''16 g''16 g''16 g''16 fs''16 a''16 fs''16   |
     \grace { a''16  
-	   }  
-    g''16 fs''16 e''16 fs''16  \grace { a''16  
-				      } g''16 fs''16 g''16 a''16   |
+	 }  
+    g''16 fs''16 e''16 fs''16  \grace { a''16   				 } g''16 fs''16 g''16 a''16    |
     b''16 g''16 a''16 fs''16 g''16 fs''16 e''16 d''16   |
     e''16 fs''16 g''16 gs''16    
     a''8 g''!16 e''16    
-  }
+ }
 
 }
 
@@ -50,13 +48,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

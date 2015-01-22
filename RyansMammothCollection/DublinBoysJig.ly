@@ -12,8 +12,7 @@ voicedefault =  {
 
 
   \time 9/8 
-  \key e \minor
-  g'4 (^\downbow a'8-.) b'8 g'8 e'8 b'8 g'8 e'8     |
+  \key e \minor   g'4 (^\downbow a'8-.) b'8 g'8 e'8 b'8 g'8 e'8      |
   fs'4 (^\upbow g'8-.) a'8 fs'8 d'8 a'8 fs'8 d'8     |
   g'4 (^\downbow a'8-.) b'8 g'8 e'8 b'8 g'8 e'8     |
   d''8 c''8 b'8 a'8 g'8 fs'8 e'4 (d'8)        |
@@ -38,13 +37,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

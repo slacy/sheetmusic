@@ -14,31 +14,28 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 2/4 
-    \key g \major g'16^\downbow c''16   |
+    \time 2/4      \key g \major g'16^\downbow c''16    |
     b'16 g'16 a'16 g'16 b'16 g'16 a'16 g'16     |
     c''16 e''16 d''16 b'16 a'16-. g'16 (fs'16 g'16)    |
     b'16 g'16 a'16 g'16 b'16 g'16 a'16 g'16     |
     c''16 e''16 d''16 c''16 g'8 g'16 (c''16)    |
     b'16 g'16 a'16 g'16 b'16 g'16 a'16 g'16     |
     c''16 e''16 d''16 b'16 a'8. c''16     |
-    b'16 d''16 e''16    
-    fs''16  \grace { a''16   		    } g''16 fs''16 g''16 e''16     |
+    b'16 d''16 e''16         fs''16  \grace { a''16   		 } g''16 fs''16 g''16 e''16      |
     
     d''16 c''16 a'16 fs'16 g'8  
-  }     
-  \repeat volta 2 { g'8^\upbow   |
+ }     
+  \repeat volta 2 {
+g'8^\upbow    |
 		    g''2^"tr"^\trill   |
 		    fs''16^\downbow g''16 a''16 g''16 b''16 g''16 e''16 d''16     |
-		    b'16 d''16  
-		    e''16 fs''16  \grace { a''16   			  } g''16 fs''16 g''16 e''16     |
+		    b'16 d''16   		    e''16 fs''16  \grace { a''16   			 } g''16 fs''16 g''16 e''16      |
 		    d''16 c''16 a'16 c''16 b'16-. g'16 (fs'16 g'16)    |
-		    b'16 d''16 e''16 fs''16  \grace { a''16  
-						    } g''16 fs''16 g''16 e''16     |
+		    b'16 d''16 e''16 fs''16  \grace { a''16   						 } g''16 fs''16 g''16 e''16      |
 		    fs''16 g''16 a''16 g''16 b''16 g''16 e''16 d''16     |
 		    g''2^"tr"^\trill    |
 		    d''16^\downbow c''16 a'16 fs'16 g'8  
-		  }   
+		 }   
 
 }
 
@@ -49,13 +46,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

@@ -14,10 +14,10 @@ voicedefault =  {
   \time 2/4 
   \key g \major
   \times 2/3 { d'16^\upbow(e'16 fs'16) 
-	     }   
+	 }   
 
   \repeat volta 2 {
-    g'8^"Segno" b'16 g'16 d''16 g'16 b'16 g'16     |
+    g'8^"Segno" b'16 g'16 d''16 g'16 b'16 g'16      |
     fs'16 d'16 a'16 d'16 b'16 d'16 a'16 d'16     |
     g'8 b'16 g'16 d''16 g'16 b'16 d''16     |
     e''16 g''16 fs''16 a''16 g''16 e''16 d''16 b'16     |
@@ -26,9 +26,9 @@ voicedefault =  {
     g'8 b'16 g'16 d''16 g'16 b'16 d''16    |
     
     e''16 g''16 fs''16 a''16 g''8 g''8    
-  } 
+ } 
   \repeat volta 2 {
-    g''16 d''16 b'16 d''16 e''16 d''16 b'16 d''16     |
+    g''16 d''16 b'16 d''16 e''16 d''16 b'16 d''16      |
     g''16 a''16 b''16 g''16 fs''16 d''16 e''16 fs''16      |
     g''16 d''16 b'16 d''16 e''16 d''16 b'16 d''16    |
     e''16 g''16 fs''16 a''16 g''8 g''8    |
@@ -36,11 +36,10 @@ voicedefault =  {
     d''16 e''16 d''16 c''16 b'16 g'16 b'16 d''16     |
     e''16 fs''16 e''16 d''16 e''16 d''16 b'16    
     d''16    
-  } \alternative{{ e''16 g''16 fs''16 a''16 g''8 g''8  
-		   
-		 } { e''16 g''16 fs''16 a''16 g''16 e''16 d''16 b'16    		     \bar " |."   
-		   }
-	       }
+ } \alternative{{ e''16 g''16 fs''16 a''16 g''8 g''8  
+		    		 } { e''16 g''16 fs''16 a''16 g''16 e''16 d''16 b'16    		     \bar "  |."   
+		 }
+	 }
 
 }
 
@@ -51,13 +50,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

@@ -14,12 +14,13 @@ voicedefault =  {
   \time 9/8 
   \key d \major
   
-  \repeat volta 2 { a'8^\upbow    |
+  \repeat volta 2 {
+a'8^\upbow     |
 		    a''8 fs''8 fs''8 g''8 e''8 d''8 cs''8 d''8 e''8     |
 		    a''8 fs''8 fs''8 g''8 e''8 fs''8 g''4.     |
 		    a''8 fs''8 fs''8 g''8 e''8 d''8 cs''8 d''8 e''8      |
 		    fs''8 g''8 a''8 g''8 e''8 cs''8 d''4    
-		  }   
+		 }   
 
 }
 
@@ -30,13 +31,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

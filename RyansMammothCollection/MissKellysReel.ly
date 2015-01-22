@@ -16,8 +16,7 @@ voicedefault =  {
 
     \override Staff.TimeSignature #'style = #'C
     \time 2/2 
-    \key d \lydian
-    d''4^\downbow a''8 (d''8) fs''8 ( d''8) a''8 (d''8)    |
+    \key d \lydian     d''4^\downbow a''8 (d''8) fs''8 ( d''8) a''8 (d''8)     |
     d''8 a''8 a''8 fs''8 e''8 cs''8 a'8 cs''8     |
     d''4 a''8 (d''8) fs''8 (d''8) a''8 (d''8)    |
     b''8 gs''!8 a''8 fs''8 e''8 cs''8 a'8 cs''8     |
@@ -26,10 +25,9 @@ voicedefault =  {
     d''8 e''8 fs''8 gs''!8 a''4 gs''8 (a''8)    |
     b''8 gs''8    
     a''8 fs''8 e''8 cs''8 a'8 cs''8    
-  }     
+ }     
   \repeat volta 2 {
-    
-    d''8-. fs''8-. b'8-. fs''8-. d''8-. fs''8-. b'8-. fs''8-.    |
+         d''8-. fs''8-. b'8-. fs''8-. d''8-. fs''8-. b'8-. fs''8-.     |
     d''8-. fs''8-. b'8-. fs''8-. e''8-. cs''8-. a'8-. cs''8-.    |
     d''8 e''8 fs''8 gs''8 a''4 gs''8 (a''8)    |
     b''8 gs''8 a''8 fs''8 e''8 cs''8 a'8 cs''8     |
@@ -38,7 +36,7 @@ voicedefault =  {
     d''8 e''8 fs''8 gs''8 a''4 gs''8 (a''8)    |
     b''8 gs''8 a''8    
     fs''8 e''8 cs''8 a'8 cs''8    
-  }   
+ }   
 
 }
 
@@ -49,13 +47,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

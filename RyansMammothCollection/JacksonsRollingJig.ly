@@ -11,8 +11,7 @@
 voicedefault =  {
 
 
-  \time 6/8 
-  \key g \major g'4.^\trill^\downbow b'8 g'8 b'8     |
+  \time 6/8    \key g \major g'4.^\trill^\downbow b'8 g'8 b'8      |
   a'8 (fs'8) a'8 c''4^\trill a'8     |
   g'4.^\trill b'8 g'8 b'8     |
   d''8 c''8 b'8 e''8-4 c''8 a'8    |  |
@@ -37,13 +36,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }

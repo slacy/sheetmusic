@@ -11,8 +11,7 @@
 voicedefault =  {
 
 
-  \time 2/4 
-  \key a \mixolydian d'8 fs''8    r8 fs''8     |
+  \time 2/4    \key a \mixolydian d'8 fs''8    r8 fs''8      |
   r8 fs''8    r8 fs''8     |
   fs''8 e''8 fs''8 gs''8     |
   a''8. a'16 b'16 cs''16 d''16 e''16    \bar ":|" a''4.    \bar "|." e''16^\downbow d''16     |
@@ -35,13 +34,13 @@ voicedefault =  {
     {
       \voicedefault 
       
-    }
+ }
 
   >>
   \layout {
     
-  }
+ }
   \midi {
-  }
+ }
 
 }
