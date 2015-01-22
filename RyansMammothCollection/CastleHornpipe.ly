@@ -11,12 +11,11 @@
 }
 voicedefault =  {
 
-
+  \time 2/4
+  \key a \major
+  \partial 8
 
   \repeat volta 2 {
-
-    \time 2/4
-    \key a \major
     e'8\mf^\upbow         |
     cs'16 e'16 a'16-4 e'16 cs'16 e'16 a'16-4 e'16     |
     cs'16 e'16 a'16 cs''16 e''16-4 cs''16 a'8     |
@@ -39,10 +38,10 @@ voicedefault =  {
   d''16 b'16 gs'16 e'16 b16 e'16 gs'16 b'16     |
   e''16 a'16 e'16 cs'16 a8 cs''16 ( d''16)   |  |
   e''16-4 cs''16 a'16 cs''16 d''16 cs''16 d''16 fs''16     |
-  a''16 (gs''16    
+  a''16 (gs''16
   a''16) fs''16-. \grace { gs''16 } fs''16 e''16 cs''16 a'16      |
   b'16 cs''16 d''16 fs''16 e''16 b'16 gs'16 b'16     |
-  a'8 a'8 a'8 \bar "|."   
+  a'8 a'8 a'8 \bar "|."
 
 }
 
@@ -51,13 +50,13 @@ voicedefault =  {
 
     \context Staff="default"
     {
-      \voicedefault 
-      
+      \voicedefault
+
     }
 
   >>
   \layout {
-    
+
   }
   \midi {
   }
