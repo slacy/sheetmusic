@@ -19,8 +19,7 @@ voicedefault =  {
     \key a \dorian
     g''8^\upbow(fs''8)   |
     e''8-.   
-    a'8-.   \times 2/3 { cs''8 (b'8 a'8) 
-		       } e''8-. a'8-.        \times 2/3 { cs''8 (b'8 a'8) }     |
+    a'8-.   \times 2/3 { cs''8 (b'8 a'8)  } e''8-. a'8-.        \times 2/3 { cs''8 (b'8 a'8) }     |
     cs''8 d''8 e''8 fs''8 g''8 fs''8 g''8 e''8     |
     d''4 b'8 (g'8) d''8 g'8 b'8 g'8    |
     cs''8 d''8 e''8 fs''8 g''4 fs''8 (g''8)    |

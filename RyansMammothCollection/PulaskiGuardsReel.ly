@@ -33,8 +33,7 @@ voicedefault =  {
     d''16^\downbow bf'16 f'16 bf'16 d'16 bf'16 f'16 bf'16     |
     a'16 c''16 f'16 a'16 c''16 f'16 a'16 c''16     |
     d''16 bf'16 c''16 a'16 bf'16 f'16  
-    \times 2/3 { g'16 (a'16 bf'16) 
-	       }   
+    \times 2/3 { g'16 (a'16 bf'16)  }   
   } \alternative{{ f'16    
 		   d'16 c'16 d'16 bf8 (f'8) } { f'16 d'16 c'16 d'16 bf4 \bar "  |."   
 					      }

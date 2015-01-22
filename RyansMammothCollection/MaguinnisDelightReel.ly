@@ -22,8 +22,7 @@ voicedefault =  {
     a'8 f'8 c''8 f'8 bf'4    \times 2/3 { d''8^\upbow(c''8 bf'8) }     |
     a'8 f'8 c''8 f'8 d''8 f'8 c''8 f'8     |
     bf'8 g'8 g'8 a'8 bf'4    
-    \times 2/3 { d''8^\upbow(c''8 bf'8) 
-	       }   
+    \times 2/3 { d''8^\upbow(c''8 bf'8)  }   
   }     
   \repeat volta 2 {
     f''4^\downbow a''16^\upbow(g''16 f''16 e''16) f''8 c''8 a'8 c''8      |

@@ -38,8 +38,7 @@ voicedefault =  {
     d'16 g'8. fs'16 e'8. c''16 a'8. fs'16    
   } \alternative{{ 
     g'4 b'4 g'4  
-  } { g'8. b'16 a'8. c''16 b'8. e''16-4    		      \times 2/3 { d''8 e''8 fs''8 } \bar "  |."   
-    }
+  } { g'8. b'16 a'8. c''16 b'8. e''16-4    		      \times 2/3 { d''8 e''8 fs''8 } \bar "  |."    }
 	       }
 
 }

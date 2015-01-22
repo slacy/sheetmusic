@@ -20,10 +20,8 @@ voicedefault =  {
     d''16 fs''16 d''16 b'16 cs''16 e''16 cs''16 a'16   |
     \times 2/3 { b'16 (cs''16 
 		 b'16) 
-	       }   \times 2/3 { a'16-4(gs'16 fs'16) 
-			      }   
-    \times 2/3 { e'16 (fs'16 e'16) 
-	       }   \times 2/3 { d'16 (cs'16 b16) }   |
+	       }   \times 2/3 { a'16-4(gs'16 fs'16)  }   
+    \times 2/3 { e'16 (fs'16 e'16)  }   \times 2/3 { d'16 (cs'16 b16) }   |
     a16 cs'16 e'16 cs'16 a16 a'16 cs''16 a'16   |
     e'16 gs'16 b'16 gs'16 a'16 cs''16 e''16 cs''16   |
     d''16 fs''16 b'16 d''16 a'16 cs''16 e''16 cs''16   |
@@ -37,10 +35,8 @@ voicedefault =  {
     a''16 gs''16 a''16 e''16 fs''16 gs''16 a''16 e''16   |
     \times 2/3 { gs''16 (
 		 b''16 a''16) 
-	       }   \times 2/3 { gs''16 (fs''16 e''16) 
-			      }   
-    \times 2/3 { e''16 (fs''16 e''16) 
-	       }   \times 2/3 { d''16 ( cs''16 b'16) }   |
+	       }   \times 2/3 { gs''16 (fs''16 e''16)  }   
+    \times 2/3 { e''16 (fs''16 e''16)  }   \times 2/3 { d''16 ( cs''16 b'16) }   |
     cs''16 e''16 a''16 e''16 cs''16 e''16 fs''16 e''16   |
     cs''16 e''16 a''16 e''16 d''16 cs''16 b'16 a'16   |
     a''16 gs''16 a''16 e''16 fs''16 d''16 b'16 gs'16   |

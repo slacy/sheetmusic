@@ -41,8 +41,7 @@ voicedefault =  {
     \grace { fs''8 } e''8. ds''16 e''8. cs''16 a'8. cs''16 e''8. g''16      |
     g''8. fs''16 a''8. fs''16 d''4 e''8. fs''16     |
     g''8. a''16    
-    b''8. a''16    \times 2/3 { g''8 e''8 cs''8  
-			      }   \times 2/3 { a'8 b'8 cs''8 }     |
+    b''8. a''16    \times 2/3 { g''8 e''8 cs''8   }   \times 2/3 { a'8 b'8 cs''8 }     |
     d''4 fs''4 d''4  
   }   
 

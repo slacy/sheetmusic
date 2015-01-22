@@ -42,8 +42,7 @@ voicedefault =  {
   }     
   \repeat volta 2 {
     a'4-4_"mf"^\downbow-. gs'4_"cres"-. a'4-. e'4-.     |
-    \times 2/3 { a8 (cs'8 e'8  
-	       }        \times 2/3 { a'8 cs''8 e''8-4) } a''2^"04"     |
+    \times 2/3 { a8 (cs'8 e'8   }        \times 2/3 { a'8 cs''8 e''8-4) } a''2^"04"     |
     b'4-. as'4-. b'4-. fs'4-.    |
     \times 2/3 { e'8 (gs'8 
 		 b'8 }   \times 2/3 { e''8 gs''8 b''8-4) } e'''2^"04"      |

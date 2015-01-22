@@ -22,8 +22,7 @@ voicedefault =  {
     cs''4\prall bs'4 cs''4\prall bs'4    | \nb
     \acciaccatura { d''8 } cs''8.[ bs'16 cs''8. fs''16] e''8.[ cs''16 a'8. cs''16]      | \nb
     b'4\prall as'4 b'4 a''!4    | \nb
-    \times 2/3 { gs''8 fs''8 e''8 } \times 2/3 { d''8 cs''8 b'8 } a'4 r4 |
-  }
+    \times 2/3 { gs''8 fs''8 e''8 } \times 2/3 { d''8 cs''8 b'8 } a'4 r4 | }
 
   \repeat volta 2 {
     cs''4^\downbow \acciaccatura { cs''8 } a''4 cs''2\trill \acciaccatura { b'8[ cs''8] }     |
@@ -34,8 +33,7 @@ voicedefault =  {
     \acciaccatura { cs''8 } a''4 cs''2\trill \acciaccatura { b'8 cs''8 }     |
     d''4  \acciaccatura { d''8 } b''4 b'4. cs''8     |
     d''8. [e''16 fs''8. gs''16] a''8.[ gs''16 a''8. fs''16]     |
-    \times 2/3 { e''8 fs''8 e''8 }   \times 2/3 { d''8 cs''8 b'8 } a'4 r4      |
-  }
+    \times 2/3 { e''8 fs''8 e''8 }   \times 2/3 { d''8 cs''8 b'8 } a'4 r4      | }
 
   cs''8^\downbow fs''8 r8 a''8^\upbow fs''8.[ (e''16-.) d''8.^\segue cs''16]     |
   cs''8 fs''8 r8 a''8 fs''8. [e''16 d''8. cs''16] |
@@ -54,8 +52,7 @@ voicedefault =  {
     a8 cs'8 r8 e'8 a'4. d''8     |\nb
     cs''8.[ a'16 cs''8. e''16] fs''8. gs''16 a''8 r8    |\nb
     \times 2/3 { gs''8-. fs''8-. e''8-. } \times 2/3 { fs''8 e''8 d''8 } \times 2/3 { e''8-4 d''8 cs''8 }   \times 2/3 { d''8 cs''8 b'8 } |\nb
-    \times 2/3 { cs''8 b'8 a'8 } \times 2/3 { b'8 a'8 gs'8 } a'4 r4 |
-  }
+    \times 2/3 { cs''8 b'8 a'8 } \times 2/3 { b'8 a'8 gs'8 } a'4 r4 | }
   \repeat volta 2 {
     e''4^\downbow\((es''4\<) fs''2~      | \nb
     fs''8.\)[ e''16^\upbow\! cs''8.^\downbow a'16^\upbow] e'2^\downbow(~     | \nb
@@ -80,8 +77,7 @@ voicedefault =  {
 
   \alternative {
     { \times 2/3 { gs''8 fs''8 e''8 } \times 2/3 { d''8 cs''8 b'8 } a'4 r4 }
-    { \times 2/3 { gs''8 fs''8 e''8 } \times 2/3 { d''8 cs''8 b'8 } a'4 \bar "|." }
-  }
+    { \times 2/3 { gs''8 fs''8 e''8 } \times 2/3 { d''8 cs''8 b'8 } a'4 \bar "|." } }
   \break
   \repeat volta 2 {
     cs''8.^\upbow(d''16-.) | \nb

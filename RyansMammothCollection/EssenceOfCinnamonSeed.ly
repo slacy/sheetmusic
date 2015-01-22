@@ -19,10 +19,8 @@ voicedefault =  {
 	     } 
   \repeat volta 2 {
     d'8.^\downbow(d'16) fs'8. (a'16-.)   
-    \times 2/3 { << d''8 (fs'8   >> << d''8  
-				     } fs'8   >> << d''8 fs'8  \spanrequest \stop "slur" >> \times 2/3 { d''8 (b''8 a''8) }    |
-    \times 2/3 { gs''8 (a''8 fs''8) 
-	       }   \times 2/3 { 
+    \times 2/3 { << d''8 (fs'8   >> << d''8   } fs'8   >> << d''8 fs'8  \spanrequest \stop "slur" >> \times 2/3 { d''8 (b''8 a''8) }    |
+    \times 2/3 { gs''8 (a''8 fs''8)  }   \times 2/3 { 
 		 cs''8 (d''8 fs'8) 
 	       }   \times 2/3 { e'8 (a8 cs'8) } e'8. (fs'16-.)   |
     as'8.-3(as'16)   \times 2/3 { 
@@ -33,23 +31,16 @@ voicedefault =  {
     e''8. (e''16-.)   \times 2/3 { ds''8 (e''8 fs''8) } e''4.^">" fs''8    |
     \times 2/3 { e''8 (
 		 fs''8 d''8) 
-	       }   \times 2/3 { cs''8 (d''8 b'8) 
-			      }   
-    \times 2/3 { a'8 (b'8 g'8) 
-	       }   \times 2/3 { fs'8 (g'8 e'8 ) }   |
-    d'8. d''16    \times 2/3 { cs''8 (d''8 e''8) 
-			     } d''4^">"   \times 2/3 { b'8 (cs''8 ds''8) }   |
+	       }   \times 2/3 { cs''8 (d''8 b'8)  }   
+    \times 2/3 { a'8 (b'8 g'8)  }   \times 2/3 { fs'8 (g'8 e'8 ) }   |
+    d'8. d''16    \times 2/3 { cs''8 (d''8 e''8)  } d''4^">"   \times 2/3 { b'8 (cs''8 ds''8) }   |
     
     e''8. e''16    \times 2/3 { ds''8 (e''8 fs''8) } e''4.^">" fs''8    |
-    \times 2/3 { g''8^">>> SEGUE"(fs''8 g''8) 
-	       }   
-    \times 2/3 { b''8 (a''8 g''8) 
-	       }   \times 2/3 { fs''8 (g''8    
+    \times 2/3 { g''8^">>> SEGUE"(fs''8 g''8)  }   
+    \times 2/3 { b''8 (a''8 g''8)  }   \times 2/3 { fs''8 (g''8    
 				e''8) }   \times 2/3 { cs''8 (d''8 b'8) }   |
     
-    \times 2/3 { a'8 (b'8 g'8) 
-	       }   \times 2/3 { fs'8 (g'8 e'8 ) } d'4 \bar "  |."   
-  }
+    \times 2/3 { a'8 (b'8 g'8)  }   \times 2/3 { fs'8 (g'8 e'8 ) } d'4 \bar "  |."    }
 
 }
 

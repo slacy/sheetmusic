@@ -41,12 +41,9 @@ voicedefault =  {
 		 d'''8-4 c'''8-3 
 	       }   \times 2/3 { bf''8-2 a''8-3 g''8 
 				-2 
-			      }   \times 2/3 { f''8-1 e''8-0 d''8  
-					     }   \times 2/3 { c''8 bf'8 g'8 }   |
-    \times 2/3 { f'8 a'8 c''8  
-	       }   
-    \times 2/3 { f''8 a''8 c'''8-1 
-	       } f'''8-4 r16 
+			      }   \times 2/3 { f''8-1 e''8-0 d''8   }   \times 2/3 { c''8 bf'8 g'8 }   |
+    \times 2/3 { f'8 a'8 c''8   }   
+    \times 2/3 { f''8 a''8 c'''8-1  } f'''8-4 r16 
   }   
 
 }
