@@ -14,8 +14,9 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 2/4 
+    \time 2/4
     \key a \major
+    \partial 8
     \times 2/3 { e'16 (^\upbow fs'16 gs'16) }   |
     a'8^\downbow a'8 a'16 b'16 cs''16 d''16  |
     e''16 cs''16 e''16 a''16 e''16 cs''16 b'16 a'16    |
@@ -24,8 +25,8 @@ voicedefault =  {
     a'8 a'8 a'16 b'16 cs''16 d''16   |
     e''16 cs''16 e''16 a''16 e''16 cs''16 b'16 a'16   |
     fs''16 e''16 d''16 cs''16 b'16 a'16 gs'16 b'16   |
-    a'8 a'8 a'8  
-  }     
+    a'8 a'8 a'8
+  }
 
   \repeat volta 2 {
     cs''16 (^\upbow d''16)   |
@@ -36,8 +37,8 @@ voicedefault =  {
     e''16 cs''16 e''16 a''16 e''16 cs''16 e''16 a''16   |
     fs''16 d''16 fs''16 a''16 fs''16 d''16 fs''16 a''16   |
     fs''16 e''16 d''16 cs''16 b'16 a'16 gs'16 b'16   |
-    a'8 a'8 a'8  
-  }   
+    a'8 a'8 a'8
+  }
 
 }
 
@@ -46,13 +47,13 @@ voicedefault =  {
 
     \context Staff="default"
     {
-      \voicedefault 
-      
+      \voicedefault
+
     }
 
   >>
   \layout {
-    
+
   }
   \midi {
   }
