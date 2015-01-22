@@ -2,8 +2,8 @@
 \include "Mammoth.ily"
 \header {
   %% book = "Ryan's Mammoth Collection of Fiddle Tunes"
-  crossRefNumber = "1"
-  footnotes = ""
+ crossRefNumber = "1"
+ footnotes = ""
   tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
   title = "JACK ON THE GREEN -- JIG"
 
@@ -12,7 +12,7 @@ voicedefault =  {
 
 
   \time 9/8 
-  \key g \major   d''8    <<   \bar " |."     
+  \key g \major d''8    <<   \bar " |."     
 	       \repeat volta 2 {
 		 g''4 
 		^"Segno"(g''8-.) g''8 fis''8 g''8 e''8 fis''8 g''8     		  |
