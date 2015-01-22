@@ -16,36 +16,23 @@ voicedefault =  {
 
     \override Staff.TimeSignature #'style = #'C
     \time 2/2 
-    \key g \major
-    g'8^\upbow   |
-    g'4^"Segno" b'8 d''8  
-    g''8 d''8 b'8 g'8  |
-    d'4 g'8 b'8 a'8 e'8 e'8 
-    fis'8  |
+    \key g \major     g'8^\upbow    |
+    g'4^"Segno" b'8 d''8       g''8 d''8 b'8 g'8   |
+    d'4 g'8 b'8 a'8 e'8 e'8      fis'8   |
     g'4 b'8 d''8 g''8 d''8 b'8 d''8   |
     e''8 c''8 b'8 c''8 a'4 g'8 g'8  |
-    g'4   
-    b'8 d''8 g''8 d''8 b'8 g'8  |
-    d'4 g'8 b'8 a'8 
-    e'8 e'8 fis'8  |
-    g'4 b'8 d''8 g''8 d''8 b'8    
-    d''8  |
-    e''8 c''8 a'8 c''8 b'8 g'8 g'8    
-  } g''8^\fermata |
-  fis''8 g''8 a''8 g''8 fis''8 d''8 d''8   
-  g''8  |
-  fis''8 g''8 a''8 g''8 b''8 g''8 e''8    
-  g''8  |
-  fis''8 g''8 a''8 g''8 fis''8 d''8 d''8    
-  g''8  |
+    g'4        b'8 d''8 g''8 d''8 b'8 g'8   |
+    d'4 g'8 b'8 a'8      e'8 e'8 fis'8   |
+    g'4 b'8 d''8 g''8 d''8 b'8         d''8   |
+    e''8 c''8 a'8 c''8 b'8 g'8 g'8       } g''8^\fermata  |
+  fis''8 g''8 a''8 g''8 fis''8 d''8 d''8      g''8   |
+  fis''8 g''8 a''8 g''8 b''8 g''8 e''8       g''8   |
+  fis''8 g''8 a''8 g''8 fis''8 d''8 d''8       g''8   |
   fis''8 d''8 e''8 fis''8 g''4 d''8 (g''8)  |
   g''4 b''8 g''8 g''4 b''8 g''8  |
-  fis''8    
-  g''8 a''8 fis''8 fis''8 d''8 d''8 g''8  |
-  fis''8    
-  d''8 e''8 d''8 fis''8 d''8 e''8 d''8  |
-  fis''8    
-  d''8 e''8 fis''8 g''8 e''8 d''8 b'8    \bar "||"   
+  fis''8       g''8 a''8 fis''8 fis''8 d''8 d''8 g''8   |
+  fis''8       d''8 e''8 d''8 fis''8 d''8 e''8 d''8   |
+  fis''8       d''8 e''8 fis''8 g''8 e''8 d''8 b'8    \bar "| |"   
 
 }
 

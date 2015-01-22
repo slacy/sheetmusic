@@ -15,18 +15,14 @@ voicedefault =  {
   \time 2/2 
   \key g \major
   
-  \repeat volta 2 {
-    g'8.^\downbow g'16 g'8.^\upbow b'16 a'8. g'16 e'4    |
-    c''8. b'16 c''8.    
-    e''16-4 d''8. b'16 g''4        |
-    b'8. b'16 b'8.    
-    d''16 c''8. a'16 b'8. g'16    |
+  \repeat volta 2 {     g'8.^\downbow g'16 g'8.^\upbow b'16 a'8. g'16 e'4     |
+    c''8. b'16 c''8.         e''16-4 d''8. b'16 g''4         |
+    b'8. b'16 b'8.         d''16 c''8. a'16 b'8. g'16     |
     e'8. a'16-4 fis'8. 
     d'16 g'4 g'4    
   }     
   \repeat volta 2 {
-    << g''4^\fermata^\accent^\downbow b'4   >> d''16 (g''8.) b'16 g''8.)   
-    d''4    |
+    << g''4^\fermata^\accent^\downbow b'4   >> d''16 (g''8.) b'16 g''8.)        d''4     |
     g''8. a''16 b''8. g''16 e''4 e''8. fis''16  |
     \times 2/3 { g''8 (a''8 b''8) 
 	       }   \times 2/3 {   
@@ -48,8 +44,7 @@ voicedefault =  {
 				      d''8 (e''8 fis''8) 
 				    }   \times 2/3 { g''8 (fis''8 e''8) 
 						   }  
-			 \times 2/3 { d''8 (c''8 a'8) 
-				    }   <<   \bar "|."  >>   
+			 \times 2/3 { d''8 (c''8 a'8)  				    }   <<   \bar " |."  >>   
 		       }
 	       }
 

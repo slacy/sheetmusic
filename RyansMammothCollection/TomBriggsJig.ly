@@ -15,37 +15,26 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 2/4 
-    \key d \major
-    d'8^\upbow   |
-    d'16^"Segno"^\downbow   
-    fis'16    r16 a'16^\upbow d''16 a'16 fis'8    |
-    g'16^\upbow  
-    b'16    r16 d''16^\downbow g''4^\upbow   |
-    d'16^\downbow   
-    fis'16    r16 a'16^\upbow d''16 a'16 fis'8    |
+    \key d \major     d'8^\upbow    |
+    d'16^"Segno"^\downbow        fis'16    r16 a'16^\upbow d''16 a'16 fis'8     |
+    g'16^\upbow       b'16    r16 d''16^\downbow g''4^\upbow    |
+    d'16^\downbow        fis'16    r16 a'16^\upbow d''16 a'16 fis'8     |
     e'2     |
-    d'16^\downbow fis'16    r16 a'16^\upbow d''16 a'16    
-    fis'8    |
+    d'16^\downbow fis'16    r16 a'16^\upbow d''16 a'16         fis'8     |
     g'16^\upbow b'16    r16 d''16^\downbow g''4^\upbow    |
-    fis''16^\downbow e''16 d''16 fis''16 e''16 d''16    
-    cis''16 e''16    |
+    fis''16^\downbow e''16 d''16 fis''16 e''16 d''16         cis''16 e''16     |
     r16 d''16^\upbow a'16 fis'16 d'4    
   }   
   
   \repeat volta 2 {
-    fis''16^\downbow a''16    r16 fis''16^\upbow a''16  
-    fis''16 a''8    |
+    fis''16^\downbow a''16    r16 fis''16^\upbow a''16       fis''16 a''8     |
     fis''16^\upbow a''16    r16 fis''16^\downbow e''16 fis''16 d''8    |
-    g''16^\downbow b''16    
-    r16 g''16^\upbow b''16 g''16 b''8    |
-    g''16^\upbow b''16  
-    r16 fis''16^\downbow e''16 fis''16 d''8  |
+    g''16^\downbow b''16         r16 g''16^\upbow b''16 g''16 b''8     |
+    g''16^\upbow b''16       r16 fis''16^\downbow e''16 fis''16 d''8   |
     fis''16^\downbow a''16    r16 fis''16^\upbow a''16 fis''16 a''8    |
     
-    fis''16^\upbow a''16    r16 fis''16^\upbow e''16 d''16 e''16    
-    g''16    |
-    fis''16 e''16 d''16 fis''16 e''16 d''16    
-    cis''16 e''16    |
+    fis''16^\upbow a''16    r16 fis''16^\upbow e''16 d''16 e''16         g''16     |
+    fis''16 e''16 d''16 fis''16 e''16 d''16         cis''16 e''16     |
     r16 d''16^\upbow a'16 fis'16 d'4        
 
   }   

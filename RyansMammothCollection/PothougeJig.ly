@@ -16,34 +16,23 @@ voicedefault =  {
 
     \time 9/8 
     \key c \major
-    g'4^\downbow g'8 g'8 f'8 e'8 g'8    
-    f'8 e'8    |
+    g'4^\downbow g'8 g'8 f'8 e'8 g'8         f'8 e'8     |
     g'4 g'8 g'8 f'8 e'8 a'8 b'8 c''8   |
     g'4 g'8 g'8 f'8 e'8 g'8 f'8 e'8    |
     
     a'4 a'8 a'4 g'8 a'8 b'8 c''8    
   }     
   \repeat volta 2 {
-    
-    c''8^\downbow e''8 f''8 g''8 e''8 c''8 b'8 a'8 g'8     |
-    c''8 e''8 g''8 g''8 e''8 c''8 e''8 f''8 g''8 
-    c''8 e''8 g''8 g''8 e''8 c''8 b'8 a'8 g'8     |
-    a'4 a'8 a'4 g'8 a'8 b'8 c''8    
-  } e'8^\downbow g'8 e'8 c''8 g'8 e'8 c''8 g'8 e'8    |
-  
-  e'8 g'8 e'8 c''8 g'8 e'8 a'8 b'8 c''8    |
-  
-  e'8 g'8 e'8 c''8 g'8 e'8 c''8 g'8 e'8    |
-  a'4 
-  a'8 a'4 g'8 a'8 b'8 c''8        |
-  e'8^\downbow   
-  g'8 e'8 c''8 g'8 e'8 c''8 g'8 e'8    |
-  e'8 g'8 
-  e'8 c''8 g'8 e'8 a'8 b'8 c''8    |
-  e'8 g'8    
-  e'8 c''8 g'8 e'8 c''8 g'8 e'8    |
-  a'4 a'8 a'4 
-  g'8 a'8 b'8 c''8    \bar "|."   
+         c''8^\downbow e''8 f''8 g''8 e''8 c''8 b'8 a'8 g'8      |
+    c''8 e''8 g''8 g''8 e''8 c''8 e''8 f''8 g''8      c''8 e''8 g''8 g''8 e''8 c''8 b'8 a'8 g'8      |
+    a'4 a'8 a'4 g'8 a'8 b'8 c''8       } e'8^\downbow g'8 e'8 c''8 g'8 e'8 c''8 g'8 e'8     |
+     e'8 g'8 e'8 c''8 g'8 e'8 a'8 b'8 c''8     |
+     e'8 g'8 e'8 c''8 g'8 e'8 c''8 g'8 e'8     |
+  a'4    a'8 a'4 g'8 a'8 b'8 c''8         |
+  e'8^\downbow      g'8 e'8 c''8 g'8 e'8 c''8 g'8 e'8     |
+  e'8 g'8    e'8 c''8 g'8 e'8 a'8 b'8 c''8     |
+  e'8 g'8       e'8 c''8 g'8 e'8 c''8 g'8 e'8     |
+  a'4 a'8 a'4    g'8 a'8 b'8 c''8    \bar " |."   
 
 }
 

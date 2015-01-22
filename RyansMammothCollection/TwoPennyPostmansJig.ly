@@ -15,22 +15,16 @@ voicedefault =  {
   \key a \major
   d''8^\upbow 
   \repeat volta 2 {
-    cis''4 a'8 a'8 
-    cis''8 a'8 e''8 cis''8 a'8  |
-    cis''8 e''8 cis''8  
-    a''8 e''8 cis''8 fis''8 gis''8 a''8  |
-    cis''4 a'8  
-    a'8 cis''8 a'8 e''8 cis''8 a'8  |
+    cis''4 a'8 a'8      cis''8 a'8 e''8 cis''8 a'8   |
+    cis''8 e''8 cis''8       a''8 e''8 cis''8 fis''8 gis''8 a''8   |
+    cis''4 a'8       a'8 cis''8 a'8 e''8 cis''8 a'8   |
     b'8 cis''8    
     b'8 fis''8 d''8 b'8 b'8 cis''8 d''8  
   }     
   \repeat volta 2 {
-    
-    cis''8 e''8 cis''8 a''8 e''8 cis''8 a''8 e''8 cis''8   |
-    cis''8 e''8 cis''8 a''8 e''8 cis''8 fis''8    
-    gis''8 a''8  |
-    cis''8 e''8 cis''8 a''8 e''8 cis''8   
-    a''8 e''8 cis''8  |
+         cis''8 e''8 cis''8 a''8 e''8 cis''8 a''8 e''8 cis''8    |
+    cis''8 e''8 cis''8 a''8 e''8 cis''8 fis''8         gis''8 a''8   |
+    cis''8 e''8 cis''8 a''8 e''8 cis''8        a''8 e''8 cis''8   |
     b'8 cis''8 b'8 fis''8 d''8    
     b'8 b'8 cis''8 d''8  
   }   
