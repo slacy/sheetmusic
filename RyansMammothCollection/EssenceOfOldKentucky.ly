@@ -54,13 +54,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

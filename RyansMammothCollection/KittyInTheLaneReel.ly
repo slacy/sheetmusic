@@ -31,7 +31,7 @@ voicedefault =  {
     cs''16 d''16 e''16 fs''16 g''8 fs''16 g''16     |
     a''16 fs''16 g''16 e''16 fs''16 d''16 e''16 d''16     |
     cs''16 d''16 e''16 g''16 fs''16 d''16 e''16 cs''16      \bar " |."   
- }
+  }
 
 }
 
@@ -42,13 +42,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

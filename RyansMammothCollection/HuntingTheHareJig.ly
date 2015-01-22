@@ -38,13 +38,13 @@ e''8-0 g''8 fs''8 e''4.    <<   \bar "|."  >>
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

@@ -21,14 +21,14 @@ voicedefault =  {
     d'16 fs'16 a'16 fs'16 b'8-. a'8-. |
     
     \grace { cs''16  
-	 } b'16 a'16 fs'16 a'16  \grace { cs''16   					 } b'16 a'16 fs'16 a'16    |
+	   } b'16 a'16 fs'16 a'16  \grace { cs''16   					 } b'16 a'16 fs'16 a'16    |
     e'16 fs'16 e'16 d'16 b16 d'16 a8-.  |
     d'8.^\downbow^\accent d'16-.^\upbow d'8-. fs'16 (e'16) |
     d'16 fs'16 a'16 fs'16 b'8-. a'8-.  |
     \grace { cs''16   	 } b'16 a'16 g'16 a'16 b'16 cs''16 d''16 e''16    |
     fs''16 a''16 e''16 cs''16    
     d''8  
- }     
+  }     
   \repeat volta 2 {
     fs''8.^\downbow^\accent fs''16 fs''16 g''16 fs''16 e''16    |
     d''16 e''16 fs''16 d''16 b'8-. a'8-.  |
@@ -39,7 +39,7 @@ voicedefault =  {
     b'16 d''16 cs''16 e''16-4 d''16 fs''16 e''16 g''16   |
     
     fs''16 a''16 e''16 cs''16 d''8  
- }   
+  }   
 
 }
 
@@ -50,13 +50,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

@@ -23,7 +23,7 @@ voicedefault =  {
     b'4 d''8 c''8 a'8 a'8    |
     
     b'8 g'8 g'8 g'4 g''8    
- }     
+  }     
   \repeat volta 2 {
     g''8^\downbow e''8 g''8 fs''8 d''8 fs''8      |
     e''8 c''8 e''8 d''8 b'8 g'8     |
@@ -33,9 +33,9 @@ voicedefault =  {
     e''8 c''8 e''8 d''8 b'8 g'8     |
     b'4 d''8 c''8 a'8 a'8     |
     b'8 g'8 g'8 g'4 g''8    <<   \bar "|."   
-			 }   
+			       }   
 
-			 }
+			   }
 
     \score{
       <<
@@ -49,8 +49,8 @@ voicedefault =  {
       >>
       \layout {
 	
- }
+      }
       \midi {
- }
+      }
 
- }
+    }

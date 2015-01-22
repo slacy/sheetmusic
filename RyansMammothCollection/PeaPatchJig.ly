@@ -26,15 +26,15 @@ voicedefault =  {
   
   \repeat volta 2 {
     r16 d'16^\upbow d''8 cs''4      |
-			b'16. ( cs''32-.) b'16. (a'32-.) fs'16 a'16    r16 a'8^\upbow     |
-			r8 d''8    r8 cs''8  |
-			b'16. (cs''32-.) b'16. (a'32-.) fs'16 d'16 e'16 d'16  |
-			r16 d'16^\upbow d''8 cs''4    |
-			b'16. (cs''32-.) b'16. (a'32-.) fs'16 a'16    r16 d''16 (^\downbow   |
-			fs''16) d''16 (g''16) e''16 (fs''16) d''16 (e''16-4) cs''16 ( |
-			d''16) cs''16 (d''16) b'16 (a'16) fs'16 (
-			g'16) e'16^"D.S."   
-		 }   
+    b'16. ( cs''32-.) b'16. (a'32-.) fs'16 a'16    r16 a'8^\upbow     |
+    r8 d''8    r8 cs''8  |
+    b'16. (cs''32-.) b'16. (a'32-.) fs'16 d'16 e'16 d'16  |
+    r16 d'16^\upbow d''8 cs''4    |
+    b'16. (cs''32-.) b'16. (a'32-.) fs'16 a'16    r16 d''16 (^\downbow   |
+    fs''16) d''16 (g''16) e''16 (fs''16) d''16 (e''16-4) cs''16 ( |
+    d''16) cs''16 (d''16) b'16 (a'16) fs'16 (
+    g'16) e'16^"D.S."   
+  }   
 
 }
 
@@ -45,13 +45,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

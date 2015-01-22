@@ -16,7 +16,7 @@ voicedefault =  {
   \time 4/4 
   \key g \major   g'16^\downbow g'8.^\upbow g'8. (b'16-.) d''8. (e''16-.) g''8. (d''16-.)     |
   e''8.^\segue d''16 g''8. d''16 e''8. d''16 e''16 (g''8.)    |
-     g'16^\upbow g'8.^\downbow g'8. b'16 d''8. e''16 g''8. d''16      |
+  g'16^\upbow g'8.^\downbow g'8. b'16 d''8. e''16 g''8. d''16      |
   e''16 (g''8.) d''8. b'16  \grace { b'8   				 } a'8. g'16 e'4      |
   g'16^\downbow g'8.^\upbow g'8. b'16 d''8. e''16 g''8. d''16     |
   e''8. d''16 g''8. d''16 e''8. d''16 e''16 (g''8.)    |
@@ -40,13 +40,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

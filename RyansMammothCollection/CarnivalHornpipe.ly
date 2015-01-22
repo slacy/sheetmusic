@@ -26,17 +26,17 @@ voicedefault =  {
     a'4 cs''4 a'4    \bar "| |"  >> 
 }     
 \repeat volta 2 {
-gs'8^\fermata(^\upbow a'8)         |
-		  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16     |
-		  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16     |
-		  a''8. gs''16 fs''8. e''16 ds''8. cs''16 b'8. a'16     |
-		  gs'8. b'16 a'8. cs''16 b'4 gs'8 (a'8)        |
-		  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16     |
-		  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16      |
-		  a''8. gs''16 fs''8. e''16 ds''8. b'16 cs''8. ds''16     |
-		  e''4  << e''4 gs'4   >> << e''4 gs'4   >>   
+  gs'8^\fermata(^\upbow a'8)         |
+  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16     |
+  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16     |
+  a''8. gs''16 fs''8. e''16 ds''8. cs''16 b'8. a'16     |
+  gs'8. b'16 a'8. cs''16 b'4 gs'8 (a'8)        |
+  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16     |
+  b'8. b'16 b'8. b'16 b'8. gs''16 fs''!8. gs''16      |
+  a''8. gs''16 fs''8. e''16 ds''8. b'16 cs''8. ds''16     |
+  e''4  << e''4 gs'4   >> << e''4 gs'4   >>   
 
-		}   
+}   
 
 }
 
@@ -47,13 +47,13 @@ gs'8^\fermata(^\upbow a'8)         |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

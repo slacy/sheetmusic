@@ -19,14 +19,14 @@ voicedefault =  {
     \key g \major
     d''8^\upbow c''8    
     \repeat volta 2 {
-b'8^"Segno" g'8 g'8 b'8 d''4 c''8 b'8    |
-		      a'8 d'8 d'8 e'8 fs'8 g'8 a'8 c''8   |
-		      b'8 g'8 g'8 b'8 d''4 c''8 b'8   |
-		      c''8 d''8 e''8 fs''8 g''4 d''8 c''8   |
-		      b'8 g'8 g'8 b'8 d''4 c''8 b'8   |
-		      a'8 d'8 d'8 e'8 fs'8 g'8 a'8 c''8  |
-		      b'8 g'8 g'8 b'8 d''4 c''8 b'8   |
-		      c''8 d''8     		      e''8 fs''8 g''4 d''8 c''8 }       |
+      b'8^"Segno" g'8 g'8 b'8 d''4 c''8 b'8    |
+      a'8 d'8 d'8 e'8 fs'8 g'8 a'8 c''8   |
+      b'8 g'8 g'8 b'8 d''4 c''8 b'8   |
+      c''8 d''8 e''8 fs''8 g''4 d''8 c''8   |
+      b'8 g'8 g'8 b'8 d''4 c''8 b'8   |
+      a'8 d'8 d'8 e'8 fs'8 g'8 a'8 c''8  |
+      b'8 g'8 g'8 b'8 d''4 c''8 b'8   |
+      c''8 d''8     		      e''8 fs''8 g''4 d''8 c''8 }       |
     g'4 g''8 fs''8 e''8 d''8 c''8 b'8  |
     a'8 a''8 a''8 g''8 fs''8 e''8 d''8 c''8   |
     b'8 d''8 g''8 fs''8 e''8 d''8 c''8 b'8   |
@@ -36,7 +36,7 @@ b'8^"Segno" g'8 g'8 b'8 d''4 c''8 b'8    |
     b'8 g'8 g'8 b'8 c''8 a'8 a'8 g''8  |
     
     fs''8 d''8 e''8 fs''8 g''4 g''4    
- }   
+  }   
 
 }
 
@@ -47,13 +47,13 @@ b'8^"Segno" g'8 g'8 b'8 d''4 c''8 b'8    |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

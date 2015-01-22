@@ -26,20 +26,20 @@ voicedefault =  {
     gs'8    r8 a'8    r8 fs'4^\accent a'8 (fs'8)    |
     cs''8 e''8    
     ds''8 fs''8 e''4    
- }     
+  }     
   \repeat volta 2 {
-ds''8^\upbow(e''8-4)   |
-		    fs''8-. b'8 (a'8 b'8) gs''8-. b'8 ( a'8 b'8)    |
-		    a''8-. b'8-. gs''8-. b'8-. fs''8-. b'8 (a'8 b'8)    |
-		    fs''8-. b'8 (a'8 b'8) gs''8-. b'8 (a'8 b'8)   |
-		    a''8-. fs''8-. ds''8-. fs''8-. e''4-. ds''8 (e''8-4)    |
-		    fs''8-. b'8 ( a'8 b'8) gs''8-. b'8 (a'8 b'8)    |
-		    a''8-. b'8-. gs''8-. b'8-. fs''8-. b'8 (a'8 b'8)   |
-		    e'4 gs'8 (b'8) e''4 e''8 (gs''8)    |
-		    \grace { 
-		      gs''8  
-		 } fs''8 e''8 ds''8 fs''8 e''4    
-		 }   
+    ds''8^\upbow(e''8-4)   |
+    fs''8-. b'8 (a'8 b'8) gs''8-. b'8 ( a'8 b'8)    |
+    a''8-. b'8-. gs''8-. b'8-. fs''8-. b'8 (a'8 b'8)    |
+    fs''8-. b'8 (a'8 b'8) gs''8-. b'8 (a'8 b'8)   |
+    a''8-. fs''8-. ds''8-. fs''8-. e''4-. ds''8 (e''8-4)    |
+    fs''8-. b'8 ( a'8 b'8) gs''8-. b'8 (a'8 b'8)    |
+    a''8-. b'8-. gs''8-. b'8-. fs''8-. b'8 (a'8 b'8)   |
+    e'4 gs'8 (b'8) e''4 e''8 (gs''8)    |
+    \grace { 
+      gs''8  
+    } fs''8 e''8 ds''8 fs''8 e''4    
+  }   
 
 }
 
@@ -50,13 +50,13 @@ ds''8^\upbow(e''8-4)   |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

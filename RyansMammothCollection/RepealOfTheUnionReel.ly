@@ -19,7 +19,7 @@ voicedefault =  {
   g'8 e'8 cs''8 e'8 d''8 e'8 cs''8 e'8     |
   a'8    
   d'8    \times 2/3 { fs'8 (e'8 d'8) 
-		 } a'4    \times 2/3 { fs'8  					  (e'8 d'8)  					}     |
+		    } a'4    \times 2/3 { fs'8  					  (e'8 d'8)  					}     |
   g'8 e'8 cs''8 e'8    \times 2/3 {      d'8 d'8 d'8 } d'4      |
   a'8 d'8    \times 2/3 { fs'8 (
 			  e'8 d'8)  			} a'4    \times 2/3 { fs'8 (e'8 d'8)  					 }      |
@@ -44,13 +44,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

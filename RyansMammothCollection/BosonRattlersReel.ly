@@ -26,21 +26,21 @@ voicedefault =  {
     d'8 fs'8 a'8-4 fs'8 d'8 fs'8 a'8 d''8     |
     cs''8 a'8 b'8 cs''8    
     d''4    
- } 
+  } 
   \repeat volta 2 {
-b'8^\upbow(cs''8)   |
-		    d''8 fs''8 b'8 cs''8 d''8 b'8 fs''8 d''8     |
-		    cs''8 e''8-4 a'8 b'8 cs''8 a'8 e''8-4 cs''8     |
-		    d''8 fs''8 b'8 cs''8 d''8 b'8 fs''8 d''8     |
-		    
-		    cs''8 e''8-4 a'8 cs''8    \times 2/3 { b'8 b'8 b'8   							 } b'8 (cs''8)     |
-		    d''8 fs''8 b'8 cs''8 d''8 b'8 fs''8 d''8     |
-		    cs''8 e''8-4 a'8 b'8 cs''8 a'8 e''8 g''8     |
-		    \times 2/3 { fs''8 (g''8 fs''8  
-				 ) 
-			 } e''8-. cs''8-.   \times 2/3 { d''8 (e''8-4 d''8)  							 } cs''8-. a'8-.     |
-		    b'8 a'8 b'8 cs''8 d''4    
-		 }   
+    b'8^\upbow(cs''8)   |
+    d''8 fs''8 b'8 cs''8 d''8 b'8 fs''8 d''8     |
+    cs''8 e''8-4 a'8 b'8 cs''8 a'8 e''8-4 cs''8     |
+    d''8 fs''8 b'8 cs''8 d''8 b'8 fs''8 d''8     |
+    
+    cs''8 e''8-4 a'8 cs''8    \times 2/3 { b'8 b'8 b'8   							 } b'8 (cs''8)     |
+    d''8 fs''8 b'8 cs''8 d''8 b'8 fs''8 d''8     |
+    cs''8 e''8-4 a'8 b'8 cs''8 a'8 e''8 g''8     |
+    \times 2/3 { fs''8 (g''8 fs''8  
+		 ) 
+	       } e''8-. cs''8-.   \times 2/3 { d''8 (e''8-4 d''8)  							 } cs''8-. a'8-.     |
+    b'8 a'8 b'8 cs''8 d''4    
+  }   
 
 }
 
@@ -51,13 +51,13 @@ b'8^\upbow(cs''8)   |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

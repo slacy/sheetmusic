@@ -24,7 +24,7 @@ voicedefault =  {
     g''16. fs''32 e''16. d''32 cs''16. a'32 b'16. cs''32   |
     
     d''8 fs''8 d''8    r8 
- }     
+  }     
   \repeat volta 2 {
     e''16.^\downbow d''32 cs''16. b'32 a'16. b'32 cs''16. a'32    |
     d''16.         e''32 fs''16. g''32 a''16.-1 b''32-2 cs'''16.-3 d'''32-4   |
@@ -34,7 +34,7 @@ voicedefault =  {
     d''16. e''32 fs''16. g''32 a''16. b''32 cs'''16. d'''32   |
     e'''16. d'''32 cs'''16. b''32 a''16. g''32 fs''16. e''32   |
     d''8 fs''8 d''8    r8 
- }   
+  }   
 
 }
 
@@ -45,13 +45,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

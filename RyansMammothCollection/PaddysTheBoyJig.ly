@@ -27,7 +27,7 @@ voicedefault =  {
     c''8 a'8 g'8 f'8 g'8 a'8     |
     b'4 d''8 c''8 a'8 f'8     |
     a'8 g'8 g'8 g'4    
- }   
+  }   
 
 }
 
@@ -38,13 +38,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

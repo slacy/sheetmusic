@@ -24,18 +24,18 @@ voicedefault =  {
     cs''16 (e''16) a'16 (cs''16 e''16) a'16-. cs''16-. e''16-.    |
     
     d''8 fs''8 d''8  
- } 
+  } 
   \repeat volta 2 {
-a'8^"8va. ad lib.~~~~~~~~~~~~~~~~~~~~~~~~"^\accent^\upbow   |
-		    b'8^\accent cs''8^\accent d''8^\accent cs''16 (b'16)   |
-		    b'16 a'16 gs'16 a'16 fs'8-. e''16 (d''16)    |
-		     		    cs''16 (e''16) a'16 (cs''16) e''16 (a'16) cs''16 ( e''16)     |
-		    d''16 fs''16 b''16 a''16 gs''16 a''16 fs''16 d''16     |
-		    b'8^\accent cs''8^\accent d''8^\accent cs''16 (b'16)   |
-		    b'16 a'16 gs'16 a'16 fs'8-. e''16 (d''16)    |
-		    cs''16 e''16 a'16 cs''16 e''16 a'16 cs''16 e''16     |
-		    d''8 fs''8 d''8  
-		 }   
+    a'8^"8va. ad lib.~~~~~~~~~~~~~~~~~~~~~~~~"^\accent^\upbow   |
+    b'8^\accent cs''8^\accent d''8^\accent cs''16 (b'16)   |
+    b'16 a'16 gs'16 a'16 fs'8-. e''16 (d''16)    |
+    cs''16 (e''16) a'16 (cs''16) e''16 (a'16) cs''16 ( e''16)     |
+    d''16 fs''16 b''16 a''16 gs''16 a''16 fs''16 d''16     |
+    b'8^\accent cs''8^\accent d''8^\accent cs''16 (b'16)   |
+    b'16 a'16 gs'16 a'16 fs'8-. e''16 (d''16)    |
+    cs''16 e''16 a'16 cs''16 e''16 a'16 cs''16 e''16     |
+    d''8 fs''8 d''8  
+  }   
 
 }
 
@@ -46,13 +46,13 @@ a'8^"8va. ad lib.~~~~~~~~~~~~~~~~~~~~~~~~"^\accent^\upbow   |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

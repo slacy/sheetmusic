@@ -23,19 +23,19 @@ voicedefault =  {
     e''8 fs''8 d''8 cs''8 b'8 a'8     |
     d''8 d''8 d''8 fs''8 g''8 a''8     |
     g''8 e''8 cs''8 d''4    
- }     
+  }     
 
   \repeat volta 2 {
-fs''16^\upbow(g''16)   |
-		    a''8 g''8 a''8 g''8 e''8 g''8     |
-		    fs''8 e''8 d''8 cs''8 b'8 a'8     |
-		    d''8 d''8 d''8 fs''8 e''8 d''8     |
-		    cs''8 a'8 cs''8 e''4 fs''16 (g''16)   |
-		    a''8 a''8 fs''8 g''8 g''8 e''8     |
-		    fs''8 fs''8 d''8 cs''8 b'8 a'8     |
-		    d''8 d''8 d''8 fs''8 g''8 a''8     |
-		    g''8 e''8 cs''8 d''4    
-		 }   
+    fs''16^\upbow(g''16)   |
+    a''8 g''8 a''8 g''8 e''8 g''8     |
+    fs''8 e''8 d''8 cs''8 b'8 a'8     |
+    d''8 d''8 d''8 fs''8 e''8 d''8     |
+    cs''8 a'8 cs''8 e''4 fs''16 (g''16)   |
+    a''8 a''8 fs''8 g''8 g''8 e''8     |
+    fs''8 fs''8 d''8 cs''8 b'8 a'8     |
+    d''8 d''8 d''8 fs''8 g''8 a''8     |
+    g''8 e''8 cs''8 d''4    
+  }   
 
 }
 
@@ -46,13 +46,13 @@ fs''16^\upbow(g''16)   |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

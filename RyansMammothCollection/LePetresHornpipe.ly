@@ -17,8 +17,8 @@ voicedefault =  {
   a''8.-3 g''16 fs''8. a''16  |
   g''8. e''16 b'8. cs''16   |
   d''4 e''8. fs''16  |
-     \times 2/3 { g''8-. g''8-. g''8-.  	 } b'8. g''16    |
-     \times 2/3 { fs''8-. fs''8-. fs''8-.  	 } a'8. fs''16         |
+  \times 2/3 { g''8-. g''8-. g''8-.  	 } b'8. g''16    |
+  \times 2/3 { fs''8-. fs''8-. fs''8-.  	 } a'8. fs''16         |
   e''8. ds''16 e''8. fs''16  |
   e''4 fs''8. g''16  \bar ":|" e''8. a'16 b'8. cs''16   |
   d''4 cs''8.^\downbow d''16  \bar " |:" \times 2/3 { e''8-. e''8-. e''8-.  						 } ds''8. e''16-4   |
@@ -39,13 +39,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

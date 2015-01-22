@@ -18,13 +18,13 @@ voicedefault =  {
     cs''8^\downbow e''4   >>     << cs''4^\accent^\downbow e''4   >> <<   
       cs''8^\downbow e''4   >>     
   \repeat volta 2 {
-e''8. (^\downbow a''16 ) cs'''8.-4 a''16 fs''8. a''16 e''16 (cs''8.)      |
-		    e''8.-2 a''16-1 cs'''8-3 a''8-1 b''8-2( e'''8^"40" e'''4^"40"    |
-		    e''8. (^\downbow a''16) cs'''8.-4 a''16 fs''8. a''16 e''8. fs''16     |
-		    
-		    e''16-4(cs''8.) b'8. e''16-4 cs''16 (a'8.) a'4    
+    e''8. (^\downbow a''16 ) cs'''8.-4 a''16 fs''8. a''16 e''16 (cs''8.)      |
+    e''8.-2 a''16-1 cs'''8-3 a''8-1 b''8-2( e'''8^"40" e'''4^"40"    |
+    e''8. (^\downbow a''16) cs'''8.-4 a''16 fs''8. a''16 e''8. fs''16     |
+    
+    e''16-4(cs''8.) b'8. e''16-4 cs''16 (a'8.) a'4    
 
-		 }   
+  }   
 
 }
 
@@ -35,13 +35,13 @@ e''8. (^\downbow a''16 ) cs'''8.-4 a''16 fs''8. a''16 e''16 (cs''8.)      |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

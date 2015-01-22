@@ -37,13 +37,13 @@ d''8 b'8 g''8 g'4.    \bar ":|" d''8 b'8 g''8 g'8    \bar " |."
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

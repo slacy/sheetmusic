@@ -16,15 +16,15 @@ voicedefault =  {
   \key d \major
   
   \repeat volta 2 {
-d''4^\downbow fs''8 (d''8 ) a'8 fs'8 d'8 fs'8      |
-		    d''4 fs''8 (d''8) e''8 g''8 fs''8 e''8     |
-		    d''4 fs''8 (d''8) a'8 fs'8 d'8 fs'8     |
-		    g'8 e'8 fs'8 d'8 e'8 (b8) b4        |
-		    d''4 fs''8 (d''8) a'8 fs'8 d'8 fs'8     |
-		    d''4 fs''8 (d''8) e''8 g''8 fs''8 e''8     |
-		    d''4 fs''8 (d''8) a'8 fs'8 d'8 fs'8    |
-		    d''8 fs''8 e''8 g''8 fs''8 (d''8) d''4    
-		 }   
+    d''4^\downbow fs''8 (d''8 ) a'8 fs'8 d'8 fs'8      |
+    d''4 fs''8 (d''8) e''8 g''8 fs''8 e''8     |
+    d''4 fs''8 (d''8) a'8 fs'8 d'8 fs'8     |
+    g'8 e'8 fs'8 d'8 e'8 (b8) b4        |
+    d''4 fs''8 (d''8) a'8 fs'8 d'8 fs'8     |
+    d''4 fs''8 (d''8) e''8 g''8 fs''8 e''8     |
+    d''4 fs''8 (d''8) a'8 fs'8 d'8 fs'8    |
+    d''8 fs''8 e''8 g''8 fs''8 (d''8) d''4    
+  }   
   
   \repeat volta 2 {
     \times 2/3 { fs'8 (^\downbow e'8 d'8)  	 } a'8 (d'8) b'8 d'8 a'8 d'8      |
@@ -37,7 +37,7 @@ d''4^\downbow fs''8 (d''8 ) a'8 fs'8 d'8 fs'8      |
     fs'8 a'8 d''8 fs''8 e''8 cs''8 d''8 b'8     |
     e''8 g''8 fs''8    
     e''8 fs''8 d''8 d''4    
- }   
+  }   
 
 }
 
@@ -48,13 +48,13 @@ d''4^\downbow fs''8 (d''8 ) a'8 fs'8 d'8 fs'8      |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

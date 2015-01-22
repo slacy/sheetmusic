@@ -27,22 +27,22 @@ voicedefault =  {
   a''16 fs''16 g''16 e''16 fs''16 d''16 e''16-4 cs''16     |
   e''16     d''16 cs''16 d''16 ds''16 e''16 f''16 fs''!16    <<        \bar "|." <<   \bar "  |."  >>   
 
-							 }
+								     }
 
-						    \score{
-						      <<
+							      \score{
+								<<
 
-							\context Staff="default"
-							{
-							  \voicedefault 
-							  
-							}
+								  \context Staff="default"
+								  {
+								    \voicedefault 
+								    
+								  }
 
-						      >>
-						      \layout {
-							
-						 }
-						      \midi {
-						 }
+								>>
+								\layout {
+								  
+								}
+								\midi {
+								}
 
-						 }
+							      }

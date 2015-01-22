@@ -27,7 +27,7 @@ voicedefault =  {
     fs'16 a'16 fs''16 e''16 d''16 c''16 b'16 a'16     |
     g'8 g''8 g'8    
     r8 
- }     
+  }     
   \repeat volta 2 {
     \grace { e''16 fs''16   	 } g''16^\downbow fs''16 e''16 fs''16 g''16 fs''16 e''16 fs''16      |
     g''16 fs''16 e''16 fs''16 g''16 fs''16 e''16 g''16      |
@@ -38,9 +38,9 @@ voicedefault =  {
     
     d'''16-4 b''16 c'''16 a''16 b''16-2 g''16-2 a''16    
     fs''16    
- } \alternative{{ g''16 b''16 a''16 fs''16 e''8    r8   		 } { g''16 b''16 a''16 fs''16 g''8    r8   \bar "  |."   
-		 }
-	 }
+  } \alternative{{ g''16 b''16 a''16 fs''16 e''8    r8   		 } { g''16 b''16 a''16 fs''16 g''8    r8   \bar "  |."   
+									   }
+	       }
 
 }
 
@@ -51,13 +51,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

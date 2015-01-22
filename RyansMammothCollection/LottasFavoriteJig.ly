@@ -17,31 +17,31 @@ voicedefault =  {
   fs'8. a'16 b'8. d''16 a'16 fs'8.     r8 a'8     |
   b'8 g'4 b'8 a'8 fs'4 a'8    |
   d''8. a'16 fs'8. d'16 e'8. d'16 b8. a16     |
-     d'2.    \times 2/3 { fs'8 e'8. d'16   		 }     |
+  d'2.    \times 2/3 { fs'8 e'8. d'16   		 }     |
   fs'8. a'16 b'8. d''16 a'16 fs'8.    r8 a'8     |
   b'8. cs''16    
   d''8. e''16    \times 2/3 { fs''8 e''8 fs''8  
-			 }   \times 2/3 {  			      g''8 a''8 b''8   			 }     |
+			    }   \times 2/3 {  			      g''8 a''8 b''8   			 }     |
   a''8. g''16 fs''8. e''16 d''4 
   
   \repeat volta 2 {
-fs'8. e'16    |
-		    d'8 b4.    r4 b'8. cs''16     |
-		    d''8. e''16 fs''8. g''16 fs''16 b''8.         r8 fs''8     |
-		    \times 2/3 { g''8 a''8 g''8  
-			 } e''8. g''16  		    \times 2/3 { g''8 a''8 g''8   	 } d''8. fs''16      |
-		    e''8. d''16 cs''8. b'16 as'8. g'16 fs'8. e'16      |
-		    d'8 b4.    r4 b'8. cs''16    |
-		    d''8. e''16 fs''8. g''16 fs''16 b''8.    r8 fs''8     |
-		    \times 2/3 { 
-		      fs''8 g''8 fs''8  
-		 } e''8. g''16    \times 2/3 { fs''8 g''8   
-						  fs''8  
-						} d''8. fs''16    
-		 } \alternative{{ e''8. a'16 b'8.    
-				   cs''16 d''4   				 } { e''8. a'16 b'8. cs''16 d''4    r4    		     \bar "  |."   
-				 }
-			 }
+    fs'8. e'16    |
+    d'8 b4.    r4 b'8. cs''16     |
+    d''8. e''16 fs''8. g''16 fs''16 b''8.         r8 fs''8     |
+    \times 2/3 { g''8 a''8 g''8  
+	       } e''8. g''16  		    \times 2/3 { g''8 a''8 g''8   	 } d''8. fs''16      |
+    e''8. d''16 cs''8. b'16 as'8. g'16 fs'8. e'16      |
+    d'8 b4.    r4 b'8. cs''16    |
+    d''8. e''16 fs''8. g''16 fs''16 b''8.    r8 fs''8     |
+    \times 2/3 { 
+      fs''8 g''8 fs''8  
+    } e''8. g''16    \times 2/3 { fs''8 g''8   
+				  fs''8  
+				} d''8. fs''16    
+  } \alternative{{ e''8. a'16 b'8.    
+		   cs''16 d''4   				 } { e''8. a'16 b'8. cs''16 d''4    r4    		     \bar "  |."   
+								   }
+	       }
 
 }
 
@@ -52,13 +52,13 @@ fs'8. e'16    |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

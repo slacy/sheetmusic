@@ -28,7 +28,7 @@ voicedefault =  {
 							     bf'16 e'16 ( 							 } f'16-.(a'16-.) c''16 (e''16-.) f''8    \bar "  |."      \key c \major a''8^\fermata^\upbow   |
   g''16. ( f''32-.) d''16. (b'32-.) a'8. g'16^\upbow    |
   fs'16. g'32 c''16. e''32 g''8. g''16^\upbow    |
-     e''16. (^\downbow(g''32 c''16) g''16. (f''32-.) d''16. b'32 a'8. g'16^\upbow     |
+  e''16. (^\downbow(g''32 c''16) g''16. (f''32-.) d''16. b'32 a'8. g'16^\upbow     |
   fs'16 g'16 c''16 e''16 g''8.^\downbow gs''16 (^\upbow    |
   b''16 a''16) cs''16^\upbow d''16^\downbow(a''16 g''16)        |
   
@@ -45,13 +45,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

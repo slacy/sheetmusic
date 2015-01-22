@@ -24,8 +24,8 @@ voicedefault =  {
     b'16 cs''16 d''16 e''16 fs''16 e''16 fs''16 a''16   |
     \times 2/3 { a'16-. 
 		 a'16-. a'16-. 
-	 } cs''16 (b'16) a'8 a'16  
- } 
+	       } cs''16 (b'16) a'8 a'16  
+  } 
   \repeat volta 2 {
     e''16    |
     cs''16 (a'16) e''16 (a'16) fs''16 ( a'16) e''16 (a'16)  |
@@ -37,9 +37,9 @@ voicedefault =  {
     b'16-. cs''16-. d''16-. e''16-. fs''16-. e''16-. fs''16-. a''16-.  |
     
     \times 2/3 { a'16-. a'16-. a'16-. 
-	 } cs''16 (b'16) a'8    
+	       } cs''16 (b'16) a'8    
     a'16  
- }   
+  }   
 
 }
 
@@ -50,13 +50,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

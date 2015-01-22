@@ -29,7 +29,7 @@ voicedefault =  {
   \times 2/3 { a''16 (g''16 fs''16)  	 } g''16-. e''16-. fs''16 d''16 e''16 cs''16      |
   d''16 a'16 b'16 g'16 fs'16 a'16 d''16 b'16    <<   \bar "|." <<   \bar " |."  >>   
 
-						 }
+						   }
 
 						 \score{
 						   <<
@@ -38,13 +38,13 @@ voicedefault =  {
 						     {
 						       \voicedefault 
 						       
-						 }
+						     }
 
 						   >>
 						   \layout {
 						     
-						 }
+						   }
 						   \midi {
-						 }
+						   }
 
 						 }

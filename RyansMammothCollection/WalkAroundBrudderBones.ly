@@ -10,7 +10,7 @@
 }
 voicedefault =  {
 
-   \time 2/4    \key bf \major g4^"ff"^\accent^\downbow a4^\accent      |
+  \time 2/4    \key bf \major g4^"ff"^\accent^\downbow a4^\accent      |
   bf4^\accent c'4^\accent   |
   d'4^"mf" ef'8. ( c'16)    |
   d'8. (bf16) g4    |
@@ -43,13 +43,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

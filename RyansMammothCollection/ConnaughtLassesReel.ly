@@ -24,7 +24,7 @@ voicedefault =  {
   g'8 b'16 g'16 fs'8 e''16 fs''16     |
   g''16 fs''16 e''16 d''16 cs''8 e''16 a'16     | |
   a''8  \grace { b''16  
-	 } a''16 g''16 a''16       fs''16 d''16 fs''16 g''16 fs''16 e''16 d''16 cs''16 b'16 a'16 fs'16      |
+	       } a''16 g''16 a''16       fs''16 d''16 fs''16 g''16 fs''16 e''16 d''16 cs''16 b'16 a'16 fs'16      |
   g'8 b'16 g'16 fs'8 a'16 fs'16     |
   a8 cs'8 d'4    |
   \bar ":|" d''16 fs''16 a''16 gs''16 a''16 fs''16 d''16 fs''16     |
@@ -41,13 +41,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

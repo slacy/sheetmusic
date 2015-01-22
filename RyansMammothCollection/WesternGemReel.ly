@@ -26,21 +26,21 @@ voicedefault =  {
     fs''16 e''16 d''16 fs''16 e''16 cs''16 a'16 cs''16     |
     b'16 a'16 gs'16    
     b'16 a'8    
- }   
+  }   
   \key e \major
   
   \repeat volta 2 {
-gs'16^\fermata^\downbow a'16    |
-		    cs''16 (b'16) b'16-. b'16-. b'8-. cs''16^\downbow ds''16    |
-		    e''16 ds''16 e''16 fs''16 gs''8-. fs''16 (gs''16)    |
-		    a''16 gs''16 fs''16 a''16 gs''16 fs''16 e''16 gs''16      |
-		    fs''16 e''16 ds''16 cs''16 b'16 a'16 gs'16 a'16     |
-		    cs''16 (b'16) b'16-. b'16-. b'8-. cs''16^\downbow ds''16     |
-		    e''16 ds''16 e''16 fs''16 gs''8-. fs''16 (gs''16)    |
-		    a''16 gs''16 fs''16 a''16 gs''16 fs''16 e''16 gs''16     |
-		    fs''16    
-		    e''16 ds''16 fs''16 e''8    
-		 }   
+    gs'16^\fermata^\downbow a'16    |
+    cs''16 (b'16) b'16-. b'16-. b'8-. cs''16^\downbow ds''16    |
+    e''16 ds''16 e''16 fs''16 gs''8-. fs''16 (gs''16)    |
+    a''16 gs''16 fs''16 a''16 gs''16 fs''16 e''16 gs''16      |
+    fs''16 e''16 ds''16 cs''16 b'16 a'16 gs'16 a'16     |
+    cs''16 (b'16) b'16-. b'16-. b'8-. cs''16^\downbow ds''16     |
+    e''16 ds''16 e''16 fs''16 gs''8-. fs''16 (gs''16)    |
+    a''16 gs''16 fs''16 a''16 gs''16 fs''16 e''16 gs''16     |
+    fs''16    
+    e''16 ds''16 fs''16 e''8    
+  }   
 
 }
 
@@ -51,13 +51,13 @@ gs'16^\fermata^\downbow a'16    |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

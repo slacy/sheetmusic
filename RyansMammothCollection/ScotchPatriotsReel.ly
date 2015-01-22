@@ -31,22 +31,22 @@ voicedefault =  {
   
   e'8 fs'8 g'8 a'8 b'4  \grace { cs''8   			 } d''4      <<    				  \bar "|." <<   \bar "|."   \bar ":  |"   
 
-											 }
+															       }
 
-											     \score{
-											       <<
+															     \score{
+															       <<
 
-												 \context Staff="default"
-												 {
-												   \voicedefault 
-												   
-												 }
+																 \context Staff="default"
+																 {
+																   \voicedefault 
+																   
+																 }
 
-											       >>
-											       \layout {
-												 
-											 }
-											       \midi {
-											 }
+															       >>
+															       \layout {
+																 
+															       }
+															       \midi {
+															       }
 
-											 }
+															     }

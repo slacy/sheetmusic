@@ -25,7 +25,7 @@ voicedefault =  {
     d''8 cs''8 b'8 d''8 cs''8 b'8 a'8 cs''8     |
     b'8    
     d''8 gs'8 b'8 a'4    
- }     
+  }     
   \repeat volta 2 {
     \times 2/3 { e''8  		 -4_"p"^\upbow(ds''8 e''8)  	 }   |
     fs''8 d''!8         \times 2/3 { d''8 (e''8-4 d''8)  	 } a'8 d''8 fs''8 d''8     |
@@ -38,7 +38,7 @@ voicedefault =  {
     d''8 b'8    \times 2/3 { b'8 ( 			     cs''8 b'8)  			 } gs'8 b'8 e''8 d''8      |
     cs''8 a'8  
     b'8 gs'8 a'4    
- }   
+  }   
 
 }
 
@@ -49,13 +49,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

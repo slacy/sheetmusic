@@ -20,20 +20,20 @@ voicedefault =  {
   b'16 e'16 cs''16 e'16 d''16 e'16 b'16 e'16     |
   a'8    \times 2/3 { cs''16 (
 		      b'16 a'16) 
-		 } e''16 cs''16    \times 2/3 { cs''16 (b'16     						   a'16)  						 }     |
+		    } e''16 cs''16    \times 2/3 { cs''16 (b'16     						   a'16)  						 }     |
   e''16 a'16 a''16 a'16 gs''16 a'16 fs''16 a'16     |
   e''16 fs''16 e''16 cs''16 e''16 a''16 e''16 cs''16     |
   b'16 a'16 b'16 cs''16 a'4     \bar " |." e'8    \times 2/3 { gs'16 (fs'16 e'16) 
-							 } b'16       e'16    \times 2/3 { gs'16 (fs'16 e'16)  		 }     |
+							     } b'16       e'16    \times 2/3 { gs'16 (fs'16 e'16)  		 }     |
   b'16 e'16 d''16 e'16 cs''16 e'16 b'16 e'16     |
   a'8    
   \times 2/3 { cs''16 (b'16 a'16) 
-	 } e''16 a'16    \times 2/3 {  	       cs''16 (b'16 a'16)  	 }     |
+	     } e''16 a'16    \times 2/3 {  	       cs''16 (b'16 a'16)  	 }     |
   e''16 a'16 a''16 a'16 gs''16 a'16 fs''16 a'16     |
   e''16 d''16 e''16 cs''16 a''16 gs''16 a''16 fs''16     |
   e''16 d''16 e''16 cs''16 a''16 gs''16 a''16 fs''16     |
   e''16 cs''16 a''16 gs''16 fs''16 e''16 d''16 cs''16     |
-     b'16 a'16 gs'16 fs'16 e'16 fs'16 gs'16 e'16       \bar "  |."   
+  b'16 a'16 gs'16 fs'16 e'16 fs'16 gs'16 e'16       \bar "  |."   
 
 }
 
@@ -44,13 +44,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

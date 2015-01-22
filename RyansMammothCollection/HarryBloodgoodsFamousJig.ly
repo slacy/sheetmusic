@@ -24,21 +24,21 @@ voicedefault =  {
     d''2   ~ d''8. ef''16 c''8. d''16    |
     
     bf'8. c''16 a'8. bf'16 g'4  
- }     
+  }     
   \repeat volta 2 {
-f'4^\upbow    |
-		    \times 2/3 { bf'8^\downbow(c''8 bf'8)  			 } f'8. ( bf'16-.) d''8. (f'16-.) bf'8._\segue d''16      |
-		    
-		    \times 2/3 { c''8 (d''8 c''8)  			 } g'8. c''16 ef''8. d''16 c''8. bf'16      |
-		    \times 2/3 { a'8 (bf'8 a'8) 
-			 }    		    ef'8. bf'16    \times 2/3 { a'8 (bf'8 a'8)  				} ef'8. a'16     |
-		    g'8. f'16 e'8. f'16 d'8. f'16 g'8. a'16     |
-		    \times 2/3 { bf'8 (c''8 bf'8)  			 } f'8. bf'16 d''8. f'16 bf'8. d''16      |
-		    \times 2/3 { c''8 (d''8     				 c''8)  	 } g'8. c''16 ef''8. d''16 c''8. bf'16      |
-		    a'8. g''16 f''4 f'8. ef''16 d''8. c''16     |
-		    
-		    bf'4  << f'4 d''4   >> << d'4 bf'4   >> 
-		 }   
+    f'4^\upbow    |
+    \times 2/3 { bf'8^\downbow(c''8 bf'8)  			 } f'8. ( bf'16-.) d''8. (f'16-.) bf'8._\segue d''16      |
+    
+    \times 2/3 { c''8 (d''8 c''8)  			 } g'8. c''16 ef''8. d''16 c''8. bf'16      |
+    \times 2/3 { a'8 (bf'8 a'8) 
+	       }    		    ef'8. bf'16    \times 2/3 { a'8 (bf'8 a'8)  				} ef'8. a'16     |
+    g'8. f'16 e'8. f'16 d'8. f'16 g'8. a'16     |
+    \times 2/3 { bf'8 (c''8 bf'8)  			 } f'8. bf'16 d''8. f'16 bf'8. d''16      |
+    \times 2/3 { c''8 (d''8     				 c''8)  	 } g'8. c''16 ef''8. d''16 c''8. bf'16      |
+    a'8. g''16 f''4 f'8. ef''16 d''8. c''16     |
+    
+    bf'4  << f'4 d''4   >> << d'4 bf'4   >> 
+  }   
 
 }
 
@@ -49,13 +49,13 @@ f'4^\upbow    |
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

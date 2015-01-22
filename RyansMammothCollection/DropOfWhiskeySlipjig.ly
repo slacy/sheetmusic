@@ -15,7 +15,7 @@ voicedefault =  {
   \key g \major   d''4^\downbow c''8 b'8 g'8 b'8 b'8 g'8 b'8    |
   d''4 c''8 b'8 g'8 b'8 c''4 a'8   |
   d''4 c''8 b'8 g'8 b'8 b'8 g'8 b'8  |
-     \grace { d''8   	 } c''8 b'8 c''8 a'8 fs'8 a'8 c''4 a'8    |
+  \grace { d''8   	 } c''8 b'8 c''8 a'8 fs'8 a'8 c''4 a'8    |
   d''4 c''8 b'8 g'8 b'8 b'8 g'8 b'8  |
   d''8 e''8 d''8 b'8 g'8 b'8 c''4 a'8   |
   d''8 e''8 d''8 b'8 g'8 b'8 b'8 g'8 b'8   |
@@ -23,7 +23,7 @@ voicedefault =  {
     d''8    } c''8 b'8 c''8 a'8 fs'8 a'8 c''8 b'8 a'8     \bar "|." g'8 b'8 d''8 g''8 d''8 b'8 g''8 d''8 b'8     |
   g'8 b'8 d''8 g''8 d''8 b'8 c''4 a'8  |
   g'8 b'8 d''8 g''8 b''8 a''8 g''8 d''8 b'8   |
-     \grace { d''8   	 } c''8 b'8 c''8 a'8 fs'8 a'8 c''4 a'8    |
+  \grace { d''8   	 } c''8 b'8 c''8 a'8 fs'8 a'8 c''4 a'8    |
   g'8 b'8 d''8 g''8 d''8 b'8 g''8 d''8 b'8   |
   g'8 b'8 d''8 g''8 d''8 b'8 c''4 a'8  |
   g'8 b'8 d''8 g''8 b''8 a''8 g''8 d''8 b'8   |
@@ -39,13 +39,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }

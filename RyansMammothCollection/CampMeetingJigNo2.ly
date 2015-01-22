@@ -24,19 +24,19 @@ voicedefault =  {
   r8 d''8^\upbow b'8 gs'8 a'4.    \bar "||"  >>   \bar "|."  
 
 \repeat volta 2 {
-a'8^\fermata^\upbow         |
-		  a'8 a'8 gs'8 e'8 cs'8 a8    r8 a'8     |
-		  a'8 a'8 gs'8 e'8 cs'8 a8    r8 a'8     |
-		  a'8 a'8 gs'8 e'8 cs'8 d'8 e'8 fs'8     |
-		  gs'8 e'8 fs'8 d'8 cs'8 a8   
-		  
-		}     
+  a'8^\fermata^\upbow         |
+  a'8 a'8 gs'8 e'8 cs'8 a8    r8 a'8     |
+  a'8 a'8 gs'8 e'8 cs'8 a8    r8 a'8     |
+  a'8 a'8 gs'8 e'8 cs'8 d'8 e'8 fs'8     |
+  gs'8 e'8 fs'8 d'8 cs'8 a8   
+  
+}     
 \repeat volta 2 {
-a8^\upbow         |
-		  bf2 (a4)   r8 a'8^\upbow   |
-		  a'8 a'8 gs'8 e'8 cs'8 a8    r8 a8^\upbow  |
-		  bf2 (a4)   r8 a'8^\upbow   |
-		  a'8 a'8 gs'8     		  e'8 cs'8 a8 } a'8^\upbow         |
+  a8^\upbow         |
+  bf2 (a4)   r8 a'8^\upbow   |
+  a'8 a'8 gs'8 e'8 cs'8 a8    r8 a8^\upbow  |
+  bf2 (a4)   r8 a'8^\upbow   |
+  a'8 a'8 gs'8     		  e'8 cs'8 a8 } a'8^\upbow         |
 a'8 gs''8 a''8 e''8 cs''8 a'8 b'8 gs'8     |
 a'8 gs''8 a''8 e''8 cs''8 a'8 b'8 gs'8     |
 a'8 fs''8  \grace {    a''8 } g''8 e''8 d''8 b'8 g'8 b'8      |
@@ -47,22 +47,22 @@ a'8. (a''16-.)  \times 2/3 { a''8 a''8 a''8   	 } cs''8 a''8 b'8 a''8           
 g'8. (g''16-.)   \times 2/3 { g''8 g''8 g''8   			 } b'8 g''8 a'8 g''8      |
 g'8. (g''16-.)   \times 2/3 { g''8   			      g''8 g''8   			 } b'8 g''8 a'8 g''8    <<   \bar "|."   \bar "  |."   
 
-											 }
+															   }
 
-											     \score{
-											       <<
+															 \score{
+															   <<
 
-												 \context Staff="default"
-												 {
-												   \voicedefault 
-												   
-												 }
+															     \context Staff="default"
+															     {
+															       \voicedefault 
+															       
+															     }
 
-											       >>
-											       \layout {
-												 
-											 }
-											       \midi {
-											 }
+															   >>
+															   \layout {
+															     
+															   }
+															   \midi {
+															   }
 
-											 }
+															 }

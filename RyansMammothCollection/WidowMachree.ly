@@ -25,7 +25,7 @@ voicedefault =  {
     a''4.^\accent fs''4.^\accent   |
     e''8    
     d''8 d''8 d''4    r8   
- }     
+  }     
   \repeat volta 2 {
     \grace { a''8  	     -3^\downbow  	 } g''8 fs''8 g''8 b''8 a''8 g''8      |
     fs''8 e''8 fs''8 a''8 g''8 fs''8     |
@@ -36,7 +36,7 @@ voicedefault =  {
     a''4.^\accent fs''4.^\accent    |
     e''8 d''8 d''8 d''4   
     r8   
- }   
+  }   
 
 }
 
@@ -47,13 +47,13 @@ voicedefault =  {
     {
       \voicedefault 
       
- }
+    }
 
   >>
   \layout {
     
- }
+  }
   \midi {
- }
+  }
 
 }
