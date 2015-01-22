@@ -12,25 +12,26 @@ voicedefault =  {
 
 
   \override Staff.TimeSignature #'style = #'C
-  \time 2/2 
+  \time 2/2
   \key d \major
-  
+
   \repeat volta 2 {
     d'8. (^\downbow fs'16-.) a'8. (^\upbow b'16-.) a'8. (fs'16-.) a'8. (d''16-.)      |
     d'8.^\segue fs'16 a'8. b'16 a'8. fs'16 e'4       |
     d'8. fs'16 a'8. b'16 a'8. fs'16 a'8. d''16   |
-    fs''8. d''16 e''8.-4 cs''16 d''4 d''4    
-  }     
+    fs''8. d''16 e''8.-4 cs''16 d''4 d''4
+  }
 
   \repeat volta 2 {
     fs''8.^\fermata^\downbow d''16 e''8. fs''16 g''8. fs''16 e''8. d''16      |
     cs''8. a'16 e''8. a'16 fs''8. a'16 e''8. a'16     |
-    fs''8. d''16    
-    e''8. fs''16 g''8. fs''16 e''8. d''16    
-  } \alternative{{ 
-    cs''8. a'16 b'8. cs''16 d''4 d''8. e''16 } { cs''8. a'16 b'8. cs''16 d''4 d''4    << \bar "  |."  >>   
-					       }
-	       }
+    fs''8. d''16
+    e''8. fs''16 g''8. fs''16 e''8. d''16
+  }
+  \alternative{
+    { cs''8. a'16 b'8. cs''16 d''4 d''8. e''16 }
+    { cs''8. a'16 b'8. cs''16 d''4 d''4    << \bar "  |."  >> }
+  }
 
 }
 
@@ -39,13 +40,13 @@ voicedefault =  {
 
     \context Staff="default"
     {
-      \voicedefault 
-      
+      \voicedefault
+
     }
 
   >>
   \layout {
-    
+
   }
   \midi {
   }
