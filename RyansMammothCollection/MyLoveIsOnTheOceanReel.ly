@@ -19,7 +19,7 @@ voicedefault =  {
     e''16^\downbow(a'16) \times 2/3 { a'16-.   
 				      a'16-. a'16-. 
 				    }   \grace { cis''16 (
-					       } b'16 a'16 b'16 d''16-) |
+					       } b'16 a'16 b'16 d''16) |
     \times 2/3 { e''16 (fis''16 g''16) 
 	       } fis''16 (
     d''16) e''16 (d''16 b'16 d''16) |

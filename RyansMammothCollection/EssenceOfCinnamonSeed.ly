@@ -15,7 +15,7 @@ voicedefault =  {
   \time 4/4 
   \key d \major
   \times 2/3 { a8^"Slow"^\upbow(b8 cis'8  
-	-) 
+	) 
 	     } 
   \repeat volta 2 {
     d'8.^\downbow(d'16) fis'8. (a'16-.)   
@@ -48,7 +48,7 @@ voicedefault =  {
 			      }   
     \times 2/3 { a'8 (b'8 g'8) 
 	       }   \times 2/3 { fis'8 (g'8 e'8  
-				-) 
+				) 
 			      } |
     d'8. d''16    \times 2/3 { cis''8 (d''8 e''8) 
 			     } 
@@ -68,7 +68,7 @@ voicedefault =  {
     
     \times 2/3 { a'8 (b'8 g'8) 
 	       }   \times 2/3 { fis'8 (g'8 e'8  
-				-) 
+				) 
 			      } d'4  \bar "|."   
   }
 

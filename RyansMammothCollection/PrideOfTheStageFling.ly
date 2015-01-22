@@ -48,7 +48,7 @@ voicedefault =  {
 	       } bes'8. f'16 d''8. bes'16 f''8.    
     d''16    |
     c''16 ees''8.    \times 2/3 { ees''8 (d''8 c''8  
-				-) 
+				) 
 				} d''16 (bes'8.) bes'4        |
     \times 2/3 { f'8 (
 		 ees'8 d'8) 
@@ -63,7 +63,7 @@ voicedefault =  {
 		 (^\downbow a''8 g''8) 
 	       } d''16 (g''8.) ees''16 (g''8.)   
     c''16 (ees''8.)   |
-    a'16 (ees''8.) fis'16 (ees''8.-) d''16 (c''16 bes'16 a'16) g'4        |
+    a'16 (ees''8.) fis'16 (ees''8.) d''16 (c''16 bes'16 a'16) g'4        |
     \times 2/3 { 
       bes''8 (a''8 g''8) 
     } d''16 (g''8.) ees''16 (g''8.)   

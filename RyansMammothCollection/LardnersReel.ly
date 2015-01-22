@@ -28,7 +28,7 @@ voicedefault =  {
     |
     a'8-. a'16 (cis''16) b'16 a'16 gis'16 b'16    
     |
-    a'16 cis''16 e''16 gis''16 a''8-. gis''16 (a''16-)   |
+    a'16 cis''16 e''16 gis''16 a''8-. gis''16 (a''16)   |
     b''16 gis''16 e''16 gis''16  \grace { b''16  
 					}   
     a''16 gis''16 a''16 e''16    |

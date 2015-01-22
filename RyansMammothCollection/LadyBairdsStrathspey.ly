@@ -33,8 +33,8 @@ voicedefault =  {
 			  } d''8) fis''16 (
   a''8.) a''8. gis''16 a''4.    \bar "|." c'''8^\upbow |
   
-  b''16^\downbow(g''8.) g''8. (e''16-.) fis''8. (g''16-.-) a''8^\upbow fis''8^\downbow   |
-  g''16^\downbow(e''8.-0-) e''8.-4(cis''16-.) d''8. (e''16-4-.) fis''8^\segue a'8    |
+  b''16^\downbow(g''8.) g''8. (e''16-.) fis''8. (g''16-.) a''8^\upbow fis''8^\downbow   |
+  g''16^\downbow(e''8.-0) e''8.-4(cis''16-.) d''8. (e''16-4-.) fis''8^\segue a'8    |
   b'8. d''16 a'8 d'''8-4 b'8.-1 
   d''16 a'8 b''8    |
   b''16 (a''16) g''16-. fis''16-. a''16 (g''16) fis''16-. e''16-. d''4. c'''8    |

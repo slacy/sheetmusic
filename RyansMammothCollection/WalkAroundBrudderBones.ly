@@ -33,7 +33,7 @@ voicedefault =  {
     bes''4 d''!4   >> a''8 g''8    |
   f''4 c''8 d''8    
   |
-  bes'4.    \bar "|." d''16^"f"^"DANCE"(^\accent ees''16-) |
+  bes'4.    \bar "|." d''16^"f"^"DANCE"(^\accent ees''16) |
   f''16 g''16 f''16 g''16 f''16 d''16 bes'16    
   d''16    |
   f''16 g''16 f''16 g''16 f''16 d''16    

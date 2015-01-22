@@ -44,7 +44,7 @@ voicedefault =  {
 	       } a'8 d''8 fis''8 d''8  
     |
     e''8-0 cis''8    \times 2/3 { cis''8 (d''8 cis''8  
-				-) 
+				) 
 				} a'8^\downbow cis''8 e''8-4 cis''8    |
     d''8 b'8   
     \times 2/3 { b'8 (cis''8 b'8) 

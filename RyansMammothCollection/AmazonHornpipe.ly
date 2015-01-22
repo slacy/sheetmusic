@@ -27,7 +27,7 @@ voicedefault =  {
     
     \times 2/3 { a'8 (b'8 a'8) 
 	       }   \times 2/3 { g'8 (fis'8 e'8  
-				-) 
+				) 
 			      } d'4 b'8. c''16    |
     |
     d''8. g''16 d''8.  

@@ -45,7 +45,7 @@ voicedefault =  {
     d''4^\downbow 
     \grace { d''8  
 	   } b''4 b'4. cis''8    |
-    d''8. (e''16-.-) fis''8._\segue gis''16  \grace { b''8  
+    d''8. (e''16-.) fis''8._\segue gis''16  \grace { b''8  
 				      } a''8. gis''16    
     a''8. fis''16    |
     \times 2/3 { e''8 fis''8 e''8  

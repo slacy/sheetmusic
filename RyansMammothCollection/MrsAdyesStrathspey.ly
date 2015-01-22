@@ -15,10 +15,10 @@ voicedefault =  {
   \time 4/4 % %slurgraces 1
   
   \key bes \major d''8^\upbow   |
-  bes'8. (^\downbow bes'16-.-) bes'4\turn c''8. (a'16-.) f'8. (a'16-.)   |
+  bes'8. (^\downbow bes'16-.) bes'4\turn c''8. (a'16-.) f'8. (a'16-.)   |
   
   bes'16^\downbow bes'8.^\upbow   \grace { d''16 (
-					 } c''8. bes'16-.-) a'16-4(f'8.) f'4    |
+					 } c''8. bes'16-.) a'16-4(f'8.) f'4    |
   g'16 (^\downbow g'8.^\upbow) bes'8. (g'16-.) f'8. (d'16-.) bes8. (d'16-.) 
   |
   ees'16^\upbow ees'8.^\downbow   \grace { g'16 (

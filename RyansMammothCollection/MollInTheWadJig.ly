@@ -25,7 +25,7 @@ voicedefault =  {
   g''8 d''8 b'8 g''4 a''8    |
   
   bes''8 a''8 g''8 fis''8 g''8 a''8    |
-  g''4. (g''4-)   r8   \bar ":|" g''4. (f''4)   r8   \bar "|."   
+  g''4. (g''4)   r8   \bar ":|" g''4. (f''4)   r8   \bar "|."   
   \key bes \major   
   f''8 d''8 bes'8  \grace { c''8  
 			  } bes'8 a'8 bes'8    |

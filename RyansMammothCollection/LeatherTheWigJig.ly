@@ -20,7 +20,7 @@ voicedefault =  {
     c''8 (a'8 g'8) g'4^\accent d''8-. c''8 (
     a'8 g'8)       |
     c''8 (^\upbow a'8 g'8) g'4^\accent d''8-. g'4^\accent d''8-.   |
-    c''8 (d''8 e''8-) f''4^\accent d''8-. c''8 (a'8 g'8)   
+    c''8 (d''8 e''8) f''4^\accent d''8-. c''8 (a'8 g'8)   
   }     
 
   \repeat volta 2 {

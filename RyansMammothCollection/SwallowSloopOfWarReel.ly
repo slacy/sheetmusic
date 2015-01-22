@@ -21,7 +21,7 @@ voicedefault =  {
   fis'8 (d'8) fis'8 a'8 d''4    
   d''8 e''8    |
   fis''8 (a''8) e''8 fis''8 d''16^\upbow d''8.^\downbow d''4^\upbow   |
-  fis'8^\downbow(d'8-) fis'8 a'8 d''4 d''8 e''8    |
+  fis'8^\downbow(d'8) fis'8 a'8 d''4 d''8 e''8    |
   fis''8 d''8 g''8  
   fis''8 e''8-4 e'8 e'8 g'8    |
   fis'8 (d'8)   

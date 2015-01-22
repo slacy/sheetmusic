@@ -30,9 +30,9 @@ voicedefault =  {
 
   }     
   \repeat volta 2 {
-    a'4 (^\downbow c''8) g'4 (^\upbow c''8-)   |
+    a'4 (^\downbow c''8) g'4 (^\upbow c''8)   |
     a'4 (c''8) g'4 (c''8)   |
-    a'4 (c''8-) d''4 (g''8)   |
+    a'4 (c''8) d''4 (g''8)   |
     e''8 c''8 c''8 c''4    r8       
     |
     f''4^\accent   r8 g''4^\accent   r8   |

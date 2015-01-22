@@ -64,7 +64,7 @@ voicedefault =  {
     \times 2/3 {  
       f''8 (e''8 g''8) 
     } f''4    \times 2/3 { a''8 (g''8 bes''8  
-			-) 
+			) 
 			 } a''4    |
     bes''8. c''16 e''8. g''16 f''4    
   }   

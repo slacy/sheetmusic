@@ -27,7 +27,7 @@ voicedefault =  {
   b''16 a''16 gis''16 a''16 b''16    
   a''16 fis''16 d''16    |
   \times 2/3 { a'16 (b'16 a'16  
-	-) 
+	) 
 	     } fis'16^\upbow a'16 d''16 fis''16 a''16 a'16    |
   
   \times 2/3 { b'16 (cis''16 b'16) 
