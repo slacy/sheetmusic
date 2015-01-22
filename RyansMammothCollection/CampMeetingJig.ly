@@ -50,8 +50,7 @@ r16 a16^\upbow   |
 bes4 (^\accent a8)   r8   |
 
 r16 a'16 fis'16 d'16 e'16 d'16    r16 a16    |
-bes4 
-(^\accent a8)   r8   |
+bes4 (^\accent a8)   r8   |
 r16 a'16^\downbow gis'16. (\turn    
 e'32) cis'16 a16    r16 a16^\upbow   |
 a8  \grace {    

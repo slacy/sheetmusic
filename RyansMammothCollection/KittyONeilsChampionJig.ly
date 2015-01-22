@@ -124,8 +124,7 @@ voicedefault =  {
     e'8)     
 
     \repeat volta 2 {
-      e'8.^\downbow(cis''16) cis''4^"tr"^\trill e'8. 
-      (cis''16) cis''4^"tr"^\trill   |
+      e'8.^\downbow(cis''16) cis''4^"tr"^\trill e'8. (cis''16) cis''4^"tr"^\trill   |
       e'8. (cis''16)   r8 
       cis''8^\upbow cis''8. b'16 a'8. cis''16    |
       b'8. (

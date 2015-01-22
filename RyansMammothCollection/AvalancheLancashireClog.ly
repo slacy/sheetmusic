@@ -36,8 +36,7 @@ voicedefault =  {
     r4   
   }     
   \repeat volta 2 {
-    b'8.^\fermata^\downbow(cis''16-.) b'8. 
-    (gis'16-.) e'8. gis'16 b'8. e''16-4   |
+    b'8.^\fermata^\downbow(cis''16-.) b'8. (gis'16-.) e'8. gis'16 b'8. e''16-4   |
     cis''8.    
     e''16-4 cis''8. b'16 a'8. cis''16 e''8.-4 cis''16    
     |

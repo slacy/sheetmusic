@@ -17,8 +17,7 @@ voicedefault =  {
     \time 2/4 
     \key a \dorian
     a'16^\upbow(b'16) |
-    c''16 (e'16 
-    ) \times 2/3 { e'16-. e'16-. e'16-. 
+    c''16 (e'16 ) \times 2/3 { e'16-. e'16-. e'16-. 
 		 } c''16 d''16 e''16    
     d''16    |
     c''16 e'16 e'16 (fis'16) g'8-. a'16 (

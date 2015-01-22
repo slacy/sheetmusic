@@ -40,8 +40,7 @@ voicedefault =  {
   cis'8^\downbow e'4^\upbow     
   fis'16 (^\downbow gis'16) a'8.^\upbow e'16^\downbow a'4^\upbow   
   |
-  fis'16 (^\downbow b'8.) b'8. (cis''16) d''8. 
-  (^\trill cis''16) b'8. (^\trill a'16)       |
+  fis'16 (^\downbow b'8.) b'8. (cis''16) d''8. (^\trill cis''16) b'8. (^\trill a'16)       |
   
   \times 2/3 { cis''8 d''8 e''8  
 	     }   \times 2/3 { fis''8 gis''8    
@@ -55,8 +54,7 @@ voicedefault =  {
   |
   cis'8^\downbow e'4^\upbow fis'16 (^\downbow gis'16) a'8.^\upbow   
   e'16^\downbow a'4^\upbow   |
-  fis'16 (^\downbow b'8.) b'8. 
-  (cis''16) d''8. (^\trill cis''16) b'8. (^\trill a'16)   
+  fis'16 (^\downbow b'8.) b'8. (cis''16) d''8. (^\trill cis''16) b'8. (^\trill a'16)   
   |
   \times 2/3 { cis''8 d''8 e''8  
 	     }   \times 2/3 { fis''8 

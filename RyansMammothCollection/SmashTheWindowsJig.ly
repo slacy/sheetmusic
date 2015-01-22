@@ -44,8 +44,7 @@ voicedefault =  {
     fis''4 g''8 a''8 g''8    
     fis''8    |
     g''4 e''8 cis''8 d''8 e''8    |
-    d''4. 
-    (d''4) \bar "|." fis''8  |
+    d''4. (d''4) \bar "|." fis''8  |
     a''4 fis''8 d''4 e''8  
     |
     fis''4 g''8 a''8 g''8 fis''8    |

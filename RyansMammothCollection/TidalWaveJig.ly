@@ -22,8 +22,7 @@ voicedefault =  {
   c''16^\downbow a'16    r8   
   a''16^\downbow f''16    r8   |
   c'4 (e'4)   |
-  a'4 
-  (d''4)   |
+  a'4 (d''4)   |
   f''16. d''32 c'4^\downbow(e'4)   
   |
   a'4 (c''4)   |

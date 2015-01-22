@@ -19,8 +19,7 @@ voicedefault =  {
   e'16)   \grace { g'16 (
 		 } fis'8. e'16-.) fis'16 (b'8.)   
   |
-  a'16 (fis'8.) fis'8. (d'16-.) e'8. (^\trill d'16 
-  ) e'16 (fis'8.)   |
+  a'16 (fis'8.) fis'8. (d'16-.) e'8. (^\trill d'16 ) e'16 (fis'8.)   |
   a'16 (fis'8.) e'8. (^\trill  
   d'16)   \grace { cis''16 (
 		 } d''8.\turn e''16) fis''8. (
@@ -33,8 +32,7 @@ voicedefault =  {
   \grace { g'16 (
 	 } fis'8. e'16-.) fis'16 (b'8.)   |
   
-  a'16 (fis'8.) fis'8. (d'16-.) e'8. (^\trill d'16) e'16 
-  (fis'8.)   |
+  a'16 (fis'8.) fis'8. (d'16-.) e'8. (^\trill d'16) e'16 (fis'8.)   |
   a'16 (fis'8.) e'8. (^\trill d'16)  
   \grace { cis''16 (
 	 } d''8.\turn e''16) fis''8. (e''16-.)   
@@ -44,8 +42,7 @@ voicedefault =  {
   d''16 fis'16) e'8. (^\trill d'16-.) e'16 (fis'8.)   
   \bar "|." a'16-4^\fermata(^\downbow fis'8.) d''8. (a'16-.) b'8. (^\trill a'16) d''8. (b'16-.)   |
   a'16 (
-  fis'8.) d''8. (a'16-.) b'8. (^\trill a'16) b'16 (d''8. 
-  )   |
+  fis'8.) d''8. (a'16-.) b'8. (^\trill a'16) b'16 (d''8. )   |
   a'16 (fis'8.) e'8. (^\trill d'16)   \grace {  
     cis''16 (
   } d''8.\turn e''16) fis''8. (e''16-.)   |

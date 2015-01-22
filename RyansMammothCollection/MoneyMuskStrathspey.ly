@@ -15,8 +15,7 @@ voicedefault =  {
   \time 4/4 
   \key a \dorian
   e''8-4^\upbow       |
-  d''8. 
-  (^\downbow g'16-.) b'8. (g'16-.) d''8. (g'16-.) c''8. (
+  d''8. (^\downbow g'16-.) b'8. (g'16-.) d''8. (g'16-.) c''8. (
   e''16-4-.)   |
   d''8.^\segue g'16 b'8. g'16    
   \times 2/3 { a'8 (b'8 a'8) 

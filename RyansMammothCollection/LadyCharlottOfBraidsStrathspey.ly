@@ -33,8 +33,7 @@ voicedefault =  {
   \grace { fis'16  
 	 } e'8. d'16 e'8.    
   fis'16 d'4 (d''8)   \bar "|." g''8^\upbow   |
-  fis''8 
-  (^\downbow e''16 d''16) a''8. (d''16) fis''8. (d''16-.) 
+  fis''8 (^\downbow e''16 d''16) a''8. (d''16) fis''8. (d''16-.) 
   a''8. (d''16-.)   |
   cis''8 (b'16 a'16) e''8.-4(a'16-.) cis''8 (b'16 a'16) e''8.^\segue g''16    
   |

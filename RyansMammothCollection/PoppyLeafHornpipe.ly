@@ -37,8 +37,7 @@ voicedefault =  {
     g'4 b'4 g'4    
   }     
   \repeat volta 2 {
-    b'8 
-    (^\upbow c''8)       |
+    b'8 (^\upbow c''8)       |
     d''8. b'16 g'8. b'16 d''8.    
     b'16 g''8. d''16    |
     b''8. a''16 g''8. fis''16      

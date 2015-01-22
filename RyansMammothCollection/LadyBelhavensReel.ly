@@ -40,8 +40,7 @@ voicedefault =  {
 				 } d''8 b'8 g''8 (^\upbow a''8) |
   b''8^\downbow fis''8 g''8 d''8 b'8 g'8 g'8  \bar "|." g''8^\upbow |
   \times 2/3 { e''8 (^\downbow fis''8 g''8) 
-	     } d''8 
-  (g''8) c''8 g''8 b'8 g''8  |
+	     } d''8 (g''8) c''8 g''8 b'8 g''8  |
   a'8 f''8 f''8    
   c''8 a'8 (f'8) f'8 f''8  |
   \times 2/3 { e''8 (

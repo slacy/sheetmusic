@@ -16,8 +16,7 @@ voicedefault =  {
   \key d \major
   
   \repeat volta 2 {
-    d''4^\downbow fis''8 (d''8 
-    ) a'8 fis'8 d'8 fis'8    |
+    d''4^\downbow fis''8 (d''8 ) a'8 fis'8 d'8 fis'8    |
     d''4 fis''8 (d''8)   
     e''8 g''8 fis''8 e''8    |
     d''4 fis''8 (d''8) a'8  
@@ -34,8 +33,7 @@ voicedefault =  {
   
   \repeat volta 2 {
     \times 2/3 { fis'8 (^\downbow e'8 d'8) 
-	       } a'8 
-    (d'8) b'8 d'8 a'8 d'8    |
+	       } a'8 (d'8) b'8 d'8 a'8 d'8    |
     \times 2/3 { fis'8 (
 		 e'8 d'8) 
 	       } a'8 (d'8) b8 e'8 e'8 g'8    |

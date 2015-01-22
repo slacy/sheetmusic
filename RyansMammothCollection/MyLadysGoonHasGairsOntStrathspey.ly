@@ -17,8 +17,7 @@ voicedefault =  {
   \key c \major
   g'8^\upbow   |
   c''16^\downbow c''8.^\upbow   
-  c''8.^\downbow e''16-4^\upbow d''8. (^\downbow c''16-.) a'8. 
-  (d''16-.)   |
+  c''8.^\downbow e''16-4^\upbow d''8. (^\downbow c''16-.) a'8. (d''16-.)   |
   c''16^\downbow c''8.^\upbow e''8.^\downbow  
   g''16^\upbow a''8. (g''16-.) e''16 (c'''16-4)   |
   

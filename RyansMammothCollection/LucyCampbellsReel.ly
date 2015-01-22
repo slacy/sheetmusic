@@ -26,8 +26,7 @@ voicedefault =  {
   a'8 d'8    \times 2/3 { fis'8 (e'8 d'8) 
 			}   
   d''8 e''8 fis''8 e''8    |
-  d''8 b'8 a'8 fis'8 a'8 
-  (d'8) d'4    |
+  d''8 b'8 a'8 fis'8 a'8 (d'8) d'4    |
   d''8 b'8 a'8 b'8 d''8 e''8    
   fis''8 e''8    |
   d''8 b'8 a'8 fis'8 b'8 e'8 e'4   
@@ -48,8 +47,7 @@ voicedefault =  {
   b''8 g''8 e''8 g''8    |
   fis''8 a''8 e''8 fis''8    
   d''8 e''8 fis''8 e''8    |
-  d''8 b'8 a'8 fis'8 a'8 
-  (d'8) d'4    \bar "|." d''8 e''8 fis''8 e''8 d''8    
+  d''8 b'8 a'8 fis'8 a'8 (d'8) d'4    \bar "|." d''8 e''8 fis''8 e''8 d''8    
   e''8 fis''8 e''8    |
   d''8 b'8 a'8 fis'8 b'8 e'8  
   e'4    |

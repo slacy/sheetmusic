@@ -36,8 +36,7 @@ voicedefault =  {
     f'8 f'8 f'8  
   }     
   \repeat volta 2 {
-    a'16 
-    (^\upbow bes'16) |
+    a'16 (^\upbow bes'16) |
     \grace { d''16  
 	   } c''16^\downbow b'16    
     c''16 a'16 f'16 a''16 f''16 c''16  |

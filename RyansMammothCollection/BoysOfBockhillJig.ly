@@ -17,8 +17,7 @@ voicedefault =  {
     \time 6/8 
     \key g \major
     d''8^\upbow       |
-    g''8 (fis''8 g''8 
-    ) e''16 (fis''16 g''8 e''8)   |
+    g''8 (fis''8 g''8 ) e''16 (fis''16 g''8 e''8)   |
     d''8 b'8 g'8    
     a'8 g'8 e'8    |
     e'8 g'8 g'8 a'8 g'8 a'8    
