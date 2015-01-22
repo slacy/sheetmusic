@@ -20,7 +20,7 @@ voicedefault =  {
     d''16 c''16 bf'16 d''16 c''16 bf'16 a'16 c''16      |
     bf'8 bf'16 a'16 bf'16 f'16 d'16 f'16     |
     bf'16 c''16 d''16 ef''16 f''16 g''16 a''16 bf''16     |
-    \grace { g''16   	 } f''16 e''16 f''16 g''16 f''16 ef''!16 c''16 a'16      |
+    \grace { g''16 } f''16 e''16 f''16 g''16 f''16 ef''!16 c''16 a'16      |
     bf'16 bf''16 f''16    
     d''16 bf'8    
   }     
@@ -33,14 +33,14 @@ voicedefault =  {
 	 }   
     \times 2/3 { bf'16 a'16 g'16  
 	 }   \times 2/3 { f'16 g'16 f'16  
-			 }   \times 2/3 { ef'16 d'16 c'16   					 }     |
+	 }   \times 2/3 { ef'16 d'16 c'16 }     |
     bf16^\downbow d'16 f'16 bf'16 d''16 bf'16 f'16 d'16     |
     ef'16 g'16 c''16 d''16 ef''16 d''16 a'16 c''16     |
     bf'16 bf''16 a''16 bf''16 f''16 ef''16 c''16 a'16      |
     \times 2/3 { bf'16 d''16 f''16  
 	 }   \times 2/3 { bf''16  
-				f''16 d''16  
-			 } bf'8    
+	 f''16 d''16  
+	 } bf'8    
   }   
 
 }

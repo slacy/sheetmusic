@@ -30,14 +30,14 @@ voicedefault =  {
     e''8^\fermata^\downbow a''8 a''8 gs''8 e''8 a''8 a''8 gs''8      |
     e''8 gs''8 gs''8 fs''8 e''8 fs''8 gs''4     |
     e''8 a''8 a''8 gs''8 e''8 a''8 a''8 gs''8     |
-    e''8 gs''8    \times 2/3 { fs''8 ( 			 gs''8 a''8)  			 } gs''8 e''8 d''8 b'8      |
+    e''8 gs''8    \times 2/3 { fs''8 ( gs''8 a''8) } gs''8 e''8 d''8 b'8      |
     e''8 a''8 a''4 b''8 gs''8 a''8 fs''8     |
     e''8 d''8 e''8 fs''8 gs''8 fs''8 gs''8 e''8     |
     d''8 e''8 fs''8 a''8 b''4 a''8 gs''8     |
     \times 2/3 { e''8 
 		 (fs''8 gs''8) 
 	 }   \times 2/3 { fs''8 (gs''8 a''8) 
-			 }   
+	 }   
     gs''8 e''8 d''8 b'8      
   }   
 

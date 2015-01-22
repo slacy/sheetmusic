@@ -31,7 +31,7 @@ voicedefault =  {
     a'16 c''16 bf'16 g'16 f'8 f'16 (g'16)    |
     a'16-4 g'16 a'16 bf'16 c''16 b'16 c''16 d''16     |
     ef''16    
-    d''16 ef''16 f''16 g''8^\accent   \times 2/3 { f''16 (^\upbow    						 ef''16 d''16)  						 }     |
+    d''16 ef''16 f''16 g''8^\accent   \times 2/3 { f''16 (^\upbow ef''16 d''16) }     |
     f''16 bf''16 d''16 f''16 bf'16 d''16 f'16 a'16     |
     bf'8 d''8 bf'8    
   }   

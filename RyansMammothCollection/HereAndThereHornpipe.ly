@@ -30,9 +30,9 @@ voicedefault =  {
     cs''16^\downbow d''16    |
     e''16 cs''16 a'16 cs''16 e''16 cs''16 a''16 gs''16   |
     \grace { 
-      gs''16   		 } fs''16 e''16 fs''16 gs''16 fs''8-. b'16 ( cs''16)   |
+      gs''16 } fs''16 e''16 fs''16 gs''16 fs''8-. b'16 ( cs''16)   |
     d''16 b'16 gs'16 b'16 d''16 b'16 gs''16 fs''16   |
-    \grace { fs''16   			 } e''16 ds''16 e''16 fs''16 e''8-. e'8-.   |
+    \grace { fs''16 } e''16 ds''16 e''16 fs''16 e''8-. e'8-.   |
     a'16 e'16 a'16 cs''16 b'16 gs'16 b'16 d''16   |
     cs''16 a'16 cs''16 d''16 e''16 a''16 e''16 cs''16   |
     d''16 cs''16 b'16 d''16 cs''16 b'16 a'16 cs''16   |

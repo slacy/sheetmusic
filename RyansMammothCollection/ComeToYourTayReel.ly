@@ -34,9 +34,9 @@ voicedefault =  {
     cs''4 e''8 (cs''8) g''8 e''8 fs''8 g''8     |
     a''8 b''8 a''8 g''8 fs''8 d''8 e''8 cs''8     |
     e''8 a''8 a''8 g''8 fs''8 d''8 e''8 cs''8    <<   \bar " |."   
-						 }   
+	 }   
 
-						}
+	 }
 
     \score{
       <<

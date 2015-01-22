@@ -17,13 +17,13 @@ voicedefault =  {
   d''8^\upbow(cs''8) 
   \repeat volta 2 {
     
-    b'8 e'8    \times 2/3 { fs'8 (e'8 d'8)  			 } b'8 d''8 cs''8 d''8      |
-    b'8 e'8    \times 2/3 { fs'8 (e'8 d'8)  			 } b'4 a'8 cs''8      |
-    b'8 e'8    \times 2/3 { fs'8 (e'8    			 d'8)  			 } fs'8 a'8 b'8 cs''8      |
+    b'8 e'8    \times 2/3 { fs'8 (e'8 d'8) } b'8 d''8 cs''8 d''8      |
+    b'8 e'8    \times 2/3 { fs'8 (e'8 d'8) } b'4 a'8 cs''8      |
+    b'8 e'8    \times 2/3 { fs'8 (e'8 d'8) } fs'8 a'8 b'8 cs''8      |
     d''4 cs''8 ( d''8) b'8 (d''8) cs''8 (d''8)    |
-    b'8 e'8         \times 2/3 { fs'8 (e'8 d'8)  	 } b'8 (d''8) cs''8 (d''8)     |
-    b'8 e'8    \times 2/3 { fs'8 (e'8 d'8)  			 } b'4 a'8 (cs''8)     |
-    b'8 e'8    \times 2/3 { fs'8 (e'8     			 d'8)  			 } fs'8 a'8 b'8 cs''8      |
+    b'8 e'8         \times 2/3 { fs'8 (e'8 d'8) } b'8 (d''8) cs''8 (d''8)     |
+    b'8 e'8    \times 2/3 { fs'8 (e'8 d'8) } b'4 a'8 (cs''8)     |
+    b'8 e'8    \times 2/3 { fs'8 (e'8 d'8) } fs'8 a'8 b'8 cs''8      |
     d''8 b'8    
     cs''8 a'8 b'8 (e'8) e'8 r8   
   }     

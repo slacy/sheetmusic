@@ -16,11 +16,11 @@ voicedefault =  {
 
     \time 6/8 
     \key c \major
-    g'4 (^\downbow c''8-.) \grace { d''8   				 } c''8 b'8 c''8    |
+    g'4 (^\downbow c''8-.) \grace { d''8 } c''8 b'8 c''8    |
     e''4-4(c''8-.) c''8 b'8 c''8  |
     a'4 (d''8-.) d''4 (e''8-.) |
     f''4 (d''8-.) b'4 (g'8-.) |
-    g'4^\segue c''8  \grace { d''8    			 } c''8 b'8 c''8      |
+    g'4^\segue c''8  \grace { d''8 } c''8 b'8 c''8      |
     e''4-4 c''8 c''8 b'8 c''8   |
     b'8 a'8 g'8 g'8 a'8 b'8  |
     c''8 d''8    

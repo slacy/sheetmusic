@@ -21,7 +21,7 @@ voicedefault =  {
     e''8. d''16 b'8. fs''16 e''8. d''16 b'8. fs''16      |
     e''8. gs''16 b''8. a''16 gs''8. fs''16 e''8. d''16    |  |
     cs''8. a'16 cs''8. fs''16 e''4 e''8. d''16     |
-    cs''8. a'16 cs''8. fs''16 e''4         \times 2/3 { e''8 (fs''8 gs''8)  	 }     |
+    cs''8. a'16 cs''8. fs''16 e''4         \times 2/3 { e''8 (fs''8 gs''8) }     |
     a''8. cs''16 d''8. ds''16 e''8. e'16 fs'8. gs'16     |
     a'4 cs''4 a'4    \bar "| |"  >> 
 }     

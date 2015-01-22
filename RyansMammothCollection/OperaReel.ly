@@ -11,7 +11,7 @@ voicedefault =  {
 
 
   \time 2/4 
-  \key d \major   \times 2/3 { a16^\upbow(b16 cs'16)  	 }    |
+  \key d \major   \times 2/3 { a16^\upbow(b16 cs'16) }    |
   d'8-4-. d'8-. fs'16 e'16 fs'16 a'16  |
   d'16 cs'16 d'16 fs'16 e'16 d'16 cs'16 a16   |
   d'8-4-. d'8-. fs'16 e'16 fs'16 a'16   |
@@ -19,10 +19,10 @@ voicedefault =  {
   d'8-4-. d'8-. fs'16 e'16 fs'16 a'16  |
   d'16 cs'16 d'16 fs'16 e'16 d'16 cs'16 a16   |
   d'8-4-. d'8-. fs'16 e'16 fs'16 a'16  |
-  b'16 d''16 a'16 fs'16    \times 2/3 { e'16 (-. e'16-. e'16-.)  		 } e'8  \bar "|  |"     
+  b'16 d''16 a'16 fs'16    \times 2/3 { e'16 (-. e'16-. e'16-.) } e'8  \bar "|  |"     
 
   \repeat volta 2 {
-    \times 2/3 { a'16 (b'16 cs''16)  	 }   |
+    \times 2/3 { a'16 (b'16 cs''16) }   |
     d''16 cs''16 e''16 cs''16 d''16 a'16 fs'16 a'16    |
     a'16 d''16 cs''16 d''16 e''16 g''16 fs''16 e''16   |
     d''16 cs''16 e''16 cs''16 d''16 a'16 fs'16 a'16   |
@@ -36,11 +36,11 @@ voicedefault =  {
     a''16 fs''16 a''16 fs''16 g''16 fs''16 g''16 e''16   |
     
     fs''16 a''16 e''16 cs''16 d''8  
-  }     \times 2/3 { a'16 ( 				 b'16 cs''16)  		 }   |
+  }     \times 2/3 { a'16 ( b'16 cs''16) }   |
   d''16 e''16 fs''16 d''16 e''16 fs''16 g''16 e''16   |
   fs''16 a''16 e''16 cs''16 d''16 cs''16 b'16 a'16   |
   d''16 e''16 fs''16 d''16 e''16 fs''16 g''16 e''16   |
-  fs''16 a''16 e''16 cs''16 d''8    \times 2/3 { a'16 (b'16 cs''16)  			 }   |
+  fs''16 a''16 e''16 cs''16 d''8    \times 2/3 { a'16 (b'16 cs''16) }   |
   d''16 e''16 fs''16 d''16 e''16 fs''16 g''16 e''16    |
   fs''16 a''16 e''16 cs''16 d''16 cs''16 b'16 a'16   |
   d''16 e''16 fs''16 d''16 e''16 fs''16 g''16 e''16   |

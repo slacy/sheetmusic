@@ -23,13 +23,13 @@ voicedefault =  {
     bf'8 (d''8) g'8 d''8 bf'8 g'8 d''8 (bf'8)   |
     a'8 c''8 f'8 c''8 a'8 f'8 c''8 a'8  |
     
-    \grace { a'8   	 } g'8 fs'8 g'8 a'8 bf'8 c''8 d''8 ef''8    |
+    \grace { a'8 } g'8 fs'8 g'8 a'8 bf'8 c''8 d''8 ef''8    |
     f''8 d''8 c''8 a'8 a'8 (g'8) g'4  
   }     
 
   \repeat volta 2 {
     a'4    |
-    bf'4  \grace { c''8   				 } bf'8 a'8 bf'8 d''8 f''8 d''8    |
+    bf'4  \grace { c''8 } bf'8 a'8 bf'8 d''8 f''8 d''8    |
     c''8 d''8 c''8 bf'8 a'8 bf'8 c''8 a'8   |
     g'4 g''4 g''8 (fs''8 g''8 a''8)  |
     bf''8 g''8 g''8 fs''8 g''4 g''8 (a''8) |

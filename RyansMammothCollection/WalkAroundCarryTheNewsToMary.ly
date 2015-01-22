@@ -34,7 +34,7 @@ voicedefault =  {
     b'8 b'4 a'8    |
     fs'2     |
     a'4 a'8 fs'8    |
-    a'8 a'4 r8    		 } e''8^"DANCE"_"f"^\upbow   |
+    a'8 a'4 r8 } e''8^"DANCE"_"f"^\upbow   |
   e''16 a''16 gs''16 a''16 fs''16 a''16 gs''16 a''16     |
   e''16 fs''16 e''16 cs''16 a'16 cs''16 b'16 a'16     |
   e'16 fs'16 gs'16 a'16 b'16 cs''16 d''16 b'16     |

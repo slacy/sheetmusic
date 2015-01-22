@@ -17,7 +17,7 @@ voicedefault =  {
     \time 4/4      \key a \mixolydian e'4^\upbow   |
     a'4 a'8 b'8 cs''8 b'8 cs''8 d''8     |
     e''8 g''8 d''8 g''8 e''8 g''8 d''8 g''8     |
-    \times 2/3 { g'8 g'8 g'8   	 } a'8 b'8 a'8 g'8 b'8 g'8      |
+    \times 2/3 { g'8 g'8 g'8 } a'8 b'8 a'8 g'8 b'8 g'8      |
     a'8 g'8 b'8 a'8 g'8 fs'8 e'8 d'8     |
     a'4. b'8 a'8 g'8 a'8 b'8     |
     cs''8 b'8 cs''8 d''8 e''8 d''8 e''8 fs''8     |

@@ -13,7 +13,7 @@ voicedefault =  {
 
   \override Staff.TimeSignature #'style = #'C
   \time 2/2 
-  \key a \major   \times 2/3 { e'8^\upbow fs'8 gs'8   	 }          |
+  \key a \major   \times 2/3 { e'8^\upbow fs'8 gs'8 }          |
   a'4^\accent^\downbow a'8 (b'8) cs''16 (e''8.) cs'''8.-3(b''16-.)    |
   a''16-1(fs''8.-3) fs''8.-1(a''16-.) e''16 (cs''8.) cs''8. (e''16-.)     |
   fs''8. (d''16) b'8. (d''16-.) e''8. (cs''16 ) a'8. (cs''16-.)   |

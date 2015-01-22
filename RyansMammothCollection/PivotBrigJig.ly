@@ -29,7 +29,7 @@ voicedefault =  {
     fs''8^\upbow         |
     e''8 cs''8 a'8 a'8 cs''8 e''8     |
     fs''8 d''8 e''8 fs''8 gs''8 a''8     |
-    e''8 cs''8 a'8  \grace { b'8   					 } a'8 gs'8 a'8      |
+    e''8 cs''8 a'8  \grace { b'8 } a'8 gs'8 a'8      |
     b'8 gs'8 e'8 e'8 cs''8 d''8    |  |
     e''8 cs''8 a'8 a'8 cs''8 e''8   |
     fs''8 d''8 e''8 fs''8 gs''8 a''8    |

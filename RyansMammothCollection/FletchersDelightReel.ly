@@ -16,14 +16,14 @@ voicedefault =  {
 
     \time 2/4 
     \key a \major
-    e''16^\downbow a'16  \times 2/3 { a'16 a'16    				 a'16   				 } e''16 a'16 cs''16 e''16      |
+    e''16^\downbow a'16  \times 2/3 { a'16 a'16 a'16 } e''16 a'16 cs''16 e''16      |
     fs''16 a''16 e''16 cs''16 b'16 a'16 b'16 cs''16     |
-    e''16 a'16      \times 2/3 { a'16 a'16 a'16   	 } e''16 a'16 cs''16 e''16       |
+    e''16 a'16      \times 2/3 { a'16 a'16 a'16 } e''16 a'16 cs''16 e''16       |
     fs''16 a''16 e''16 cs''16 b'8 a'8    |
     
-    e''16 a'16  \times 2/3 { a'16 a'16 a'16   			 } e''16 a'16 cs''16 e''16      |
+    e''16 a'16  \times 2/3 { a'16 a'16 a'16 } e''16 a'16 cs''16 e''16      |
     fs''16 a''16 e''16 cs''16 b'16 a'16 b'16 cs''16     |
-    e''16 a'16  \times 2/3 { a'16     			 a'16 a'16   			 } e''16 a'16 cs''16 e''16      |
+    e''16 a'16  \times 2/3 { a'16 a'16 a'16 } e''16 a'16 cs''16 e''16      |
     fs''16    
     a''16 e''16 cs''16 b'8 a'8    
   }     

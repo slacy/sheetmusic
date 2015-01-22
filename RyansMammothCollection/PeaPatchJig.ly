@@ -14,10 +14,10 @@ voicedefault =  {
 
   \time 2/4 \tempo  4=60
   
-  \key d \major   \times 2/3 { a16 (^\upbow b16 cs'16)  	 }     |
+  \key d \major   \times 2/3 { a16 (^\upbow b16 cs'16) }     |
   d'8-4^\segno^\downbow cs'8 d'8-4 cs'16 d'16-4     |
   r16 cs'16^\upbow d'16 e'16 fs'16 d'16 e'16 cs'16   |
-  r16 d'16-4^\upbow cs'16 e'16 d'8       \times 2/3 { a'16 (b'16 cs''16)  	 }     |
+  r16 d'16-4^\upbow cs'16 e'16 d'8       \times 2/3 { a'16 (b'16 cs''16) }     |
   d''32^\downbow b'16. r16 g'16^\upbow a'16-4 fs'16 g'16 e'16   |
   d'2   ~     |
   d'16 d'16 r16 e'16^\upbow fs'16 d'16 e'16 d'16     |
