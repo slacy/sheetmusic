@@ -30,14 +30,14 @@ voicedefault =  {
   }     
   \repeat volta 2 {
     cs''4^\downbow \grace { cs''8  
-	 } a''4 cs''2^"tr"^\trill \grace { b'8 cs''8 }     |
+	 } a''4 cs''2\trill \grace { b'8 cs''8 }     |
     d''4^\downbow      \grace { d''8 } b''4 b'4. cs''8      |
     d''8. (e''16-.) fs''8._\segue gs''16  \grace { b''8 } a''8. gs''16 a''8. fs''16      |
     \times 2/3 { e''8 fs''8 e''8  
 	 }        \times 2/3 { d''8 cs''8 b'8 } cs''4 a'4      |
     cs''4  
     \grace { cs''8  
-	 } a''4 cs''2^"tr"^\trill \grace { b'8 cs''8 }     |
+	 } a''4 cs''2\trill \grace { b'8 cs''8 }     |
     d''4  \grace { d''8 } b''4 b'4. cs''8     |
     d''8. e''16 fs''8. gs''16 a''8. gs''16 a''8. fs''16     |
     \times 2/3 { e''8 fs''8 e''8  
@@ -79,11 +79,11 @@ voicedefault =  {
     e'8)     
 
     \repeat volta 2 {
-      e'8.^\downbow(cs''16) cs''4^"tr"^\trill e'8. (cs''16) cs''4^"tr"^\trill     |
+      e'8.^\downbow(cs''16) cs''4\trill e'8. (cs''16) cs''4\trill     |
       e'8. (cs''16) r8 cs''8^\upbow cs''8. b'16 a'8. cs''16     |
-      b'8. ( gs''16) gs''4^"tr"^\trill b'8. (gs''16) gs''4^"tr"^\trill    |
+      b'8. ( gs''16) gs''4\trill b'8. (gs''16) gs''4\trill    |
       b'8. (gs''16) r8 gs''8 gs''8. fs''16 d''8. b'16     |
-      e'8. (cs''16) cs''4^"tr"^\trill e'8. ( cs''16) cs''4^"tr"^\trill    |
+      e'8. (cs''16) cs''4\trill e'8. ( cs''16) cs''4\trill    |
       e'8. (cs''16) r8 cs''8 cs''8. b'16 a'8. cs''16     |
       b'8. (gs''16)   
       r8 gs''8 b''4. a''8    
