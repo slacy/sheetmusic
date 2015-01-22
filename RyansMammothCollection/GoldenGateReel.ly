@@ -42,13 +42,11 @@ voicedefault =  {
     \times 2/3 { d''16^\upbow(cis''16 d''16) 
 	       } fis''8.^\downbow   
     d''16^\downbow   \times 2/3 { d''16^\upbow(cis''16 d''16) 
-				}   
-    |
+				}    |
     b'8. e''16-4   \times 2/3 { e''16 (dis''16 e''16  
 				) 
 			      } g''8. e''16-4   \times 2/3 { e''16 (dis''16 e''16) 
-							   }   
-    |
+							   }    |
     cis''16 e''16 b''16 a''16 g''16 e''16 cis''16    
     g'16    |
     fis'16 a'16 d''16 fis''16 a''8 fis'16^\downbow g'16^\upbow   |

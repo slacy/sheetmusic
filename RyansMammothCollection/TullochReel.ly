@@ -21,8 +21,7 @@ voicedefault =  {
   e''4^"tr"^\trill a'8 (b'16    
   cis''16) d''8 b'8 g'8 b'8    |
   e''4^"tr"^\trill   
-  a'8 (cis''16 d''16) e''8-4 a'8 cis''8 e''8-4   
-  |
+  a'8 (cis''16 d''16) e''8-4 a'8 cis''8 e''8-4    |
   b'8 (e'8) cis''8 (d''16 e''16-4) d''8 b'8    
   g'8 b'8    |
   e''4^"tr"^\trill a'8 (cis''16 d''16)   
@@ -46,8 +45,7 @@ voicedefault =  {
   b'8)   |
   cis''8^"tr"(^\trill a'8) cis''8 (d''16    
   e''16-4) d''8 b'8 g'8 b'8    |
-  cis''8^"tr"(^\trill a'8) cis''8 (d''16 e''16-4) cis''8^"tr"(^\trill a'8) cis''8^"tr"(^\trill d''16 e''16)   
-  |
+  cis''8^"tr"(^\trill a'8) cis''8 (d''16 e''16-4) cis''8^"tr"(^\trill a'8) cis''8^"tr"(^\trill d''16 e''16)    |
   b'8 (e'8) cis''8 (d''16 e''16-4) d''8    
   b'8 g'8 b'8      \bar "|."   
 

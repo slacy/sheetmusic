@@ -25,8 +25,7 @@ voicedefault =  {
     d''8.    
     cis''16 b'8. a'16    |
     gis'8. fis''16 e''8 fis''16 (^\downbow gis''16        |
-    a''4) cis''8. fis''16    
-    |
+    a''4) cis''8. fis''16     |
     e''8. cis''16 a'8. cis''16    |
     d''8. e''16    
     fis''8. gis''16    |
@@ -40,8 +39,7 @@ voicedefault =  {
     b''8.-2 gis''16-4 e''8.-2 b''16-2   |
     cis'''8. a''16 e''8.    
     cis'''16    |
-    b''8.-2 gis''16-4 e''8.-2 gis''16-2  
-    |
+    b''8.-2 gis''16-4 e''8.-2 gis''16-2   |
     a''8. gis''16 fis''8. e''16    |
     fis''8.    
     e''16 d''8. cis''16    |

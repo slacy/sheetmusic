@@ -35,16 +35,14 @@ voicedefault =  {
   g''16 b''16 b'16    |
   \times 2/3 { cis''16 (d''16    
 	       cis''16) 
-	     } a'16^\upbow cis''16 e''16 b''16 a''16 cis''16    
-  |
+	     } a'16^\upbow cis''16 e''16 b''16 a''16 cis''16     |
   d''8 cis''8 b'8 bes'8    \bar ":|" d''8-1 fis''8-3 d''8-1   r8   \bar "|."     \times 2/3 { b''16-2^\downbow(
 					      cis'''16-3 b''16-2) 
 					    } g''16-2^\upbow d''16-3 b'16    
   d''16 g''16 b''16    |
   \times 2/3 { a''16^\downbow(b''16   
 	       a''16) 
-	     } fis''16^\upbow d''16 a'16 d''16 fis''16 a''16    
-  |
+	     } fis''16^\upbow d''16 a'16 d''16 fis''16 a''16     |
   \times 2/3 { g''16 (a''16 g''16) 
 	     } e''16 cis''16 
   a'16 cis''16 fis''16 e''16    |

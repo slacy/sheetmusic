@@ -17,8 +17,7 @@ voicedefault =  {
     \time 2/4 
     \key d \major
     \grace { g''16  
-	   } fis''16^\downbow-. e''16-. 
-    |
+	   } fis''16^\downbow-. e''16-.  |
     d''8-. b'16 d''16 a'8-. fis'16 a'16    |
     
     \grace { cis''16  
@@ -46,10 +45,8 @@ voicedefault =  {
     a''16    
     fis''16 e''16 d''16 b''16 a''16 fis''16 d''16    |
     
-    a'16 d''16 fis''16 d''16 e''16-. d''16 (b'16 d''16)   
-    |
-    d'16 fis'16 a'16 d''16 fis'16 a'16 d''16 e''16  
-    |
+    a'16 d''16 fis''16 d''16 e''16-. d''16 (b'16 d''16)    |
+    d'16 fis'16 a'16 d''16 fis'16 a'16 d''16 e''16   |
     fis''16 a''16 d''16 fis''16 e''8-. fis''16 (
     g''16)   |
     a''16 fis''16 e''16 d''16 b''16 a''16   

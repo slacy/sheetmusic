@@ -35,8 +35,7 @@ voicedefault =  {
     b'8 d''8 e''8 fis''8 d''8 e''8 fis''8    |
     \grace {    
       a''8  
-    } g''8 fis''8 g''8 e''8 fis''8 e''8 d''8 fis''8    
-    |
+    } g''8 fis''8 g''8 e''8 fis''8 e''8 d''8 fis''8     |
     e''8 d''8 cis''8 e''8 d''8 a'8 fis'8 a'8    
   }   
   

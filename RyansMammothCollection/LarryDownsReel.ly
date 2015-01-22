@@ -27,8 +27,7 @@ voicedefault =  {
 		 fis'16 e'16) 
 	       } gis'16 (b'16) e''16 gis''16 b''16    
     gis''16    |
-    fis''16 e''16 gis''16 (fis''16) e''4    
-    |
+    fis''16 e''16 gis''16 (fis''16) e''4     |
     \times 2/3 { e'16 (fis'16 e'16) 
 	       } gis'16 (b'16) 
     e''16 gis''16 b''16 gis''16    |
@@ -46,18 +45,14 @@ voicedefault =  {
     gis''16^\downbow   
     e''16 b''16 e''16 gis''16 b''16 e''16 gis''16    |
     
-    fis''16 e''16 gis''16 e''16 fis''16 e''16 cis''16 e''16    
-    |
+    fis''16 e''16 gis''16 e''16 fis''16 e''16 cis''16 e''16     |
     gis''16 e''16 b''16 e''16 gis''16 b''16 e''16    
     gis''16    |
-    fis''16 e''16 gis''16 fis''16 e''8. e''16  
-    |
+    fis''16 e''16 gis''16 fis''16 e''8. e''16   |
     gis''16 e''16 b''16 e''16 gis''16 b''16 e''16  
     gis''16    |
-    fis''16 e''16 gis''16 (e''16) cis''4    
-    |
-    b'16 e'16 gis'16 b'16 e'16 gis'16 b'16 gis''16  
-    |
+    fis''16 e''16 gis''16 (e''16) cis''4     |
+    b'16 e'16 gis'16 b'16 e'16 gis'16 b'16 gis''16   |
     fis''16 e''16 gis''16 fis''16 e''4    
   }   
 

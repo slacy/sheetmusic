@@ -36,19 +36,15 @@ voicedefault =  {
   }     
   \repeat volta 2 {
     b'8^\upbow(g'8) |
-    g'4. a''8 a''4 b''8 a''8    
-    |
-    g''8 fis''8 e''8 fis''8 g''8 (fis''8) g''4    
-    |
+    g'4. a''8 a''4 b''8 a''8     |
+    g''8 fis''8 e''8 fis''8 g''8 (fis''8) g''4     |
     g'4. fis''8 g''8 fis''8 g''4    |
     g'4.    
     fis''8 g''8 fis''8 g''4    |
     g'4. a''8 a''4 b''8   
     a''8    |
-    g''8 fis''8 e''8 fis''8 g''4 d''4    
-    |
-    e''8 g''8 fis''8 a''8 g''8 fis''8 e''8 d''8    
-    |
+    g''8 fis''8 e''8 fis''8 g''4 d''4     |
+    e''8 g''8 fis''8 a''8 g''8 fis''8 e''8 d''8     |
     cis''4 a'4 a'4  
   }   
 

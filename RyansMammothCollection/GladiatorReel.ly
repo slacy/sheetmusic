@@ -41,12 +41,9 @@ voicedefault =  {
     
     fis''8 e''16 (fis''16) d''8 fis''16 (e''16)   |
     
-    d''16 b'16 cis''16 ais'16 b'16 a'!16 fis'16 a'16    
-    |
-    d''8 cis''16 (d''16) b'16 d''16 cis''16 b'16   
-    |
-    a'16 fis'16 g'16 a'16 b'16 cis''16 d''16 e''16 
-    |
+    d''16 b'16 cis''16 ais'16 b'16 a'!16 fis'16 a'16     |
+    d''8 cis''16 (d''16) b'16 d''16 cis''16 b'16    |
+    a'16 fis'16 g'16 a'16 b'16 cis''16 d''16 e''16  |
     fis''8 e''16 (fis''16) d''16 fis''8^\accent   
     e''16    
   } \alternative{{ d''16 b'16 cis''16 ais'16 b'8  

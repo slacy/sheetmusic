@@ -19,8 +19,7 @@ voicedefault =  {
     d''8^\upbow       |
     a'8 fis'8 d'8    
     d'8 fis'8 a'8    |
-    a'8 fis'8 a'8 b'4 d''8    
-    |
+    a'8 fis'8 a'8 b'4 d''8     |
     a'8 fis'8 d'8 d'8 fis'8 a'8    |
     fis''8    
     d''8 b'8 b'4 d''8        |

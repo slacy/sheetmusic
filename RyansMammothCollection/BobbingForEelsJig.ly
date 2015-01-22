@@ -38,8 +38,7 @@ voicedefault =  {
     cis''8  
   } b'8 a'8 b'8 a'4    r8   \bar ":|" \grace { cis''8  
 					     }  
-  b'8 a'8 b'8 a'4    \bar "|."     \bar "|:" e''8-2^\upbow       
-  |
+  b'8 a'8 b'8 a'4    \bar "|."     \bar "|:" e''8-2^\upbow        |
   a''8-1(cis'''8-3) a''8-1 gis''8-2(b''8-4) gis''8    |
   fis''8 (a''8) fis''8 e''8 fis''8 (
   gis''8)       |

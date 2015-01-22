@@ -19,15 +19,13 @@ voicedefault =  {
     d'8^\upbow |
     g'8^\downbow b'8 b'8    
     b'8 a'8 g'8  |
-    b'8 d''8 d''8 d''8 b'8 g'8  
-    |
+    b'8 d''8 d''8 d''8 b'8 g'8   |
     c''8 e''8-4 e''8-4 d''8 b'8 g'8  |
     b'8   
     a'8 a'8 a'4^\upbow(b'8-.) |
     g'8^\downbow b'8 b'8 
     b'8 a'8 g'8  |
-    b'8 d''8 d''8 d''8 b'8 g'8  
-    |
+    b'8 d''8 d''8 d''8 b'8 g'8   |
     a'8 e''8-4 e''8-4 d''8 b'8 a'8  |
     b'8    
     g'8 g'8 g'4  

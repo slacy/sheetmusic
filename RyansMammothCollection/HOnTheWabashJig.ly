@@ -20,8 +20,7 @@ voicedefault =  {
 	   } a''16^\upbow |
     
     r8 \grace { gis''16  
-	      } a''8^\downbow a'8.^\upbow(b'16-.)   
-    |
+	      } a''8^\downbow a'8.^\upbow(b'16-.)    |
     c''16 d''16 e''16-4 c''16 a'8.  \grace { gis''32  
 					   } 
     a''8    |

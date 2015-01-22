@@ -15,8 +15,7 @@ voicedefault =  {
   \key d \major
   d''16^\downbow b'16      \bar "|."     \grace {    
     b'16^"Segno" 
-  } a'8 fis'16 a'16 d'16 (a'16) fis'16 a'16   
-  |
+  } a'8 fis'16 a'16 d'16 (a'16) fis'16 a'16    |
   g'16 (fis'16) e'16 fis'16 g'16 (b'16) d''16   
   b'16    |
   b'16 (a'16) fis'16 (a'16) d'16 a'16    
@@ -39,8 +38,7 @@ voicedefault =  {
   g''16 fis''16) e''16-. d''16-.   |
   \times 2/3 { cis''16 
 	       (b'16 a'16) 
-	     } e''16-. a'16-. fis''16 a'16 e''16 a'16  
-  |
+	     } e''16-. a'16-. fis''16 a'16 e''16 a'16   |
   fis''16 d''16 e''16 fis''16 g''16 fis''16    
   e''16 d''16    |
   fis''16-. g''16-. a''16 (fis''16 b''16 ) a''16 (g''16) e''16-.   |

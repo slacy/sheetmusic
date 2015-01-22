@@ -36,15 +36,13 @@ voicedefault =  {
     d''16 c''16 a'16 fis'16 g'8  
   }     
   \repeat volta 2 {
-    g'8^\upbow 
-    |
+    g'8^\upbow  |
     g''2^"tr"^\trill   |
     fis''16^\downbow g''16    
     a''16 g''16 b''16 g''16 e''16 d''16    |
     b'16 d''16  
     e''16 fis''16  \grace { a''16  
-			  } g''16 fis''16 g''16 e''16   
-    |
+			  } g''16 fis''16 g''16 e''16    |
     d''16 c''16 a'16 c''16 b'16-. g'16 (fis'16    
     g'16)   |
     b'16 d''16 e''16 fis''16  \grace { a''16  
@@ -52,8 +50,7 @@ voicedefault =  {
     g''16 fis''16 g''16 e''16    |
     fis''16 g''16 a''16    
     g''16 b''16 g''16 e''16 d''16    |
-    g''2^"tr"^\trill   
-    |
+    g''2^"tr"^\trill    |
     d''16^\downbow c''16 a'16 fis'16 g'8  
   }   
 

@@ -44,8 +44,7 @@ voicedefault =  {
     fis''4^\upbow |
     e''8 fis''8 g''8 fis''8 e''8 d''8    
     cis''8 a'8  |
-    d''8 e''8 fis''8 g''8 a''4 a''4  
-    |
+    d''8 e''8 fis''8 g''8 a''4 a''4   |
     \times 2/3 { g''8 (a''8 g''8) 
 	       } e''4    \times 2/3 {  
 		 fis''8 (a''8 fis''8) 

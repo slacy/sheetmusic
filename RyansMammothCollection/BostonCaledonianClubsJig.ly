@@ -46,10 +46,8 @@ voicedefault =  {
     << g''4_"fz"(^\accent b'4 d'4 g4  
      >> fis''8-.) e''8 d''8 b'8    |
     << g''4 
-       _"fz"(^\accent b'4 d'4 g4   >> fis''8-.) e''8 d''8 b'8       
-    |
-    d''8. (^\downbow e''16-.) fis''8 g''8 fis''8 g''8 
-    |
+       _"fz"(^\accent b'4 d'4 g4   >> fis''8-.) e''8 d''8 b'8        |
+    d''8. (^\downbow e''16-.) fis''8 g''8 fis''8 g''8  |
     a''16 (^\upbow b''8.) a''8 g''4    r8   
   }   
 

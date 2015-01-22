@@ -23,8 +23,7 @@ voicedefault =  {
     d''16_"f"^\upbow(b'16) |
     a'8_"p" fis'8 d'8 d'8    
     fis'8 d'8  |
-    g'8 e'8 e'8 e'4_"f"^\upbow d''16 b'16 
-    |
+    g'8 e'8 e'8 e'4_"f"^\upbow d''16 b'16  |
     a'8_"p" fis'8 d'8 d'8 fis'8 d'8  |
     a'8  
     fis'8 a'8 d''4 e''8  |

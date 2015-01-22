@@ -29,8 +29,7 @@ voicedefault =  {
     a'16 b'16 g'16  |
     e'16 a'16 a'16 gis'16 a'16 b'16 
     c''16 a'16  |
-    fis'16 d'16 fis'16 a'16 d''8. c''16 
-    |
+    fis'16 d'16 fis'16 a'16 d''8. c''16  |
     b'16 g'16 a'16 b'16 g'8    
   } 
   \repeat volta 2 {

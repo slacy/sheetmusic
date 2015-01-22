@@ -17,16 +17,12 @@ voicedefault =  {
 
     \time 6/8 
     \key g \major
-    d''8^\downbow b'8 g'8 e''8 fis''8 g''8 
-    |
+    d''8^\downbow b'8 g'8 e''8 fis''8 g''8  |
     d''8 b'8 g'8 a'8 fis'8 d'8    |
     g'8    
     fis'8 g'8 b'8 g''8 e''8    |
-    d''8 b'8 g'8 a'4.    
-    |
-    |
-    d''8 b'8 g'8 e''8 fis''8 g''8    
-    |
+    d''8 b'8 g'8 a'4.     | |
+    d''8 b'8 g'8 e''8 fis''8 g''8     |
     d''8 b'8 g'8 a'8 fis'8 d'8    |
     e'8 g'8   
     e''8-4 d''8 b'8 g'8    |
@@ -40,8 +36,7 @@ voicedefault =  {
     
     g''8 e''8 g''8 d''8 b'8 g'8    |
     b'8 a'8 a'8    
-    a'4.    |
-    |
+    a'4.    | |
     g''8 e''8 g''8 fis''8 d''8    
     fis''8    |
     e''8 c''8 e''8-4 d''8 b'8 g'8    |

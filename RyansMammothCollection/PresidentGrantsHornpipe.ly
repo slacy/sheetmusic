@@ -18,15 +18,12 @@ voicedefault =  {
     \time 2/4 
     \key bes \major d''16 (^\upbow c''16)       |
     
-    bes'16 f'16 d'16 f'16 bes'16 c''16 d''16 ees''16    
-    |
-    f''16 g''16 f''16 d''16 bes'8 c''16 (d''16)   
-    |
+    bes'16 f'16 d'16 f'16 bes'16 c''16 d''16 ees''16     |
+    f''16 g''16 f''16 d''16 bes'8 c''16 (d''16)    |
     ees''16 g''16 bes''16 g''16 f''16 d''16 bes'16    
     d''16    |
     g''16 f''16 d''16 bes'16 c''8 d''16 (
-    c''16)   |
-    |
+    c''16)   | |
     bes'16 f'16 d'16 f'16 bes'16    
     c''16 d''16 ees''16    |
     f''16 g''16 f''16 d''16    
@@ -43,11 +40,8 @@ voicedefault =  {
     
     f''16 g''16 f''16 d''16 f''8 bes''16 (a''16)   |
     
-    g''16 a''16 bes''16 g''16 f''16 d''16 bes'16 d''16    
-    |
-    c''16 d''16 c''16 bes'16 g'16 f'16 d'16 c'16    
-    |
-    |
+    g''16 a''16 bes''16 g''16 f''16 d''16 bes'16 d''16     |
+    c''16 d''16 c''16 bes'16 g'16 f'16 d'16 c'16     | |
     bes16^\downbow-. f'16 (^\upbow e'16 f'16)  
     d'16^\accent^\downbow bes'16 (^\upbow a'16 bes'16)   |
     

@@ -19,8 +19,7 @@ voicedefault =  {
     a'8^\downbow a'8 b'8    \grace { e''8-4 
 				   } 
     d''8 cis''8 d''8    |
-    e''8 fis''8 d''8 b''4    r8   
-    |
+    e''8 fis''8 d''8 b''4    r8    |
     a''4.^\accent fis''4.^\accent   |
     e''8 fis''8    
     d''8 b'8 d''8 b'8    |

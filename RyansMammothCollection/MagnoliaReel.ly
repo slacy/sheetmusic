@@ -28,8 +28,7 @@ voicedefault =  {
   g'8 g''4^\accent g''8 (|
   g''8) << a'8 fis''8   >> <<  
     b'8 g''8   >>   \bar "||" e''16^\downbow fis''16  |
-  g''16^\downbow(e''16) b''16 e''16 g''16 (e''16) b''16 e''16 
-  |
+  g''16^\downbow(e''16) b''16 e''16 g''16 (e''16) b''16 e''16  |
   fis''16 (e''16) dis''16 fis''16 e''16 b'16    
   e''16 fis''16    |
   g''16^\upbow(e''16) b''16 e''16    

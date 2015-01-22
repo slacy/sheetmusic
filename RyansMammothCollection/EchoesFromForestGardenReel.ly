@@ -34,8 +34,7 @@ voicedefault =  {
     e''16-4 d''16 b'16 a'8    
   } 
   \repeat volta 2 {
-    cis''16 d''16  
-    |
+    cis''16 d''16   |
     e''16 dis''16 fis''16 e''16 a''16 e''16 cis''16  
     a'16    |
     b'16 cis''16 b'16 a'16 gis'16 e'16    
@@ -47,8 +46,7 @@ voicedefault =  {
     e''16  
     dis''16 fis''16 e''16 a''16 e''16 cis''16 a'16    |
     
-    gis'16 cis''16 b'16 a'16 gis'16 e'16 fis'16 gis'16    
-    |
+    gis'16 cis''16 b'16 a'16 gis'16 e'16 fis'16 gis'16     |
     a'16 a''16 gis''16 fis''16 e''16 d''16 cis''16    
     e''16    |
     \times 2/3 { gis''16 (fis''16 e''16) 

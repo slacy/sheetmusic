@@ -17,8 +17,7 @@ voicedefault =  {
     \time 2/4 
     \key d \major
     \grace { g''16^\upbow 
-	   } fis''16 (e''16) 
-    |
+	   } fis''16 (e''16)  |
     d''8^\downbow b'16^\downbow d''16^\upbow a'8 fis'16    
     a'16    |
     \grace { cis''16  
@@ -42,8 +41,7 @@ voicedefault =  {
     e'16 a'16-4 d'8  
   }     
   \repeat volta 2 {
-    fis''16^\upbow(g''16) 
-    |
+    fis''16^\upbow(g''16)  |
     a''16^\downbow fis''16 e''16 d''16 b''16 a''16    
     fis''16 d''16    |
     a'16 d''16 fis''16 d''16 e''16-4-. d''16 (b'16 d''16)   |

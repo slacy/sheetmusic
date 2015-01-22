@@ -28,8 +28,7 @@ voicedefault =  {
     a'16) e''8-0 \grace { gis''16  
 			} fis''16 e''16    |
     
-    d''16 cis''16 b'16 a'16 gis'16 b'16 e'16 gis'16    
-    |
+    d''16 cis''16 b'16 a'16 gis'16 b'16 e'16 gis'16     |
     \times 2/3 { a'16 a'16 a'16  
 	       } cis''16 (a'16)     
     e''8-0 a''16 (gis''16)   |
@@ -43,8 +42,7 @@ voicedefault =  {
   \repeat volta 2 {
     a'16^\downbow b'16  |
     
-    cis''16 a'16 e'16 a'16 cis''16 e''16-4 cis''16 a'16    
-    |
+    cis''16 a'16 e'16 a'16 cis''16 e''16-4 cis''16 a'16     |
     d''16 b'16 gis'16 b'16 d''16 fis''16 e''16    
     d''16    |
     cis''16 a'16 e'16 a'16 cis''16 e''16    

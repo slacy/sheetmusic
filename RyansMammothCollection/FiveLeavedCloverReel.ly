@@ -35,12 +35,9 @@ voicedefault =  {
     b'8 gis'8 a'4    
   } 
   \repeat volta 2 {
-    e''8^\fermata(d''8) 
-    |
-    e''8 a''8 a''8 a''8 a''8 g''8 e''8 f''8  
-    |
-    g''8 e''8 a''8 e''8 g''8 e''8 d''8 e''8  
-    |
+    e''8^\fermata(d''8)  |
+    e''8 a''8 a''8 a''8 a''8 g''8 e''8 f''8   |
+    g''8 e''8 a''8 e''8 g''8 e''8 d''8 e''8   |
     c''4 c''8 e''8 d''4 d''8 f''8  |
     e''8    
     a''8 g''8 e''8 d''4 d''4  |

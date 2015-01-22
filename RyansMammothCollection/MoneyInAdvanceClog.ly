@@ -19,8 +19,7 @@ voicedefault =  {
     \key f \major
     a'8.^\upbow(bes'16-.) |
     c''8. (
-    a'16-.) f''8. (d''16-.) c''8.^\segue a'16 f''8. d''16  
-    |
+    a'16-.) f''8. (d''16-.) c''8.^\segue a'16 f''8. d''16   |
     \times 2/3 { c''8 d''8 c''8  
 	       }   \times 2/3 { bes'8    
 				a'8 g'8  

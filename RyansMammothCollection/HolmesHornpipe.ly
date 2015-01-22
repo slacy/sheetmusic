@@ -43,8 +43,7 @@ voicedefault =  {
     d''16 bes'16 aes'16 f'16 g'16 ees'16  |
     d'16 bes'16  
     f'16 d'16 bes8    \times 2/3 { bes16 (c'16 d'16-4) 
-				 } 
-    |
+				 }  |
     ees'8-. ees'8-. c'16 aes16 g16 aes16  |
     
     f'8-. f'16 (ees'16) d'16 bes16 a16 bes16  |

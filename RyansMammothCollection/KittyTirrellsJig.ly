@@ -23,11 +23,9 @@ voicedefault =  {
     d'8 f'8 bes'8  \grace { c''8  
 			  } bes'8  
     a'8 bes'8  |
-    c''8 g''8 f''8 ees''8 c''8 a'8  
-    |
+    c''8 g''8 f''8 ees''8 c''8 a'8   |
     \grace { g'8  
-	   } f'8 e'8 f'8 g'8 a'8 bes'8  
-    |
+	   } f'8 e'8 f'8 g'8 a'8 bes'8   |
     bes'4 f'8 (f'8) d'8 ees'8  |
     f'8 d''8    
     bes'8  \grace { bes'8  
@@ -39,8 +37,7 @@ voicedefault =  {
     bes'8^\upbow |
     bes'8 c''8 
     bes'8 a'8 g'8 fis'8  |
-    a'8 g'8 fis'8 g'4 f'!8  
-    |
+    a'8 g'8 fis'8 g'4 f'!8   |
     g'8 f'8 f'8 f'8 g'8 ees'8  |
     d'8 f'8    
     bes'8 f'8 f'8 ees'8  |

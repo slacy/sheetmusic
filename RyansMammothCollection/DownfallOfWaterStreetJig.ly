@@ -32,12 +32,10 @@ voicedefault =  {
     b'16. cis''32 a'16. cis''32    |
     \grace { e''16  
 	   } d''16.  
-    cis''32 d''16. e''32 fis''16. gis''32 a''16. fis''32    
-    |
+    cis''32 d''16. e''32 fis''16. gis''32 a''16. fis''32     |
     e''32 cis''16.    r16 cis''16^\upbow d''16.^\downbow(
     e''32-.) cis''8    \bar "|." e'32^\downbow cis''16.    r16 d''16^\upbow cis''16. (b'32-.) a'16. (b'32-.)   |
-    cis''32^\downbow e''16.-4   r16 cis''16^\upbow b'16. (cis''32-.) a'8   
-    |
+    cis''32^\downbow e''16.-4   r16 cis''16^\upbow b'16. (cis''32-.) a'8    |
     e'32 cis''16.    r16 d''16^\upbow cis''16. (b'32-.)   
     a'16. (fis'32-.)   |
     e'32^\downbow cis'16.    r16 a16^\upbow 

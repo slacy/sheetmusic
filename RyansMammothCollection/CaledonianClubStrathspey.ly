@@ -20,8 +20,7 @@ voicedefault =  {
     \key d \major
     a'8^\upbow       |
     fis'16 (^\downbow   
-    a'8.) a'8. (fis'16-.) g'16 (b'8.) b'16 (g'16-.)   
-    |
+    a'8.) a'8. (fis'16-.) g'16 (b'8.) b'16 (g'16-.)    |
     fis'16 (a'8.) a'8. (d''16-.) b'16 (e'8.)   
     e'8.^\segue(g'16)       |
     fis'16 (a'8.) a'8. fis'16 

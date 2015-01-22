@@ -28,13 +28,11 @@ voicedefault =  {
     e'8 d''8 e''8 fis''8    |
     g''8 fis''8 e''8 fis''8    
     d''8 b'8    |
-    a'8 fis'8 a'8 a'8 d''8 fis'8    
-    |
+    a'8 fis'8 a'8 a'8 d''8 fis'8     |
     fis'8 e'8 e'8 e'4    
   }     
   \repeat volta 2 {
-    e''8^\upbow 
-    |
+    e''8^\upbow  |
     e''16 (^\downbow fis''16 g''8) e''8-. fis''8    
     e''8 d''8    |
     e''16 (^\upbow fis''16 g''8) e''8-.   
@@ -43,8 +41,7 @@ voicedefault =  {
     d''8 a'8 fis'8    |
     d'8 fis'8 a'8 d''8 e''8    
     fis''8        |
-    e''8 d''8 b'8 d''8 e''8 fis''8    
-    |
+    e''8 d''8 b'8 d''8 e''8 fis''8     |
     g''8 b''8 g''8 e''8 d''8 b'8    |
     a'8    
     fis'8 a'8 a'8 d''8 fis'8    |

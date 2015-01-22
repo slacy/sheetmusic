@@ -22,8 +22,7 @@ voicedefault =  {
     fis'8 fis'4    |
     g'4 g'8 fis'8. g'16 fis'8 e'4    
     fis'8    |
-    d'4 fis'8 a'8. b'16 a'8 fis'8 fis'4       
-    |
+    d'4 fis'8 a'8. b'16 a'8 fis'8 fis'4        |
     g'4 e''8 fis'4 d''8 e'4 fis'8    |
     d'4    
     fis'8 a'8. b'16 a'8 fis'4.    |

@@ -21,10 +21,8 @@ voicedefault =  {
     ees''16 
     d''16 c''16 bes'16 a'16 g'16 f'16 ees'16    |
     
-    d'16 f'16 bes'16 f'16 ees''16 d''16 c''16 bes'16    
-    |
-    a'16 bes'16 c''16 d''16 c''8^\downbow-. d''16^\downbow c''16    |
-    |
+    d'16 f'16 bes'16 f'16 ees''16 d''16 c''16 bes'16     |
+    a'16 bes'16 c''16 d''16 c''8^\downbow-. d''16^\downbow c''16    | |
     bes'8^\downbow-. bes''16 (
     f''16) d''16 bes'16 c''16 d''16    |
     ees''16 d''16    
@@ -35,8 +33,7 @@ voicedefault =  {
       d''8 bes'8   >> bes'8    
   }     
   \repeat volta 2 {
-    bes'16^\downbow c''16  
-    |
+    bes'16^\downbow c''16   |
     d''16-. bes'16 (a'16 bes'16) ees''16-. c''16 (a'16 c''16)   |
     f''16 d''16 g''16 f''16 ees''16  
     d''16 c''16 bes'16    |
@@ -44,15 +41,13 @@ voicedefault =  {
     ees''16 c''16 d''16 bes'16    |
     a'8-. \grace { g''16  
 		  }   
-    f''8-. f'16 g'16 f'16 ees'16    |
-    |
+    f''8-. f'16 g'16 f'16 ees'16    | |
     d'16    
     f'16 bes'16 d''16 f''16 d''16 bes'16 f'16    |
     g'16  
     ees'16 g'16 bes'16 g''16 f''16 ees''16 d''16    |
     
-    c''16 bes'16 a'16 g''16 f''16 ees''16 c''16 a'16    
-    |
+    c''16 bes'16 a'16 g''16 f''16 ees''16 c''16 a'16     |
     bes'8  << d''8 bes'8   >> bes'8    
   }   
 

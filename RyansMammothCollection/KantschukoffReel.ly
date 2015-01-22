@@ -18,20 +18,13 @@ voicedefault =  {
     \time 2/2 
     \key a \major
     \times 2/3 { e'8 (^\upbow fis'8 gis'8) 
-	       }   
-    |
-    a'8 e'8 cis''8 a'8 e''8 cis''8 a''8 e''8    
-    |
-    fis''8 e''8 dis''8 e''8 fis''8 e''8 cis''8 a'8  
-    |
-    gis'8 e'8 b'8 e'8 d''8 b'8 gis''8 e''8    
-    |
-    b''8 a''8 gis''8 fis''8 e''8 d''8 cis''8 b'8    
-    |
-    a'8 e'8 cis''8 a'8 e''8 cis''8 a''8 e''8    
-    |
-    fis''8 e''8 dis''8 e''8 b''8 a''8 gis''8 fis''8 
-    |
+	       }    |
+    a'8 e'8 cis''8 a'8 e''8 cis''8 a''8 e''8     |
+    fis''8 e''8 dis''8 e''8 fis''8 e''8 cis''8 a'8   |
+    gis'8 e'8 b'8 e'8 d''8 b'8 gis''8 e''8     |
+    b''8 a''8 gis''8 fis''8 e''8 d''8 cis''8 b'8     |
+    a'8 e'8 cis''8 a'8 e''8 cis''8 a''8 e''8     |
+    fis''8 e''8 dis''8 e''8 b''8 a''8 gis''8 fis''8  |
     gis''8 b''8 e''8 gis''8 fis''8 a''8 dis''8    
     fis''8    |
     \grace { fis''8  

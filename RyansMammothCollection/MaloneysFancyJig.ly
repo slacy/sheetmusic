@@ -22,8 +22,7 @@ voicedefault =  {
     a'8 fis'8 a'8 d''4 b'8    |
     a'8    
     g'8 fis'8 g'4 a'8    |
-    b'8 g'8 e'8 e'4 d''8    
-    |
+    b'8 g'8 e'8 e'4 d''8     |
     fis'4 a'8 a'8 fis'8 a'8    |
     a'8 fis'8    
     a'8 d''4 b'8    |
@@ -38,13 +37,11 @@ voicedefault =  {
     e''8 d''8 cis''8 d''4 b'8    |
     a'8    
     g'8 fis'8 g'4 b'8    |
-    b'8 g'8 e'8 e'4 fis'8    
-    |
+    b'8 g'8 e'8 e'4 fis'8     |
     e''8 cis''8 a'8 a'8 b'8 a'8    |
     e''8    
     d''8 cis''8 d''4 b'8    |
-    a'8 g'8 fis'8 g'4 b'8   
-    |
+    a'8 g'8 fis'8 g'4 b'8    |
     a'8 fis'8 d'8 d'4  
   }     
   \repeat volta 2 {
@@ -55,13 +52,11 @@ voicedefault =  {
     fis''8 e''8 cis''8 d''4 b'8    |
     a'8 g'8 fis'8    
     g'4 b'8    |
-    b'8 g'8 e'8 e'8 fis''8 (g''8)   
-    |
+    b'8 g'8 e'8 e'8 fis''8 (g''8)    |
     a''8 g''8 fis''8 g''4 e''8    |
     fis''8    
     d''8 cis''8 d''4 b'8    |
-    a'8 g'8 fis'8 g'4 b'8   
-    |
+    a'8 g'8 fis'8 g'4 b'8    |
     a'8 fis'8 d'8 d'4      
   }   
 

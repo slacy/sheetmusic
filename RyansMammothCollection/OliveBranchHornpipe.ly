@@ -19,14 +19,11 @@ voicedefault =  {
     \key a \major
     a'4^\downbow cis''8. (^\upbow a'16-.)   
     e''8.^\downbow a'16 fis''8. (^\upbow a'16-.) |
-    e''8.^"Segue" a'16 fis''8. a'16 e''8. cis''16 b'8. cis''16  
-    |
-    a'4 cis''8. a'16 e''8. a'16 fis''8. a'16  
-    |
+    e''8.^"Segue" a'16 fis''8. a'16 e''8. cis''16 b'8. cis''16   |
+    a'4 cis''8. a'16 e''8. a'16 fis''8. a'16   |
     e''8. cis''16 b'8. cis''16 a'8. fis'16 gis'8.    
     e'16  |
-    a'4 cis''8. a'16 e''8. a'16 fis''8. a'16  
-    |
+    a'4 cis''8. a'16 e''8. a'16 fis''8. a'16   |
     e''8. a'16 fis''8. a'16 e''8. cis''16 b'8.    
     cis''16  |
     a'8. b'16 a'8. fis'16 e'8. cis''16    

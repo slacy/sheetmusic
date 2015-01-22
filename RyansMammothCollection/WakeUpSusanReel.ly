@@ -26,8 +26,7 @@ voicedefault =  {
     d''16-. b'8^\accent b'16-. b'16-. cis''16-. b'16-. a'16-.   |
     gis'16 a'16    
     b'16 cis''16 d''16 e''16 fis''16 gis''16    |
-    a''16-. a'8^\accent a'32-. a'32-. a'16 b'16 cis''16 a'16    
-    |
+    a''16-. a'8^\accent a'32-. a'32-. a'16 b'16 cis''16 a'16     |
     e'16-. a'8^\accent a'32-. a'32-. a'16-. cis''16-.   
     e''16-. cis''16-.   |
     d''16 e''16 fis''16 gis''16    

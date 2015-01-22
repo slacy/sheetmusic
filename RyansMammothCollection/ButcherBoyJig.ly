@@ -15,12 +15,10 @@ voicedefault =  {
   \key d \major
   a'16^\upbow       |
   d''8^\downbow a'16^\downbow d''16^\upbow b'16 d''16 a'16 d''16    |
-  d''8^\downbow a'16^\upbow a'16^\downbow b'16 e''16    r16 e''16^\upbow  
-  |
+  d''8^\downbow a'16^\upbow a'16^\downbow b'16 e''16    r16 e''16^\upbow   |
   d''8 a'16 d''16 b'16 d''16 a'16 d''16    |
   
-  g''16 e''16 fis''16 d''16 b'16 d''16    r16 d''16        
-  |
+  g''16 e''16 fis''16 d''16 b'16 d''16    r16 d''16         |
   d''8 a'16 d''16 b'16 d''16 a'16 d''16 d''8    
   a'16 a'16 b'16 e''16    r16 e''16    |
   d''8 a'16 d''16  

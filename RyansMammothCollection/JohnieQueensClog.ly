@@ -19,8 +19,7 @@ voicedefault =  {
     \key a \major
     fis''4^\upbow |
     e''8.^\downbow(
-    cis''16-.) a'8.^\segue fis''16 e''8. cis''16 a'8. fis''16  
-    |
+    cis''16-.) a'8.^\segue fis''16 e''8. cis''16 a'8. fis''16   |
     e''8. cis''16 a'8. a''16 e''8. cis''16 a'8.    
     cis''16    |
     d''8. b'16 gis'8. d''16 cis''8. a'16    
@@ -50,8 +49,7 @@ voicedefault =  {
     a''8.-3 gis''16-2 fis''8.   
     a''16 e''8. cis''16 a'8. a''16    |
     cis'''8.-3   
-    b''16-2 a''8. cis'''16 b''8. a''16 gis''8. e''16-2   
-    |
+    b''16-2 a''8. cis'''16 b''8. a''16 gis''8. e''16-2    |
     \times 2/3 { fis''8-2 gis''8-4 a''8-1 
 	       }   
     \times 2/3 { b''8-2 cis'''8-3 dis'''8-4 

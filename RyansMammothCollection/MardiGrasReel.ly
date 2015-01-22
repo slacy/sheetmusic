@@ -20,15 +20,13 @@ voicedefault =  {
       d'8^\downbow-. fis'8   >>   << cis'8^\upbow-. e'8   >>  ~    << cis'8 
 								     ^\upbow-. e'8   >>   |
     << d'8-. fis'8   >>  ~    << d'8-.  
-				  fis'8   >>   << cis'8-. e'8   >>  ~    << cis'8-. e'8   >>   
-    |
+				  fis'8   >>   << cis'8-. e'8   >>  ~    << cis'8-. e'8   >>    |
     e'16 (f'16 fis'!16 gis'16 a'16 ais'16 b'16    
     c''16)   |
     cis''!16 (c''16 b'16 ais'16 a'!16 gis'16  
     g'16 fis'16)   |
     << d'8_"p"-. fis'8   >>  ~    << d'8 
-				-. fis'8   >>   << cis'8-. e'8   >>  ~    << cis'8-. e'8   >>   
-    |
+				-. fis'8   >>   << cis'8-. e'8   >>  ~    << cis'8-. e'8   >>    |
     << d'8-. fis'8   >>  ~    << d'8-. fis'8   >> << cis'4   
 						       e'4   >>   |
     b'16 cis''16 d''16 e''16 fis''16 a''16  
@@ -41,8 +39,7 @@ voicedefault =  {
     b'16    |
     e''8_"cresc~~~" cis''16 a'16 d''16 cis''16    
     b'16 a'16    |
-    e''8 cis''16 a'16 fis''8 d''16 b'16   
-    |
+    e''8 cis''16 a'16 fis''8 d''16 b'16    |
     e''8    << d''8^\accent gis''8   >>   << cis''4 
 					     _"ff"^\accent a''4   >>   |
     e''8_"mf" cis''16 a'16    

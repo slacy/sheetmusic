@@ -63,8 +63,7 @@ voicedefault =  {
 
 		 }   \times 2/3 { gis'8 e'8 d'8  
 				}   \times 2/3 { b8 gis8 b8  
-					       }  
-  |
+					       }   |
   \times 2/3 { a8 cis'8 e'8  
 	     }   \times 2/3 { a'8    
 			      cis''8 e''8) 

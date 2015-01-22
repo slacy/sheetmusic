@@ -19,13 +19,11 @@ voicedefault =  {
     d''16^\downbow c''16        |
     b'8 g'8  
     g'8 a'8 g'8 a'8    |
-    b'8 g'8 a'8 g'8 e'8 d'8 
-    |
+    b'8 g'8 a'8 g'8 e'8 d'8  |
     e'8 a'8 a'8 a'4 g'8    |
     e'8 a'8 a'8   
     a'4 c''8        |
-    b'8 g'8 g'8 a'8 g'8 a'8    
-    |
+    b'8 g'8 g'8 a'8 g'8 a'8     |
     b'8 g'8 a'8 g'8 e'8 d'8    |
     e'8 g'8    
     g'8 g'4 e'8    |
@@ -39,8 +37,7 @@ voicedefault =  {
     b'8 g'8 a'8 g'8 e'8 d'8    |
     
     e'8 a'8 a'8 a'4 g'8    |
-    e'8 a'8 a'8 a'4 c''8  
-    |
+    e'8 a'8 a'8 a'4 c''8   |
     b'8 c''8 d''8 a'8 b'8 c''8    |
     b'8    
     g'8 a'8 g'8 e'8 d'8    |

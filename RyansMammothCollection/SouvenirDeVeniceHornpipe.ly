@@ -84,12 +84,9 @@ voicedefault =  {
     
     f''16 d''16 bes'16 f'16 d'16 f''16 ees''16 d''16  |
     
-    ees''16 c''16 g'16 ees'16 c'16 ees''16 d''16 c''16  
-    |
-    d''16 bes'16 f'16 d'16 bes16. c'32 bes16. aes32 
-    |
-    g16 bes16 ees'16 g'16 aes16 c'16 f'16 aes'16 
-    |
+    ees''16 c''16 g'16 ees'16 c'16 ees''16 d''16 c''16   |
+    d''16 bes'16 f'16 d'16 bes16. c'32 bes16. aes32  |
+    g16 bes16 ees'16 g'16 aes16 c'16 f'16 aes'16  |
     bes16 ees'16 g'16 bes'16 c'16 f'16 aes'16    
     c''16  |
     bes'16. ees''32 d''16. c''32 bes'16. aes'32  

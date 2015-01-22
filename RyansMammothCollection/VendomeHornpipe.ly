@@ -37,8 +37,7 @@ voicedefault =  {
     \times 2/3 { f''8 (g''8 a''8) 
 
 	       } f''8. c''16    \times 2/3 { a'8 (bes'8 c''8) 
-					   } a'8. f'16 
-    |
+					   } a'8. f'16  |
     e'8. d''16 c''8. bes'16    \times 2/3 { a'8 (g'8    
 					    f'8) 
 					  }   \times 2/3 { g'8 (f'8 e'8) 
@@ -64,8 +63,7 @@ voicedefault =  {
 			      }   
     \times 2/3 { a''8 g''8 f''8  
 	       }   \times 2/3 { e''8 d''8 c''8  
-			      } 
-    |
+			      }  |
     \times 2/3 { bes'8 a'8 g'8  
 	       }   \times 2/3 { a'8 g'8  
 				f'8  

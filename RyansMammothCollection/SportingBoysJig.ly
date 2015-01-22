@@ -19,16 +19,14 @@ voicedefault =  {
     a'8^\upbow |
     d''4.^"tr"^\trill   
     fis''8 e''8 fis''8    |
-    d''8 b'8 b'8 b'4 d''8    
-    |
+    d''8 b'8 b'8 b'4 d''8     |
     cis''8 a'8 cis''8 e''8 fis''8 d''8    |
     
     cis''8 a'8 a'8 a'8 b'8 cis''8    |
     d''4.^"tr"^\trill fis''8 e''8 fis''8    |
     d''8 b'8 b'8 b'4 
     g''8    |
-    fis''8 g''8 a''8 e''8 fis''8 g''8    
-    |
+    fis''8 g''8 a''8 e''8 fis''8 g''8     |
     fis''8 d''8 d''8 d''4    
   }     
   \repeat volta 2 {

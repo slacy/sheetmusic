@@ -28,8 +28,7 @@ voicedefault =  {
     g''8. d''16 bes'4    \times 2/3 { g'8 (a'8 bes'8) 
 				    } |
     
-    c''8. e''16 g''8. e''16 bes''8. g''16 e''8. c''16  
-    |
+    c''8. e''16 g''8. e''16 bes''8. g''16 e''8. c''16   |
     \times 2/3 { f''8 a''8 g''8  
 	       } \times 2/3 { f''8 e''8    
 			      d''8  
@@ -43,8 +42,7 @@ voicedefault =  {
 							 } |
     bes'8.    
     bes''16 g''8. d''16 bes'4    \times 2/3 { g'8 (a'8 bes'8) 
-					    } 
-    |
+					    }  |
     c''8. e''16 g''8. e''16 bes''8. g''16 e''8.    
     c''16  |
     f''8. c''16 a''8. g''16 f''4  
@@ -71,8 +69,7 @@ voicedefault =  {
     c''8. a''16 f''8. d''16    
     \times 2/3 { c''8 b'8 c''8  
 	       } \times 2/3 { d''8 c''8 a'8  
-			    } 
-    |
+			    }  |
     bes'8. bes''16 g''8. d''16 bes'4    \times 2/3 { g'8 (
 						     a'8 bes'8) 
 						   } |

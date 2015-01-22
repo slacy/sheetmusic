@@ -28,8 +28,7 @@ voicedefault =  {
 	       }   \times 2/3 { ees''!8 (d''8    
 				c''8) 
 			      } |
-    bes'2   ~ bes'8. d''16 c''8. bes'16  
-    |
+    bes'2   ~ bes'8. d''16 c''8. bes'16   |
     c''2   ~ c''8. ees''16 d''8. c''16  |
     bes'8.  
     bes''16 f''8. d''16    \times 2/3 { f''8 g''8 f''8  

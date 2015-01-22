@@ -22,11 +22,9 @@ voicedefault =  {
     a'4. (
     d''8) |
     b'4.^\upbow(d''8)   |
-    a'4. (d''8)   
-    |
+    a'4. (d''8)    |
     b'4.^\downbow(d''8)   |
-    a'4. (d''8)   
-    |
+    a'4. (d''8)    |
     b'4.^\upbow(d''8)   |
     a'4. (d''8)   |
     
@@ -43,8 +41,7 @@ voicedefault =  {
     fis''16    
     e''16 dis''16 fis''16 e''16 fis''16 g''16 a''16    |
     
-    b''16 a''16 fis''16 b''16 a''16 g''16 fis''16 g''16    
-    |
+    b''16 a''16 fis''16 b''16 a''16 g''16 fis''16 g''16     |
     fis''16 e''16 dis''16 fis''16 e''4    \bar "|."         
     g''16_"ff"^"BREAK" fis''16 e''16 g''16 a''16 g''16 fis''16    
     g''16    |

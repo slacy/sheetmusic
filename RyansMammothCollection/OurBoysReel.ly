@@ -19,8 +19,7 @@ voicedefault =  {
     \times 2/3 { e''16 (^\upbow fis''16 gis''16  
 		) 
 	       }   |
-    a''8 e''16 d''16 cis''16 a'16 d''16 b'16  
-    |
+    a''8 e''16 d''16 cis''16 a'16 d''16 b'16   |
     cis''16 a'16 d''16 cis''16 b'8  \times 2/3 { e''16 (
 						 fis''16 gis''16) 
 					       }   |
@@ -40,8 +39,7 @@ voicedefault =  {
 				} b''8. b''16    |
     gis''16 e''16    \times 2/3 {   
       fis''16 (gis''16 a''16) 
-    } gis''16 e''16 d''16 cis''16    
-    |
+    } gis''16 e''16 d''16 cis''16     |
     cis''16 a'16 b'16 gis'16 a'8    
   }   
 

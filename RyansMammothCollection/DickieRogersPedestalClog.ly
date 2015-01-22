@@ -18,10 +18,8 @@ voicedefault =  {
     \time 2/2 
     \key f \major
     a''8. (g''16-.) |
-    f''4^\downbow^\trill e''8. f''16 c''8. f''16 a''8. g''16    
-    |
-    f''4^\trill e''8. f''16 c''8. f''16 a''8. g''16    
-    |
+    f''4^\downbow^\trill e''8. f''16 c''8. f''16 a''8. g''16     |
+    f''4^\trill e''8. f''16 c''8. f''16 a''8. g''16     |
     f''4 a'8. c''16 f''8. a''16-1 d'''8.-4 c'''16-3   |
     \times 2/3 { c'''8-3 bes''8-2 g''8-2 
 	       }     
@@ -116,8 +114,7 @@ voicedefault =  {
   bes'8. d''16    \times 2/3 { f''8 (g''8 a''8) 
 			     }   |
   
-  bes''8. g''16 ees''8. g''16 f''8. d''16 bes'8. d''16    
-  |
+  bes''8. g''16 ees''8. g''16 f''8. d''16 bes'8. d''16     |
   c''8. ees''16 a'8. c''16 bes'4  
 }   
 

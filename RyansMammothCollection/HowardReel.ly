@@ -21,8 +21,7 @@ voicedefault =  {
 				) 
 			      } cis''8. (e''16) a''8. (e''16) |
     fis''8. (
-    a''16) e''8. (a''16) d''8. (a''16) cis''8. (a''16) 
-    |
+    a''16) e''8. (a''16) d''8. (a''16) cis''8. (a''16)  |
     b'4    \times 2/3 { d''8 (cis''8 b'8) 
 		      } d''8.    
     fis''16 b''8. a''16  |
@@ -50,8 +49,7 @@ voicedefault =  {
 										 (fis'8 eis'8) 
 									       } fis'8. a'16 cis''8. a''16  |
     
-    gis''8. fis''16 eis''8. gis''16 fis''8. gis''16 a''4  
-    |
+    gis''8. fis''16 eis''8. gis''16 fis''8. gis''16 a''4   |
     fis'4    \times 2/3 { gis'8 (fis'8 eis'8) 
 			} fis'8.    
     a'16 cis''8. a''16  |

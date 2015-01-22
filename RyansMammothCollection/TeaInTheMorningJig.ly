@@ -17,11 +17,9 @@ voicedefault =  {
   a'16) b'4.^\upbow |
   g'4 d''8 d''4 g'8 a'8 b'8 (
   c''8) |
-  d''4 g'8 g'8 fis'8 g'16 (a'16) b'4.  
-  |
+  d''4 g'8 g'8 fis'8 g'16 (a'16) b'4.   |
   d''8 c''8 b'8 a'8 g'8 fis'8 a'8 b'8 (c''8) |
-  d''4 g'8 g'8 fis'8 g'16 (a'16) b'4.  
-  |
+  d''4 g'8 g'8 fis'8 g'16 (a'16) b'4.   |
   g'4 d''8 d''4 g'8 a'8 b'8 (c''8) |
   
   d''4 g'8 g'8 fis'8 g'16 (a'16) b'4.  |

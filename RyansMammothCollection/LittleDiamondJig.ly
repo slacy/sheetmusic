@@ -18,8 +18,7 @@ voicedefault =  {
     \key a \major
     e''16^\downbow cis''16    r16 e''16    r16 cis''16 
     e''8    |
-    e''16 cis''16    r16 a'16 b'16 cis''16 a'8    
-    |
+    e''16 cis''16    r16 a'16 b'16 cis''16 a'8     |
     fis''16 d''16    r16 fis''16    r16 d''16 fis''8    |
     
     e''16 cis''16    r16 a'16 b'16 cis''16 a'8    

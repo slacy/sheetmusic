@@ -16,12 +16,9 @@ voicedefault =  {
   b'16 (^\upbow cis''16)       
   \repeat volta 2 {
     
-    d''4 fis''8 d''8 (b'8) b'8 d''8 (b'8) b'8    
-    |
-    d''4 fis''8 d''8 (b'8) b'8 cis''8 b'8 a'8    
-    |
-    d''4 fis''8 d''8 (b'8) b'8 d''8 (b'8) b'8   
-    |
+    d''4 fis''8 d''8 (b'8) b'8 d''8 (b'8) b'8     |
+    d''4 fis''8 d''8 (b'8) b'8 cis''8 b'8 a'8     |
+    d''4 fis''8 d''8 (b'8) b'8 d''8 (b'8) b'8    |
     cis''8 d''8 e''8 e''8 fis''8 d''8 cis''8 b'8   
     a'8    
   }     

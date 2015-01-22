@@ -20,8 +20,7 @@ voicedefault =  {
   b16 e'8 fis'16 g'8 a'8  |
   
   b'8    \times 2/3 { c''16 (b'16 a'16) 
-		    } b'16 (g'16) e'8  
-  |
+		    } b'16 (g'16) e'8   |
   b16 e'8 fis'16 g'8 fis'16 (e'16) |
   d'8  
   fis'16 (d'16) a'16 (d'16) fis'16 (d'16) |
@@ -39,8 +38,7 @@ voicedefault =  {
   \grace { c''16  
 	 } b'16 (a'16) b'16 (e''16) e''16 (
   fis''16) |
-  g''16 (e''16) fis''16 (dis''16) e''4    
-  |
+  g''16 (e''16) fis''16 (dis''16) e''4     |
   b'8  \grace { c''16  
 	      } b'16 (a'16) b'16 (e''16) 
   e''8  |

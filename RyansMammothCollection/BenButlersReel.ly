@@ -16,8 +16,7 @@ voicedefault =  {
 
     \time 2/4 
     \key bes \major   \times 2/3 { f'16^\upbow(g'16 a'16) 
-				 } 
-    |
+				 }  |
     bes'16 f'16 d''16 bes'16 a'16 f'16 ees''16    
     c''16    |
     bes'16 f'16 d''16 bes'16 g''16 f''16    
@@ -41,8 +40,7 @@ voicedefault =  {
   \repeat volta 2 {
     f''16 f''16  |
     
-    e''16 g''16 bes'16 g''16 e''16 g''16 bes'16 g''16    
-    |
+    e''16 g''16 bes'16 g''16 e''16 g''16 bes'16 g''16     |
     f''16 c''16 a''16 f''16 bes''16 a''16 g''16    
     f''16    |
     e''16 g''16 bes'16 g''16 e''16 g''16    

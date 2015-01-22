@@ -33,8 +33,7 @@ voicedefault =  {
   \bar "|." b'8^\upbow |
   a'8 d'8 fis'8 a'8 b'4 b'8 
   d''8    |
-  a'8 b'8 fis'8 a'8 b'8 e'8 e'8 b'8    
-  |
+  a'8 b'8 fis'8 a'8 b'8 e'8 e'8 b'8     |
   a'8 d'8 fis'8 a'8 b'8 b'8 d''8 a'8    |
   
   b'8 d''8 a'8 fis'8 d'16 d'16 d'8 d'8 b'8    |

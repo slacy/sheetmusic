@@ -20,8 +20,7 @@ voicedefault =  {
   d''4.^"fz"^\accent a'8 f'8 a'8    |
   d''8 cis''8 d''8 f''8  
   e''8 d''8    |
-  e''8 bes''8 a''8 g''8 f''8 e''8     
-  |
+  e''8 bes''8 a''8 g''8 f''8 e''8      |
   d''4.^"fz"^\accent a'8 f'8 a'8    |
   d''4.^"fz"^\accent a'8 f'8 a'8    |
   d''8 e''8 f''8 g''8    

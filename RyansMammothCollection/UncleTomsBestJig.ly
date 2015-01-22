@@ -41,10 +41,8 @@ voicedefault =  {
   g'8 a'8-4 fis'8    |
   g'4 c''8 a'8 b'8 a'8-4  
   e'4    |
-  g'4 b'8 g'8 fis'8 a'8-4   r8 d'8^\upbow   
-  |
-  g'4 b'8 g'8 a'8-4 g'8    r8 fis''8^\upbow   
-  |
+  g'4 b'8 g'8 fis'8 a'8-4   r8 d'8^\upbow    |
+  g'4 b'8 g'8 a'8-4 g'8    r8 fis''8^\upbow    |
   g''8 fis''8 a''8 fis''8 g''8 e''8 d''8 b'8    
   \bar "|."   
 

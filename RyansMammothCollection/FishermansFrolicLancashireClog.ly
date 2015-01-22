@@ -42,10 +42,8 @@ voicedefault =  {
   }     
   \repeat volta 2 {
     e''8.^\upbow(f''16-.) |
-    g''8.^\downbow fis''16 g''8. a''16 bes''8. c''16 d''8. e''16    
-    |
-    f''8. e''16 f''8. g''16 a''8. c''16 b'8. c''16  
-    |
+    g''8.^\downbow fis''16 g''8. a''16 bes''8. c''16 d''8. e''16     |
+    f''8. e''16 f''8. g''16 a''8. c''16 b'8. c''16   |
     d''8. g''16 bes''8. a''16 g''8. f''16 e''8.    
     g''16    |
     \times 2/3 { f''8 a''8 g''8  

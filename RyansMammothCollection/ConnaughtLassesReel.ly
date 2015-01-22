@@ -21,9 +21,7 @@ voicedefault =  {
   d''16    
   cis''16 d''16 b'16 a'16 d''16 e''16 fis''16    |
   
-  g''16 fis''16 e''16 d''16 cis''16 b'16 a'16 fis'16    
-  |
-  |
+  g''16 fis''16 e''16 d''16 cis''16 b'16 a'16 fis'16     | |
   d'8    \times 2/3 { fis'16 (e'16 d'16) 
 		    }   
   fis'16 a'16 a'16 fis'16    |
@@ -33,19 +31,14 @@ voicedefault =  {
   e''16 d''16 cis''16 b'16    |
   a'16 g'16 fis'16 e'16  
   d'16 a16 b16 cis'16    \bar ":|" a'16 g'16 fis'16 e'16    
-  d'8    \bar "|." fis''16 g''16    |
-  |
+  d'8    \bar "|." fis''16 g''16    | |
   a''8  
   \grace { b''16  
-	 } a''16 g''16 a''16 fis''16 d''16 fis''16   
-  |
+	 } a''16 g''16 a''16 fis''16 d''16 fis''16    |
   g''16 fis''16 e''16 d''16 cis''16 b'16 a'16    
   fis'16    |
-  g'8 b'16 g'16 fis'8 e''16 fis''16    
-  |
-  g''16 fis''16 e''16 d''16 cis''8 e''16 a'16    
-  |
-  |
+  g'8 b'16 g'16 fis'8 e''16 fis''16     |
+  g''16 fis''16 e''16 d''16 cis''8 e''16 a'16     | |
   a''8  \grace { b''16  
 	       } a''16 g''16 a''16    
   fis''16 d''16 fis''16 g''16 fis''16 e''16 d''16 cis''16    
@@ -56,8 +49,7 @@ voicedefault =  {
   \bar ":|" d''16    
   fis''16 a''16 gis''16 a''16 fis''16 d''16 fis''16    |
   
-  g''16 fis''16 e''16 d''16 cis''16 b'16 a'16 fis''16    
-  |
+  g''16 fis''16 e''16 d''16 cis''16 b'16 a'16 fis''16     |
   g''16 fis''16 g''16 e''16 fis''16 cis''16 d''16    
   b'16    |
   a'16 g'16 fis'16 e'16 d'16 a16 b16    

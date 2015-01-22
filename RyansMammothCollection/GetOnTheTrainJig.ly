@@ -41,8 +41,7 @@ voicedefault =  {
     e''8^\downbow cis''8 b'8 a'8    |
     \times 2/3 { cis''8    
 		 cis''8 cis''8  
-	       } cis''8. fis''16 e''8 cis''8 b'8 a'8    
-    |
+	       } cis''8. fis''16 e''8 cis''8 b'8 a'8     |
     a''8_"ff" a''4 fis''8 a''2    |
     a'8_"p"   
     a'4 fis'8 a'2    |
@@ -70,8 +69,7 @@ voicedefault =  {
     \times 2/3 { e'8 (gis'8 
 		 b'8  
 	       }   \times 2/3 { e''8 gis''8 b''8-4) 
-			      } e'''2^"04"   
-    |
+			      } e'''2^"04"    |
     a'4-. gis'4-. a'4-. e'4-.   |
     b'4-. ais'4-. 
     b'4-. fis'4-.   |

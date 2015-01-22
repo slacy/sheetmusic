@@ -17,20 +17,14 @@ voicedefault =  {
     \time 2/4 
     \key d \major
     \times 2/3 { a'16 (^\upbow b'16 cis''16) 
-	       } 
-    |
+	       }  |
     d''8^\downbow d''16 e''16-4 d''16 a'16 fis'16    
     a'16  |
-    d''8 d''16 cis''16 d''16 e''16 fis''16 e''16 
-    |
-    d''8 d''16 e''16-4 d''16 a'16 fis'16 a'16  
-    |
-    b'16 a'16 g'16 fis'16 e'16 a'16 b'16 cis''16  
-    |
-    d''8 d''16 e''16-4 d''16 a'16 fis'16 a'16  
-    |
-    d''8 d''16 cis''16 d''16 e''16 fis''16 a''16  
-    |
+    d''8 d''16 cis''16 d''16 e''16 fis''16 e''16  |
+    d''8 d''16 e''16-4 d''16 a'16 fis'16 a'16   |
+    b'16 a'16 g'16 fis'16 e'16 a'16 b'16 cis''16   |
+    d''8 d''16 e''16-4 d''16 a'16 fis'16 a'16   |
+    d''8 d''16 cis''16 d''16 e''16 fis''16 a''16   |
     b''16 a''16 g''16 fis''16 g''16 fis''16 e''16    
     d''16  |
     cis''16 a'16 b'16 cis''16 d''8  
@@ -51,8 +45,7 @@ voicedefault =  {
     g''16-. cis''16 (
     bis'16 cis''16) fis''16-. b'!16 (ais'16 b'16) |
     
-    a''16 b''16 g''16 a''16 fis''16 g''16 e''16 fis''16  
-    |
+    a''16 b''16 g''16 a''16 fis''16 g''16 e''16 fis''16   |
     d''8 fis''8 d''8  
   }   
 

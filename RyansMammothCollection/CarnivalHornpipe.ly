@@ -23,11 +23,9 @@ voicedefault =  {
     
     cis''8. a'16 cis''8. fis''16 e''4 e''8. fis''16    |
     
-    e''8. d''16 b'8. fis''16 e''8. d''16 b'8. fis''16    
-    |
+    e''8. d''16 b'8. fis''16 e''8. d''16 b'8. fis''16     |
     e''8. gis''16 b''8. a''16 gis''8. fis''16 e''8.    
-    d''16    |
-    |
+    d''16    | |
     cis''8. a'16 cis''8. fis''16 e''4  
     e''8. d''16    |
     cis''8. a'16 cis''8. fis''16 e''4    
@@ -51,8 +49,7 @@ voicedefault =  {
   b'8.    
   b'16 b'8. b'16 b'8. gis''16 fis''!8. gis''16    |
   
-  b'8. b'16 b'8. b'16 b'8. gis''16 fis''!8. gis''16    
-  |
+  b'8. b'16 b'8. b'16 b'8. gis''16 fis''!8. gis''16     |
   a''8. gis''16 fis''8. e''16 dis''8. b'16 cis''8.   
   dis''16    |
   e''4  << e''4 gis'4   >> << e''4 gis'4   >>   

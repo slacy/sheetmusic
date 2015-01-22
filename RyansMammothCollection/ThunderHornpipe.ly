@@ -22,8 +22,7 @@ voicedefault =  {
     bes16 bes16 bes8 bes16 bes16 
     bes8    |
     d'16-4 bes16 d'16 f'16 bes'16 aes'16   
-    g'16 f'16    |
-    |
+    g'16 f'16    | |
     ees'16 ees'16 ees'8 ees'16    
     ees'16 ees'8    |
     g'16 ees'16 g'16 bes'16 ees''16    
@@ -41,13 +40,11 @@ voicedefault =  {
     aes'16 bes'16 c''16 bes'16    
     aes'16 g'16 f'16 ees'16    |
     d'16-0 ees'16 g'16    
-    f'16 ees'16 d'16-0 c'16 bes16    |
-    |
+    f'16 ees'16 d'16-0 c'16 bes16    | |
     bes16    
     ees'16 bes16 ees'16 c'16 ees'16 c'16 ees'16    |
     
-    d'16-0 ees'16 d'16 ees'16 c'16 ees'16 bes16 ees'16    
-    |
+    d'16-0 ees'16 d'16 ees'16 c'16 ees'16 bes16 ees'16     |
     ees'16 c''16 bes'16 aes'16 g'16 f'16 ees'16    
     d'16-0   |
     ees'8 ees'8 ees'8    r8   

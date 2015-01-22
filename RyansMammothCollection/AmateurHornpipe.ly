@@ -28,8 +28,7 @@ voicedefault =  {
     
     fis'8. a'16 gis'8. a'16 b'4 cis''8.^\upbow d''16  |
     
-    e''8. a''16 e''8. cis''16 d''8. fis''16 d''8. b'16  
-    |
+    e''8. a''16 e''8. cis''16 d''8. fis''16 d''8. b'16   |
     e''8. a''16 e''8. cis''16 d''8. fis''16 d''8.    
     b'16  |
     a'8. cis''16 e'8. cis'16 a8. cis'16 e'8.    

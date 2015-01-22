@@ -19,8 +19,7 @@ voicedefault =  {
     \key g \major
     g'8^\downbow e'8 d'8 e'8 g'8 a'8    
     b'8 d''8    |
-    e''4 d''8 e''8 g''8 e''8 d''8 b'8   
-    |
+    e''4 d''8 e''8 g''8 e''8 d''8 b'8    |
     e''4 d''8 e''8 g''8 e''8 d''8 b'8    |
     
     a'4 a'8 g'8 a'8 c''8 b'8 a'8    |
@@ -50,8 +49,7 @@ voicedefault =  {
   \times 2/3 { b'8 (c''8    
 	       b'8) 
 	     } a'8 b'8    \times 2/3 { b'8 (c''8 b'8) 
-				     } a'8 b'8 
-  |
+				     } a'8 b'8  |
   \times 2/3 { c''8 (e''8 c''8) 
 	     } a'8 c''8    
   \times 2/3 { c''8 (e''8 c''8) 

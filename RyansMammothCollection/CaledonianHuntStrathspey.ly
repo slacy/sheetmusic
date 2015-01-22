@@ -16,8 +16,7 @@ voicedefault =  {
   \time 4/4 
   \key d \major
   a'8-4^\upbow   |
-  fis'8. (a'16-.) d''8. (a'16-.) b'8. (d''16-.) a'8. (fis'16-.)   
-  |
+  fis'8. (a'16-.) d''8. (a'16-.) b'8. (d''16-.) a'8. (fis'16-.)    |
   g'8.^\segue b'16 a'8. fis'16 b'16 (e'8.) e'8. 
   g'16    |
   fis'8. a'16 d''8. a'16 b'8. d''16    
@@ -32,8 +31,7 @@ voicedefault =  {
   fis'8. a'16      
   d'8.-4 g''16 fis''8. (d''16) d''8    \bar "|." fis''8^\upbow   |
   d''16 (^\downbow e''16 fis''16 g''16)   
-  a''8. (fis''16-.) b''8. (g''16-.) a''8. (fis''16-.)   
-  |
+  a''8. (fis''16-.) b''8. (g''16-.) a''8. (fis''16-.)    |
   d''16 (e''16 fis''16 g''16) a''8. (fis''16-.)   
   g''16 (e''8.) e''8. (fis''16-.)   |
   d''16^\segue(

@@ -22,8 +22,7 @@ voicedefault =  {
     \times 2/3 { << d''8 (fis'8   >> << d''8  
 				      } fis'8   >> << d''8    
 						      fis'8  \spanrequest \stop "slur" >> \times 2/3 { d''8 (b''8 a''8) 
-												     } 
-    |
+												     }  |
     \times 2/3 { gis''8 (a''8 fis''8) 
 	       }   \times 2/3 {   
 		 cis''8 (d''8 fis'8) 

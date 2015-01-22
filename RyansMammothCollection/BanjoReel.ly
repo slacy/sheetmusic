@@ -24,14 +24,10 @@ voicedefault =  {
   c''8 a'8 b'8 g'8 a'8-4 fis'8 g'8    
   a'8    |
   b'8 g'8 a'8-4 fis'8 g'8 a'8    \bar ":|"   
-  b'8 g'8 a'8 fis'8 g'4    \bar "|:" a'8^\downbow b'8    
-  |
-  c''8 a'8 b'8 g'8 a'8-4 fis'8 g'8 a'8    
-  |
-  b'8 g'8 a'8-4 fis'8 g'8 fis'8 e'8 d'8    
-  |
-  c''8 a'8 b'8 g'8 a'8-4 fis'8 g'8 a'8    
-  |
+  b'8 g'8 a'8 fis'8 g'4    \bar "|:" a'8^\downbow b'8     |
+  c''8 a'8 b'8 g'8 a'8-4 fis'8 g'8 a'8     |
+  b'8 g'8 a'8-4 fis'8 g'8 fis'8 e'8 d'8     |
+  c''8 a'8 b'8 g'8 a'8-4 fis'8 g'8 a'8     |
   b'8 g'8 a'8-4 fis'8 g'4    \bar ":|"   
 
 }

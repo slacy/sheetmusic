@@ -36,8 +36,7 @@ voicedefault =  {
     b'4^\downbow b'8 a'8    |
     
     fis'2    |
-    fis''8 fis''16 fis''16 fis''8 cis''8    
-    |
+    fis''8 fis''16 fis''16 fis''8 cis''8     |
     e''8 fis''4.^\accent   |
     b'8 b'4 a'8    |
     
@@ -55,8 +54,7 @@ voicedefault =  {
   cis''16    
   a'16 b'16 gis'16 a'16 b'16 cis''16 d''16    |
   
-  e''16 a''16 gis''16 a''16 fis''16 a''16 gis''16 a''16    
-  |
+  e''16 a''16 gis''16 a''16 fis''16 a''16 gis''16 a''16     |
   e''16 fis''16 e''16 cis''16 a'16 cis''16 b'16    
   a'16    |
   e'16 fis'16 gis'16 a'16 b'16 cis''16 d''16 

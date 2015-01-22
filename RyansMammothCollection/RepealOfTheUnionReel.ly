@@ -31,10 +31,8 @@ voicedefault =  {
   a'8 d'8    \times 2/3 { fis'8 (
 			  e'8 d'8) 
 			} a'4    \times 2/3 { fis'8 (e'8 d'8) 
-					    }   
-  |
-  g'8 e'8 cis''8 e'8 d''8 e'8 cis''8 e'8    
-  |
+					    }    |
+  g'8 e'8 cis''8 e'8 d''8 e'8 cis''8 e'8     |
   a'8 d'8    \times 2/3 { fis'8 (e'8 d'8) 
 			} a'4    
   \times 2/3 { fis'8 (e'8 d'8) 

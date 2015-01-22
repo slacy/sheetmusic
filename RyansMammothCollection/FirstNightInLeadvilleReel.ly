@@ -28,8 +28,7 @@ voicedefault =  {
     
     e'8-. gis'16 (b'16) e''8-. gis''16 (e''16)   |
     
-    dis''16 e''16 fis''16 gis''16 a''8-. gis''16 (a''16)   
-    |
+    dis''16 e''16 fis''16 gis''16 a''8-. gis''16 (a''16)    |
     b''16 gis''16 a''16 fis''16 gis''16 e''16 fis''16  
     dis''16    |
     b'16 a''16 gis''16 fis''16 e''8  

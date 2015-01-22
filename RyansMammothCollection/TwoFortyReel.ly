@@ -18,8 +18,7 @@ voicedefault =  {
     \time 2/2 
     \key g \major
     \times 2/3 { d'8^\upbow(e'8 fis'8) 
-	       } 
-    |
+	       }  |
     g'4 b'8 (g'8) c''8 g'8 b'8 g'8    |
     
     c''8 g'8 b'8 g'8 a'8 d'8 e'8 fis'8    |
@@ -40,8 +39,7 @@ voicedefault =  {
 		       } g''8 a''8 b''8 a''8    |
     g''4    
     \times 2/3 { a''8 (g''8 fis''8) 
-	       } g''8 d''8 b'8 d''8    
-    |
+	       } g''8 d''8 b'8 d''8     |
     e''8 g''8 fis''8 a''8 g''4    
   }   
 

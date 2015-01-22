@@ -22,16 +22,13 @@ voicedefault =  {
   d''4.^\accent cis''16 d''16    |
   e''16-4 c''16 a'8    r8   
   g'8^\upbow   |
-  e''8-4 e''16 d''16 c''8 a'8    
-  |
+  e''8-4 e''16 d''16 c''8 a'8     |
   g'8 e'8 g'4    |
-  a'4.^\accent g'16 b'16    
-  |
+  a'4.^\accent g'16 b'16     |
   a'16 g'16 e'8    r8 g'8^\accent   \bar "|." e''8    
   g''4.    |
   c''8 e''4.    |
-  a'8 c''8 c''8. a'16    
-  |
+  a'8 c''8 c''8. a'16     |
   g'8 e'8 g'8    r8   |
   e''8 g''4.    |
   

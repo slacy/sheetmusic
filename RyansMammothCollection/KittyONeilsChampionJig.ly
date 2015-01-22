@@ -16,13 +16,11 @@ voicedefault =  {
 
     \time 2/4 
     \key a \major
-    cis''4^\downbow bis'4 cis''4 bis'4    
-    |
+    cis''4^\downbow bis'4 cis''4 bis'4     |
     \grace { d''8  
 	   } cis''8. bis'16-. cis''8. fis''16    
     e''8. cis''16 a'8. cis''16    |
-    b'4 ais'4 b'4 ais'4  
-    |
+    b'4 ais'4 b'4 ais'4   |
     b'8. a''16 gis''8. fis''16 e''8. d''16 cis''8.   
     b'16    |
     cis''4 bis'4 cis''4 bis'4    |
@@ -60,8 +58,7 @@ voicedefault =  {
     d''4  \grace { d''8  
 		 } b''4 b'4. cis''8    |
     
-    d''8. e''16 fis''8. gis''16 a''8. gis''16 a''8. fis''16   
-    |
+    d''8. e''16 fis''8. gis''16 a''8. gis''16 a''8. fis''16    |
     \times 2/3 { e''8 fis''8 e''8  
 	       }   \times 2/3 { d''8    
 				cis''8 b'8  
@@ -72,10 +69,8 @@ voicedefault =  {
   
   cis''8 fis''8    r8 a''8 fis''8. e''16 d''8. cis''16    |
   
-  cis''8 fis''8    r8 a''8 fis''8. e''16 fis''8. gis''16    
-  |
-  a''8. e''16 cis''8. a'16 b'8. cis''16 a'4    
-  |
+  cis''8 fis''8    r8 a''8 fis''8. e''16 fis''8. gis''16     |
+  a''8. e''16 cis''8. a'16 b'8. cis''16 a'4     |
   cis''8^\downbow fis''8    r8 a''8^\upbow fis''8. (e''16-.) d''8.^\segue cis''16    |
   cis''8 fis''8    r8 a''8    
   fis''8. e''16 d''8. cis''16    |
@@ -128,8 +123,7 @@ voicedefault =  {
       e'8. (cis''16)   r8 
       cis''8^\upbow cis''8. b'16 a'8. cis''16    |
       b'8. (
-      gis''16) gis''4^"tr"^\trill b'8. (gis''16) gis''4^"tr"^\trill  
-      |
+      gis''16) gis''4^"tr"^\trill b'8. (gis''16) gis''4^"tr"^\trill   |
       b'8. (gis''16)   r8 gis''8 gis''8. fis''16 d''8.    
       b'16    |
       e'8. (cis''16) cis''4^"tr"^\trill e'8. (
