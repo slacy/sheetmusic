@@ -2,6 +2,7 @@
 .PHONY: clean
 
 LY=$(wildcard *.ly)
+ILY=$(wildcard *.ily)
 PDF=$(patsubst %.ly,%.pdf,$(LY))
 PNG=$(patsubst %.ly,%.png,$(LY))
 MIDI=$(patsubst %.ly,%.midi,$(LY))
@@ -10,7 +11,7 @@ DEFAULT: $(PDF) $(PNG) $(MIDI)
 
 VPATH = OUT
 
-%.png %.pdf %.midi : %.ly
+%.png %.pdf %.midi : %.ly $(ILY)
 	lilypond -f png,pdf -o OUT/ $^
 
 clean:
