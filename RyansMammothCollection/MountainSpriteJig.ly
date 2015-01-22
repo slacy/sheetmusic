@@ -26,8 +26,7 @@ voicedefault =  {
   } b'8. a'16 b'8. e''16-4 d''8. b'16 a'8. g'16    
   |
   g8 c'4 e'8 g'2    |
-  a8 d'4 f'8 a'2 
-  -4   |
+  a8 d'4 f'8 a'2 -4   |
   \grace { c''8  
 	 } b'8. a'16 b'8. a''16    
   \times 2/3 { g''8 a''8 g''8  

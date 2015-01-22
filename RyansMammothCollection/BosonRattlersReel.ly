@@ -21,8 +21,7 @@ voicedefault =  {
 	       } 
     |
     d''4 cis''8 a'8 b'4 a'8 fis'8    |
-    d'8 
-    -4 cis'8 d'8 fis'8 e'8 b8 b8 e'8    |
+    d'8 -4 cis'8 d'8 fis'8 e'8 b8 b8 e'8    |
     d'8    
     fis'8 a'8-4 fis'8 d'8 fis'8 a'8 d''8    |
     cis''8   

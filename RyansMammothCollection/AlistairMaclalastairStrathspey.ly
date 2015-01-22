@@ -27,8 +27,7 @@ voicedefault =  {
 
   bes'16 (^\downbow g'8.) g'8. f'16 d'16 (g'8.) g'8. a'16
   |
-  bes'8. a'16 g'8. a'16 bes'8. c''16 d''8 c''8
-  -.       |
+  bes'8. a'16 g'8. a'16 bes'8. c''16 d''8 c''8-.       |
   bes'16 (g'8.) g'8. f'16 d'16 (g'8.)
   g'8. d''16    |
   g''8. d''16 d''16 (c''16 bes'16 a'16

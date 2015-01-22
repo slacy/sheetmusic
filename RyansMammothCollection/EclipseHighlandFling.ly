@@ -28,8 +28,7 @@ voicedefault =  {
   \repeat volta 2 {
     
     \times 2/3 { b''8 (^\downbow a''8 g''8) 
-	       } d''16 (^\upbow g'8.  
-    -) b'16^\segue(g''8.) d''16 (g''8.)   |
+	       } d''16 (^\upbow g'8.  -) b'16^\segue(g''8.) d''16 (g''8.)   |
     
     \times 2/3 { b''8 (a''8 g''8) 
 	       } d''16 (g''8.) e''16 (

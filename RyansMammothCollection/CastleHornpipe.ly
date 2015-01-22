@@ -31,8 +31,7 @@ voicedefault =  {
     |
     cis'16 e'16 a'16-4   
     e'16 cis'16 e'16 a'16-4 e'16    |
-    d'16 fis'16 a'16 
-    -4 fis'16 d'16 fis'16 a'16-4 fis'16    |
+    d'16 fis'16 a'16 -4 fis'16 d'16 fis'16 a'16-4 fis'16    |
     e'16    
     gis'16 b'16 gis'16 e'16 gis'16 b'16 gis'16    |
     a'8  
@@ -41,8 +40,7 @@ voicedefault =  {
   
   e''16 d''16 cis''16 d''16 e''16 -. a''16 (gis''16 a''16) 
   |
-  fis''16 e''16 d''16 cis''16 b'8 -. b'16 (cis''16  
-  -)   |
+  fis''16 e''16 d''16 cis''16 b'8 -. b'16 (cis''16  -)   |
   d''16 cis''16 b'16 cis''16 d''16 -. fis''16 (
   eis''16 fis''16)   |
   gis''16 fis''16 e''16 d''16    

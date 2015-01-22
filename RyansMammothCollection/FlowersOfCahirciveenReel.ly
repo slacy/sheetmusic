@@ -36,8 +36,7 @@ voicedefault =  {
   \repeat volta 2 {
     f'16^\upbow(
     ees'16) |
-    d'16 (f'16) bes'16 (f'16) d''16 (f'16  
-    -) bes'16 (f'16) |
+    d'16 (f'16) bes'16 (f'16) d''16 (f'16  -) bes'16 (f'16) |
     d'16 (f'16) bes'16 (f'16)   
     d''16 (f'16) bes'16 (f'16) |
     ees'16 (g'16)   
@@ -45,8 +44,7 @@ voicedefault =  {
     
     ees'16 (g'16) bes'16 (g'16) ees''16 (g'16) bes'16 (
     g'16) |
-    d'16 (f'16) bes'16 (f'16) d''16 (f'16  
-    -) bes'16 (f'16) |
+    d'16 (f'16) bes'16 (f'16) d''16 (f'16  -) bes'16 (f'16) |
     d'16 (f'16) bes'16 (f'16)   
     d''16 (f'16) bes'16 (f'16) |
     ees''16 (a'16)   

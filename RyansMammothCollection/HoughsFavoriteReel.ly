@@ -36,8 +36,7 @@ voicedefault =  {
     
   }     
   \repeat volta 2 {
-    a''4_"ff"^\downbow d''8.^\upbow(fis''16 -. 
-    -)   |
+    a''4_"ff"^\downbow d''8.^\upbow(fis''16 -. -)   |
     e''16^\segue d''16 e''16 fis''16 e''16 d''16  
     b'8    |
     a''4-1 d''8. (fis''16 -.)   |

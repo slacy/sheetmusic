@@ -31,8 +31,7 @@ voicedefault =  {
   \repeat volta 2 {
     f''8. (^\downbow   
     bes'16 -.)   \times 2/3 { d''8 (c''8 bes'8) 
-			    } f''8. (bes'16 
-    -.) g''8. (bes'16 -.)   |
+			    } f''8. (bes'16 -.) g''8. (bes'16 -.)   |
     f''8. bes'16    \times 2/3 {   
       d''8 (c''8 bes'8) 
     } g''16 (c''8.) c''4        |
@@ -64,8 +63,7 @@ voicedefault =  {
 		 (^\downbow a''8 g''8) 
 	       } d''16 (g''8.) ees''16 (g''8.)   
     c''16 (ees''8.)   |
-    a'16 (ees''8.) fis'16 (ees''8.  
-    -) d''16 (c''16 bes'16 a'16) g'4        |
+    a'16 (ees''8.) fis'16 (ees''8.  -) d''16 (c''16 bes'16 a'16) g'4        |
     \times 2/3 { 
       bes''8 (a''8 g''8) 
     } d''16 (g''8.) ees''16 (g''8.)   

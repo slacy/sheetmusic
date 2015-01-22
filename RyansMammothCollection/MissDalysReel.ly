@@ -51,8 +51,7 @@ voicedefault =  {
   
   a''16 fis''16 g''16 e''16 fis''16 d''16 e''16-4 cis''16  
   |
-  d''16 cis''16 d''16 dis''16 e''16-0 eis''16 
-  -1 fis''16 a''16      \bar "|."   
+  d''16 cis''16 d''16 dis''16 e''16-0 eis''16 -1 fis''16 a''16      \bar "|."   
 
 }
 

@@ -16,8 +16,7 @@ voicedefault =  {
   e''16 (^\upbow cis''16)   |
   
   b'8 -. gis'16 (b'16) e'16 b'16 gis'16 b'16    |
-  b'8 
-  -. gis'16 (b'16) cis''16 fis'16 fis'16 cis''16    |
+  b'8 -. gis'16 (b'16) cis''16 fis'16 fis'16 cis''16    |
   
   b'8 -. gis'16 (b'16) e'16 b'16 gis'16 b'16    |
   

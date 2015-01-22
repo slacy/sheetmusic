@@ -32,8 +32,7 @@ voicedefault =  {
     (^\upbow g''8.) e''8^\downbow d''16 (g''8.) d''8    |
     
     e''16 (g''8.) e''8 d''8 b'8 g'8    |
-    a'8. 
-    -4^\downbow g'16^\upbow a'8-4 g'4    r8   
+    a'8. -4^\downbow g'16^\upbow a'8-4 g'4    r8   
   }   % %staffsep 70pt
   
   \repeat volta 2 {

@@ -28,8 +28,7 @@ voicedefault =  {
   \repeat volta 2 {
     a'8 b'8    
     a'8 a'4 (b'8) g'4.    |
-    a'8 b'8 a'8 a'4 (b'8  
-    -) d''4 (b'8)   |
+    a'8 b'8 a'8 a'4 (b'8  -) d''4 (b'8)   |
     a'8 b'8 a'8 a'4 (b'8) g'4 (
     b'8)   |
     d''8 b'8 g'8 g'8 a'8-4 g'8 b'8    

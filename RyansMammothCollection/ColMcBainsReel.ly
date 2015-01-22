@@ -43,8 +43,7 @@ voicedefault =  {
     bes'8 c''8 a'8  |
     g'4 g''4 g''8 (fis''8 g''8    
     a''8) |
-    bes''8 g''8 g''8 fis''8 g''4 g''8 (a''8  
-    -) |
+    bes''8 g''8 g''8 fis''8 g''4 g''8 (a''8  -) |
     bes''8 a''8 g''8 fis''8 g''8 d''8 d''8    
     ees''8  |
     f''!8 d''8 c''8 bes'8 a'8 f'8 f'8 a'8  

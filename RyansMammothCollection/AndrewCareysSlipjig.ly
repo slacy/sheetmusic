@@ -26,8 +26,7 @@ voicedefault =  {
     e'8 fis'8 e'4 (d'8) 
   } 
   \repeat volta 2 {
-    fis'4^\downbow(a'8 
-    -.) a'8 fis'8 a'8 a'8 fis'8 a'8  |
+    fis'4^\downbow(a'8 -.) a'8 fis'8 a'8 a'8 fis'8 a'8  |
     g'4^\upbow(
     b'8 -.) b'8 g'8 b'8 b'8 cis''8 d''8  |
     fis'4^\downbow(a'8 -.) a'8 fis'8 a'8 a'8 fis'8 a'8  |

@@ -43,8 +43,7 @@ voicedefault =  {
     fis''16 d''16  |
     a'16 b'16 a'16 fis'16 g'16 fis'16   
     e'16 d'16  |
-    a16 d'16-4 b16 d'16-4 a16 d'16 
-    -4 fis'16 a'16-4 |
+    a16 d'16-4 b16 d'16-4 a16 d'16 -4 fis'16 a'16-4 |
     a'16-0 b'16 a'16 fis'16 e'8 
     \times 2/3 { e''16 (^\upbow fis''16 g''16) 
 	       } |

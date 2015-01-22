@@ -37,20 +37,17 @@ voicedefault =  {
     dis''8 fis''8 e''4    
   }     
   \repeat volta 2 {
-    dis''8^\upbow(e''8 
-    -4) |
+    dis''8^\upbow(e''8 -4) |
     fis''8 -. b'8 (a'8 b'8) gis''8 -. b'8 (
     a'8 b'8)   |
     a''8 -. b'8 -. gis''8 -. b'8 -. fis''8 -.   
     b'8 (a'8 b'8)   |
-    fis''8 -. b'8 (a'8 b'8) gis''8 
-    -. b'8 (a'8 b'8)   |
+    fis''8 -. b'8 (a'8 b'8) gis''8 -. b'8 (a'8 b'8)   |
     a''8 -. fis''8 -. dis''8 -.   
     fis''8 -. e''4 -. dis''8 (e''8-4)   |
     fis''8 -. b'8 (
     a'8 b'8) gis''8 -. b'8 (a'8 b'8)   |
-    a''8 -. b'8 
-    -. gis''8 -. b'8 -. fis''8 -. b'8 (a'8 b'8)   |
+    a''8 -. b'8 -. gis''8 -. b'8 -. fis''8 -. b'8 (a'8 b'8)   |
     e'4   
     gis'8 (b'8) e''4 e''8 (gis''8)   |
     \grace {    

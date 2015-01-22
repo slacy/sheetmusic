@@ -18,12 +18,10 @@ voicedefault =  {
     \key f \major
     a'4 (^\downbow f'8 -.) c''4 (a'8 -.)   
     f''8 g''8 a''8    |
-    a'4 (^\upbow f'8 -.) c''4 (a'8 -. 
-    -) bes'8 a'8 g'8        |
+    a'4 (^\upbow f'8 -.) c''4 (a'8 -. -) bes'8 a'8 g'8        |
     a'4 (^\downbow f'8 -.) c''4 
     (a'8 -.) f''8 g''8 a''8    |
-    bes''4 (^\upbow a''8 -. 
-    -) g''4 (f''8 -.) e''8 d''8 c''8    
+    bes''4 (^\upbow a''8 -. -) g''4 (f''8 -.) e''8 d''8 c''8    
   }     
   \repeat volta 2 {
     

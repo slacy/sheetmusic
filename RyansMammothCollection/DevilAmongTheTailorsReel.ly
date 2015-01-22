@@ -21,8 +21,7 @@ voicedefault =  {
 			      } a''4 e''8 -. a''8 -.   
   |
   \grace { gis''8  
-	 } a''4 e''8 -. a''8 -. fis''8 (e''8  
-  -) d''8 -. cis''8 -.   |
+	 } a''4 e''8 -. a''8 -. fis''8 (e''8  -) d''8 -. cis''8 -.   |
   d''8 fis''8 b'8 fis''8 d''8   
   fis''8 b'8 fis''8    |
   d''8 fis''8 b'8 a''8        
@@ -33,8 +32,7 @@ voicedefault =  {
 			 } a''4 e''8 -. a''8 -.   
   |
   \grace { gis''8  
-	 } a''4 e''8 -. a''8 -. fis''8 (e''8  
-  -) d''8 -. cis''8 -.   |
+	 } a''4 e''8 -. a''8 -. fis''8 (e''8  -) d''8 -. cis''8 -.   |
   fis''8 -. d''8 (cis''8^\trill)   
   b'8 -. e''8 -. cis''8 (b'8^\trill) a'8 -.   |
   e'4        

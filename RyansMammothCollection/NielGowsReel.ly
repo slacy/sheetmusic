@@ -54,8 +54,7 @@ voicedefault =  {
   
   cis''16. e''32 a'16. cis''32 d''16. fis''32 b'16. d''32  
   |
-  e'16. gis'32 b'16. d''32 cis''16 (a'16) a'16 
-  -.     \bar "|."   
+  e'16. gis'32 b'16. d''32 cis''16 (a'16) a'16 -.     \bar "|."   
 
 }
 

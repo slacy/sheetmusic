@@ -27,8 +27,7 @@ voicedefault =  {
     e''16-. e''16-. cis''16 (d''16) cis''16 (d''16) a'16-.
     |
     \times 2/3 { b'16 (cis''16 d''16) 
-	       } a'16-. cis''16
-    -. b'16 e'16 e'8\turn  |
+	       } a'16-. cis''16-. b'16 e'16 e'8\turn  |
     \acciaccatura { fis''16  
 		  } e''16
     dis''16 e''16 cis''16 dis''16 cis''16 dis''16 b'16  |

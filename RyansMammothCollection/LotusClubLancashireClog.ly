@@ -47,8 +47,7 @@ voicedefault =  {
     \times 2/3 { e'8 
 		^\fermata^\upbow f'8 fis'8  
 	       } |
-    g'4^\downbow c''8. (b'16 
-    -.) d''8. (c''16 -.) b'8.^\segue c''16    |
+    g'4^\downbow c''8. (b'16 -.) d''8. (c''16 -.) b'8.^\segue c''16    |
     a'4    
     d''8. cis''16 e''8.-4 d''16 cis''8. d''16    |
     

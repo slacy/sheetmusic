@@ -13,8 +13,7 @@ voicedefault =  {
 
   \override Staff.TimeSignature #'style = #'C
   \time 2/2 
-  \key bes \major bes8.^\downbow(f'16 -.) d'8. (d''16 -. 
-  -) f'8.^\segue d''16 bes'8. f''16    |
+  \key bes \major bes8.^\downbow(f'16 -.) d'8. (d''16 -. -) f'8.^\segue d''16 bes'8. f''16    |
   d''8. bes''16  
   a''8. g''16 fis''8. g''16 ees''8. c''16    |
   a'8.   

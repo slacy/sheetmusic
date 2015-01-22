@@ -30,8 +30,7 @@ voicedefault =  {
     b'16 a'16 fis'16 a'16  |
     e'16 fis'16 e'16 d'16    
     b16 d'16 a8 -. |
-    d'8.^\downbow^\accent d'16 -.^\upbow d'8 
-    -. fis'16 (e'16) |
+    d'8.^\downbow^\accent d'16 -.^\upbow d'8 -. fis'16 (e'16) |
     d'16 fis'16 a'16 fis'16 b'8 -.  
     a'8 -. |
     \grace { cis''16  
@@ -47,8 +46,7 @@ voicedefault =  {
     b'8 -. a'8 -. |
     b'16 d''16 a'16 d''16 b'16 d''16    
     a'16 fis'16  |
-    e'16 fis'16 e'16 d'16 b16 d'16 a8 
-    -. |
+    e'16 fis'16 e'16 d'16 b16 d'16 a8 -. |
     d'8.-4-.^\accent d'16 -. d'8 -. fis'16 (e'16) 
     |
     d'16 fis'16 a'16 fis'16 b'8 -. a'8 -. |

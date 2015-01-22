@@ -38,8 +38,7 @@ voicedefault =  {
   \grace { g''8  
 	 } fis''4 d''8 fis''8 e''4 cis''8 e''8    
   |
-  fis''8 a''8 a''8-1 d'''8-4 b''4-2 g''8 
-  -2(b''8)   |
+  fis''8 a''8 a''8-1 d'''8-4 b''4-2 g''8 -2(b''8)   |
   fis''8 d''8 e''8-4 cis''8 d''4    
   d''8 (g''8)   |
   fis''8 a''8 a''8-1 d'''8-4     
@@ -47,8 +46,7 @@ voicedefault =  {
   \grace { g''8  
 	 } fis''4    
   d''8 fis''8 e''4 cis''8 e''8    |
-  fis''8 a''8 a''8 
-  -1 d'''8-4 b''4-2 g''8-2(b''8)   |
+  fis''8 a''8 a''8 -1 d'''8-4 b''4-2 g''8-2(b''8)   |
   fis''8    
   d''8 e''8-4 cis''8 d''4 d''8    \bar "|."   
 
