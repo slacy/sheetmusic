@@ -52,7 +52,7 @@ voicedefault =  {
   e''8 e''8 e''8 dis''8 e''8    |
   b''8 e''8 e''8    
   e''8 fis''8 g''8    |
-  \time 2/4 fis''8^\downbow fis''16 ^\downbow fis''16^\upbow fis''16 e''16 e''16 g''16    |
+  \time 2/4 fis''8^\downbow fis''16^\downbow fis''16^\upbow fis''16 e''16 e''16 g''16    |
   
   e''8 g''8 e''8    r8   
 }   

@@ -42,7 +42,7 @@ voicedefault =  {
     d''4 fis''4 d''4  
   }     
   \repeat volta 2 {
-    e''8. ^\upbow(fis''16 -.)   |
+    e''8.^\upbow(fis''16 -.)   |
     \times 2/3 { g''8_"p"(a''8    
 		 g''8) 
 	       }   \times 2/3 { fis''8 (g''8 fis''8) 
@@ -60,7 +60,7 @@ voicedefault =  {
 	       }   |
     fis'8._"f" a'16    
     d''8. cis''16 b'8. d''16 fis''8. e''16    |
-    a'4 ^\accent a''4^\accent   \times 2/3 { g''8 (fis''8 e''8) 
+    a'4^\accent a''4^\accent   \times 2/3 { g''8 (fis''8 e''8) 
 				       }   
     \times 2/3 { cis''8 (a'8 g'8) 
 	       }   |

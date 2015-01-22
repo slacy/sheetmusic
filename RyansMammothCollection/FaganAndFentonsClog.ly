@@ -21,7 +21,7 @@ voicedefault =  {
     \times 2/3 { fis'8^\upbow(g'8 gis'8) 
 	       }   
     |
-    a'8.^\downbow(a''16 -.) fis''8. (d''16 -.) a'8. ^\segue fis''16 d''8. a'16    |
+    a'8.^\downbow(a''16 -.) fis''8. (d''16 -.) a'8.^\segue fis''16 d''8. a'16    |
     fis'8. d''16 a'8.    
     fis'16 d'8. a'16-4 fis'8. d'16    |
     cis'4    

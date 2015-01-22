@@ -15,7 +15,7 @@ voicedefault =  {
   \time 2/2 
   \key bes \major f'4^\downbow         
   \repeat volta 2 {
-    bes'8 ^"Segno"(d''8) f'8 (bes'8) d'8 -. f'8 -. bes'8 -. d''8 -. 
+    bes'8^"Segno"(d''8) f'8 (bes'8) d'8 -. f'8 -. bes'8 -. d''8 -. 
     |
     f''8 (bes''8) d''8 (f''8) bes'8 -. d''8 -. f'8 
     -. bes'8 -.       |

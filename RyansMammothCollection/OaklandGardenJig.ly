@@ -41,7 +41,7 @@ voicedefault =  {
     e'4^\upbow       |
     a'2^\downbow  ~ a'8    
     b'8^\upbow c''8 d''8    |
-    e''8-4^\downbow a'8    r8 b'8 ^\downbow c''8 d''8 e''8-4   r8   |
+    e''8-4^\downbow a'8    r8 b'8^\downbow c''8 d''8 e''8-4   r8   |
     f''8^\downbow a'8    
     r8 cis''8^\downbow d''8 e''8 f''8    r8   |
     e''8 

@@ -47,7 +47,7 @@ voicedefault =  {
     a''16.^\downbow g''32^\upbow   
     e''16.^\upbow(fis''32 -.) g''4    |
     \times 2/3 { g'16 
-		 ^\downbow b'16 d''16  
+		^\downbow b'16 d''16  
 	       } gis''16. (a''32 -.) gis''4    |
     
     \times 2/3 { b'16^\upbow d''16 g''16  

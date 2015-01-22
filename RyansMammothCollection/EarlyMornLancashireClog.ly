@@ -19,7 +19,7 @@ voicedefault =  {
     \time 2/2 
     \key d \major
     a'8.^\upbow(g'16 -.) |
-    fis'8. ^\downbow(a'16-4-.) d'8.^\segue fis'16 a'8.-0 d''16    
+    fis'8.^\downbow(a'16-4-.) d'8.^\segue fis'16 a'8.-0 d''16    
     fis''8. a''16    |
     b''8. g''16 d''8.-1 d'''16-4     
     a''8.-3 fis''16 d''8. a''16    |
@@ -40,8 +40,8 @@ voicedefault =  {
     e''8. a''16 cis''8. e''16-4 d''4  
   }     
   \repeat volta 2 {
-    a'8. ^\upbow(g'16 -.) |
-    fis'8.^\downbow(a''16 -.) fis''8. ^\segue d''16 a'8. a''16 fis''8. d''16    |
+    a'8.^\upbow(g'16 -.) |
+    fis'8.^\downbow(a''16 -.) fis''8.^\segue d''16 a'8. a''16 fis''8. d''16    |
     b'8.    
     b''16 g''8. d''16 b'8. b''16 g''8. d''16    |
     a'8.   

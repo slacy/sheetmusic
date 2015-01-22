@@ -29,7 +29,7 @@ voicedefault =  {
   a'8. c''16 f'8. c''16 a'8. c''16 g''8.  
   f''16    |
   ees''8. f'16 g'8. a'16 bes'8    r8   r4   
-  \bar ":|" ees''8. f'16 g'8. a'16 bes'8    r8   \bar "|." a'8 ^\upbow(bes'8) |
+  \bar ":|" ees''8. f'16 g'8. a'16 bes'8    r8   \bar "|." a'8^\upbow(bes'8) |
   d''8.^\downbow(c''16 -.) b'8. (
   c''16 -.) bes''!8. (c''16) b'!8.^\segue c''16    |
   

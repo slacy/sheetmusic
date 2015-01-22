@@ -15,11 +15,11 @@ voicedefault =  {
   \key g \minor
   d''8^\upbow         
   \repeat volta 2 {
-    c''8 ^"Segno"(^\downbow a'8 g'8) g'4^\accent d''8 -. g'4^\accent   
+    c''8^"Segno"(^\downbow a'8 g'8) g'4^\accent d''8 -. g'4^\accent   
     d''8 -.   |
     c''8 (a'8 g'8) g'4^\accent d''8 -. c''8 (
     a'8 g'8)       |
-    c''8 (^\upbow a'8 g'8) g'4 ^\accent d''8 -. g'4^\accent d''8 -.   |
+    c''8 (^\upbow a'8 g'8) g'4^\accent d''8 -. g'4^\accent d''8 -.   |
     c''8 (d''8 e''8  
     -) f''4^\accent d''8 -. c''8 (a'8 g'8)   
   }     

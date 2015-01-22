@@ -57,7 +57,7 @@ voicedefault =  {
   \key c \major
   
   \repeat volta 2 {
-    g'4 ^\upbow |
+    g'4^\upbow |
     g'8. e''16 dis''8. e''16 c''2^\trill   
     |
     g'8. e''16 dis''8. e''16 g''2^\trill   |
@@ -69,7 +69,7 @@ voicedefault =  {
 				} g''4  \grace {    
 				  fis''8  
 				} g''4    |
-    g'8. e''16 dis''8. e''16 c''2 ^\trill   |
+    g'8. e''16 dis''8. e''16 c''2^\trill   |
     g'8. e''16 dis''8. e''16 g''2^\trill   
     |
     g'8. g''16 fis''8. g''16 b''8. a''16 fis''8.    

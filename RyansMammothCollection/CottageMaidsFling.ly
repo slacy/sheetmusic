@@ -27,7 +27,7 @@ voicedefault =  {
     d''4 g''8.    
     e''16    |
     fis''8. d''16 e''8. d''16    |
-    cis''8 ^\downbow a''4^\upbow cis''4^\downbow   
+    cis''8^\downbow a''4^\upbow cis''4^\downbow   
   } \alternative{{ a''8 cis''8 
 		   a''4    
 		 } { d''4    r4   \bar "|."     

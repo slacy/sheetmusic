@@ -20,7 +20,7 @@ voicedefault =  {
     g'8 b'8   
     d'16. (d'32 -.) e'16. (fis'32 -.)   |
     \grace { a'16 
-	     ^\segue 
+	    ^\segue 
 	   } g'16. fis'32 g'16. a'32 b'8 a'16. g'32    
     |
     c''8 e''8-4 d''16. b'32 g'16. b'32    |

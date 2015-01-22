@@ -26,7 +26,7 @@ voicedefault =  {
   |
   b'4 e''8 e''4 fis''8 g''4 a''8    |
   b''4    
-  a''8 g''4 e''8 d''8 b'8 a'8    \bar "||"  >> \bar "|." b'8 ^\fermata^\downbow c''8 b'8 b'4 a'8 g'4 a'8    |
+  a''8 g''4 e''8 d''8 b'8 a'8    \bar "||"  >> \bar "|." b'8^\fermata^\downbow c''8 b'8 b'4 a'8 g'4 a'8    |
 b'8  
 c''8 b'8 b'4 e''8 d''8 b'8 a'8    |
 b'8 c''8    

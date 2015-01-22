@@ -16,7 +16,7 @@ voicedefault =  {
   d''8    <<   \bar "|."     
 	       \repeat volta 2 {
 		 g''4 
-		 ^"Segno"(g''8 -.) g''8 fis''8 g''8 e''8 fis''8 g''8    
+		^"Segno"(g''8 -.) g''8 fis''8 g''8 e''8 fis''8 g''8    
 		 |
 		 a''4 (a''8 -.) a''8 b''8 g''8 fis''8 e''8 d''8 
 		 |

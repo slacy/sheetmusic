@@ -32,7 +32,7 @@ voicedefault =  {
   d'8. a'16 
   -0 fis'8. a'16-0 d'8. a'16-0 fis'8. a'16-0   |
   
-  d'8 d''4 (a'8 -.) fis'4 (^\trill d'8)   \bar "|." fis''8 ^\upbow   |
+  d'8 d''4 (a'8 -.) fis'4 (^\trill d'8)   \bar "|." fis''8^\upbow   |
   d''8. (fis''16 -.) a'8. (fis''16 -.)     
   d''8.^\segue fis''16 a'8. b'16    |
   c''8. d''16 e''8.  

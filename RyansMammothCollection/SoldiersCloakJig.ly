@@ -39,7 +39,7 @@ voicedefault =  {
   fis''4 (d''8)   |
   e''8-4 cis''8 a'8 a'8 b'8    
   cis''8    |
-  d''4. d''4 (g''8)   \bar ":|" d''4. ^"tr"^\trill d''8 cis''8 b'8    \bar "|."   
+  d''4. d''4 (g''8)   \bar ":|" d''4.^"tr"^\trill d''8 cis''8 b'8    \bar "|."   
 
 }
 

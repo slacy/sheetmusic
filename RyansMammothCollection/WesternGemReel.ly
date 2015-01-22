@@ -41,7 +41,7 @@ voicedefault =  {
   \key e \major
   
   \repeat volta 2 {
-    gis'16 ^\fermata^\downbow a'16  |
+    gis'16^\fermata^\downbow a'16  |
     cis''16 (b'16) b'16 -. b'16 
     -. b'8 -. cis''16^\downbow dis''16    |
     e''16 dis''16    

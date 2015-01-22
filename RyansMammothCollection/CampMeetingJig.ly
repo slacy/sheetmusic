@@ -40,7 +40,7 @@ voicedefault =  {
   gis'16.    
   e'32 fis'16. e'32 cis'32 a16.  
 } a8^\upbow |
-bes4 ^\accent(a8)   r8   |
+bes4^\accent(a8)   r8   |
 r16 a'16-4^\upbow fis'16 d'16  
 e'16 d'16    r16 a16    |
 bes4^\accent(a8)   r8   

@@ -68,7 +68,7 @@ voicedefault =  {
     }   |
     dis''8. e''16 fis''8.    
     gis''16 a''8.-1 b''16 cis'''8. dis'''16    |
-    e'''4 ^"04" gis''4-2 e''4    
+    e'''4^"04" gis''4-2 e''4    
   }   
   \key a \major
   cis''8.^\upbow(d''16  

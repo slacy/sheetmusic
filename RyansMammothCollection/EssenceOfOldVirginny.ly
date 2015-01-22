@@ -15,7 +15,7 @@ voicedefault =  {
   \key g \major
   d'8^"Slow"^\upbow   |
   \grace { fis'8 
-	   ^\segno 
+	  ^\segno 
 	 } e'4 d'8 g'4 a'8  |
   \grace { b'8  
 	 } d''4.   ~   
@@ -31,7 +31,7 @@ voicedefault =  {
   fis''8    
   e''8 d''8 c''8 b'8 a'8  |
   g'4    r8   << g''4^">" b'4 
-	       >> \bar ":|" g'4    r8   << g''4^">" b'4   >> \bar "||" d''8 ^\upbow |
+	       >> \bar ":|" g'4    r8   << g''4^">" b'4   >> \bar "||" d''8^\upbow |
   g''4 b''8 a''4 g''8  |
   \grace { e''8  
 	 }   

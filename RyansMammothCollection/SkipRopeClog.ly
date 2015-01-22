@@ -20,7 +20,7 @@ voicedefault =  {
     \times 2/3 { a''8_"p"^\upbow(gis''8 g''!8 
 		 ) 
 	       } |
-    fis''8. (d''16 -.) a'8. (fis'16 -.) d'8. ^\segue a16 d'8. fis'16    |
+    fis''8. (d''16 -.) a'8. (fis'16 -.) d'8.^\segue a16 d'8. fis'16    |
     a'8. d''16 fis''8.    
     b''16 a''4 g''8. fis''16    |
     g''8. e''16 cis''8.    

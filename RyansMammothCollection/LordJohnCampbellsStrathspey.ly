@@ -24,7 +24,7 @@ voicedefault =  {
   c''8 (^\downbow   
   e''16-4 c''16) b'8 (d''16 b'16) c''16 (b'16 a'16    
   g'16) fis'8. (a'16-4-.)   |
-  g'16^\downbow g'8. ^\upbow \grace { g''16 a''16  
+  g'16^\downbow g'8.^\upbow \grace { g''16 a''16  
 		 } b''8. a''16 g''8 (g'8)   
   g'8 d'8    |
   |

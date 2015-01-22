@@ -23,7 +23,7 @@ voicedefault =  {
     
     d'16 f'16 bes'16 f'16 ees''16 d''16 c''16 bes'16    
     |
-    a'16 bes'16 c''16 d''16 c''8^\downbow-. d''16 ^\downbow c''16    |
+    a'16 bes'16 c''16 d''16 c''8^\downbow-. d''16^\downbow c''16    |
     |
     bes'8^\downbow-. bes''16 (
     f''16) d''16 bes'16 c''16 d''16    |

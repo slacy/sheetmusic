@@ -18,7 +18,7 @@ voicedefault =  {
     \key a \major
     << d'8_"p"^\downbow-. fis'8   >>  ~    <<   
       d'8^\downbow-. fis'8   >>   << cis'8^\upbow-. e'8   >>  ~    << cis'8 
-								      ^\upbow-. e'8   >>   |
+								     ^\upbow-. e'8   >>   |
     << d'8 -. fis'8   >>  ~    << d'8 -.  
 				  fis'8   >>   << cis'8 -. e'8   >>  ~    << cis'8 -. e'8   >>   
     |
@@ -52,7 +52,7 @@ voicedefault =  {
     a8    << cis'8^\accent e'8  
 	   >>   << d'4^\accent fis'4   >>   |
     e'8_"ff"   << d''8 
-		  ^\accent gis''8   >>   << cis''4^\accent a''4   >>   
+		 ^\accent gis''8   >>   << cis''4^\accent a''4   >>   
   }   
 
 }

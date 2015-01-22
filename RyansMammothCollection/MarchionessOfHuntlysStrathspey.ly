@@ -54,7 +54,7 @@ voicedefault =  {
   fis'16 (b'8.) b'8. cis''16 d''16 
   (cis''16) b'16 -. a'16 -. gis'16 (fis'16) e'16 -. d'16 -. 
   |
-  cis'8. d'16 e'8. cis'16 d'16 (fis'8.) e'4 ^\trill   |
+  cis'8. d'16 e'8. cis'16 d'16 (fis'8.) e'4^\trill   |
   fis'8. b'16 a'16-4(gis'16) fis'16 -.   
   e'16  \grace { gis'16  
 	       } a'4-4 a4    \bar "|."   

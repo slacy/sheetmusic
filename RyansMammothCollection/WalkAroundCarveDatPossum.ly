@@ -15,7 +15,7 @@ voicedefault =  {
   \key g \major
   << g''4_"f"^\accent^\downbow b'4 d'4 g4  
    >>   << g''4^\accent b'4 d'4 g4   >>   |
-  << g''4 ^\accent b'4 d'4 g4   >>   << g''4^\accent b'4 d'4 g4   >>   
+  << g''4^\accent b'4 d'4 g4   >>   << g''4^\accent b'4 d'4 g4   >>   
 
   \repeat volta 2 {
     b'4._"p"(^\downbow d''8)   |

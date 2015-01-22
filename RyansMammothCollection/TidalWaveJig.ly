@@ -31,7 +31,7 @@ voicedefault =  {
   e''16. g''32 f''16. g''32    |
   c''16 a'16    r8 a''16    
   f''16    r8   |
-  r16 bes''32 a''16.. (^\downbow bes''32 ^\upbow-.)   \times 2/3 { d''16 e''16 fis''16  
+  r16 bes''32 a''16.. (^\downbow bes''32^\upbow-.)   \times 2/3 { d''16 e''16 fis''16  
 			  } g''8    |
   
   r16 a''16^\downbow gis''16 (^\upbow a''16 -.)   \times 2/3 { a'16    
@@ -55,7 +55,7 @@ voicedefault =  {
   e''16-4^\upbow)   
   \key bes \major f'8^\downbow(fis'8 g'8)     
   r16 ees''32^\downbow(c''16..^\upbow a'32 -.)   |
-  f'8 ^\downbow(fis'8 g'8) fis'8 (fis'!8 g'8) ees''8 ^\downbow fis''8^\downbow(|
+  f'8^\downbow(fis'8 g'8) fis'8 (fis'!8 g'8) ees''8^\downbow fis''8^\downbow(|
   g''16) bes'16. d''32    
   f''16. bes''32 bes'8    r8       \bar "|."   
 

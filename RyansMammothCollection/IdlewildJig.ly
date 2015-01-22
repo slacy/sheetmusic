@@ -40,11 +40,11 @@ voicedefault =  {
   a'16 d''8. a'16    |
   \times 2/3 { b'8 (cis''8 d''8  
 	       -) 
-	     } a'8. fis'16 e'8. fis'16 d'8    r8   \bar "|." b'8. ^\downbow(fis'16 -.)   \grace { g'8^\upbow 
+	     } a'8. fis'16 e'8. fis'16 d'8    r8   \bar "|." b'8.^\downbow(fis'16 -.)   \grace { g'8^\upbow 
 				}   \times 2/3 { fis'8 (
 						 eis'8 fis'8) 
 					       } d''8.^\downbow(b'16 -.)   \grace { cis''8 
-										    ^\upbow 
+										   ^\upbow 
 										  }   \times 2/3 { b'8 (a'8 b'8) 
 												 }   |
   fis''8. 

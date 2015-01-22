@@ -35,7 +35,7 @@ voicedefault =  {
   \key d \mixolydian
   
   \repeat volta 2 {
-    e'8 ^\upbow       |
+    e'8^\upbow       |
     fis'8 a'8 b'8 c''8 a'8 a'8    |
     
     b'8 g'8 g'8 c''8 a'8 g'8    |

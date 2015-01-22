@@ -35,11 +35,11 @@ voicedefault =  {
   e''8.-4   
   b'16 cis''8. gis'16 a'8. e'16 fis'8. cis'16    |
   
-  e'16 e'8. fis'8. gis'16 a'4 a'8    \bar "|." fis''16 ^\fermata(^\upbow d''16)   |
+  e'16 e'8. fis'8. gis'16 a'4 a'8    \bar "|." fis''16^\fermata(^\upbow d''16)   |
   e''16-4(^\downbow cis''8. 
   ) cis''8. (a''16 -.) e''8. (e''16 -.) fis''16 (e''16    
   d''16 cis''16)   |
-  e''8.-4(cis''16 -.) cis''8. ^\segue a''16 fis''4^\trill fis''8. a''16    |
+  e''8.-4(cis''16 -.) cis''8.^\segue a''16 fis''4^\trill fis''8. a''16    |
   e''16 (
   cis''8.) cis''8. a''16 e''8. e''16 fis''16 (e''16 d''16  
   cis''16)   |

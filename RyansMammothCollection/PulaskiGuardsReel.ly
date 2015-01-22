@@ -27,7 +27,7 @@ voicedefault =  {
 				     } 
     |
     f'8^\downbow bes'8 bes'8 d'8    |
-    c'8 ^\downbow c''16^\downbow bes'16 a'16 f'16 g'16 a'16    
+    c'8^\downbow c''16^\downbow bes'16 a'16 f'16 g'16 a'16    
     |
     \grace { c''16  
 	   } bes'16 a'16 bes'16 c''16 d''16    

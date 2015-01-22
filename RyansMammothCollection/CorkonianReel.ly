@@ -38,7 +38,7 @@ voicedefault =  {
   } 
   \repeat volta 2 {
     fis''16^\upbow(g''16) |
-    a''4 ^"tr"^\trill fis''4^"tr"^\trill   |
+    a''4^"tr"^\trill fis''4^"tr"^\trill   |
     d''8 -. d''16 (a'16)  
     b'16 a'16 fis'16 g'16    |
     a'16 cis''16 d''16 e''16 

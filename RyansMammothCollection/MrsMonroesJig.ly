@@ -32,7 +32,7 @@ voicedefault =  {
     b'8 g'8 g'8 g'4    
   }     
   \repeat volta 2 {
-    fis''8 ^\fermata |
+    fis''8^\fermata |
     g''8 fis''8 g''8 e''8 fis''8 g''8    
     |
     fis''4 d''8 d''8 e''8 fis''8    |
