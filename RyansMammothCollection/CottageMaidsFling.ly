@@ -22,7 +22,7 @@ voicedefault =  {
     d''4 g''8. e''16     |
     fs''8. d''16 e''8. d''16    |
     cs''8^\downbow a''4^\upbow cs''4^\downbow   
-  } \alternative{{ a''8 cs''8  		 a''4     		 } { d''4    r4   \bar "  |."     
+  } \alternative{{ a''8 cs''8  		 a''4     		 } { d''4 r4   \bar "  |."     
 								     \repeat volta 2 {
 								 d''8^\downbow   		 a''32 (g''32 fs''32 e''32) d''8 cs''8      |
 								 cs''8   		 g''32 (fs''32 e''32 d''32) cs''8 b'8     |

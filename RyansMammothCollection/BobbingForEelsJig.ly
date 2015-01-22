@@ -21,7 +21,7 @@ voicedefault =  {
   \grace { gs'8 } a'4 a''8 e''8-. cs''8 (a'8)     |
   \grace { cs''8 } b'8 a'8 b'8 cs''8 d''8 e''8          |
   fs''8 (a''8) fs''8 e''8 (cs''8) a'8     |
-  \grace { cs''8 } b'8 a'8 b'8 a'4    r8   \bar ":  |" \grace { cs''8   							 } b'8 a'8 b'8 a'4    \bar "|."     \bar "|:" e''8-2^\upbow          |
+  \grace { cs''8 } b'8 a'8 b'8 a'4 r8   \bar ":  |" \grace { cs''8   							 } b'8 a'8 b'8 a'4    \bar "|."     \bar "|:" e''8-2^\upbow          |
   a''8-1(cs'''8-3) a''8-1 gs''8-2(b''8-4) gs''8    |
   fs''8 (a''8) fs''8 e''8 fs''8 ( gs''8)        |
   a''8 gs''8 a''8-1 b''8-2 cs'''8-3 d'''8-4    |
@@ -29,7 +29,7 @@ voicedefault =  {
   a''8 (cs'''8) a''8 gs''8-2(b''8-4) gs''8    |
   fs''8 a''8 fs''8 e''8 fs''8 gs''8         |
   a''8 gs''8 fs''8 e''8 d''8 cs''8     |
-  \grace { cs''8   	 } b'8 a'8 b'8 a'4    r8      \bar ": |" \grace { cs''8   		 } b'8 a'8 b'8 a'4    r8   \bar "  |."   
+  \grace { cs''8   	 } b'8 a'8 b'8 a'4 r8      \bar ": |" \grace { cs''8   		 } b'8 a'8 b'8 a'4 r8   \bar "  |."   
 
 }
 

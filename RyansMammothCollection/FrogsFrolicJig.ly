@@ -23,7 +23,7 @@ voicedefault =  {
     \grace { fs'8   	 } e'8 d'8 e'8 g'4 e'8     |
     b'4 e'8 g'4 a'8     |
     b'8 (c''8) b'8 a'8 (g'8) fs'8    |
-    b'8 g'8 e'8 e'4    r8   
+    b'8 g'8 e'8 e'4 r8   
   }     \grace { fs''8 ( } g''8 b''8) g''8 e''4 fs''8      |
   g''8 ( b''8) g''8 e''4 g''8     |
   fs''8 (a''8 fs''8) d''4 e''8     |
@@ -39,7 +39,7 @@ voicedefault =  {
   e''8 ( fs''8 g''8) fs''8 (g''8 a''8)    |
   g''8 (a''8 b''8) e''4 b'8     |
   b'8 (c''8) b'8 a'8 (g'8) fs'8     |
-  b'8 g'8 e'8 e'4    r8   
+  b'8 g'8 e'8 e'4 r8   
 }   
 
 }

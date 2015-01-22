@@ -26,7 +26,7 @@ voicedefault =  {
     b'16 g'16 a'16-4 fs'16 g'16 } d'16_"mf"^\fermata^\upbow   |
   d'16 d''16 d''16. e''32-4^\upbow |
   d''16 b'16 g'16 a'16 b'8 g'8  |
-  b'8 b'16 b'16    r16 a'32^\downbow g'16.^\upbow  |
+  b'8 b'16 b'16 r16 a'32^\downbow g'16.^\upbow  |
   d'16 g'8^"<>" b'16 a'16 g'16   |
   d'16 d''16 d''16. e''32-4^\upbow  |
   d''16 b'16 g'16 a'16 b'16 g'16   |

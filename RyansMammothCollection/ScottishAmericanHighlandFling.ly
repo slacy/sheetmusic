@@ -29,7 +29,7 @@ voicedefault =  {
   cs''8. e''16 e''8. fs''16 e''8. cs''16 b'8. a'16     |
   cs''8. fs''16 fs''8. e''16 fs''8. gs''16 a''8. fs''16     |
   cs''8. e''16 e''8. fs''16 e''8. cs''16 a'8. cs''16     |
-  cs''8. b'16 a'8. gs'16 a'4    r4   \bar ": |" cs''8. b'16 a'8. gs'16 a'4    \bar " |."   
+  cs''8. b'16 a'8. gs'16 a'4 r4   \bar ": |" cs''8. b'16 a'8. gs'16 a'4    \bar " |."   
 
 }
 

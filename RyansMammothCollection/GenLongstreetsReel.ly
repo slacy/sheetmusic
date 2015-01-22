@@ -24,7 +24,7 @@ voicedefault =  {
     \grace { g''16   	 } fs''16 e''16 fs''16 b''16 a''16 fs''16 d''16 fs''16      |
     g''16 d''16 b'16 g''16 fs''16 d''16 a'16 fs''16     |
     e''16 a''16 g''16    
-    e''16 d''8    r8   
+    e''16 d''8 r8   
   }     
   \repeat volta 2 {
     a''16^\downbow fs''16 d''16 fs''16 a'16 d''16 fs'16 a'16      |
@@ -34,7 +34,7 @@ voicedefault =  {
     a''16 fs''16 d''16 fs''16 a'16 d''16 fs'16 a'16     |
     b''16 g''16 d''16 g''16 b'16 d''16 g'16 b'16     |
     cs''16 b''16 a''16 g''16 fs''16 e''16 d''16 cs''16     |
-    d''8 fs''8 d''8    r8   
+    d''8 fs''8 d''8 r8   
   }   
 
 }

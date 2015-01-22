@@ -19,7 +19,7 @@ voicedefault =  {
     g''4^\downbow^\accent d''8^\downbow b'8 g''4^\accent d''8 b'8     |
     g''4^\downbow fs''8^\downbow g''8 a''8 fs''8 d''8 fs''8     |
     g''4^\accent d''8 b'8 g''4^\accent d''8 b'8     |
-    e''8-. g''8 (fs''8) a''8 (g''4)   r4   
+    e''8-. g''8 (fs''8) a''8 (g''4) r4   
   }     
 
   \repeat volta 2 {
@@ -27,7 +27,7 @@ voicedefault =  {
     fs'8 g'8 a'8 b'8  \grace { d''8   			 } c''4 b'8 a'8      |
     b'8 c''8 d''8 b'8 c''8 b'8 a'8   
     g'8    
-  } \alternative{{ fs'8 (a'8) d'8 fs'8 g'4 d''4      		 } { fs'8 (a'8) d'8 fs'8 g'4    r4   \bar "  |."   
+  } \alternative{{ fs'8 (a'8) d'8 fs'8 g'4 d''4      		 } { fs'8 (a'8) d'8 fs'8 g'4 r4   \bar "  |."   
 								 }
 	 }
 

@@ -32,7 +32,7 @@ voicedefault =  {
     bf16 ef'16 bf16 ef'16 c'16 ef'16 c'16 ef'16     |
     d'16-0 ef'16 d'16 ef'16 c'16 ef'16 bf16 ef'16      |
     ef'16 c''16 bf'16 af'16 g'16 f'16 ef'16 d'16-0    |
-    ef'8 ef'8 ef'8    r8   
+    ef'8 ef'8 ef'8 r8   
   }   
 
 }

@@ -36,7 +36,7 @@ voicedefault =  {
     d''8.^\segue e''16 fs''8 g''8. fs''16 e''8   |
     d''8. c''16 b'8 c''8. b'16 a'8  
 
-  } \alternative{{ a'8-4(g'8) g'8 g'4    r8  		 } { a'8-4( 		 g'8) g'8 g'4  \bar "  |."   
+  } \alternative{{ a'8-4(g'8) g'8 g'4 r8  		 } { a'8-4( 		 g'8) g'8 g'4  \bar "  |."   
 							 }
 	 }
 

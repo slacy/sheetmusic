@@ -18,24 +18,24 @@ voicedefault =  {
     \time 2/2 
     \key g \major     \times 2/3 { d'8^\upbow(e'8 fs'8)  	 }    |
     g'4^\downbow d'4 e'4 (^\trill d'4)   |
-    g'8. fs'16 g'8. a'16 b'8 (d''8)   r8 d''8     |
+    g'8. fs'16 g'8. a'16 b'8 (d''8) r8 d''8     |
     e''8. d''16 c''8. b'16 c''8. b'16 a'8. g'16     |
     fs'8. g'16 a'8. b'16 c''4^\trill b'8. a'16     |
     g'4 d'4 e'4^\trill(d'4)    |
-    g'8. fs'16 g'8. a'16 b'8 ( d''8)   r8 d''8     |
+    g'8. fs'16 g'8. a'16 b'8 ( d''8) r8 d''8     |
     e''8. d''16 c''8. b'16 c''8. b'16 a'8. g'16     |
     fs'8. g'16 a'8. b'16 g'4    
   }   
   
   \repeat volta 2 {
     g'4^\upbow   |
-    b'8 (d''8)   r8 e''8 d''8. b'16 a'8. g'16     |
-    b'8 (d''8)   r8 d''8 b''4 g''4     |
-    b'8 (d''8)   r8 e''8-4 d''8. b'16 a'8. g'16     |
+    b'8 (d''8) r8 e''8 d''8. b'16 a'8. g'16     |
+    b'8 (d''8) r8 d''8 b''4 g''4     |
+    b'8 (d''8) r8 e''8-4 d''8. b'16 a'8. g'16     |
     fs'8. g'16 a'8. b'16 c''4^\trill b'8. a'16     |
-    b'8 (d''8)   r8 e''8-4 d''8. b'16 a'8. g'16     |
-    b'8 (d''8)   r8 d''8 b''4 g''4    |
-    b'8 (d''8)   r8 e''8 d''8. b'16 a'8. g'16     |
+    b'8 (d''8) r8 e''8-4 d''8. b'16 a'8. g'16     |
+    b'8 (d''8) r8 d''8 b''4 g''4    |
+    b'8 (d''8) r8 e''8 d''8. b'16 a'8. g'16     |
     e'8.  
     fs'16 g'8. a'16 g'4    
   }   
@@ -71,7 +71,7 @@ voicedefault =  {
     e''2-4^\accent ds''2^\accent   |
     
     \grace { fs''8   	 } e''8. ds''16 e''8. fs''16 g''8. fs''16 g''8. a''16      |
-    b''8 (g''8)   r8 g''8 g''8. d''16 b'8. g'16     |
+    b''8 (g''8) r8 g''8 g''8. d''16 b'8. g'16     |
     \grace { b'8  
 	 } a'8. g'16 a'8.    
     b'16 g'4    

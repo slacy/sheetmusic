@@ -21,7 +21,7 @@ voicedefault =  {
     f''8 a''8 g''8 f''8 e''8 d''8     |
     d''8 c''8 a'8 bf'4 c''8     |
     d''8 e''8-4 d''8 d''4 c''8     |
-    d''8 bf'8 g'8 g'4    r8   
+    d''8 bf'8 g'8 g'4 r8   
   }     
   \repeat volta 2 {
     g''8^\upbow         |
@@ -32,7 +32,7 @@ voicedefault =  {
     f''8 a''8 g''8 f''8 e''8 d''8    |
     d''8 c''8 a'8 bf'4 c''8     |
     d''8 e''8-4 d''8 bf'4 c''8     |
-    d''8 bf'8 g'8 g'4    r8   
+    d''8 bf'8 g'8 g'4 r8   
   }   
 
 }

@@ -3,7 +3,7 @@
 \header {
   %% book = "Ryan's Mammoth Collection of Fiddle Tunes"
   crossRefNumber = "1"
-  footnotes = "\\\\TEMPEST. [Form in two lines, of couples facing]. First two couples down the\\\\centre, abreast,  turn  half  round  [ladies  remaining at:  the right of\\\\partners], and back. Balance to the sidf, [each couple], four hands round.\\\\Right and left."
+  footnotes = "\\\\TEMPEST. [Form in two lines, of couples facing]. First two couples down the\\\\centre, abreast,  turn  half round  [ladies remaining at:  the right of\\\\partners], and back. Balance to the sidf, [each couple], four hands round.\\\\Right and left."
   tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
   title = "THE TEMPEST -- JIG"
 

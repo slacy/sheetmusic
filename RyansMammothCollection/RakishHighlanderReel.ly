@@ -16,7 +16,7 @@ voicedefault =  {
   \key g \major d'4^\downbow b'8 a'8 b'8 (d''8) e''8-. fs''8-.     |
   d''8 e''8 b'8 d''8 a'8 fs'8 d'8 fs'8     |
   d'4 b'8 a'8 b'8 (d''8) e''8-. fs''8-.    |
-  d''8 b'8 a'8 fs'8 b'8 e'8 e'8    r8    |
+  d''8 b'8 a'8 fs'8 b'8 e'8 e'8 r8    |
   d'4 b'8 a'8 b'8 (d''8) e''8-. fs''8-.    |
   d''8 e''8 b'8 d''8 a'8 fs'8 d'8 fs'8     |
   d'4 b'8 a'8 b'8 (d''8) e''8-. fs''8-.    |

@@ -23,7 +23,7 @@ voicedefault =  {
     \grace { d'8^\upbow e'8 fs'8   	 } g'8. fs'16^\downbow g'8 g'8 b'8 d''8      |
     e''16 (^\upbow g''8.) e''8^\downbow d''16 (g''8.) d''8    |
     e''16 (g''8.) e''8 d''8 b'8 g'8     |
-    a'8.-4^\downbow g'16^\upbow a'8-4 g'4    r8   
+    a'8.-4^\downbow g'16^\upbow a'8-4 g'4 r8   
   }   % %staffsep 70pt
   
   \repeat volta 2 {
@@ -34,7 +34,7 @@ voicedefault =  {
     << g''4_"fz"(^\accent b'4 d'4 g4        >> fs''8-.) e''8 d''8 b'8     |
     << g''4         _"fz"(^\accent b'4 d'4 g4   >> fs''8-.) e''8 d''8 b'8         |
     d''8. (^\downbow e''16-.) fs''8 g''8 fs''8 g''8  |
-    a''16 (^\upbow b''8.) a''8 g''4    r8   
+    a''16 (^\upbow b''8.) a''8 g''4 r8   
   }   
 
 }

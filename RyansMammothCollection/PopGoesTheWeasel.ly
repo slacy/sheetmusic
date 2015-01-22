@@ -15,13 +15,13 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 6/8      \key g \major g'4^\downbow g'8 a'4 a'8    |
-    b'8 d''8 b'8 g'4    r8  |
+    b'8 d''8 b'8 g'4 r8  |
     g'4 g'8 a'4 c''8  |
-    b'4. g'4    r8  |
+    b'4. g'4 r8  |
     g'4 g'8 a'4 a'8  |
-    b'8 d''8 b'8 g'4    r8  |
+    b'8 d''8 b'8 g'4 r8  |
     e''4.-4 a'4 c''8  |
-    b'4. g'4    r8 
+    b'4. g'4 r8 
   } 
   
   \repeat volta 2 {
@@ -30,10 +30,10 @@ voicedefault =  {
     g''4 g''8 e''4 g''8  |
     fs''4. d''4 b'8   |
     c''4 b'8 c''4 d''8  |
-    e''4 fs''8 g''4    r8  |
-    e''8-4   r4 a'4 c''8  |
+    e''4 fs''8 g''4 r8  |
+    e''8-4 r4 a'4 c''8  |
     b'4.  
-    g'4^"D.C."   r8 
+    g'4^"D.C." r8 
   }   
 
 }

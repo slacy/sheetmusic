@@ -34,7 +34,7 @@ voicedefault =  {
     gs'16 e'16 gs'16 b'16 e''16 d''16 cs''16 b'16   |
     a'16 a''16 gs''16 fs''16 e''16 d''16 cs''16 b'16   |
     a'8 cs''8    
-    a'8    r8 
+    a'8 r8 
   }   
 
 }

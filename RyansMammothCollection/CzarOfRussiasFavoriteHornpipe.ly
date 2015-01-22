@@ -24,7 +24,7 @@ voicedefault =  {
     << f''4^\upbow^\accent a'4   >> a'8 bf'8 c''8 a'8 c''8 a'8  |
     d''8 c''8 bf'8 a'8 g'4 g''8 (a''8)  |
     bf''8    
-    g''8 f''8 e''8 f''4    r4 } a''4^\downbow^\accent f''8 a''8 f''8 a''8 f''8 a''8    |
+    g''8 f''8 e''8 f''4 r4 } a''4^\downbow^\accent f''8 a''8 f''8 a''8 f''8 a''8    |
   g''4^\upbow^\accent e''8 g''8 e''8 g''8 e''8 g''8   |
   a''4^\accent f''8 a''8 f''8 a''8 f''8 a''8   |
   g''8 f''8 e''8 d''8  \grace { d''8 } c''4 d''8 e''8    |

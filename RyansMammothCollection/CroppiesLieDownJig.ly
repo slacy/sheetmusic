@@ -23,9 +23,9 @@ voicedefault =  {
 e''8 fs''8 g''8 a''8 g''8 fs''8     |
 g''8 a''8 b''8 e''8 fs''8 g''8     |
 d''8 b'8 g'8 b'4 (a'8)       |
-g'4^\downbow^\accent   r8 e''4^\upbow^\accent   r8   |
+g'4^\downbow^\accent r8 e''4^\upbow^\accent r8   |
 d''8^\downbow b'8 d''8 g'8 b'8 d''8     |
-g''4^\accent   r8 e''4^\accent   r8   |
+g''4^\accent r8 e''4^\accent r8   |
 d''8 b'8 g''8 g'4.    \bar ":|" d''8 b'8 g''8 g'8    \bar " |."   
 
 }

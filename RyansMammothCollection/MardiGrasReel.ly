@@ -23,7 +23,7 @@ voicedefault =  {
     << d'8_"p"-. fs'8   >>  ~    << d'8  				-. fs'8   >>   << cs'8-. e'8   >>  ~    << cs'8-. e'8   >>     |
     << d'8-. fs'8   >>  ~    << d'8-. fs'8   >> << cs'4    						 e'4   >>    |
     b'16 cs''16 d''16 e''16 fs''16 a''16 gs''16 fs''16     |
-    e''8 e''8 e''8    r8   
+    e''8 e''8 e''8 r8   
   }     
 
   \repeat volta 2 {

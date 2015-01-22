@@ -49,7 +49,7 @@ voicedefault =  {
     \times 2/3 { ef'16 (g'16) bf'16-. 
 	 }   \times 2/3 { af'16 (
 				f'16) d'16-. 
-			 } ef'8    r8 
+			 } ef'8 r8 
   }     
   \repeat volta 2 {
     g''16^\downbow ef''16 bf'16 g'16 ef'16 g''16 f''16 e''16    |

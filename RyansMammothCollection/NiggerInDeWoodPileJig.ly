@@ -18,11 +18,11 @@ voicedefault =  {
     
     \key d \major     \grace { gs'16   	 } a'8^\upbow   |
     r16 a'16-4^\upbow fs'16 d'16 e'8 d'8  |
-    r16 d''16^\upbow fs''16 d''16 e''16-4 d''16    r16 \grace { cs''16   					 } d''16^\upbow   |
+    r16 d''16^\upbow fs''16 d''16 e''16-4 d''16 r16 \grace { cs''16   					 } d''16^\upbow   |
     r16 a'16^\upbow fs'16 d'16 e'8^\downbow d'16^\downbow fs'16  |
     g'16. b'32 a'16. fs'32 d'8       \grace { gs'16   	 } a'8    |
     r16 a'16^\upbow fs'16 d'16 e'8 d'8   |
-    r16 d''16^\upbow fs''16 d''16 e''16 d''16    r16 \grace { cs''16   			} d''16^\upbow   |
+    r16 d''16^\upbow fs''16 d''16 e''16 d''16 r16 \grace { cs''16   			} d''16^\upbow   |
     r16 a'16^\upbow fs'16 d'16 e'8^\downbow d'16^\downbow fs'16  |
     
     g'16. b'32-. a'16. fs'32-. d'8  
