@@ -2,6 +2,6 @@
 
 segue = \markup { \tiny "SEGUE" }
 \language "english"
-#(set-global-staff-size 12)
+#(set-global-staff-size 15)
 #(set-default-paper-size "letter")
 nb = { \noBreak }
