@@ -17,29 +17,29 @@ voicedefault =  {
 
     \time 2/4 
     \key a \major e'8^\upbow  |
- a'8-1 a'16^\downbow fis''16 e''16 cis''16 b'16 cis''16     |
- a'8-1 a''16 fis''16 e''16 cis''16 b'16 cis''16     |
- fis'16 gis'16 a'16 b'16 cis''8-. fis''16 (gis''16)    |
- a''16 fis''16 gis''16 e''16 cis''16 (fis''16) fis''8-.     |
- a''16 gis''16 a''16 fis''16 e''16 d''16 e''16-4 cis''16    |
- b'16 a'16 cis''16 a'16 fis'16 (a'16 ) e'8-.   |
- fis'16 gis'16 a'16 b'16 cis''8-. fis''8-1    |
- e''16 cis''16 b'16 cis''16 a'8  
+ a'8-1 a'16^\downbow fs''16 e''16 cs''16 b'16 cs''16     |
+ a'8-1 a''16 fs''16 e''16 cs''16 b'16 cs''16     |
+ fs'16 gs'16 a'16 b'16 cs''8-. fs''16 (gs''16)    |
+ a''16 fs''16 gs''16 e''16 cs''16 (fs''16) fs''8-.     |
+ a''16 gs''16 a''16 fs''16 e''16 d''16 e''16-4 cs''16    |
+ b'16 a'16 cs''16 a'16 fs'16 (a'16 ) e'8-.   |
+ fs'16 gs'16 a'16 b'16 cs''8-. fs''8-1    |
+ e''16 cs''16 b'16 cs''16 a'8  
   }     
 
-  \repeat volta 2 { cis''8^\upbow  |
- fis''8^\downbow fis''16^\downbow gis''16^\upbow a''16 (gis''16 a''16) fis''16-.    |
- e''16 (dis''16 e''16) fis''16-. e''16 cis''16 b'16 a'16     |
- e''16 (dis''16 e''16) fis''16-. e''16 cis''16 b'16 a'16     |
-    \grace { cis''16  
-	   } b'16 a'16 cis''16 b'16 a'16 fis'16 fis'16 e'16     |
+  \repeat volta 2 { cs''8^\upbow  |
+ fs''8^\downbow fs''16^\downbow gs''16^\upbow a''16 (gs''16 a''16) fs''16-.    |
+ e''16 (ds''16 e''16) fs''16-. e''16 cs''16 b'16 a'16     |
+ e''16 (ds''16 e''16) fs''16-. e''16 cs''16 b'16 a'16     |
+    \grace { cs''16  
+	   } b'16 a'16 cs''16 b'16 a'16 fs'16 fs'16 e'16     |
     \grace {    
- b'16       } a'16 e'16 a'16 b'16 cis''16 a'16 cis''16 e''16     |
- fis''16 e''16 a''16 fis''16 e''8    r8   |
+ b'16       } a'16 e'16 a'16 b'16 cs''16 a'16 cs''16 e''16     |
+ fs''16 e''16 a''16 fs''16 e''8    r8   |
     
-    \grace { e''16^\upbow fis''16 gis''16  
-	   } a''8 fis'16^\downbow gis'16 a'8-. cis''8-1    |
- b'16 a'16 gis'16 b'16    
+    \grace { e''16^\upbow fs''16 gs''16  
+	   } a''8 fs'16^\downbow gs'16 a'8-. cs''8-1    |
+ b'16 a'16 gs'16 b'16    
  a'8  
   }   
 

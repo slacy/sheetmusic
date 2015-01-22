@@ -14,30 +14,30 @@ voicedefault =  {
   \override Staff.TimeSignature #'style = #'C
   \time 2/2 
   \key d \major
-  \times 2/3 { a'8 (^\upbow b'8 cis''8)  	     }     |
- d''8^"Segno"(^\downbow a'8) fis'8-. a'8-. d''4    
-  \grace { e''8 ( 	 } d''8 cis''8)  |
- d''8 (a'8) fis'8-. a'8-. b'16 (e'8.) e'4  |
- d''8 (^\downbow a'8) fis'8-. a'8-. d''4 d''8 (cis''8)  |
- b'8 (d''8) cis''8-. b'8-. b'8 (a'8) b'8-. cis''8-.  |
+  \times 2/3 { a'8 (^\upbow b'8 cs''8)  	     }     |
+ d''8^"Segno"(^\downbow a'8) fs'8-. a'8-. d''4    
+  \grace { e''8 ( 	 } d''8 cs''8)  |
+ d''8 (a'8) fs'8-. a'8-. b'16 (e'8.) e'4  |
+ d''8 (^\downbow a'8) fs'8-. a'8-. d''4 d''8 (cs''8)  |
+ b'8 (d''8) cs''8-. b'8-. b'8 (a'8) b'8-. cs''8-.  |
  d''8 (
- a'8) fis'8-. a'8-. d''4    \grace { e''8 ( 				      } d''8 cis''8)  |
- d''8 (a'8) fis'8-. a'8-. b'16 (e'8.) e'4   |
- d''8 (^\downbow a'8) fis'8-. a'8-. d''4 d''8 ( cis''8)  |
- b'8 (d''8) cis''8 b'8 b'8 (a'8)   
-  \times 2/3 { b'8 (cis''8 d''8)  	     } \bar " |." e''4-4^\downbow  
- cis''8-. a'8-.   \grace { fis'8 ( 			    } e'8 dis'8) e'8-. a'8-.  |
- e''4-4 cis''8 a'8    \grace { cis''8 ( 			      } b'8 a'8) fis'8-. a'8-.  |
- e''4-4 cis''8 a'8    \grace {    
- fis'8 (   } e'8 dis'8) e'8-. a'8-.  |
- b'8 (d''8) cis''8-. b'8-. a'16 (fis'8.) fis'4   |
+ a'8) fs'8-. a'8-. d''4    \grace { e''8 ( 				      } d''8 cs''8)  |
+ d''8 (a'8) fs'8-. a'8-. b'16 (e'8.) e'4   |
+ d''8 (^\downbow a'8) fs'8-. a'8-. d''4 d''8 ( cs''8)  |
+ b'8 (d''8) cs''8 b'8 b'8 (a'8)   
+  \times 2/3 { b'8 (cs''8 d''8)  	     } \bar " |." e''4-4^\downbow  
+ cs''8-. a'8-.   \grace { fs'8 ( 			    } e'8 ds'8) e'8-. a'8-.  |
+ e''4-4 cs''8 a'8    \grace { cs''8 ( 			      } b'8 a'8) fs'8-. a'8-.  |
+ e''4-4 cs''8 a'8    \grace {    
+ fs'8 (   } e'8 ds'8) e'8-. a'8-.  |
+ b'8 (d''8) cs''8-. b'8-. a'16 (fs'8.) fs'4   |
  e''4-4   
- cis''8 a'8    \grace { fis'8 ( 		       } e'8 dis'8) e'8-. a'8-.   |
- e''4-4 cis''8 a'8    \grace { cis''8 (
-			      } b'8 a'8) fis'8-. a'8-.  |
- e''8-4 e''4 e''8 fis''4 e''8-0 d''8  |
- cis''8 (e''8-4) d''8-. b'8-. \grace {   
- cis''8     } b'8 a'8 (b'8 cis''8)     \bar " |."   
+ cs''8 a'8    \grace { fs'8 ( 		       } e'8 ds'8) e'8-. a'8-.   |
+ e''4-4 cs''8 a'8    \grace { cs''8 (
+			      } b'8 a'8) fs'8-. a'8-.  |
+ e''8-4 e''4 e''8 fs''4 e''8-0 d''8  |
+ cs''8 (e''8-4) d''8-. b'8-. \grace {   
+ cs''8     } b'8 a'8 (b'8 cs''8)     \bar " |."   
 
 }
 

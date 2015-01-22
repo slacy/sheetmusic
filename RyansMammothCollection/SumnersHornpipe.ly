@@ -15,25 +15,25 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 2/4 
-    \key d \major fis'16^\downbow e'16   |
- d'16 fis'16 a'16-4 fis'16 d'16 fis'16 a16 fis'16   |
+    \key d \major fs'16^\downbow e'16   |
+ d'16 fs'16 a'16-4 fs'16 d'16 fs'16 a16 fs'16   |
  e'16 g'16 a'16-4 g'16 e'16 g'16 a16 g'16   |
- fis'16 a'16 d''16 fis'16 g'16 b'16 e''16 cis''16   |
- a'16 d''16 fis''16 d''16 cis''16 a'16 g'16 e'16   |
- d'16 fis'16 a'16 fis'16 d'16 fis'16 a16 fis'16   |
+ fs'16 a'16 d''16 fs'16 g'16 b'16 e''16 cs''16   |
+ a'16 d''16 fs''16 d''16 cs''16 a'16 g'16 e'16   |
+ d'16 fs'16 a'16 fs'16 d'16 fs'16 a16 fs'16   |
  e'16 g'16 a'16 g'16 e'16 g'16 a16 g'16   |
- fis'16 a'16 d''16 a'16 b'16 g''16 e''16 cis''16   |
+ fs'16 a'16 d''16 a'16 b'16 g''16 e''16 cs''16   |
  d''8 d''8   
  d''8  
   }     
-  \repeat volta 2 { cis''16^\downbow d''16   |
- e''16-4 cis''16 a'16 cis''16 e'16 a'16 cis''16 e''16  |
- fis''16 d''16 a'16 d''16 fis'16 a'16 d''16 fis''16    |
- g''8 fis''16 (g''16) e''16 fis''16 d''16 fis''16  |
- e''16 d''16 cis''16 b'16 a'8 cis''16 (d''16)  |
- e''16 cis''16 a'16 cis''16 e'16 a'16 cis''16 e''16   |
- fis''16 d''16 a'16 d''16 fis'16 a'16 d''16 fis''16   |
- g''16 b''16 a''16 g''16 fis''16 e''16 d''16 cis''16   |
+  \repeat volta 2 { cs''16^\downbow d''16   |
+ e''16-4 cs''16 a'16 cs''16 e'16 a'16 cs''16 e''16  |
+ fs''16 d''16 a'16 d''16 fs'16 a'16 d''16 fs''16    |
+ g''8 fs''16 (g''16) e''16 fs''16 d''16 fs''16  |
+ e''16 d''16 cs''16 b'16 a'8 cs''16 (d''16)  |
+ e''16 cs''16 a'16 cs''16 e'16 a'16 cs''16 e''16   |
+ fs''16 d''16 a'16 d''16 fs'16 a'16 d''16 fs''16   |
+ g''16 b''16 a''16 g''16 fs''16 e''16 d''16 cs''16   |
  d''8 d''8 d''8  
   }   
 

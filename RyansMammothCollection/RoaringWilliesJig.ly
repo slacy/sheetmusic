@@ -12,24 +12,24 @@ voicedefault =  {
 
 
   \time 9/8 
-  \key a \major fis''8^\upbow        |
- e''8^"Segno" cis''8 a'8 a'8 b'8 a'8 cis''8 e''8 fis''8     |
- g''8 fis''8 g''8 b'8 g'8 b'8 d''4 (fis''8)    |
- e''8 cis''8 a'8 a'8 b'8 a'8 cis''8 e''8 gis''!8      |
- a''8 gis''8 a''8 cis''8 a'8 cis''8 e''8 fis''8 gis''8    |  |
- a''8 gis''8 fis''8 e''8 cis''8 a'8 cis''8 e''8 fis''8     |
- g''8 fis''8 g''8 b'8 gis'8 b'8 d''4 (fis''8)    |
- a'8^\downbow b'8 a'8 cis''4 a'8 cis''8 e''8 a''8     |
- cis''8 a'8 cis''8 b'8 gis'8 b'8 a'4    \bar "|." fis''8^\upbow        |
+  \key a \major fs''8^\upbow        |
+ e''8^"Segno" cs''8 a'8 a'8 b'8 a'8 cs''8 e''8 fs''8     |
+ g''8 fs''8 g''8 b'8 g'8 b'8 d''4 (fs''8)    |
+ e''8 cs''8 a'8 a'8 b'8 a'8 cs''8 e''8 gs''!8      |
+ a''8 gs''8 a''8 cs''8 a'8 cs''8 e''8 fs''8 gs''8    |  |
+ a''8 gs''8 fs''8 e''8 cs''8 a'8 cs''8 e''8 fs''8     |
+ g''8 fs''8 g''8 b'8 gs'8 b'8 d''4 (fs''8)    |
+ a'8^\downbow b'8 a'8 cs''4 a'8 cs''8 e''8 a''8     |
+ cs''8 a'8 cs''8 b'8 gs'8 b'8 a'4    \bar "|." fs''8^\upbow        |
   
- e''8^\downbow cis''8 a'8 a''8 cis''8 a'8 e''8 cis''8 a'8     |
- b'8 g'8 b'8 g''8 d''8 b'8 d''4 (fis''8)   |
- e''8 cis''8 a'8 a''8 cis''8 a'8 e''8 cis''8 a'8     |
- a''8 gis''!8 fis''8 e''8 cis''8 a'8 b'8 cis''8 d''8    |  |
- e''8 cis''8 a'8 a''8 cis''8 a'8 e''8 cis''8 a'8     |
- b'8 g'8 b'8 g''8 d''8 b'8 d''4 (fis''8)    |
- e''8 cis''8 a'8 a''8 cis''8 a'8 e''8 cis''8 a'8     |
- a''8 gis''!8 fis''8 e''8 cis''8 a'8 b'8 cis''8 d''8    <<   \bar " |."  
+ e''8^\downbow cs''8 a'8 a''8 cs''8 a'8 e''8 cs''8 a'8     |
+ b'8 g'8 b'8 g''8 d''8 b'8 d''4 (fs''8)   |
+ e''8 cs''8 a'8 a''8 cs''8 a'8 e''8 cs''8 a'8     |
+ a''8 gs''!8 fs''8 e''8 cs''8 a'8 b'8 cs''8 d''8    |  |
+ e''8 cs''8 a'8 a''8 cs''8 a'8 e''8 cs''8 a'8     |
+ b'8 g'8 b'8 g''8 d''8 b'8 d''4 (fs''8)    |
+ e''8 cs''8 a'8 a''8 cs''8 a'8 e''8 cs''8 a'8     |
+ a''8 gs''!8 fs''8 e''8 cs''8 a'8 b'8 cs''8 d''8    <<   \bar " |."  
 					       >>   
 
 }

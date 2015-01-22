@@ -15,26 +15,26 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 2/4 
-    \key a \major cis''16^\downbow d''16   |
- fis''16 e''16 e''16 e''16 e''16 a''16 gis''16 fis''16   |
- fis''16 e''16 e''16 e''16 e''8-. cis''16^\downbow e''16    |
- e''16 d''16 fis''16 d''16 d''16 cis''16 e''16-4 cis''16   |
- d''16 b'16 a'16 gis'16 a'16 b'16 cis''16 d''16   |
- fis''16 e''16 e''16 e''16 e''16 a''16 gis''16 fis''16   |
- fis''16 e''16 e''16 e''16 e''8-. cis''16^\downbow e''16   |
- e''16 d''16 fis''16 d''16 d''16 cis''16 a'16 cis''16   |
+    \key a \major cs''16^\downbow d''16   |
+ fs''16 e''16 e''16 e''16 e''16 a''16 gs''16 fs''16   |
+ fs''16 e''16 e''16 e''16 e''8-. cs''16^\downbow e''16    |
+ e''16 d''16 fs''16 d''16 d''16 cs''16 e''16-4 cs''16   |
+ d''16 b'16 a'16 gs'16 a'16 b'16 cs''16 d''16   |
+ fs''16 e''16 e''16 e''16 e''16 a''16 gs''16 fs''16   |
+ fs''16 e''16 e''16 e''16 e''8-. cs''16^\downbow e''16   |
+ e''16 d''16 fs''16 d''16 d''16 cs''16 a'16 cs''16   |
  e''16-4 d''16    
- b'16 gis'16 a'8  
+ b'16 gs'16 a'8  
   }     
   \repeat volta 2 { e'8^\upbow  |
- a'16 cis''16 cis''16 e''16-4 a'16 cis''16 cis''16 e''16    |
- e''16 d''16 fis''16 d''16 d''16 cis''16 cis''8-.  |
- a'16^\downbow cis''16 cis''16 e''16-4 a'16 cis''16 cis''16 e''16   |
- e''16 d''16 cis''16 b'16 a'16 e'16 fis'16 gis'16   |
- a'16 cis''16 cis''16 e''16 a'16 cis''16 cis''16 e''16   |
- e''16 d''16 fis''16 d''16 d''16 cis''16 cis''8-.  |
- a'16^\downbow cis''16 cis''16 e''16-4 a'16 cis''16 cis''16 e''16   |
- e''16-4 d''16 b'16 gis'16 a'8  
+ a'16 cs''16 cs''16 e''16-4 a'16 cs''16 cs''16 e''16    |
+ e''16 d''16 fs''16 d''16 d''16 cs''16 cs''8-.  |
+ a'16^\downbow cs''16 cs''16 e''16-4 a'16 cs''16 cs''16 e''16   |
+ e''16 d''16 cs''16 b'16 a'16 e'16 fs'16 gs'16   |
+ a'16 cs''16 cs''16 e''16 a'16 cs''16 cs''16 e''16   |
+ e''16 d''16 fs''16 d''16 d''16 cs''16 cs''8-.  |
+ a'16^\downbow cs''16 cs''16 e''16-4 a'16 cs''16 cs''16 e''16   |
+ e''16-4 d''16 b'16 gs'16 a'8  
   }   
 
 }

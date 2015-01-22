@@ -19,10 +19,10 @@ voicedefault =  {
  a'4^\downbow d'8 d'8 e'8 d'8     |
  c''4. g'4 f'8    |
  e'4 c'8 c'8 d'8-4 c'8     |
- e'4 f'8 g'4 bes'8        |
+ e'4 f'8 g'4 bf'8        |
  a'4 d'8 d'8 e'8 d'8     |
  c''4. d''4 e''8     |
- f''4 d''8 e''4 cis''8    |
+ f''4 d''8 e''4 cs''8    |
  d''4.  << d''4 f'4 
 	    >>   
   }     
@@ -33,7 +33,7 @@ voicedefault =  {
  e''4 f''8 g''4 e''8         |
  f''8 e''8 d''8 a''4 d''8    |
  f''8 e''8 d''8 a''4 d''8     |
- e''4-4 cis''8 a'8 b'8 cis''!8     |
+ e''4-4 cs''8 a'8 b'8 cs''!8     |
  d''4.  << d''4 f'4   >>   
   }   
 

@@ -16,36 +16,36 @@ voicedefault =  {
 
     \time 6/8 
     \key d \major b'8^\upbow  |
- a'8 g'8 fis'8 e'8 fis'8 d'8     |
- d'8 fis'8 a'8 a'8 fis'8 a'8     |
- b'8 a'8 b'8 (d''8) e''8-. fis''8-.   |
- g''8 fis''8 g''8 e''4 b'8     |
- a'8 g'8 fis'8 e'8 fis'8 d'8     |
- d'8 fis'8 a'8 a'8 fis'8 a'8     |
+ a'8 g'8 fs'8 e'8 fs'8 d'8     |
+ d'8 fs'8 a'8 a'8 fs'8 a'8     |
+ b'8 a'8 b'8 (d''8) e''8-. fs''8-.   |
+ g''8 fs''8 g''8 e''4 b'8     |
+ a'8 g'8 fs'8 e'8 fs'8 d'8     |
+ d'8 fs'8 a'8 a'8 fs'8 a'8     |
  b'8 a'8 b'8 (d''8) e''8-. g''8-.   |
     
- fis''8 e''8 cis''8 d''4    
+ fs''8 e''8 cs''8 d''4    
   }     
   \repeat volta 2 { g''8^\fermata^\upbow  |
- fis''8 e''8 d''8 fis''8 a''8 fis''8     |
- e''8 d''8 e''8 fis''8 d''8 b'8    |
- a'8 fis'8 a'8 d''8 e''8 fis''8     |
- g''8 fis''8 g''8 e''8 a''8 g''8     |
- fis''8 e''8 d''8 fis''8 a''8 fis''8     |
- e''8 d''8 e''8 fis''8 d''8 b'8     |
- a'8 fis'8 a'8 d''8 e''8 g''8    |
- fis''8    
- e''8 cis''8 d''4  
+ fs''8 e''8 d''8 fs''8 a''8 fs''8     |
+ e''8 d''8 e''8 fs''8 d''8 b'8    |
+ a'8 fs'8 a'8 d''8 e''8 fs''8     |
+ g''8 fs''8 g''8 e''8 a''8 g''8     |
+ fs''8 e''8 d''8 fs''8 a''8 fs''8     |
+ e''8 d''8 e''8 fs''8 d''8 b'8     |
+ a'8 fs'8 a'8 d''8 e''8 g''8    |
+ fs''8    
+ e''8 cs''8 d''4  
   }     
   \repeat volta 2 { g''8^\upbow  |
- fis''8 d''8 fis''8 e''8 cis''8 e''8     |
- d''8 b'8 d''8 a'8 fis'8 a'8     |
- a'8 fis'8 a'8 d''8 e''8 fis''8     |
- g''8 fis''8 g''8 e''8 a''8 g''8     |
- fis''8 d''8 fis''8 e''8 cis''8 e''8    |
- d''8 b'8 d''8 a'8 fis'8 a'8     |
- a'8 fis'8 a'8 d''8 e''8 g''8     |
- fis''8 e''8 cis''8 d''4      
+ fs''8 d''8 fs''8 e''8 cs''8 e''8     |
+ d''8 b'8 d''8 a'8 fs'8 a'8     |
+ a'8 fs'8 a'8 d''8 e''8 fs''8     |
+ g''8 fs''8 g''8 e''8 a''8 g''8     |
+ fs''8 d''8 fs''8 e''8 cs''8 e''8    |
+ d''8 b'8 d''8 a'8 fs'8 a'8     |
+ a'8 fs'8 a'8 d''8 e''8 g''8     |
+ fs''8 e''8 cs''8 d''4      
   }   
 
 }

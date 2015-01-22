@@ -32,7 +32,7 @@ voicedefault =  {
  e''8 c''8 c''8 c''4    r8        |
  f''4^\accent   r8 g''4^\accent   r8   |
  a''8 g''8 f''8 e''8 d''8 c''8     |
- d''8 e''8 f''8 c''4 ( bes'8-.)    |
+ d''8 e''8 f''8 c''4 ( bf'8-.)    |
  a'8 f'8 f'8 f'4    r8   
   }   
 

@@ -14,21 +14,21 @@ voicedefault =  {
   \override Staff.TimeSignature #'style = #'C
   \time 2/2 
   \key d \major
- b'8^\downbow a'8 a'8 b'8 d''8 a'8 fis'8 a'8     |
- b'8 a'8 a'8 b'8 d''8 e''8 fis''8 d''8     |
- b'8 a'8 a'8 b'8 d''8 a'8 fis'8 a'8     |
- d''8 e''8 fis''8 d''8 e''4 d''4    |
- b'8 a'8 a'8 b'8 d''8 a'8 fis'8 a'8     |
- b'8 a'8 a'8 b'8 d''8 e''8 fis''8 d''8     |
- b'8 a'8 a'8 b'8 d''8 a'8 fis'8 a'8     |
- d''8 e''8 fis''8 d''8 e''4 d''4    \bar " |." d''8 fis''8 a''8 fis''8 b''8 fis''8 a''8 fis''8     |
- d''8 fis''8 a''8 fis''8 g''4 fis''8 e''8     |
- d''8 fis''8 a''8 fis''8 b''8 fis''8 a''8 fis''8     |
- d''8 e''8 fis''8 d''8 e''4 d''4     |
- d''8 fis''8 a''8 fis''8 b''8 fis''8 a''8 fis''8     |
- b''8 fis''8 a''8 fis''8 e''4 d''8 e''8     |
- a''8 fis''8 e''8 fis''8 d''8 b'8 a'8 b'8     |
- fis''8 a''8 fis''8 d''8 e''4 d''4    \bar "|." 
+ b'8^\downbow a'8 a'8 b'8 d''8 a'8 fs'8 a'8     |
+ b'8 a'8 a'8 b'8 d''8 e''8 fs''8 d''8     |
+ b'8 a'8 a'8 b'8 d''8 a'8 fs'8 a'8     |
+ d''8 e''8 fs''8 d''8 e''4 d''4    |
+ b'8 a'8 a'8 b'8 d''8 a'8 fs'8 a'8     |
+ b'8 a'8 a'8 b'8 d''8 e''8 fs''8 d''8     |
+ b'8 a'8 a'8 b'8 d''8 a'8 fs'8 a'8     |
+ d''8 e''8 fs''8 d''8 e''4 d''4    \bar " |." d''8 fs''8 a''8 fs''8 b''8 fs''8 a''8 fs''8     |
+ d''8 fs''8 a''8 fs''8 g''4 fs''8 e''8     |
+ d''8 fs''8 a''8 fs''8 b''8 fs''8 a''8 fs''8     |
+ d''8 e''8 fs''8 d''8 e''4 d''4     |
+ d''8 fs''8 a''8 fs''8 b''8 fs''8 a''8 fs''8     |
+ b''8 fs''8 a''8 fs''8 e''4 d''8 e''8     |
+ a''8 fs''8 e''8 fs''8 d''8 b'8 a'8 b'8     |
+ fs''8 a''8 fs''8 d''8 e''4 d''4    \bar "|." 
   
 
 }

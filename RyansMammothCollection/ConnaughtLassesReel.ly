@@ -12,30 +12,30 @@ voicedefault =  {
 
 
   \time 2/4 
-  \key d \major   \bar " |." d'8^"Segno"   \times 2/3 { fis'16 
-				       (e'16 d'16)  				     } fis'16 a'16 a'16 fis'16     |
- g'8 b'16 g'16 fis'16 a'16 b'16 cis''16     |
- d''16 cis''16 d''16 b'16 a'16 d''16 e''16 fis''16     |
- g''16 fis''16 e''16 d''16 cis''16 b'16 a'16 fis'16     |  |
- d'8    \times 2/3 { fis'16 (e'16 d'16) 
-		    } fis'16 a'16 a'16 fis'16     |
- g'8 b'16 g'16 fis'16 a'16 b'16 cis''16     |
- e''16 cis''16 d''16 fis''16 e''16 d''16 cis''16 b'16     |
- a'16 g'16 fis'16 e'16 d'16 a16 b16 cis'16    \bar ": |" a'16 g'16 fis'16 e'16 d'8    \bar "|." fis''16 g''16    |  |
+  \key d \major   \bar " |." d'8^"Segno"   \times 2/3 { fs'16 
+				       (e'16 d'16)  				     } fs'16 a'16 a'16 fs'16     |
+ g'8 b'16 g'16 fs'16 a'16 b'16 cs''16     |
+ d''16 cs''16 d''16 b'16 a'16 d''16 e''16 fs''16     |
+ g''16 fs''16 e''16 d''16 cs''16 b'16 a'16 fs'16     |  |
+ d'8    \times 2/3 { fs'16 (e'16 d'16) 
+		    } fs'16 a'16 a'16 fs'16     |
+ g'8 b'16 g'16 fs'16 a'16 b'16 cs''16     |
+ e''16 cs''16 d''16 fs''16 e''16 d''16 cs''16 b'16     |
+ a'16 g'16 fs'16 e'16 d'16 a16 b16 cs'16    \bar ": |" a'16 g'16 fs'16 e'16 d'8    \bar "|." fs''16 g''16    |  |
  a''8  
-  \grace { b''16   	 } a''16 g''16 a''16 fis''16 d''16 fis''16     |
- g''16 fis''16 e''16 d''16 cis''16 b'16 a'16 fis'16     |
- g'8 b'16 g'16 fis'8 e''16 fis''16     |
- g''16 fis''16 e''16 d''16 cis''8 e''16 a'16     | |
+  \grace { b''16   	 } a''16 g''16 a''16 fs''16 d''16 fs''16     |
+ g''16 fs''16 e''16 d''16 cs''16 b'16 a'16 fs'16     |
+ g'8 b'16 g'16 fs'8 e''16 fs''16     |
+ g''16 fs''16 e''16 d''16 cs''8 e''16 a'16     | |
  a''8  \grace { b''16  
 	       } a''16 g''16 a''16    
- fis''16 d''16 fis''16 g''16 fis''16 e''16 d''16 cis''16 b'16 a'16 fis'16     |
- g'8 b'16 g'16 fis'8 a'16 fis'16     |
- a8 cis'8 d'4    |
-  \bar ":|" d''16 fis''16 a''16 gis''16 a''16 fis''16 d''16 fis''16     |
- g''16 fis''16 e''16 d''16 cis''16 b'16 a'16 fis''16      |
- g''16 fis''16 g''16 e''16 fis''16 cis''16 d''16 b'16     |
- a'16 g'16 fis'16 e'16 d'16 a16 b16 cis'16      \bar " |."   
+ fs''16 d''16 fs''16 g''16 fs''16 e''16 d''16 cs''16 b'16 a'16 fs'16     |
+ g'8 b'16 g'16 fs'8 a'16 fs'16     |
+ a8 cs'8 d'4    |
+  \bar ":|" d''16 fs''16 a''16 gs''16 a''16 fs''16 d''16 fs''16     |
+ g''16 fs''16 e''16 d''16 cs''16 b'16 a'16 fs''16      |
+ g''16 fs''16 g''16 e''16 fs''16 cs''16 d''16 b'16     |
+ a'16 g'16 fs'16 e'16 d'16 a16 b16 cs'16      \bar " |."   
 
 }
 

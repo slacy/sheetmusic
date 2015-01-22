@@ -17,33 +17,33 @@ voicedefault =  {
     \override Staff.TimeSignature #'style = #'C
     \time 2/2 
     \key a \major
-    \times 2/3 { e''8 (^\upbow fis''8 gis''8) 
+    \times 2/3 { e''8 (^\upbow fs''8 gs''8) 
  	       }        |
- a''8. a''16 e''8. cis''16 a'8. cis''16 fis''8. e''16     |
- d''8. cis''16 b'8. a'16 gis'8. b'16 e'8. gis'16     |
- a'8. b'16 cis''8. d''16 e''8.-4 cis''16 a'8. cis''16     |
- b'8. e''16 dis''8. fis''16 e''8. e''16 fis''8. gis''16    |  |
- a''8. a''16 e''8. cis''16 a'8. cis''16 fis''8. e''16      |
- d''8. cis''16 b'8. a'16 gis'8. b'16 e'8. gis'16  |
- a'8. a''16 e''8. cis''16 fis''8. d''16 b'8. gis'16     |
- a'4 cis''4 a'4    
+ a''8. a''16 e''8. cs''16 a'8. cs''16 fs''8. e''16     |
+ d''8. cs''16 b'8. a'16 gs'8. b'16 e'8. gs'16     |
+ a'8. b'16 cs''8. d''16 e''8.-4 cs''16 a'8. cs''16     |
+ b'8. e''16 ds''8. fs''16 e''8. e''16 fs''8. gs''16    |  |
+ a''8. a''16 e''8. cs''16 a'8. cs''16 fs''8. e''16      |
+ d''8. cs''16 b'8. a'16 gs'8. b'16 e'8. gs'16  |
+ a'8. a''16 e''8. cs''16 fs''8. d''16 b'8. gs'16     |
+ a'4 cs''4 a'4    
   }     
-  \repeat volta 2 { d''8 (^\upbow cis''8)        |
- b'8. cis''16 b'8. a'16 gis'8. e'16 fis'8. gis'16     |
- a'8. b'16 cis''8. d''16 e''8. cis''16 a'8. cis''16     |
- d''8. cis''16 d''8. e''16 fis''8. e''16 d''8. cis''16     |
- b'8. e''16 d''8. fis''16 e''8. e''16 fis''8. gis''16     |
+  \repeat volta 2 { d''8 (^\upbow cs''8)        |
+ b'8. cs''16 b'8. a'16 gs'8. e'16 fs'8. gs'16     |
+ a'8. b'16 cs''8. d''16 e''8. cs''16 a'8. cs''16     |
+ d''8. cs''16 d''8. e''16 fs''8. e''16 d''8. cs''16     |
+ b'8. e''16 d''8. fs''16 e''8. e''16 fs''8. gs''16     |
      |
     \times 2/3 { a''8 (b''8 a''8) 
-	       } e''8. cis''16    
-    \times 2/3 { fis''8 (gis''8 fis''8)  	       } d''8. b'16     |
+	       } e''8. cs''16    
+    \times 2/3 { fs''8 (gs''8 fs''8)  	       } d''8. b'16     |
     
-    \times 2/3 { e''8 (fis''8 e''8) 
-	       } cis''8. a'16    \times 2/3 {  
-		 d''8 (e''8 d''8)  	       } b'8. gis'16     |
- a'8. a''16 e''8. cis''16 fis''8. d''16 b'8. gis'16     |
+    \times 2/3 { e''8 (fs''8 e''8) 
+	       } cs''8. a'16    \times 2/3 {  
+		 d''8 (e''8 d''8)  	       } b'8. gs'16     |
+ a'8. a''16 e''8. cs''16 fs''8. d''16 b'8. gs'16     |
  a'4    
- cis''4 a'4    
+ cs''4 a'4    
   }   
 
 }

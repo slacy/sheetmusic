@@ -3,7 +3,7 @@
 \header {
   %% book = "Ryan's Mammoth Collection"
  crossRefNumber = "1"
- footnotes = "\\\\162\\\\(Often used for Virginia Reel)\\\\VIRGINIA REEL. First lady and foot gent, forward (meet each other) and =\\\\places.- First gent and foot lady same- First lady and foot gent, =\\\\with right hands. back to places.- First gent and foot lady =\\\\foot gent, forward, turn with left hands, back to places- First gent =\\\\same.- First lady and foot gent, forward, turn with both hands, back =\\\\First gent and foot lady same.-(First lady and foot gent, forward, =\\\\gent and foot lady same)-[SELDOM USED.] First couple give right =\\\\to opposite (so on to foot of set) up centre with partner to places.- =\\\\to right, gents to left, all up the centre. First couple down centre ="
+ footnotes = "\\\\162\\\\(Often used for Virginia Reel)\\\\VIRGINIA REEL. First lady and foot gent, forward (meet each other) and =\\\\placf.- First gent and foot lady same- First lady and foot gent, =\\\\with right hands. back to placf.- First gent and foot lady =\\\\foot gent, forward, turn with left hands, back to placf- First gent =\\\\same.- First lady and foot gent, forward, turn with both hands, back =\\\\First gent and foot lady same.-(First lady and foot gent, forward, =\\\\gent and foot lady same)-[SELDOM USED.] First couple give right =\\\\to opposite (so on to foot of set) up centre with partner to placf.- =\\\\to right, gents to left, all up the centre. First couple down centre ="
   tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
   title = "McDonald's -- Reel"
 
@@ -35,8 +35,8 @@ voicedefault =  {
  d''8 e''8 d''8 c''8 b'8 g'8 g'8 e'8     |
  d'8 g'8 b'8 g'8 a'8 g'8 b'8 g'8     |
  d'8 g'8 b'8 g'8 a'8 g'8 e'8 g'8     |
- b'8 a'8 g'8 fis'8 g'8 fis'8 e'8 d'8     |
- e'8 fis'8 g'8 a'8 b'8 g'8 g'8  
+ b'8 a'8 g'8 fs'8 g'8 fs'8 e'8 d'8     |
+ e'8 fs'8 g'8 a'8 b'8 g'8 g'8  
   }   
 
 }

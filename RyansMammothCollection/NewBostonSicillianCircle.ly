@@ -21,7 +21,7 @@ voicedefault =  {
  d''4. d''8  |
  d''8 (^\tenuto c''8) c''8 c''8   |
  c''8 (^\tenuto b'8) b'8 b'8  |
- b'8 (^\tenuto a'8) c''8 fis'8   |
+ b'8 (^\tenuto a'8) c''8 fs'8   |
  g'4. d'8  |
  g'8^\downbow a'8 b'8 c''8   |
  d''8 d''8 g''8 d''8   |
@@ -29,7 +29,7 @@ voicedefault =  {
  d''4. d''8  |
  d''8 (^\tenuto c''8) c''8 c''8   |
  c''8 (^\tenuto b'8) b'8 b'8   |
- b'8 (^\tenuto a'8) c''8 fis'8  |
+ b'8 (^\tenuto a'8) c''8 fs'8  |
  g'4.    r8 \bar " |."   
     \key c \major
     << c''16^"ff"^\downbow e'16   >> 

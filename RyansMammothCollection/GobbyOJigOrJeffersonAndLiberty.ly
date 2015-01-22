@@ -16,11 +16,11 @@ voicedefault =  {
 
     \time 6/8 
     \key a \minor a'16 b'16   |
- c''4 a'8 a'8 gis'8 a'8     |
+ c''4 a'8 a'8 gs'8 a'8     |
  e'4 a'8 a'8 b'8 c''8    |
  b'4 g'8 g'8 b'8 c''8     |
  d''8 b'8 g'8 g'8 a'8 b'8     |
- c''4 a'8 a'8 gis'8 a'8    |
+ c''4 a'8 a'8 gs'8 a'8    |
  e'4 a'8 a'4 e''8     |
  e''8 d''8 c''8 b'8 a'8 b'8     |
  e'4 a'8 a'4  

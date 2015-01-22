@@ -16,31 +16,31 @@ voicedefault =  {
 
     \time 2/4 
     \key a \major
-    \times 2/3 { e'16^\upbow(fis'16 gis'16)  	       }   |
- a'16 cis''16 b'16 a'16 a'16 cis''16 e''16-4 cis''16     |
- d''16 e''16 fis''16 gis''16 a''16 fis''16 e''16 cis''16     |
- a'8-1 cis''16 (b'16) a'16 cis''16 e''16-4 cis''16     |
- b'16 cis''16 b'16 a'16 gis'16 e'16 fis'16 gis'16     |
- a'8-1 cis''16 ( b'16) a'16 cis''16 e''16-4 cis''16     |
+    \times 2/3 { e'16^\upbow(fs'16 gs'16)  	       }   |
+ a'16 cs''16 b'16 a'16 a'16 cs''16 e''16-4 cs''16     |
+ d''16 e''16 fs''16 gs''16 a''16 fs''16 e''16 cs''16     |
+ a'8-1 cs''16 (b'16) a'16 cs''16 e''16-4 cs''16     |
+ b'16 cs''16 b'16 a'16 gs'16 e'16 fs'16 gs'16     |
+ a'8-1 cs''16 ( b'16) a'16 cs''16 e''16-4 cs''16     |
  d''16 e''16 
- fis''16 gis''16    \times 2/3 { a''16 (gis''16 a''16) 
-				  } e''16 (cis''16)    |
- fis''16 e''16 d''16 fis''16 e''16 cis''16 a'16 cis''16     |
- b'16 a'16 gis'16    
+ fs''16 gs''16    \times 2/3 { a''16 (gs''16 a''16) 
+				  } e''16 (cs''16)    |
+ fs''16 e''16 d''16 fs''16 e''16 cs''16 a'16 cs''16     |
+ b'16 a'16 gs'16    
  b'16 a'8    
   }   
   \key e \major
   
-  \repeat volta 2 { gis'16^\fermata^\downbow a'16   |
- cis''16 (b'16) b'16-. b'16-. b'8-. cis''16^\downbow dis''16    |
- e''16 dis''16 e''16 fis''16 gis''8-. fis''16 (gis''16)    |
- a''16 gis''16 fis''16 a''16 gis''16 fis''16 e''16 gis''16      |
- fis''16 e''16 dis''16 cis''16 b'16 a'16 gis'16 a'16     |
- cis''16 (b'16) b'16-. b'16-. b'8-. cis''16^\downbow dis''16     |
- e''16 dis''16 e''16 fis''16 gis''8-. fis''16 (gis''16)    |
- a''16 gis''16 fis''16 a''16 gis''16 fis''16 e''16 gis''16     |
- fis''16    
- e''16 dis''16 fis''16 e''8    
+  \repeat volta 2 { gs'16^\fermata^\downbow a'16   |
+ cs''16 (b'16) b'16-. b'16-. b'8-. cs''16^\downbow ds''16    |
+ e''16 ds''16 e''16 fs''16 gs''8-. fs''16 (gs''16)    |
+ a''16 gs''16 fs''16 a''16 gs''16 fs''16 e''16 gs''16      |
+ fs''16 e''16 ds''16 cs''16 b'16 a'16 gs'16 a'16     |
+ cs''16 (b'16) b'16-. b'16-. b'8-. cs''16^\downbow ds''16     |
+ e''16 ds''16 e''16 fs''16 gs''8-. fs''16 (gs''16)    |
+ a''16 gs''16 fs''16 a''16 gs''16 fs''16 e''16 gs''16     |
+ fs''16    
+ e''16 ds''16 fs''16 e''8    
   }   
 
 }

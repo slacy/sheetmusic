@@ -16,25 +16,25 @@ voicedefault =  {
   \key d \major d''8^\downbow b'8  <<   \bar " |."     
 
 			  \repeat volta 2 {
-			 a'4^"segno" fis'8 a'8 d'8 a'8 fis'8 a'8    			     |
-			 d'8 a'8 fis'8 a'8 b'8 e'8 e'8 b'8    |
-			     			 a'4 fis'8 a'8 d'8 a'8 fis'8 a'8     |
-			 a'8 d''8     			 d''8 e''8 fis''8 d''8 d''8 b'8         |
-			 a'4 fis'8     			 a'8 d'8 a'8 fis'8 a'8     |
-			 d'8 a'8 fis'8 a'8     			 b'8 e'8 e'8 b'8     |
-			 a'4 fis'8 a'8 d'8 a'8     			 fis'8 a'8     |
-			 a'8 d''8 d''8 e''8 fis''8 d''8    
+			 a'4^"segno" fs'8 a'8 d'8 a'8 fs'8 a'8    			     |
+			 d'8 a'8 fs'8 a'8 b'8 e'8 e'8 b'8    |
+			     			 a'4 fs'8 a'8 d'8 a'8 fs'8 a'8     |
+			 a'8 d''8     			 d''8 e''8 fs''8 d''8 d''8 b'8         |
+			 a'4 fs'8     			 a'8 d'8 a'8 fs'8 a'8     |
+			 d'8 a'8 fs'8 a'8     			 b'8 e'8 e'8 b'8     |
+			 a'4 fs'8 a'8 d'8 a'8     			 fs'8 a'8     |
+			 a'8 d''8 d''8 e''8 fs''8 d''8    
 			 d''8 b'8    
 			  }     
 			  \repeat volta 2 {
-			 fis''8 d''8 a''8 d''8 b''8  			 d''8 a''8 d''8     |
-			 fis''8 d''8 a''8 d''8 cis''8   			 e''8 e''8 g''8     |
-			 fis''8 d''8 a''8 d''8 b''8     			 d''8 a''8 d''8     |
-			 a''8 d''8 d''8 e''8 fis''8     			 d''8 d''8 g''8         |
-			 fis''8 d''8 a''8 d''8 b''8    			 d''8 a''8 d''8     |
-			 fis''8 d''8 a''8 d''8 cis''8     			 e''8 e''8 g''8     |
-			 fis''8 d''8 e''8 cis''8 d''8     			 b'8 cis''8 a'8     |
-			 a'8 d''8 d''8 e''8 fis''8     			 d''8 d''8 cis''8    <<   \bar " |."   
+			 fs''8 d''8 a''8 d''8 b''8  			 d''8 a''8 d''8     |
+			 fs''8 d''8 a''8 d''8 cs''8   			 e''8 e''8 g''8     |
+			 fs''8 d''8 a''8 d''8 b''8     			 d''8 a''8 d''8     |
+			 a''8 d''8 d''8 e''8 fs''8     			 d''8 d''8 g''8         |
+			 fs''8 d''8 a''8 d''8 b''8    			 d''8 a''8 d''8     |
+			 fs''8 d''8 a''8 d''8 cs''8     			 e''8 e''8 g''8     |
+			 fs''8 d''8 e''8 cs''8 d''8     			 b'8 cs''8 a'8     |
+			 a'8 d''8 d''8 e''8 fs''8     			 d''8 d''8 cs''8    <<   \bar " |."   
 						   }   
 
 					       }

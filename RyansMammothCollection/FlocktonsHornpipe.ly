@@ -16,29 +16,29 @@ voicedefault =  {
 
     \override Staff.TimeSignature #'style = #'C
     \time 2/2 
-    \key a \major fis'4^\upbow  |
- e'8. (e''16-4) cis''8. (a'16) e'8._"Segue" d''16 b'8. gis'16   |
- e'8. e''16 cis''8. a'16 e'8. d''16 b'8. gis'16   |
+    \key a \major fs'4^\upbow  |
+ e'8. (e''16-4) cs''8. (a'16) e'8._"Segue" d''16 b'8. gs'16   |
+ e'8. e''16 cs''8. a'16 e'8. d''16 b'8. gs'16   |
     
- fis'8. fis''16-4 e'8. e''16-4 d'8. d''16 cis'8. cis''16   |
- b'8. d''16 cis''8. b'16 a'8. gis'16 fis'8. e'16   |
- e'8. e''16-4 cis''8. a'16 e'8. d''16 b'8. gis'16   |
- e'8. e''16-4 cis''8. a'16 e'8. d''16 b'8. a'16   |
- gis'8. a'16 b'8. cis''16 d''8. e''16 fis''8. gis''16   |
- gis''8. (a''16) e''8. 
- cis''16 a'4  
+ fs'8. fs''16-4 e'8. e''16-4 d'8. d''16 cs'8. cs''16   |
+ b'8. d''16 cs''8. b'16 a'8. gs'16 fs'8. e'16   |
+ e'8. e''16-4 cs''8. a'16 e'8. d''16 b'8. gs'16   |
+ e'8. e''16-4 cs''8. a'16 e'8. d''16 b'8. a'16   |
+ gs'8. a'16 b'8. cs''16 d''8. e''16 fs''8. gs''16   |
+ gs''8. (a''16) e''8. 
+ cs''16 a'4  
   }     
   \repeat volta 2 {
     \times 2/3 { a'8-4(^\upbow  
-		 gis'8 a'8-4)  	       }  |
- b'8. (e'16-.) cis''8. (e'16-.) d''8._"Segue" e'16 cis''8. e'16   |
- b'8. cis''16 b'8. a'16-0 a'8.-4 gis'16 fis'8. e'16   |
- fis'8. fis''16-4 e'8. e''16-4 d'8. d''16 cis'8. cis''16    |
- b'8. d''16 cis''8. b'16 a'8. gis'16 fis'8. e'16  |
- e'8. e''16-4 cis''8. a'16 e'8. d''16 b'8. gis'16   |
- e'8. e''16-4 cis''8. a'16 e'8. d''16 b'8. a'16   |
- gis'8. a'16 b'8. cis''16 d''8. e''16 fis''8. gis''16   |
- gis''8. (a''16) e''8. cis''16    
+		 gs'8 a'8-4)  	       }  |
+ b'8. (e'16-.) cs''8. (e'16-.) d''8._"Segue" e'16 cs''8. e'16   |
+ b'8. cs''16 b'8. a'16-0 a'8.-4 gs'16 fs'8. e'16   |
+ fs'8. fs''16-4 e'8. e''16-4 d'8. d''16 cs'8. cs''16    |
+ b'8. d''16 cs''8. b'16 a'8. gs'16 fs'8. e'16  |
+ e'8. e''16-4 cs''8. a'16 e'8. d''16 b'8. gs'16   |
+ e'8. e''16-4 cs''8. a'16 e'8. d''16 b'8. a'16   |
+ gs'8. a'16 b'8. cs''16 d''8. e''16 fs''8. gs''16   |
+ gs''8. (a''16) e''8. cs''16    
  a'4  
   }   
 

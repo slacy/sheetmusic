@@ -25,16 +25,16 @@ voicedefault =  {
  e'16 (a'8.-4) a'8. a'16 a'8. g'16 a'8.-0 e''16-4    |
  e''8.-4 c''16 d''8. e''16-4 c''16 (a'8.) a'4    \bar "|." b'8^\upbow  |
  a'8.^\downbow(a''16-.) a''4^\trill \grace {  
- gis''8 a''8  
+ gs''8 a''8  
   } a'8. (a''16-.) a''4_\segue^\trill \grace {    
- gis''!8 a''8     }    |
+ gs''!8 a''8     }    |
  g'8. g''16 g''4^\trill \grace {    
- fis''8 g''8  
-  } g'8. g''16 g''4^\trill \grace { fis''!8 g''8  
+ fs''8 g''8  
+  } g'8. g''16 g''4^\trill \grace { fs''!8 g''8  
  				  }    |
- a'8. a''16 a''4^\trill \grace { gis''8 a''8  
+ a'8. a''16 a''4^\trill \grace { gs''8 a''8  
 				}   
- a'8. a''16 a''4^\trill \grace { gis''!8 a''8   				}    |
+ a'8. a''16 a''4^\trill \grace { gs''!8 a''8   				}    |
   
  g''8.^\downbow(e''16-.) e''8-4(d''16 b'16) b'16 ( a'8.-.) a'8. (g''16-.)    |
   \times 2/3 { a''8 (b''8   

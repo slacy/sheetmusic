@@ -19,38 +19,38 @@ voicedefault =  {
     
     \key a \major e'8^\upbow    |
     \times 2/3 { a'16^\segno^\downbow  
-		 a'16 a'16   	       } a'16 a'16    r16 a'16-4 gis'16 b'16      |
-    r16 a'16^\downbow d''16 fis''16 e''4    |
+		 a'16 a'16   	       } a'16 a'16    r16 a'16-4 gs'16 b'16      |
+    r16 a'16^\downbow d''16 fs''16 e''4    |
     
-    \times 2/3 { fis''16^\downbow fis''16 fis''16  
-	       } fis''16 fis''16        r16 cis''16 d''16 fis''16     |
-    r16 cis''16 d''16 b'16    
- a'8       } cis''8^\upbow  |
-  r16 a'16-4^\upbow gis'16.\turn e'32 cis'32 a16.    r8    |
-  r16 a'16-4^\upbow gis'16.    \turn e'32 cis'32 a16.    r8    |
-  r16 a'16-4^\upbow gis'16. e'32 cis'16. d'32 e'16. fis'32     |
- gis'16.    
- e'32 fis'16. e'32 cis'32 a16.   } a8^\upbow  |
-bes4^\accent(a8)   r8   |
-r16 a'16-4^\upbow fis'16 d'16 e'16 d'16    r16 a16     |
-bes4^\accent(a8)   r8    |
-r16 a'16-4 gis'16. (\turn e'32) cis'16 a16     r16 a16^\upbow    |
-bes4 (^\accent a8)   r8   |
- r16 a'16 fis'16 d'16 e'16 d'16    r16 a16     |
-bes4 (^\accent a8)   r8   |
-r16 a'16^\downbow gis'16. (\turn e'32) cis'16 a16    r16 a16^\upbow    |
+    \times 2/3 { fs''16^\downbow fs''16 fs''16  
+	       } fs''16 fs''16        r16 cs''16 d''16 fs''16     |
+    r16 cs''16 d''16 b'16    
+ a'8       } cs''8^\upbow  |
+  r16 a'16-4^\upbow gs'16.\turn e'32 cs'32 a16.    r8    |
+  r16 a'16-4^\upbow gs'16.    \turn e'32 cs'32 a16.    r8    |
+  r16 a'16-4^\upbow gs'16. e'32 cs'16. d'32 e'16. fs'32     |
+ gs'16.    
+ e'32 fs'16. e'32 cs'32 a16.   } a8^\upbow  |
+bf4^\accent(a8)   r8   |
+r16 a'16-4^\upbow fs'16 d'16 e'16 d'16    r16 a16     |
+bf4^\accent(a8)   r8    |
+r16 a'16-4 gs'16. (\turn e'32) cs'16 a16     r16 a16^\upbow    |
+bf4 (^\accent a8)   r8   |
+ r16 a'16 fs'16 d'16 e'16 d'16    r16 a16     |
+bf4 (^\accent a8)   r8   |
+r16 a'16^\downbow gs'16. (\turn e'32) cs'16 a16    r16 a16^\upbow    |
 a8  \grace {    
- gis'16   } a'8-4   r16 a'16-4^\upbow cis'16 a'16     |
+ gs'16   } a'8-4   r16 a'16-4^\upbow cs'16 a'16     |
 
-a8  \grace { gis'16   	   } a'8-4   r16 a'16-4 cis'16 a'16      |
-g8^\downbow \grace { fis'16  
-		   } gis'8    r16 gis'16^\upbow b16 gis'16  |  |
-g8  \grace { fis'16  
-	   } gis'8    r16 gis'16 b16 gis'16   |
-a16 a'16-4   r16 a'16-4 cis'16 a'16-4 b16 a'16-4    |
-a16 a'16    r16 a'16 cis'16 a'16 b16 a'16     |
-g16 gis'16    r16 gis'16 b16 gis'16 a16 gis'16     |
-g16 gis'16    r16 gis'16 b16 a'16 a16 gis'!16^"D.S."   \bar "| |"   
+a8  \grace { gs'16   	   } a'8-4   r16 a'16-4 cs'16 a'16      |
+g8^\downbow \grace { fs'16  
+		   } gs'8    r16 gs'16^\upbow b16 gs'16  |  |
+g8  \grace { fs'16  
+	   } gs'8    r16 gs'16 b16 gs'16   |
+a16 a'16-4   r16 a'16-4 cs'16 a'16-4 b16 a'16-4    |
+a16 a'16    r16 a'16 cs'16 a'16 b16 a'16     |
+g16 gs'16    r16 gs'16 b16 gs'16 a16 gs'16     |
+g16 gs'16    r16 gs'16 b16 a'16 a16 gs'!16^"D.S."   \bar "| |"   
 
 }
 

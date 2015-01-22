@@ -15,108 +15,108 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 2/4 
-    \key a \major cis''4^\downbow bis'4 cis''4 bis'4      |
+    \key a \major cs''4^\downbow bs'4 cs''4 bs'4      |
     \grace { d''8  
-	   } cis''8. bis'16-. cis''8. fis''16 e''8. cis''16 a'8. cis''16     |
- b'4 ais'4 b'4 ais'4   |
- b'8. a''16 gis''8. fis''16 e''8. d''16 cis''8. b'16     |
- cis''4 bis'4 cis''4 bis'4    |
+	   } cs''8. bs'16-. cs''8. fs''16 e''8. cs''16 a'8. cs''16     |
+ b'4 as'4 b'4 as'4   |
+ b'8. a''16 gs''8. fs''16 e''8. d''16 cs''8. b'16     |
+ cs''4 bs'4 cs''4 bs'4    |
     \grace {   
  d''8  
-    } cis''8. bis'16 cis''8. fis''16 e''8. cis''16 a'8. cis''16     |
- b'4 ais'4 b'4 a''!4    |
+    } cs''8. bs'16 cs''8. fs''16 e''8. cs''16 a'8. cs''16     |
+ b'4 as'4 b'4 a''!4    |
     \times 2/3 { 
- gis''8 fis''8 e''8  
-    }   \times 2/3 { d''8 cis''8 b'8  
+ gs''8 fs''8 e''8  
+    }   \times 2/3 { d''8 cs''8 b'8  
 		   } a'4   
     r4 
   }     
   \repeat volta 2 {
- cis''4^\downbow \grace { cis''8  
+ cs''4^\downbow \grace { cs''8  
 			   } a''4     
- cis''2^"tr"^\trill \grace { b'8 cis''8   			      }    |
+ cs''2^"tr"^\trill \grace { b'8 cs''8   			      }    |
  d''4^\downbow 
-    \grace { d''8   	   } b''4 b'4. cis''8     |
- d''8. (e''16-.) fis''8._\segue gis''16  \grace { b''8  
-				      } a''8. gis''16 a''8. fis''16     |
-    \times 2/3 { e''8 fis''8 e''8  
+    \grace { d''8   	   } b''4 b'4. cs''8     |
+ d''8. (e''16-.) fs''8._\segue gs''16  \grace { b''8  
+				      } a''8. gs''16 a''8. fs''16     |
+    \times 2/3 { e''8 fs''8 e''8  
 	       }   
-    \times 2/3 { d''8 cis''8 b'8   	       } cis''4 a'4     |
- cis''4  
-    \grace { cis''8  
-	   } a''4 cis''2^"tr"^\trill \grace { b'8 cis''8 
+    \times 2/3 { d''8 cs''8 b'8   	       } cs''4 a'4     |
+ cs''4  
+    \grace { cs''8  
+	   } a''4 cs''2^"tr"^\trill \grace { b'8 cs''8 
 					       					    }    |
- d''4  \grace { d''8   		 } b''4 b'4. cis''8     |
- d''8. e''16 fis''8. gis''16 a''8. gis''16 a''8. fis''16     |
-    \times 2/3 { e''8 fis''8 e''8  
+ d''4  \grace { d''8   		 } b''4 b'4. cs''8     |
+ d''8. e''16 fs''8. gs''16 a''8. gs''16 a''8. fs''16     |
+    \times 2/3 { e''8 fs''8 e''8  
 	       }   \times 2/3 { d''8    
-				cis''8 b'8  
+				cs''8 b'8  
 			      } a'4    r4    }      |
- cis''8^\downbow fis''8    r8 a''8^\upbow fis''8. (e''16-.) d''8.^\segue cis''16     |
- cis''8 fis''8    r8 a''8 fis''8. e''16 d''8. cis''16     |
- cis''8 fis''8    r8 a''8 fis''8. e''16 fis''8. gis''16      |
- a''8. e''16 cis''8. a'16 b'8. cis''16 a'4     |
- cis''8^\downbow fis''8    r8 a''8^\upbow fis''8. (e''16-.) d''8.^\segue cis''16    |
- cis''8 fis''8    r8 a''8 fis''8. e''16 d''8. cis''16     |
- cis''8 fis''8    r8 a''8 fis''8. e''16 fis''8. gis''16     |
- a''8. e''16 cis''8. a'16 b'8. cis''16 a'4    \bar " |."     
+ cs''8^\downbow fs''8    r8 a''8^\upbow fs''8. (e''16-.) d''8.^\segue cs''16     |
+ cs''8 fs''8    r8 a''8 fs''8. e''16 d''8. cs''16     |
+ cs''8 fs''8    r8 a''8 fs''8. e''16 fs''8. gs''16      |
+ a''8. e''16 cs''8. a'16 b'8. cs''16 a'4     |
+ cs''8^\downbow fs''8    r8 a''8^\upbow fs''8. (e''16-.) d''8.^\segue cs''16    |
+ cs''8 fs''8    r8 a''8 fs''8. e''16 d''8. cs''16     |
+ cs''8 fs''8    r8 a''8 fs''8. e''16 fs''8. gs''16     |
+ a''8. e''16 cs''8. a'16 b'8. cs''16 a'4    \bar " |."     
   \repeat volta 2 {
- a8^\downbow cis'8    r8 e'8^\upbow a'4. d''8     |
- cis''8. a'16 cis''8. e''16 fis''8. gis''16 a''8    r8    |
- a8 cis'8    r8 e'8 a'4. d''8     |
- cis''8. b'16 a'8. cis''16 b'8. ais'16 b'8    r8    |
- a8 cis'8    r8 e'8 a'4. d''8     |
- cis''8. a'16 cis''8. e''16 fis''8. gis''16 a''8    r8    |
-    \times 2/3 { gis''8-. fis''8-. e''8 
+ a8^\downbow cs'8    r8 e'8^\upbow a'4. d''8     |
+ cs''8. a'16 cs''8. e''16 fs''8. gs''16 a''8    r8    |
+ a8 cs'8    r8 e'8 a'4. d''8     |
+ cs''8. b'16 a'8. cs''16 b'8. as'16 b'8    r8    |
+ a8 cs'8    r8 e'8 a'4. d''8     |
+ cs''8. a'16 cs''8. e''16 fs''8. gs''16 a''8    r8    |
+    \times 2/3 { gs''8-. fs''8-. e''8 
 		-. 
-	       }   \times 2/3 { fis''8 e''8 d''8  
+	       }   \times 2/3 { fs''8 e''8 d''8  
 			      }   \times 2/3 { e''8-4   
-					 d''8 cis''8  
-					     }   \times 2/3 { d''8 cis''8 b'8   							    }    |
+					 d''8 cs''8  
+					     }   \times 2/3 { d''8 cs''8 b'8   							    }    |
     
-    \times 2/3 { cis''8 b'8 a'8  
-	       }   \times 2/3 { b'8 a'8 gis'8  
+    \times 2/3 { cs''8 b'8 a'8  
+	       }   \times 2/3 { b'8 a'8 gs'8  
 			      }  
  a'4    r4 
   }     
   \repeat volta 2 {
- e''4^\downbow((eis''4) fis''2       ~     |
- fis''8.) e''16^\upbow cis''8.^\downbow a'16^\upbow e'2^\downbow(~     |
- e'4 eis'4) fis'2^\upbow(|
+ e''4^\downbow((es''4) fs''2       ~     |
+ fs''8.) e''16^\upbow cs''8.^\downbow a'16^\upbow e'2^\downbow(~     |
+ e'4 es'4) fs'2^\upbow(|
     
- e'8) e''4_\segue((eis''4 fis''2   ~       \spanrequest \stop "slur"     |
- fis''8.) e''16 cis''8 a'8 e'2 (~     |
- e'4 eis'4) fis'2 (|
+ e'8) e''4_\segue((es''4 fs''2   ~       \spanrequest \stop "slur"     |
+ fs''8.) e''16 cs''8 a'8 e'2 (~     |
+ e'4 es'4) fs'2 (|
  e'8)     
 
-    \repeat volta 2 { e'8.^\downbow(cis''16) cis''4^"tr"^\trill e'8. (cis''16) cis''4^"tr"^\trill    |
- e'8. (cis''16)   r8 cis''8^\upbow cis''8. b'16 a'8. cis''16     |
- b'8. ( gis''16) gis''4^"tr"^\trill b'8. (gis''16) gis''4^"tr"^\trill    |
- b'8. (gis''16)   r8 gis''8 gis''8. fis''16 d''8. b'16     |
- e'8. (cis''16) cis''4^"tr"^\trill e'8. ( cis''16) cis''4^"tr"^\trill    |
- e'8. (cis''16)   r8 cis''8 cis''8. b'16 a'8. cis''16     |
- b'8. (gis''16)   
-      r8 gis''8 b''4. a''8    
-    } \alternative{{   \times 2/3 { gis''8    
-				 fis''8 e''8  
-				  }   \times 2/3 { d''8 cis''8 b'8  
+    \repeat volta 2 { e'8.^\downbow(cs''16) cs''4^"tr"^\trill e'8. (cs''16) cs''4^"tr"^\trill    |
+ e'8. (cs''16)   r8 cs''8^\upbow cs''8. b'16 a'8. cs''16     |
+ b'8. ( gs''16) gs''4^"tr"^\trill b'8. (gs''16) gs''4^"tr"^\trill    |
+ b'8. (gs''16)   r8 gs''8 gs''8. fs''16 d''8. b'16     |
+ e'8. (cs''16) cs''4^"tr"^\trill e'8. ( cs''16) cs''4^"tr"^\trill    |
+ e'8. (cs''16)   r8 cs''8 cs''8. b'16 a'8. cs''16     |
+ b'8. (gs''16)   
+      r8 gs''8 b''4. a''8    
+    } \alternative{{   \times 2/3 { gs''8    
+				 fs''8 e''8  
+				  }   \times 2/3 { d''8 cs''8 b'8  
 						 } a'4    r4   
 		     } {   
-		       \times 2/3 { gis''8 fis''8 e''8  
-				  }   \times 2/3 { d''8 cis''8    
-						 b'8   						 } a'4    \bar "|." cis''8.^\upbow(d''16-.)  |
+		       \times 2/3 { gs''8 fs''8 e''8  
+				  }   \times 2/3 { d''8 cs''8    
+						 b'8   						 } a'4    \bar "|." cs''8.^\upbow(d''16-.)  |
 		       
-		 e''8-4^\downbow cis''8    r8 fis''8^\upbow e''8 cis''8    r8 fis''8   		        |
-		 e''8 cis''8    r8 a''8 e''8 cis''8    r8 e''8    |
+		 e''8-4^\downbow cs''8    r8 fs''8^\upbow e''8 cs''8    r8 fs''8   		        |
+		 e''8 cs''8    r8 a''8 e''8 cs''8    r8 e''8    |
 		       
-		 fis''8. (gis''16-.) fis''8.^\segue e''16 d''8. cis''16     		 b'8. a'16     |
-		 b'8. a'16 gis'8. fis'16 e'4 cis''8.    		 d''16     |
-		 e''8-4 cis''8    r8 fis''8 e''8 cis''8     		       r8 fis''8     |
-		 e''8 cis''8    r8 a''8 e''8 cis''8    r8 e''8   		        |
-		 fis''8. gis''16 fis''8. e''16 d''8. cis''16    
+		 fs''8. (gs''16-.) fs''8.^\segue e''16 d''8. cs''16     		 b'8. a'16     |
+		 b'8. a'16 gs'8. fs'16 e'4 cs''8.    		 d''16     |
+		 e''8-4 cs''8    r8 fs''8 e''8 cs''8     		       r8 fs''8     |
+		 e''8 cs''8    r8 a''8 e''8 cs''8    r8 e''8   		        |
+		 fs''8. gs''16 fs''8. e''16 d''8. cs''16    
 		 b'8. a'16    
-		     } \alternative{{ gis'8. a'16 b'8. gis'16 a'4  
-				    } {  				 gis'8. a'16 b'8. gis'16 a'4    r4   \bar " |."   
+		     } \alternative{{ gs'8. a'16 b'8. gs'16 a'4  
+				    } {  				 gs'8. a'16 b'8. gs'16 a'4    r4   \bar " |."   
 				    }
 				  }
 

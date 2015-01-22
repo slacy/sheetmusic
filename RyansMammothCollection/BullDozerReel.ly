@@ -17,27 +17,27 @@ voicedefault =  {
 
     \time 2/4 
     \key d \major
-    \times 2/3 { a16^\downbow(b16 cis'16)  	       }   |
- d'8-4 d'16-0^\upbow e'16^\downbow fis'8 fis'16 g'16     |
- a'8 b'16 cis''16 d''8 d''16 e''16     |
- fis''16 e''16 fis''16 b''16 a''16 fis''16 d''16 fis''16     |
- e''16 a''16 fis''16 d''16 e''16-4 d''16 b'16 a'16     |
- d'8 d'16 e'16 fis'8 fis'16 g'16     |
- a'8 b'16 cis''16 d''8 d''16 e''16    |
- fis''16 e''16 fis''16 b''16 a''16 fis''16 d''16 fis''16    |
+    \times 2/3 { a16^\downbow(b16 cs'16)  	       }   |
+ d'8-4 d'16-0^\upbow e'16^\downbow fs'8 fs'16 g'16     |
+ a'8 b'16 cs''16 d''8 d''16 e''16     |
+ fs''16 e''16 fs''16 b''16 a''16 fs''16 d''16 fs''16     |
+ e''16 a''16 fs''16 d''16 e''16-4 d''16 b'16 a'16     |
+ d'8 d'16 e'16 fs'8 fs'16 g'16     |
+ a'8 b'16 cs''16 d''8 d''16 e''16    |
+ fs''16 e''16 fs''16 b''16 a''16 fs''16 d''16 fs''16    |
  e''16 a''16 g''16 e''16 d''8    
   }     
 
   \repeat volta 2 {     r16 d''32^\downbow(e''32   |
- fis''16) e''16 d''16 fis''16 e''16 (cis''16)   r16 a'16^\downbow     |
- b'16^\upbow d''16 cis''16 b'16 a'16 (fis'16)   r16 d''32^\downbow(e''32     |
- fis''16) e''16 d''16 fis''16 e''16 (cis''16)   r16 e''16^\downbow    |
- fis''16^\upbow a''16 gis''16 b''16 a''8    r16 d''32^\downbow(e''32     |
- fis''16) e''16 d''16 fis''16 e''16 (cis''16)        r16 a'16^\downbow    |
- b'16^\upbow d''16 cis''16 b'16 a'16 (fis'16)   r16 e'16^\upbow    |
- d'8^\downbow d'16^\upbow e'16^\downbow fis'16 a'16 d''16 a'16    |
+ fs''16) e''16 d''16 fs''16 e''16 (cs''16)   r16 a'16^\downbow     |
+ b'16^\upbow d''16 cs''16 b'16 a'16 (fs'16)   r16 d''32^\downbow(e''32     |
+ fs''16) e''16 d''16 fs''16 e''16 (cs''16)   r16 e''16^\downbow    |
+ fs''16^\upbow a''16 gs''16 b''16 a''8    r16 d''32^\downbow(e''32     |
+ fs''16) e''16 d''16 fs''16 e''16 (cs''16)        r16 a'16^\downbow    |
+ b'16^\upbow d''16 cs''16 b'16 a'16 (fs'16)   r16 e'16^\upbow    |
+ d'8^\downbow d'16^\upbow e'16^\downbow fs'16 a'16 d''16 a'16    |
  b'16   
- d''16 cis''16 e''16-4 d''8    
+ d''16 cs''16 e''16-4 d''8    
   }   
 
 }

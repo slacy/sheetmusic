@@ -16,27 +16,27 @@ voicedefault =  {
 
     \time 2/4 
     \key a \major
-    << d'8_"p"^\downbow-. fis'8   >>  ~    <<   
- d'8^\downbow-. fis'8   >>   << cis'8^\upbow-. e'8   >>  ~    << cis'8  								     ^\upbow-. e'8   >>    |
-    << d'8-. fis'8   >>  ~    << d'8-.   				 fis'8   >>   << cis'8-. e'8   >>  ~    << cis'8-. e'8   >>     |
- e'16 (f'16 fis'!16 gis'16 a'16 ais'16 b'16 c''16)    |
- cis''!16 (c''16 b'16 ais'16 a'!16 gis'16 g'16 fis'16)    |
-    << d'8_"p"-. fis'8   >>  ~    << d'8  				-. fis'8   >>   << cis'8-. e'8   >>  ~    << cis'8-. e'8   >>     |
-    << d'8-. fis'8   >>  ~    << d'8-. fis'8   >> << cis'4    						 e'4   >>    |
- b'16 cis''16 d''16 e''16 fis''16 a''16 gis''16 fis''16     |
+    << d'8_"p"^\downbow-. fs'8   >>  ~    <<   
+ d'8^\downbow-. fs'8   >>   << cs'8^\upbow-. e'8   >>  ~    << cs'8  								     ^\upbow-. e'8   >>    |
+    << d'8-. fs'8   >>  ~    << d'8-.   				 fs'8   >>   << cs'8-. e'8   >>  ~    << cs'8-. e'8   >>     |
+ e'16 (f'16 fs'!16 gs'16 a'16 as'16 b'16 c''16)    |
+ cs''!16 (c''16 b'16 as'16 a'!16 gs'16 g'16 fs'16)    |
+    << d'8_"p"-. fs'8   >>  ~    << d'8  				-. fs'8   >>   << cs'8-. e'8   >>  ~    << cs'8-. e'8   >>     |
+    << d'8-. fs'8   >>  ~    << d'8-. fs'8   >> << cs'4    						 e'4   >>    |
+ b'16 cs''16 d''16 e''16 fs''16 a''16 gs''16 fs''16     |
  e''8 e''8 e''8    r8   
   }     
 
   \repeat volta 2 {
- e''8_"mf"^\downbow cis''16 a'16 fis''8 d''16 b'16     |
- e''8_"cresc~~~" cis''16 a'16 d''16 cis''16 b'16 a'16     |
- e''8 cis''16 a'16 fis''8 d''16 b'16    |
- e''8    << d''8^\accent gis''8   >>   << cis''4  					     _"ff"^\accent a''4   >>    |
- e''8_"mf" cis''16 a'16 fis''8 d''16 b'16     |
- e''8_"cresc~~~" cis''16 a'16 d''16 cis''16 b'16 a'16     |
- a8    << cis'8^\accent e'8   	   >>   << d'4^\accent fis'4   >>    |
+ e''8_"mf"^\downbow cs''16 a'16 fs''8 d''16 b'16     |
+ e''8_"cresc~~~" cs''16 a'16 d''16 cs''16 b'16 a'16     |
+ e''8 cs''16 a'16 fs''8 d''16 b'16    |
+ e''8    << d''8^\accent gs''8   >>   << cs''4  					     _"ff"^\accent a''4   >>    |
+ e''8_"mf" cs''16 a'16 fs''8 d''16 b'16     |
+ e''8_"cresc~~~" cs''16 a'16 d''16 cs''16 b'16 a'16     |
+ a8    << cs'8^\accent e'8   	   >>   << d'4^\accent fs'4   >>    |
  e'8_"ff"   << d''8 
-		 ^\accent gis''8   >>   << cis''4^\accent a''4   >>   
+		 ^\accent gs''8   >>   << cs''4^\accent a''4   >>   
   }   
 
 }

@@ -26,14 +26,14 @@ voicedefault =  {
  a'16 c''16 b'16 a'16 g'8    r8   
   }    
   
-  \repeat volta 2 { b''8-1^\fermata^\downbow g''16 b''16 a''8-1 fis''16 a''16     |
- g''8-1 e''16 g''16 fis''16^\segue dis''16 b'8    |
- b''8 g''16 b''16 a''8 fis''16 a''16     |
- g''16 fis''16 g''16 a''16 b''8 g''16 a''16     |
- b''8 g''16 b''16 a''8 fis''16 a''16     |
- g''8 e''16 g''16 fis''16 dis''16 b'8     |
- b'8 dis''16 fis''16 b''16 a''16 g''16 fis''16     |
- a''16 g''16 fis''16 g''16 e''8 d''8      
+  \repeat volta 2 { b''8-1^\fermata^\downbow g''16 b''16 a''8-1 fs''16 a''16     |
+ g''8-1 e''16 g''16 fs''16^\segue ds''16 b'8    |
+ b''8 g''16 b''16 a''8 fs''16 a''16     |
+ g''16 fs''16 g''16 a''16 b''8 g''16 a''16     |
+ b''8 g''16 b''16 a''8 fs''16 a''16     |
+ g''8 e''16 g''16 fs''16 ds''16 b'8     |
+ b'8 ds''16 fs''16 b''16 a''16 g''16 fs''16     |
+ a''16 g''16 fs''16 g''16 e''8 d''8      
   }   
 
 }

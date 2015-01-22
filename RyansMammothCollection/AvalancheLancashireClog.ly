@@ -18,25 +18,25 @@ voicedefault =  {
     \override Staff.TimeSignature #'style = #'C
     \time 2/2 
     \key a \major
- cis'8.^\downbow(a'16-4-.) e'8. ( cis''16-.) a'8.-4^\segue e'16 cis'8. e'16     |
- d'8. a'16 fis'8. d''16 a'4. e'8     |
- cis'8. a'16-4 e'8. cis''16 a'8.-4 e'16 cis'8. e'16    |
- fis'8. d''16 cis''8. b'16 a'8. gis'16 fis'8. e'16      |
- cis'8. a'16-4 e'8. cis''16 a'8.-4 e'16 cis'8. e'16     |
- d'8. a'16 fis'8. d''16 a'4. e'8     |
- e'8. cis''16 a'8.-4 cis''16 e'8. a'16-4 cis'8. e'16     |
- e'8. gis'16 b'8. gis'16 a'4-4   
+ cs'8.^\downbow(a'16-4-.) e'8. ( cs''16-.) a'8.-4^\segue e'16 cs'8. e'16     |
+ d'8. a'16 fs'8. d''16 a'4. e'8     |
+ cs'8. a'16-4 e'8. cs''16 a'8.-4 e'16 cs'8. e'16    |
+ fs'8. d''16 cs''8. b'16 a'8. gs'16 fs'8. e'16      |
+ cs'8. a'16-4 e'8. cs''16 a'8.-4 e'16 cs'8. e'16     |
+ d'8. a'16 fs'8. d''16 a'4. e'8     |
+ e'8. cs''16 a'8.-4 cs''16 e'8. a'16-4 cs'8. e'16     |
+ e'8. gs'16 b'8. gs'16 a'4-4   
     r4   
   }     
-  \repeat volta 2 { b'8.^\fermata^\downbow(cis''16-.) b'8. (gis'16-.) e'8. gis'16 b'8. e''16-4    |
- cis''8. e''16-4 cis''8. b'16 a'8. cis''16 e''8.-4 cis''16      |
- b'8. cis''16 b'8. gis'16 e'8. fis'16 gis'8. e'16     |
- fis'8. b'16 ais'8. cis''16 b'8. fis'16 dis'8.-4 b16     |
- b'8. cis''16 b'8. gis'16 e'8. gis'16 b'8. e''16-4    |
- cis''8. e''16-4 cis''8. b'16 a'8. cis''16 e''8.-4 cis''16     |
- b'8. e''16-4 gis'8. e''16-4 b'8. dis''16 fis''8. dis''16    |
+  \repeat volta 2 { b'8.^\fermata^\downbow(cs''16-.) b'8. (gs'16-.) e'8. gs'16 b'8. e''16-4    |
+ cs''8. e''16-4 cs''8. b'16 a'8. cs''16 e''8.-4 cs''16      |
+ b'8. cs''16 b'8. gs'16 e'8. fs'16 gs'8. e'16     |
+ fs'8. b'16 as'8. cs''16 b'8. fs'16 ds'8.-4 b16     |
+ b'8. cs''16 b'8. gs'16 e'8. gs'16 b'8. e''16-4    |
+ cs''8. e''16-4 cs''8. b'16 a'8. cs''16 e''8.-4 cs''16     |
+ b'8. e''16-4 gs'8. e''16-4 b'8. ds''16 fs''8. ds''16    |
     
- e''4 gis''4 e''4    r4   
+ e''4 gs''4 e''4    r4   
   }   
 
 }

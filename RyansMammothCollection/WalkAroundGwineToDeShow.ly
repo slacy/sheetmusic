@@ -12,19 +12,19 @@ voicedefault =  {
 
 
   \time 2/4 
-  \key a \mixolydian d'8 fis''8    r8 fis''8     |
-  r8 fis''8    r8 fis''8     |
- fis''8 e''8 fis''8 gis''8     |
- a''8. a'16 b'16 cis''16 d''16 e''16    \bar ":|" a''4.    \bar "|." e''16^\downbow d''16     |
- cis''16^"dance" b'16 a'16 cis''16 b'16 a'16 gis'16 b'16     |
- a'16 b'16 cis''16 d''16 e''16 fis''16 g''16 a''16     |
- cis''16 b'16 a'16 cis''16 b'16 a'16 gis'16 b'16     |
- cis''16 e''16 d''16 b'16 a'8 e'8     |
- cis''16 b'16 a'16 cis''16 b'16 a'16 gis'16 b'16     |
- a'16 b'16 cis''16 d''16 e''16 fis''16 g''16 a''16     |
- cis''16 b'16 a'16 cis''16 b'16 a'16 g'16 b'16     |
- cis''16 e''16 d''16 b'16 a'8    r8 cis''8^"break"^\downbow e''16 e''16 e''8 e''8     |
- e''16 a''16 gis''16 b''16  << a''4 cis''4   >>   \bar " |."   
+  \key a \mixolydian d'8 fs''8    r8 fs''8     |
+  r8 fs''8    r8 fs''8     |
+ fs''8 e''8 fs''8 gs''8     |
+ a''8. a'16 b'16 cs''16 d''16 e''16    \bar ":|" a''4.    \bar "|." e''16^\downbow d''16     |
+ cs''16^"dance" b'16 a'16 cs''16 b'16 a'16 gs'16 b'16     |
+ a'16 b'16 cs''16 d''16 e''16 fs''16 g''16 a''16     |
+ cs''16 b'16 a'16 cs''16 b'16 a'16 gs'16 b'16     |
+ cs''16 e''16 d''16 b'16 a'8 e'8     |
+ cs''16 b'16 a'16 cs''16 b'16 a'16 gs'16 b'16     |
+ a'16 b'16 cs''16 d''16 e''16 fs''16 g''16 a''16     |
+ cs''16 b'16 a'16 cs''16 b'16 a'16 g'16 b'16     |
+ cs''16 e''16 d''16 b'16 a'8    r8 cs''8^"break"^\downbow e''16 e''16 e''8 e''8     |
+ e''16 a''16 gs''16 b''16  << a''4 cs''4   >>   \bar " |."   
 
 }
 
