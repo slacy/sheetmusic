@@ -35,7 +35,7 @@ voicedefault =  {
     e''8_"cresc~~~" cs''16 a'16 d''16 cs''16 b'16 a'16     |
     a8    << cs'8^\accent e'8   	   >>   << d'4^\accent fs'4   >>    |
     e'8_"ff"   << d''8 
-^\accent gs''8   >>   << cs''4^\accent a''4   >>   
+		  ^\accent gs''8   >>   << cs''4^\accent a''4   >>   
   }   
 
 }

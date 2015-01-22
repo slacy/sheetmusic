@@ -11,7 +11,9 @@
 voicedefault =  {
 
 
-  \time 6/8    \key c \dorian g'4.^\downbow d''4 (fs'8-.)   |
+  \time 6/8
+  \key c \dorian
+  g'4.^\downbow d''4 (fs'8-.)   |
   g'4 (a'8-.) bf'4 (c''8-.) |
   d''8 ef''8 d''8 c''8 bf'8 a'8   |
   d''8 c''8 bf'8 a'8 g'8 fs'8   |

@@ -14,10 +14,12 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 2/4      \key e \dorian d''16^\upbow cs''16    |
+    \time 2/4
+    \key e \dorian
+    d''16^\upbow cs''16    |
     b'16 e'16 e'8\turn b'16 a'16 fs'16 a'16   |
     \times 2/3 { b'16 (
-	 cs''16 d''16) } a'16-. fs'16-. d'16 (fs'16) a'16-. cs''16-.   |
+		 cs''16 d''16) } a'16-. fs'16-. d'16 (fs'16) a'16-. cs''16-.   |
     b'16 e'16 e'8\turn b'16 a'16 b'16 cs''16   |
     d''16 b'16 a'16 fs'16 e'16 d''16 cs''16 d''16   |
     b'16 e'16 e'8\turn b'16 a'16 fs'16 a'16   |
@@ -37,7 +39,7 @@ voicedefault =  {
     g''16 (fs''16) fs''16 (e''16) e''16 (d''16) d''16 (cs''16)  |
     \times 2/3 { b'16 (cs''16 d''16) 
 
-	 } a'16-. fs'16-. e'8  
+	       } a'16-. fs'16-. e'8  
   }   
 
 }

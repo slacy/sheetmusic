@@ -14,8 +14,8 @@ voicedefault =  {
   \time 2/4 
   \key a \major
   \times 2/3 { e''16^\upbow(fs''16 gs''16  
-	 ) 
-	 }   
+	       ) 
+	     }   
   \repeat volta 2 {
     a''8_"Segno"^\downbow gs''16. (e''32-.) fs''16. (a''32-.) e''16.^\segue gs''32      |
     a''16. e''32 cs''16. a'32 b'16. cs''32 a'16. cs''32     |
@@ -31,7 +31,7 @@ voicedefault =  {
     e'32_\segue cs''16. r16 d''16 cs''16. b'32 a'16. b'32     |
     cs''32 e''16.-4 r16 cs''16 b'16. cs''32 a'8     |
     \grace { e''16-4 
-	 } d''16. cs''32 d''16. e''32 fs''16. gs''32 a''16. fs''32      |
+	   } d''16. cs''32 d''16. e''32 fs''16. gs''32 a''16. fs''32      |
     e''32 cs''16. r16 cs''16 d''16. e''32 cs''8 \bar " |."   
   }
 

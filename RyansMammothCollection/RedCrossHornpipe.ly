@@ -14,7 +14,9 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 2/4      \key d \major a'8^\upbow   |
+    \time 2/4
+    \key d \major
+    a'8^\upbow   |
     e''16. fs''32 e''16. d''32 cs''16. a'32 b'16. cs''32   |
     d''16. a'32 fs''16. a'32 d''16. a'32 fs''16. a'32   |
     e''16. fs''32 e''16. d''32 cs''16. a'32 b'16. cs''32   |

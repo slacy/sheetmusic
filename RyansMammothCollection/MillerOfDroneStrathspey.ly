@@ -29,10 +29,10 @@ voicedefault =  {
   e''16 (cs''8.) cs''8. a''16 e''8. e''16 fs''16 (e''16 d''16 cs''16)     |
   e''16 (cs''8.) cs''8. a''16 fs''4 fs''8. gs''16     |
   \times 2/3 { a''8 gs''8 fs''8  
-	 }   
+	     }   
   \times 2/3 { e''8 fs''8 gs''8  
-	 }   \times 2/3 { a''8 e''8    
-	 d''8 }   \times 2/3 { cs''8 b'8 a'8 }     |
+	     }   \times 2/3 { a''8 e''8    
+			      d''8 }   \times 2/3 { cs''8 b'8 a'8 }     |
   d''8. b'16 cs''8. a'16 fs'4^\trill fs'8 \bar " |."   
 
 }

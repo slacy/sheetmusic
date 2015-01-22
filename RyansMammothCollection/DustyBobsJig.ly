@@ -14,7 +14,9 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 6/8      \key g \major d'8          |
+    \time 6/8
+    \key g \major
+    d'8          |
     g'4 g'8 g'8 a'8 b'8  |
     a'4 a'8 a'8 b'8 c''8    |
     d''4 b'8 c''4 a'8     |
@@ -32,15 +34,15 @@ voicedefault =  {
     e''4 d''8 e''8 fs''8 g''8    |
     a''4 g''8 fs''8 e''8 d''8     |
   } \alternative{{ g''4 g''8 g''8 a''8 g''8      |
-	 fs''4 fs''8 fs''8 g''8 fs''8     |
-	 e''8 fs''8 g''8 fs''8 g''8 a''8   |
-	 g''4. g''4    |
-	 } { g''4. b'8 c''8 d''8     |
-	 e''4. a'8 b'8 c''8    |
-	 d''8 c''8 b'8 a'8 g'8 fs'8     |
-	 g'4. g'4 \bar "|."   
-	 }
-	 }
+		   fs''4 fs''8 fs''8 g''8 fs''8     |
+		   e''8 fs''8 g''8 fs''8 g''8 a''8   |
+		   g''4. g''4    |
+		 } { g''4. b'8 c''8 d''8     |
+		     e''4. a'8 b'8 c''8    |
+		     d''8 c''8 b'8 a'8 g'8 fs'8     |
+		     g'4. g'4 \bar "|."   
+		   }
+	       }
 
 }
 

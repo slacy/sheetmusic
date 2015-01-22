@@ -15,7 +15,9 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 2/4      \key ef \major % %staffsep 50 bf'32.^\downbow a'32. (^\upbow-. c''32^\upbow-.)         |
+    \time 2/4
+    \key ef \major
+				% %staffsep 50 bf'32.^\downbow a'32. (^\upbow-. c''32^\upbow-.)         |
     bf'16.^\downbow g'32 ef'16. bf32 g16. bf'32 a'16. c''32      |
     bf'16. g'32 ef'16. bf32 g16. bf'32 a'16. c''32         |
     bf'16. g'32 ef'16. g''32-4 d''16.-1 ef''32-2 bf'16.-3 c'''32-3    |
@@ -38,7 +40,7 @@ voicedefault =  {
     d''16.-1 af''32-0-4 f''16.-3 d''32-1    |
     bf'16.-3 af'32-0-4 f'16. d'32     |
     ef'8  << g'8  
-	 bf8   >> << ef'16. g16.   >>   
+	     bf8   >> << ef'16. g16.   >>   
   }   
 
 }

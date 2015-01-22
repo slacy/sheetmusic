@@ -14,7 +14,9 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \override Staff.TimeSignature #'style = #'C     \time 2/2      \key ef \major c''4^\upbow   |
+    \override Staff.TimeSignature #'style = #'C     \time 2/2
+    \key ef \major
+    c''4^\upbow   |
     bf'8. (     \spanrequest \stop "slur" af'16^\segue-. f'8. d'16 bf'8. af'16 f'8. d'16      |
     ef'8. f'16 g'8. af'16 bf'8. c''16 d''8. ef''16     |
     b'8. c''16 g'8. af'16 e'8. f'16 cs'8. d'16     |
@@ -37,8 +39,8 @@ voicedefault =  {
     ef''8. f''16 g''8. f''16 ef''8. d''16    
   } \alternative{{ 
     c''8. ef''16 d''8. b'16 c''4 } { c''4 r4 << af'!8 bf'!4   >> \bar "  |."   
-	 }
-	 }
+				   }
+	       }
 
 }
 

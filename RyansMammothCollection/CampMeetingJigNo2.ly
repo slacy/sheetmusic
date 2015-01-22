@@ -12,7 +12,9 @@ voicedefault =  {
 
 
   \override Staff.TimeSignature #'style = #'C
-  \time 2/2    \key a \major e'4^\upbow           |
+  \time 2/2
+  \key a \major
+  e'4^\upbow           |
   \times 2/3 { a'8^"Segno"^\downbow-. a'8-. a'8-. } a'4 r8 b'8^\upbow-. gs'8-. b'8-.     |
   r8 a'8^\downbow-. d''8-. fs''8-. e''2^\accent    |
   \times 2/3 { fs''8^\downbow fs''8 fs''8 } fs''4 fs''8 e''8 d''8 fs''8      |
@@ -46,22 +48,22 @@ a'8. (a''16-.)  \times 2/3 { a''8 a''8 a''8 } cs''8 a''8 b'8 a''8           |
 g'8. (g''16-.)   \times 2/3 { g''8 g''8 g''8 } b'8 g''8 a'8 g''8      |
 g'8. (g''16-.)   \times 2/3 { g''8 g''8 g''8 } b'8 g''8 a'8 g''8    << \bar "|." \bar "  |."   
 
-	 }
+								     }
 
-															 \score{
-															   <<
+								     \score{
+								       <<
 
-															     \context Staff="default"
-															     {
-															       \voicedefault 
-															       
-	 }
+									 \context Staff="default"
+									 {
+									   \voicedefault 
+									   
+									 }
 
-															   >>
-															   \layout {
-															     
-	 }
-															   \midi {
-	 }
+								       >>
+								       \layout {
+									 
+								       }
+								       \midi {
+								       }
 
-	 }
+								     }

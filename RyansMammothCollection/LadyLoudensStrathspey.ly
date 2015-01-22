@@ -12,7 +12,9 @@ voicedefault =  {
 
 
   \override Staff.TimeSignature #'style = #'C
-  \time 4/4    \key c \major e''8^\upbow         |
+  \time 4/4
+  \key c \major
+  e''8^\upbow         |
   g''16 (^\downbow c''8.) g''8. (e''16-.) g''16 (c''8.) g''8. (e''16-.)   |
   g''16^\segue(c''8.) g''8. e''16 a''16 (d''8.) d''8. e''16        |
   g''16 (c''8.) g''8. e''16 g''16 (c''8.) g''8. e''16     |

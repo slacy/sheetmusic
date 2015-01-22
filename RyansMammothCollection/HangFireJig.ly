@@ -29,7 +29,7 @@ voicedefault =  {
   fs''8 d''16 fs''16 r16 d''16 fs''8    |
   a'16^\downbow cs''16 e''16 gs''16 a''16 gs''16 a''16 e''16      |
   fs''16 d''16 b'16 gs'16 b'8 \bar ":|" fs''16 d''16 b'16 gs'16 a'8 r8    |
- \bar "|."   
+  \bar "|."   
 
 }
 

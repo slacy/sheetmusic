@@ -14,7 +14,9 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \override Staff.TimeSignature #'style = #'C     \time 2/2      \key bf \major f'4^\upbow   |
+    \override Staff.TimeSignature #'style = #'C     \time 2/2
+    \key bf \major
+    f'4^\upbow   |
     bf'8^\downbow r8 bf'4^\downbow  ~ bf'8. (a'16-.) c''8. (bf'16-.)    |
     d''8^\segue r8 bf'4   ~ bf'8. a'16 c''8. bf'16      |
     a'8. bf'16 c''8. d''16 ef''8. d''16 c''8. bf'16     |
@@ -31,7 +33,7 @@ voicedefault =  {
     
     \times 2/3 { c''8 (d''8 c''8) } g'8. c''16 ef''8. d''16 c''8. bf'16      |
     \times 2/3 { a'8 (bf'8 a'8) 
-	 } ef'8. bf'16    \times 2/3 { a'8 (bf'8 a'8) } ef'8. a'16     |
+	       } ef'8. bf'16    \times 2/3 { a'8 (bf'8 a'8) } ef'8. a'16     |
     g'8. f'16 e'8. f'16 d'8. f'16 g'8. a'16     |
     \times 2/3 { bf'8 (c''8 bf'8) } f'8. bf'16 d''8. f'16 bf'8. d''16      |
     \times 2/3 { c''8 (d''8 c''8) } g'8. c''16 ef''8. d''16 c''8. bf'16      |

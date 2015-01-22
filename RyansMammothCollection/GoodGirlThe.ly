@@ -11,7 +11,9 @@
 voicedefault =  {
 
 
-  \time 2/4    \key d \major a'8^\upbow     |
+  \time 2/4
+  \key d \major
+  a'8^\upbow     |
   d''8 fs''16 d''16 cs''16 e''16-4 a'16 cs''16     |
   d''8 fs''16 d''16 cs''16 e''16 a'16 cs''16     |
   d''16 cs''16 d''16 e''16 fs''16 g''16 a''16 fs''16     |

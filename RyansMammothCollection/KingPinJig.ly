@@ -27,13 +27,13 @@ voicedefault =  {
 
   \repeat volta 2 {
     a'8^\downbow \grace { gs''16  
-	 } a''8 a'8       \grace { gs''16 } a''8      |
+			} a''8 a'8       \grace { gs''16 } a''8      |
     fs''16 e''16 ds''16 e''16 fs''4     |
     r8 e''8^\upbow e''4^\downbow   |
     
     \times 2/3 { cs''16^\upbow(b'16 a'16) } b'16 gs'16 a'16 gs'16 fs'16 e'16      |
     a'8^\downbow \grace { gs''16  
-	 } a''8 a'8  \grace { gs''16 } a''8      |
+			} a''8 a'8  \grace { gs''16 } a''8      |
     fs''16 e''16 ds''16 e''16 fs''16 a''16 gs''16 a''16     |
     b''16 gs''16 a''16 fs''16 e''16 cs''16 a'16 b'16     |
     

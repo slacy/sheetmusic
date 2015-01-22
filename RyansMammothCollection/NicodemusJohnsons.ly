@@ -11,7 +11,9 @@
 voicedefault =  {
 
 
-  \time 2/4    \key g \major g16 g16 g'8 g16 g16 g'8      |
+  \time 2/4
+  \key g \major
+  g16 g16 g'8 g16 g16 g'8      |
   fs'16 g'16 a'16 g'16 fs'16 d'16 e'16 fs'16     |
   g'16 fs'16 g'16 e'16 d'16 g'16 b'16 e''16     |
   d''16 c''16 a'16 fs'16 g'16 e'16 d'16 b16     |

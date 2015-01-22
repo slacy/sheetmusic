@@ -15,18 +15,20 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 6/8      \key d \major d''16 (^\upbow e''16)         |
+    \time 6/8
+    \key d \major
+    d''16 (^\upbow e''16)         |
     fs''4.^\accent d''4 b'8    |
     a'8 d''8 b'8 a'8. fs'16 d'8     |
     fs'8 (b'8) b'8 b'8 cs''8 d''8    |
     
     \grace { d''8  
-	 } cs''8 b'8 cs''8  \grace { cs''8 } b'8 a'8 fs'8          |
+	   } cs''8 b'8 cs''8  \grace { cs''8 } b'8 a'8 fs'8          |
     fs''4.^\accent d''4 (b'8)   |
     a'8 d''8 b'8  \grace { cs''8 } b'8 a'8 fs'8      |
     fs'8 b'8 b'8 b'8 cs''8 d''8     |
     \grace { d''8  
-	 }   
+	   }   
     cs''8 b'8 cs''8 b'4    
   }     
   \repeat volta 2 {

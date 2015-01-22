@@ -32,7 +32,7 @@ voicedefault =  {
     fs''8 a''8 e''8 fs''8 d''8 e''8 fs''8 e''8     |
     d''8 b'8 a'8    
     fs'8    \times 2/3 { d'8 d'8 d'8  
-	 } d'4    
+		       } d'4    
   }   
 
 }

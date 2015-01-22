@@ -14,7 +14,9 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 2/4      \key e \major e'8^\upbow   |
+    \time 2/4
+    \key e \major
+    e'8^\upbow   |
     e'8-. gs'16 (b'16) e''8-. fs''16 (e''16)    |
     ds''16 e''16 fs''16 gs''16 a''8-. gs''16 (a''16)    |
     b''16 gs''16 a''16 fs''16 gs''16 e''16 fs''16 ds''16     |
@@ -27,10 +29,10 @@ voicedefault =  {
   } 
   \repeat volta 2 {
     fs''16-. \grace { cs''16  
-	 } b'16-.   
+		    } b'16-.   
     \times 2/3 { b'16 (a'!16 b'16) 
-	 } gs''16-. \grace { cs''16  
-	 } b'16-.   \times 2/3 { b'16 (a'16 b'16) }     |
+	       } gs''16-. \grace { cs''16  
+				 } b'16-.   \times 2/3 { b'16 (a'16 b'16) }     |
     a''16    
     b'16 gs''16 b'16 fs''16-. b'16-.   \times 2/3 { b'16 (a'!16 b'16) }     |
     e''16 fs''16 gs''16 a''16 b''16 a''16 gs''16 fs''16     |

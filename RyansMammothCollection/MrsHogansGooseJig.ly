@@ -15,7 +15,9 @@ voicedefault =  {
 
   \repeat volta 2 {
 
-    \time 6/8      \key b \minor d''16^"B MINOR"^\ltoe(cs''16)   |
+    \time 6/8
+    \key b \minor
+    d''16^"B MINOR"^\ltoe(cs''16)   |
     b'8 a'8 fs'8 b'8 a'8 fs'8   |
     b'8 a'8 fs'8 b'4 cs''8   |
     d''8 b'8 b'8 (\grace { cs''8 } b'8) as'8 b'8    |

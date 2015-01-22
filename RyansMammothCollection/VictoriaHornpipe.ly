@@ -15,17 +15,19 @@ voicedefault =  {
   \repeat volta 2 {
 
     \override Staff.TimeSignature #'style = #'C
-    \time 2/2      \key a \major cs''8 (^\upbow b'8)   |
+    \time 2/2
+    \key a \major
+    cs''8 (^\upbow b'8)   |
     a'8.-0 a16 cs'8. e'16 a'8. cs''16 e''8.-4 cs''16   |
     
     \times 2/3 { d''8-. e''8-4-. d''8-. 
-	 }   \times 2/3 { cs''8-. b'8-. a'8-. } gs'8. b'16 e'8. d''16    |
+	       }   \times 2/3 { cs''8-. b'8-. a'8-. } gs'8. b'16 e'8. d''16    |
     cs''8. e''16-4 d''8. cs''16 d''8. fs''16 e''8.-4 d''16    |
     cs''8. e''16 d''8. cs''16 b'8. d''16 cs''8. b'16   |
     a'8.-0 a16 cs'8. e'16 a'8. cs''16 e''8.-4 cs''16   |
     \times 2/3 { d''8-. e''8-4-. d''8-. 
 
-	 }   \times 2/3 { cs''8-. b'8-. a'8-. } gs'8. b'16 e'8. d''16    |
+	       }   \times 2/3 { cs''8-. b'8-. a'8-. } gs'8. b'16 e'8. d''16    |
     cs''8. e''16 d''8. cs''16 d''8. b''16 b'8. d''16   |
     cs''8. e''16 gs'8. b'16 a'4  
   }     

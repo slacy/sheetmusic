@@ -12,7 +12,9 @@
 voicedefault =  {
 
 
-  \time 2/4    \key d \major 				% %staffsep 55   |
+  \time 2/4
+  \key d \major
+ 				% %staffsep 55   |
   d''16^\downbow e''16-4 d''16 b'16 a'16 d'16 fs'16 a'16     |
   d''16 fs''16 e''16 cs''16 d''8^\downbow e''16^\downbow fs''16    |
   g''16 b''16 a''16 g''16 fs''16 a''16 g''16 fs''16     |

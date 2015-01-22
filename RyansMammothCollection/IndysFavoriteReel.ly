@@ -37,8 +37,8 @@ voicedefault =  {
     b'16 b'16 a'16 b'16 cs''16 d''16 b'16    
   } \alternative{{ 
     a'16 fs'16 e'16 fs'16 d'8 } { a'16 fs'16 e'16 fs'16 d'8 r8 \bar "  |."   
-	 }
-	 }
+				}
+	       }
 
 }
 

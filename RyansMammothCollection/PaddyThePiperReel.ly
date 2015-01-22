@@ -11,8 +11,10 @@
 voicedefault =  {
 
 
-  \time 2/4    \key g \major d''16 (^\upbow c''16)       |
- \bar " |." b'16^"Segno"(e'16) e'16-. c''16-. d''16 (c''16 d''16.) b'32     |
+  \time 2/4
+  \key g \major
+  d''16 (^\upbow c''16)       |
+  \bar " |." b'16^"Segno"(e'16) e'16-. c''16-. d''16 (c''16 d''16.) b'32     |
   a'8-. \times 2/3 { fs'16 (e'16 d'16 ) } fs'16 a'16 a'8      |
   b'16 e'16 e'16 fs'16 g'16 a'16 b'16 c''16     |
   d''16 b'16 a'16 c''16 b'16 e'16 e'8     |

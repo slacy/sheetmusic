@@ -12,7 +12,9 @@
 voicedefault =  {
 
 
-  \time 2/4    \key a \major cs''16^\downbow b'16      |
+  \time 2/4
+  \key a \major
+  cs''16^\downbow b'16      |
   a'8^"Segno"^\downbow a8 cs'8 e'8    |
   a'8. b'16 cs''16 a'16 b'16 cs''16     |
   a'8 a8 cs'8 e'8    |
