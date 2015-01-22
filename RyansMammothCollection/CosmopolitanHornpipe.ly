@@ -32,7 +32,7 @@ voicedefault =  {
     d''8. fis''16 b'8. d''16 gis''8.    
     a''16 b''8. gis''16  |
     \times 2/3 { a''8 (gis''8 fis''8  
-		 -) 
+		-) 
 	       }   \times 2/3 { e''8 (d''8 cis''8) 
 			      } b'8. e'16 gis'8.    
     b'16  |
@@ -57,7 +57,7 @@ voicedefault =  {
     \times 2/3 { e'8 (
 		 gis'8 b'8) 
 	       }   \times 2/3 { e''8 (gis''8 b''8) 
-			      } e'''4 -0 cis''8.-2(^\upbow-. d''16 -.) |
+			      } e'''4-0 cis''8.-2(^\upbow-. d''16-.) |
     e''8. e''16    
     cis''8. a'16 a'8. cis''16 e''8      
   }

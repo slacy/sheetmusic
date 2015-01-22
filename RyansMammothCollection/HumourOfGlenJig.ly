@@ -18,20 +18,20 @@ voicedefault =  {
     \key b \minor
     fis'8^\upbow       |
     b'8 d''16 (
-    cis''16) b'16 -. ais'16 -. b'8 fis'8 fis'8    |
+    cis''16) b'16-. ais'16-. b'8 fis'8 fis'8    |
     d''8    
-    e''16 (d''16) cis''16 -. b'16 -. d''8 fis'8 fis'8        
+    e''16 (d''16) cis''16-. b'16-. d''8 fis'8 fis'8        
     |
-    b'8 d''16 (cis''16) b'16 -. ais'16 -. b'8 fis'8    
+    b'8 d''16 (cis''16) b'16-. ais'16-. b'8 fis'8    
     d''8    |
     e'8 fis'8 ais'8 b'4 fis'8    |
     
     |
-    b'8 d''16 (cis''16) b'16 -. ais'16 -. b'8 fis'8    
+    b'8 d''16 (cis''16) b'16-. ais'16-. b'8 fis'8    
     fis'8    |
-    d''8 e''16 (d''16) cis''16 -. b'16 -. d''8   
+    d''8 e''16 (d''16) cis''16-. b'16-. d''8   
     fis'8 fis'8        |
-    g'8 a'16 (g'16) fis'16 -. e'16 -. fis'8 g'16 (fis'16) e'16 -. d'16 -.   |
+    g'8 a'16 (g'16) fis'16-. e'16-. fis'8 g'16 (fis'16) e'16-. d'16-.   |
     e'8 fis'8 
     ais'8 b'4    
   }     
@@ -40,9 +40,9 @@ voicedefault =  {
     a'16 
     (b'16) d''8 d''8 d''4 d''8    |
     d''16 (cis''16) 
-    d''16 (e''16) fis''16 (g''16) a''8 (fis''8) d''8 -.   
+    d''16 (e''16) fis''16 (g''16) a''8 (fis''8) d''8-.   
     |
-    g''8 a''16 (g''16) fis''16 -. e''16 -. fis''8    
+    g''8 a''16 (g''16) fis''16-. e''16-. fis''8    
     d''8 b'8    |
     a'8 fis'8 a'8 b'4 d''8    |
     
@@ -50,8 +50,8 @@ voicedefault =  {
     a'16 (b'16) d''8 d''8 d''4 d''8    |
     d''16 
     (cis''16) d''16 (e''16) fis''16 (g''16) a''8 (fis''8 
-    ) d''8 -.       |
-    b''8 a''16 (g''16) fis''16 -. e''16 -. fis''8 e''16 (d''16) cis''16 -. b'16 -.   |
+    ) d''8-.       |
+    b''8 a''16 (g''16) fis''16-. e''16-. fis''8 e''16 (d''16) cis''16-. b'16-.   |
     a'8    
     fis'8 ais'8 b'4    
   }   

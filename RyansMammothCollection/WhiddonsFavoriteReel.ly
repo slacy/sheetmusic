@@ -20,7 +20,7 @@ voicedefault =  {
     cis'16 
     (^\downbow d'16 dis'16 e'16 fis'16 e'16 cis'16 a16)   
     |
-    a'16 -. e'16 -. b'16 -. e'16 -. cis''16 -. e'16 -. a'16 -. e'16 -.   |
+    a'16-. e'16-. b'16-. e'16-. cis''16-. e'16-. a'16-. e'16-.   |
     cis'16 (^\upbow d'16 dis'16 e'16 fis'16  
     e'16 cis'16 a16)   |
     \grace { cis''16  
@@ -29,7 +29,7 @@ voicedefault =  {
     cis'16 
     (^\downbow d'16 dis'16 e'16 fis'16 e'16 cis'16 a16)   
     |
-    a'16 -. e'16 -. b'16 -. e'16 -. cis''16 -. e'16 -. a'16 -. e'16 -.   |
+    a'16-. e'16-. b'16-. e'16-. cis''16-. e'16-. a'16-. e'16-.   |
     cis'16 (^\upbow d'16 dis'16 e'16 fis'16  
     e'16 cis'16 a16)   |
     \grace { cis''16  

@@ -30,7 +30,7 @@ voicedefault =  {
     d''8) b'8 (d''8) cis''8 (d''8)   |
     b'8 e'8    
     \times 2/3 { fis'8 (e'8 d'8) 
-	       } b'8 (d''8) cis''8 (d''8  -)   |
+	       } b'8 (d''8) cis''8 (d''8-)   |
     b'8 e'8    \times 2/3 { fis'8 (e'8 d'8) 
 			  } b'4   
     a'8 (cis''8)   |

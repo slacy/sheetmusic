@@ -51,7 +51,7 @@ voicedefault =  {
   |
   a'16 f'16 a'16 c''16 ees''16 c''16 a'16 f'16    
   |
-  f''16 -. d''16 (ees''16) c''16 (d''16) a'16 (
+  f''16-. d''16 (ees''16) c''16 (d''16) a'16 (
   bes'16) g'16 (|
   f'16) ees'16 c'16 d'16 bes8    
   d''16^\downbow ees''16    \bar ":|" f'16 ees'16 c'16 d'16 bes8 

@@ -19,7 +19,7 @@ voicedefault =  {
     g''16^\upbow(e''16)   |
     d''16^\segno 
     b'16 a'16 b'16 g'16 fis'16 e'16 fis'16  |
-    g'8 -.   
+    g'8-.   
     b'16 g'16 d''16 g'16 b'16 e''16  |
     d''16 b'16    
     a'16 b'16 g'16 fis'16 e'16 d'16  |
@@ -27,7 +27,7 @@ voicedefault =  {
     e''16 dis''16 e''16 fis''16 g''16 e''16  |
     d''16    
     b'16 a'16 b'16 g'16 fis'16 e'16 fis'16  |
-    g'8 -.   
+    g'8-.   
     b'16 g'16 d''16 g'16 b'16 e''16  |
     d''16 b'16    
     a'16 b'16 g'16 fis'16 e'16 d'16  |

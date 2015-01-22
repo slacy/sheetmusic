@@ -17,14 +17,14 @@ voicedefault =  {
     \override Staff.TimeSignature #'style = #'C
     \time 2/2 
     \key d \major
-    fis'8.^\upbow(g'16 -.) |
+    fis'8.^\upbow(g'16-.) |
     \grace {   
       b'8  
-    } a'8.^\downbow(gis'16 -.) a'8._\segue fis'16 d'8.    
+    } a'8.^\downbow(gis'16-.) a'8._\segue fis'16 d'8.    
     fis'16 a'8. d''16    |
     cis''8. e''16-4 d''8. b'16    
     a'8. cis''16 e''8. g''16    |
-    fis''8. d''16 e''8. -4 cis''16 d''8. b'16 a'8. fis'16    |
+    fis''8. d''16 e''8.-4 cis''16 d''8. b'16 a'8. fis'16    |
     b'4 e'4    
     e'8. fis'16 g'8. gis'16    |
     \grace { b'8  
@@ -40,10 +40,10 @@ voicedefault =  {
   }     
 
   \repeat volta 2 {
-    cis''8.^\upbow(d''16 -.) |
+    cis''8.^\upbow(d''16-.) |
     \grace {    
       fis''8  
-    } e''8.^\downbow(dis''16 -.) e''8.-4_\segue cis''16   
+    } e''8.^\downbow(dis''16-.) e''8.-4_\segue cis''16   
     a'8. cis''16 e''8. g''16    |
     g''8. fis''16 a''8.    
     fis''16 d''4 e''8. fis''16    |

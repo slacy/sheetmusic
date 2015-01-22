@@ -17,14 +17,14 @@ voicedefault =  {
   fis''8^\upbow |
   d''4 d''8 (a'8) 
   fis'8 d'8 a'8 fis'8    |
-  e'8 -. e''8   ~ e''8 d''8 -. cis''8^\trill a'8 b'8 cis''8    |
-  d''4 d''8 (a'8  -) fis'8 d'8 a'8 g''8 (|
+  e'8-. e''8   ~ e''8 d''8-. cis''8^\trill a'8 b'8 cis''8    |
+  d''4 d''8 (a'8-) fis'8 d'8 a'8 g''8 (|
   fis''8) d''8 e''8    
   cis''8 d''8 d'8 d'8 fis''8    |
   d''4 d''8 (a'8) 
   fis'8 d'8 a'8 fis'8    |
-  e'8 -. e''8   ~ e''8 d''8 -. cis''8^\trill a'8 b'8 cis''8    |
-  d''4 d''8 (a'8  -) fis'8 d'8 a'8 g''8 (|
+  e'8-. e''8   ~ e''8 d''8-. cis''8^\trill a'8 b'8 cis''8    |
+  d''4 d''8 (a'8-) fis'8 d'8 a'8 g''8 (|
   fis''8) d''8 e''8    
   cis''8 d''8 d'8 d'8    \bar "|." g''8^\downbow(|
   

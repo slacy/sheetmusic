@@ -20,7 +20,7 @@ voicedefault =  {
     \times 2/3 { a''8^\upbow gis''8 fis''8  
 	       } 
     |
-    e''8. (fis''16 -.) e''8. (d''16 -.) cis''8.^\segue   
+    e''8. (fis''16-.) e''8. (d''16-.) cis''8.^\segue   
     d''16 cis''8. b'16  |
     \times 2/3 { a'8 cis''8 b'8  
 	       }   
@@ -51,8 +51,8 @@ voicedefault =  {
   }     
   \repeat volta 2 {
     b'4^\fermata^\upbow |
-    b'8. (ais'16 -.) 
-    b'8. (e''16 -.) gis''8.^\segue fis''16 e''8. dis''16  
+    b'8. (ais'16-.) 
+    b'8. (e''16-.) gis''8.^\segue fis''16 e''8. dis''16  
     |
     cis''8. bis'16 cis''8. fis''16 a''8. gis''16    
     fis''8. e''16  |

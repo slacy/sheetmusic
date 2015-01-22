@@ -31,7 +31,7 @@ voicedefault =  {
     c''8 (a'8) b'8 c''4^\trill d''8    |
     c''8    
     a'8 g'8 fis'8 g'8 a'8    |
-    a'8 d''8 (-. d''8 -.)  
+    a'8 d''8 (-. d''8-.)  
     d''4    
   }     
   \repeat volta 2 {
@@ -50,7 +50,7 @@ voicedefault =  {
     c''8 (a'8) b'8 c''4^\trill d''8    |
     c''8 a'8 g'8  
     fis'8 g'8 a'8    |
-    a'8 d''8 (-. d''8 -.) d''4    
+    a'8 d''8 (-. d''8-.) d''4    
   }  
   d''8^\downbow fis''8 g''8 a''8 fis''8 d''8    |
   d''8 
@@ -66,7 +66,7 @@ voicedefault =  {
   |
   c''8 a'8 g'8 fis'8 g'8 a'8    |
   a'8      
-  d''8 (-. d''8 -.) d''4    \bar "|."   
+  d''8 (-. d''8-.) d''4    \bar "|."   
 
 }
 

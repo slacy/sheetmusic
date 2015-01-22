@@ -18,7 +18,7 @@ voicedefault =  {
     \time 2/2 
     \key bes \major f'4^\upbow |
     bes'8^\downbow   r8 
-    bes'4^\downbow  ~ bes'8. (a'16 -.) c''8. (bes'16 -.)   |
+    bes'4^\downbow  ~ bes'8. (a'16-.) c''8. (bes'16-.)   |
     
     d''8^\segue   r8 bes'4   ~ bes'8. a'16 c''8. bes'16    
     |
@@ -39,7 +39,7 @@ voicedefault =  {
     |
     \times 2/3 { bes'8^\downbow(c''8 bes'8) 
 	       } f'8. (
-    bes'16 -.) d''8. (f'16 -.) bes'8._\segue d''16    |
+    bes'16-.) d''8. (f'16-.) bes'8._\segue d''16    |
     
     \times 2/3 { c''8 (d''8 c''8) 
 	       } g'8. c''16 ees''8. d''16  

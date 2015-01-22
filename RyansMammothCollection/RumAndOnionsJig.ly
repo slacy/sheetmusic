@@ -32,9 +32,9 @@ voicedefault =  {
     g'8 fis'8 g'8    |
     b'8 c''8 d''8 d''8 b'8 g'8   
     |
-    \time 2/4 a'4 -.^\downbow a'8 -.^\downbow a'8 -.^\upbow a'8 -.  
-    d''8 -. c''8 -. a'8 -.   |
-    g'4 -. b'4 -. g'4 -.   r4   
+    \time 2/4 a'4-.^\downbow a'8-.^\downbow a'8-.^\upbow a'8-.  
+    d''8-. c''8-. a'8-.   |
+    g'4-. b'4-. g'4-.   r4   
   }   
   \time 6/8   \grace { e''8^\downbow fis''8  
 		     } g''8 e''8 e''8    

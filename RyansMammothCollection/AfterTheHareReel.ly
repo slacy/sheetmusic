@@ -19,7 +19,7 @@ voicedefault =  {
     e'16^"A MINOR"^\downbow a'16 cis''16    
     a'16 e''16-4 a'16 cis''16 a'16    |
     e'16 a'16    
-    cis''16 e''16-4 d''16 (b'16) b'8 -.   |
+    cis''16 e''16-4 d''16 (b'16) b'8-.   |
     e'16 a'16   
     cis''16 a'16 e''16-4 a'16 cis''16 a'16    |
     a''16  
@@ -33,7 +33,7 @@ voicedefault =  {
 	   } a''16 gis''16 a''16    
     e''16-0 fis''16 a''16 e''16 cis''16    |
     d''16    
-    fis''16 e''16 d''16 cis''16 (a'16) a'8 -.   
+    fis''16 e''16 d''16 cis''16 (a'16) a'8-.   
   }     
 
   \repeat volta 2 {
@@ -55,7 +55,7 @@ voicedefault =  {
     cis''16    |
     \grace { e''16  
 	   } d''16 b'16 cis''16 a'16   
-    b'16 (a'16) fis'8 -.   |
+    b'16 (a'16) fis'8-.   |
     e'16 a'16 a'16 b'16    
     cis''16 a'16 a''16 fis''16    |
     e''16 cis''16 b'16    

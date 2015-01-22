@@ -51,9 +51,9 @@ voicedefault =  {
     
     bes'8. f''16 d''8. bes'16 a'8. ees''16 c''8. a'16  
     |
-    bes'8. bes''16 a''8. g''16    \times 2/3 { f''8 -.   
-					       g''8 -. f''8 -. 
-					     }   \times 2/3 { ees''8 -. d''8 -. c''8 -. 
+    bes'8. bes''16 a''8. g''16    \times 2/3 { f''8-.   
+					       g''8-. f''8-. 
+					     }   \times 2/3 { ees''8-. d''8-. c''8-. 
 							    } |
     
     bes'4 bes''4 bes'4  

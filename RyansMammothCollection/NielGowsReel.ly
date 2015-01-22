@@ -29,7 +29,7 @@ voicedefault =  {
   e'8) cis'16. e'32 
   a16. e'32 cis'16. e'32  |
   d''16. fis''32 e''16.    
-  d''32 cis''16 (a'16) a'16 -. \bar "|." d''16^\upbow |
+  d''32 cis''16 (a'16) a'16-. \bar "|." d''16^\upbow |
   
   \times 2/3 { cis''16 (b'16 a'16) 
 	     } e''16. a'32 fis''16.    
@@ -54,7 +54,7 @@ voicedefault =  {
   
   cis''16. e''32 a'16. cis''32 d''16. fis''32 b'16. d''32  
   |
-  e'16. gis'32 b'16. d''32 cis''16 (a'16) a'16 -.     \bar "|."   
+  e'16. gis'32 b'16. d''32 cis''16 (a'16) a'16-.     \bar "|."   
 
 }
 

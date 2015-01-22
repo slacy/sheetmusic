@@ -19,7 +19,7 @@ voicedefault =  {
   fis'16 d''16    |
   d'8.^\accent b'16 a'16 fis'16    
   fis'16 a'16    |
-  b'16 d''16 a'16 fis'16 e'8 -. e'16 (
+  b'16 d''16 a'16 fis'16 e'8-. e'16 (
   fis'16)   |
   d'8.^\accent b'16 a'16 fis'16 fis'16  
   b'16    |

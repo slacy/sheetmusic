@@ -5,7 +5,7 @@
   crossRefNumber = "1"
   footnotes = ""
   tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
-  title = "THE BOYS OF BOCKHILL - JIG"
+  title = "THE BOYS OF BOCKHILL- JIG"
 
 }
 voicedefault =  {
@@ -47,7 +47,7 @@ voicedefault =  {
     d''8   
     b'8 g'8 a'8 g'8 e'8    |
     d'8 g'8 (g'8) a'16 (
-    b'16 c''8) a'8 -.   |
+    b'16 c''8) a'8-.   |
     b'8 g'8 (g'8) g'4    
   }   
 

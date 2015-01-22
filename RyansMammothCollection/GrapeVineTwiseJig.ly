@@ -50,7 +50,7 @@ voicedefault =  {
   b'16 (^\downbow   
   d''16)   r16 d''16^\downbow e''16-4^\upbow d''16 b'16 g'16   
   |
-  b'16 (^\upbow d''16)   r16 d''16^\upbow e''16 -4^\downbow d''16 e''16 fis''16    |
+  b'16 (^\upbow d''16)   r16 d''16^\upbow e''16-4^\downbow d''16 e''16 fis''16    |
   g''16 e''16 d''16 
   b'16 a'16 g'16 fis'16 a'16    <<   \bar "|."   \bar "|."   
 

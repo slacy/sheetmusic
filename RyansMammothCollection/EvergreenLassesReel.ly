@@ -5,7 +5,7 @@
   crossRefNumber = "1"
   footnotes = "\\\\156"
   tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
-  title = "Evergreen Lasses - Reel"
+  title = "Evergreen Lasses- Reel"
 
 }
 voicedefault =  {

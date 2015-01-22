@@ -27,7 +27,7 @@ voicedefault =  {
 
 	   } fis''4 d''8 e''8 fis''8 b'8 d''8 e''8    |
     
-    fis''8 -. gis''8 (a''8) fis''8 -. e''8 a'8 cis''8 e''8    
+    fis''8-. gis''8 (a''8) fis''8-. e''8 a'8 cis''8 e''8    
 
   } 
   \repeat volta 2 {
@@ -37,7 +37,7 @@ voicedefault =  {
     e''8    |
     fis''8 b'8 d''8 b'8 fis''8 b'8 d''8    
     e''8    |
-    fis''8 -. gis''8 (a''8) fis''8 -. e''8 a'8    
+    fis''8-. gis''8 (a''8) fis''8-. e''8 a'8    
     cis''8 e''8    
   } 
   \repeat volta 2 {

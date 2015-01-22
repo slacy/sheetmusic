@@ -17,24 +17,24 @@ voicedefault =  {
 	     }   
   cis'16^\downbow e'16^\upbow a'16 cis''16 e''16-4 cis''16    
   |
-  fis''16 cis''16 e''16-4 cis''16 b'16 cis''16 a'8 -.   |
+  fis''16 cis''16 e''16-4 cis''16 b'16 cis''16 a'8-.   |
   \times 2/3 { e'16^\upbow(fis'16 e'16) 
 	     } cis'16    
   e'16 a'16 cis''16 e''16 gis''16    |
   a''16 fis''16    
-  e''16 cis''16 b'16 cis''16 a'8 -.   |
+  e''16 cis''16 b'16 cis''16 a'8-.   |
   \times 2/3 {   
     e'16^\upbow(fis'16 e'16) 
   } cis'16 e'16 a'16 cis''16    
   e''16 cis''16    |
   d''16 b'16 cis''16 a'16 b'16 a'16 
   fis'16 a'16    |
-  e'8 -.   \times 2/3 { e'16 (fis'16    
+  e'8-.   \times 2/3 { e'16 (fis'16    
 			gis'16) 
 		      } a'16 cis''16 e''16 gis''16    |
   a''16    
-  fis''16 e''16 cis''16 a'8 -. gis'16 fis'16    \bar ":|" a''16   
-  fis''16 e''16 cis''16 a'8 -.   \times 2/3 { e''16 (fis''16    
+  fis''16 e''16 cis''16 a'8-. gis'16 fis'16    \bar ":|" a''16   
+  fis''16 e''16 cis''16 a'8-.   \times 2/3 { e''16 (fis''16    
 					      gis''16) 
 					    }   \bar "|."     \grace { b''16_"f" 
 								     } a''16^\downbow   
@@ -54,11 +54,11 @@ voicedefault =  {
 					  } e''16^\downbow cis''16    |
   d''16 b'16    
   cis''16 a'16 b'16 a'16 fis'16 a'16    |
-  e'8 -.   
+  e'8-.   
   \times 2/3 { e'16 (fis'16 gis'16) 
 	     } a'16 cis''16 e''16    
   gis''16    |
-  a''16 fis''16 e''16 cis''16 a'8 -.   
+  a''16 fis''16 e''16 cis''16 a'8-.   
   \times 2/3 { e''16 (fis''16 gis''16) 
 	     }   \bar ":|" a''16    
   fis''16 e''16 cis''16 a'8    r8   \bar "|."   

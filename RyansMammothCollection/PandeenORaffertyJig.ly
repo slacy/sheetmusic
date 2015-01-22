@@ -20,11 +20,11 @@ voicedefault =  {
     |
     e'8 d''8 cis''8 b'8 a'8 b'8  |
     e'8 (
-    cis''8) cis''8 -. e'8 (b'8) b'8 -. |
+    cis''8) cis''8-. e'8 (b'8) b'8-. |
     a'8 b'8 a'8  
     a'8 fis'8 e'8  |
-    e'8 (cis''8) cis''8 -. e'8 (
-    b'8) b'8 -. |
+    e'8 (cis''8) cis''8-. e'8 (
+    b'8) b'8-. |
     a'8 b'8 cis''8 d''8 e''8 fis''8  
     |
     e''8 d''8 cis''8 b'8 cis''8 b'8  |

@@ -15,18 +15,18 @@ voicedefault =  {
   \time 2/2 
   \key g \major
   d'4^\downbow b'8 a'8 b'8 (d''8)   
-  e''8 -. fis''8 -.   |
+  e''8-. fis''8-.   |
   d''8 e''8 b'8 d''8 a'8 fis'8    
   d'8 fis'8    |
-  d'4 b'8 a'8 b'8 (d''8) e''8 -.   
-  fis''8 -.   |
+  d'4 b'8 a'8 b'8 (d''8) e''8-.   
+  fis''8-.   |
   d''8 b'8 a'8 fis'8 b'8 e'8 e'8    r8   
   |
-  d'4 b'8 a'8 b'8 (d''8) e''8 -. fis''8 -.   
+  d'4 b'8 a'8 b'8 (d''8) e''8-. fis''8-.   
   |
   d''8 e''8 b'8 d''8 a'8 fis'8 d'8 fis'8    
   |
-  d'4 b'8 a'8 b'8 (d''8) e''8 -. fis''8 -.   
+  d'4 b'8 a'8 b'8 (d''8) e''8-. fis''8-.   
   |
   d''8 b'8 a'8 fis'8 b'8 e'8 e'8      \bar "|."     
   e''8^"H"^\upbow   |

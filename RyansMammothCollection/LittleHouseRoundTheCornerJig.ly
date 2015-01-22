@@ -18,31 +18,31 @@ voicedefault =  {
     \time 6/8 
     \key d \major
     a'8^\upbow |
-    fis'8 -. d'8 -. a8 (
-    d'8) fis'8 -. b'8 -.   |
+    fis'8-. d'8-. a8 (
+    d'8) fis'8-. b'8-.   |
     a'8 fis'8 d'8  \grace { fis'8 
 			    
-			  } e'8 -. d'8 -. b8 (|
-    a8) d'8 -. fis'8 -. a'8 -.   
-    d''8 -. fis''8 -.   |
+			  } e'8-. d'8-. b8 (|
+    a8) d'8-. fis'8-. a'8-.   
+    d''8-. fis''8-.   |
     \grace { a''8  
-	   } g''8. -. fis''16 g''8 
-    e''8 -. a''8 (g''8)   |
+	   } g''8.-. fis''16 g''8 
+    e''8-. a''8 (g''8)   |
     \grace { g''8  
 	   } fis''8    
     e''8 d''8 a'8 fis'8 d'8    |
     \grace { fis'8  
-	   } e'8 -.   
-    d'8 -. b8 (d'8) fis'8 -. a'8 -.   |
+	   } e'8-.   
+    d'8-. b8 (d'8) fis'8-. a'8-.   |
     \grace { e''8  
 	   }   
     d''8 cis''8 d''8 e''8 a''8 g''8    |
-    fis''8 (d''8  -) d''8 -. d''4    
+    fis''8 (d''8-) d''8-. d''4    
   }     
   \repeat volta 2 {
     fis''16^\upbow(g''16) 
     |
-    a''8 -. fis''8 (a''8) g''8 -. e''8 (g''8)   
+    a''8-. fis''8 (a''8) g''8-. e''8 (g''8)   
     |
     fis''8 e''8 d''8 e''8 cis''8 a'8    |
     
@@ -51,7 +51,7 @@ voicedefault =  {
     |
     fis''8 d''8 fis''8 e''8 (fis''8 g''8)   |
     
-    a''8 -. fis''8 (a''8) g''8 -. e''8 (g''8)   |
+    a''8-. fis''8 (a''8) g''8-. e''8 (g''8)   |
     
     \grace { g''8  
 	   } fis''8 e''8 d''8 e''8 cis''8 a'8    

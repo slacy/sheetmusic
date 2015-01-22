@@ -23,25 +23,25 @@ voicedefault =  {
     a'8-1   
     a''16 fis''16 e''16 cis''16 b'16 cis''16    |
     fis'16    
-    gis'16 a'16 b'16 cis''8 -. fis''16 (gis''16)   |
+    gis'16 a'16 b'16 cis''8-. fis''16 (gis''16)   |
     
-    a''16 fis''16 gis''16 e''16 cis''16 (fis''16) fis''8 -.   
+    a''16 fis''16 gis''16 e''16 cis''16 (fis''16) fis''8-.   
     |
-    a''16 gis''16 a''16 fis''16 e''16 d''16 e''16 -4 cis''16    |
+    a''16 gis''16 a''16 fis''16 e''16 d''16 e''16-4 cis''16    |
     b'16 a'16 cis''16 a'16 fis'16 (a'16 
-    ) e'8 -.   |
-    fis'16 gis'16 a'16 b'16 cis''8 -.   
+    ) e'8-.   |
+    fis'16 gis'16 a'16 b'16 cis''8-.   
     fis''8-1   |
     e''16 cis''16 b'16 cis''16 a'8  
   }     
 
   \repeat volta 2 {
     cis''8^\upbow |
-    fis''8^\downbow fis''16^\downbow gis''16^\upbow a''16 (gis''16 a''16) fis''16 -.   
+    fis''8^\downbow fis''16^\downbow gis''16^\upbow a''16 (gis''16 a''16) fis''16-.   
     |
-    e''16 (dis''16 e''16) fis''16 -. e''16 cis''16    
+    e''16 (dis''16 e''16) fis''16-. e''16 cis''16    
     b'16 a'16    |
-    e''16 (dis''16 e''16) fis''16 -. e''16  
+    e''16 (dis''16 e''16) fis''16-. e''16  
     cis''16 b'16 a'16    |
     \grace { cis''16  
 	   } b'16 a'16    
@@ -54,7 +54,7 @@ voicedefault =  {
     
     \grace { e''16^\upbow fis''16 gis''16  
 	   } a''8 fis'16^\downbow   
-    gis'16 a'8 -. cis''8-1   |
+    gis'16 a'8-. cis''8-1   |
     b'16 a'16 gis'16 b'16    
     a'8  
   }   

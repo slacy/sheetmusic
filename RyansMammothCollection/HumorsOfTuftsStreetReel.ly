@@ -21,8 +21,8 @@ voicedefault =  {
     e'8\turn b'16 a'16 fis'16 a'16  |
     \times 2/3 { b'16 (
 		 cis''16 d''16) 
-	       } a'16 -. fis'16 -. d'16 (fis'16) a'16 -.   
-    cis''16 -. |
+	       } a'16-. fis'16-. d'16 (fis'16) a'16-.   
+    cis''16-. |
     b'16 e'16 e'8\turn b'16 a'16 b'16    
     cis''16  |
     d''16 b'16 a'16 fis'16 e'16 d''16 cis''16 
@@ -30,8 +30,8 @@ voicedefault =  {
     b'16 e'16 e'8\turn b'16 a'16 fis'16    
     a'16  |
     \times 2/3 { b'16 (cis''16 d''16) 
-	       } a'16 -.   
-    fis'16 -. d'16 (fis'16) a'16 -. cis''16 -. |
+	       } a'16-.   
+    fis'16-. d'16 (fis'16) a'16-. cis''16-. |
     b'16 a'16  
     b'16 d''16 cis''16 a'16 b'16 cis''16  |
     d''16 b'16 
@@ -52,14 +52,14 @@ voicedefault =  {
     d'16 fis'16 a'16 cis''16 d''8 cis''16 a'16  
     |
     \times 2/3 { b'16 (cis''16 d''16) 
-	       } a'16 -. cis''16 -.   \times 2/3 { b'16 (cis''16 d''16) 
-		    } e''16 -. fis''16 -. 
+	       } a'16-. cis''16-.   \times 2/3 { b'16 (cis''16 d''16) 
+		    } e''16-. fis''16-. 
     |
     g''16 (fis''16) fis''16 (e''16) e''16 (d''16)  
     d''16 (cis''16) |
     \times 2/3 { b'16 (cis''16 d''16) 
 
-	       } a'16 -. fis'16 -. e'8  
+	       } a'16-. fis'16-. e'8  
   }   
 
 }

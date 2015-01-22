@@ -16,7 +16,7 @@ voicedefault =  {
   \key g \major
   
   \repeat volta 2 {
-    g8. (^\downbow g'16 -.)   
+    g8. (^\downbow g'16-.)   
     g'4^\upbow g8.^\segue g'16 g'4    |
     a'8. b'16 a'8.   
     g'16 fis'8. d'16 e'8. fis'16        |
@@ -28,7 +28,7 @@ voicedefault =  {
   \repeat volta 2 {
     
     \times 2/3 { b''8 (^\downbow a''8 g''8) 
-	       } d''16 (^\upbow g'8.  -) b'16^\segue(g''8.) d''16 (g''8.)   |
+	       } d''16 (^\upbow g'8.-) b'16^\segue(g''8.) d''16 (g''8.)   |
     
     \times 2/3 { b''8 (a''8 g''8) 
 	       } d''16 (g''8.) e''16 (

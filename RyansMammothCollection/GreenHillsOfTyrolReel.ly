@@ -18,7 +18,7 @@ voicedefault =  {
     \key g \major
     d''16^\downbow-. c''16  |
     b'16 (g'16 
-    ) fis'16 -. g'16 -. b'16 g'16 a'16 c''16    |
+    ) fis'16-. g'16-. b'16 g'16 a'16 c''16    |
     b'16    
     g'16 d'16 c'16 d'16 b16 d'16 c'16    |
     b16 g16    
@@ -38,7 +38,7 @@ voicedefault =  {
     \times 2/3 { g''16^\accent(
 		 fis''16 g''16) 
 	       } |
-    b''16 -. g''16 (fis''16 g''16)   
+    b''16-. g''16 (fis''16 g''16)   
     e''16 (g''16) d''16 (g''16) |
     c''16 (a''16) b'16 
     (g''16) a'16 (fis''16) g'16 (e''16) |

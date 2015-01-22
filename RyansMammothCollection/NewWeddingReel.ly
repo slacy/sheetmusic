@@ -19,7 +19,7 @@ voicedefault =  {
     c''8^\upbow   |
     b'16^"Segno" g'16    
     a'16 fis'16 b'16 g'16 a'16 fis'16    |
-    g'8 -. b'16 (
+    g'8-. b'16 (
     d''16) g''16 e''16 d''16 c''16    |
     b'16 g'16    
     a'16 fis'16 b'16 g'16 a'16 fis'16    |
@@ -27,7 +27,7 @@ voicedefault =  {
     e'16 fis'16 g'8 c''8    |
     b'16 g'16 a'16 fis'16   
     b'16 g'16 a'16 fis'16    |
-    g'8 -. b'16 (d''16)   
+    g'8-. b'16 (d''16)   
     g''16 e''16 d''16 c''16    |
     b'16 g'16 a'16 fis'16   
     b'16 g'16 a'16 fis'16    |
@@ -37,7 +37,7 @@ voicedefault =  {
   \repeat volta 2 {
     g''16^\fermata fis''16 g''16    
     e''16 fis''16 g''16 a''16 fis''16    |
-    g''8 -. b''16 (
+    g''8-. b''16 (
     g''16) a''16 fis''16 d''16 fis''16    |
     g''16 fis''16 
     g''16 e''16 fis''16 g''16 a''16 fis''16    |
@@ -45,7 +45,7 @@ voicedefault =  {
     g''16 e''16 fis''16 g''8 g''8    |
     g''16 fis''16    
     g''16 e''16 fis''16 g''16 a''16 fis''16    |
-    g''8 -.   
+    g''8-.   
     b''16 (g''16) a''16 fis''16 d''16 fis''16    |
     g''16  
     fis''16 g''16 e''16 fis''16 g''16 a''16 fis''16    |

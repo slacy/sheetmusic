@@ -18,17 +18,17 @@ voicedefault =  {
     \key f \major
     a'16 (^\upbow bes'16) |
     c''4 
-    (^\accent^\downbow f'8 -.) a'8 g'8 f'8    |
-    c''4 (f'8 -.) a'8 g'8 f'8    |
-    d''4^">,fz"(bes'8 -.) c''4 (
-    a'8 -.)   |
+    (^\accent^\downbow f'8-.) a'8 g'8 f'8    |
+    c''4 (f'8-.) a'8 g'8 f'8    |
+    d''4^">,fz"(bes'8-.) c''4 (
+    a'8-.)   |
     g'8 a'8-4 g'8 g'8 a'8 bes'8  |
     
-    c''4 (^\accent^\downbow f'8 -.) a'8 g'8 f'8    |
+    c''4 (^\accent^\downbow f'8-.) a'8 g'8 f'8    |
     
-    c''4^">,fz"(f'8 -.) a'8 g'8 f'8    |
+    c''4^">,fz"(f'8-.) a'8 g'8 f'8    |
     d''4^">,fz"(
-    bes'8 -.) c''4 (a'8 -.) |
+    bes'8-.) c''4 (a'8-.) |
     f'8 g'8 f'8 f'4  
   }     
   c''8^\upbow |
@@ -37,14 +37,14 @@ voicedefault =  {
   a''8 g''8 f''8 e''8 d''8 c''8  |
   d''8    
   f''8 d''8 c''8 bes'8 a'8  |
-  g'4 (g'8 -.) g'4 (
-  c''8 -.) |
+  g'4 (g'8-.) g'4 (
+  c''8-.) |
   f''8 e''8 f''8 g''8 a''8 bes''8  
   |
   a''8 g''8 f''8 e''8 d''8 c''8  |
   d''8    
   f''8 d''8 c''8 a'8 c''8  |
-  f'4 (f'8 -.) f'4  
+  f'4 (f'8-.) f'4  
 }   
 
 }

@@ -46,7 +46,7 @@ voicedefault =  {
   b'16 d''16    |
   \times 2/3 { cis''16 (b'16 a'16) 
 	     }   
-  e''16 -. a'16 -. fis''16 a'16 gis''16 a'16    |
+  e''16-. a'16-. fis''16 a'16 gis''16 a'16    |
   a''16 (
   fis''16) e''16 d''16 cis''16 e''16 a''16 e''16      
   \bar "|."   

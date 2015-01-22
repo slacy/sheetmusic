@@ -20,8 +20,8 @@ voicedefault =  {
   d''16 d'16 d'16    
   fis'16 e'16 d'16 e'16 g''16    |
   fis''16 d''16 e''16 
-  fis''16    \times 2/3 { d''16 -. d''16 -. d''16 -. 
-			} d''8 -.   
+  fis''16    \times 2/3 { d''16-. d''16-. d''16-. 
+			} d''8-.   
   |
   d''16 d'16 d'16 fis'16 e'16 d'16 e'16 fis''16 
   |
@@ -30,8 +30,8 @@ voicedefault =  {
   d''16 d'16 d'16 fis'16 e'16 d'16    
   e'16 g''16    |
   fis''16 d''16 e''16 fis''16    
-  \times 2/3 { d''16 -. d''16 -. d''16 -. 
-	     } d''8 -.     \bar "|."     
+  \times 2/3 { d''16-. d''16-. d''16-. 
+	     } d''8-.     \bar "|."     
 
   \repeat volta 2 {
     a''16^\fermata^\downbow fis''16 d''16 fis''16    
@@ -41,7 +41,7 @@ voicedefault =  {
     a''16 fis''16   
     d''16 fis''16 a''16 b''16 a''16 fis''16    |
     e''16    
-    d''16 e''16 fis''16    \times 2/3 { d''16 -. d''16 -. d''16 -. 
+    d''16 e''16 fis''16    \times 2/3 { d''16-. d''16-. d''16-. 
 				      }   
     d''16 (fis''16)   |
     a''16 fis''16 d''16 fis''16    
@@ -51,8 +51,8 @@ voicedefault =  {
     d''16 d'16    
     d'16 fis'16 e'16 d'16 e'16 g''16    |
     fis''16 d''16  
-    e''16 fis''16    \times 2/3 { d''16 -. d''16 -. d''16 -. 
-				} d''8 -. 
+    e''16 fis''16    \times 2/3 { d''16-. d''16-. d''16-. 
+				} d''8-. 
     
   }   
 

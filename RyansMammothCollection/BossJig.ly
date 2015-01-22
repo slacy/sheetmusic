@@ -17,17 +17,17 @@ voicedefault =  {
     \time 6/8 
     \key bes \major   \grace { f''8^"fz"(^\downbow g''8 a''8  
 			     }  
-    bes''4^\accent bes'8 -.) \grace { c''8  
+    bes''4^\accent bes'8-.) \grace { c''8  
 				    } bes'8 a'8 bes'8    
     |
     g'8 bes'8 bes'8 f'8 bes'8 bes'8    |
     
-    bes''4^"fz"(^\downbow^\accent bes'8 -.) \grace { c''8  
+    bes''4^"fz"(^\downbow^\accent bes'8-.) \grace { c''8  
 						   } bes'8 a'8 
     bes'8    |
     g'8 c''8 bes'8 a'8 g'8 f'8        
     |
-    bes''4^"fz"(^\downbow^\accent bes'8 -.) \grace { c''8  
+    bes''4^"fz"(^\downbow^\accent bes'8-.) \grace { c''8  
 						   }   
     bes'8 a'8 bes'8    |
     g'8 bes'8 bes'8 f'8 bes'8    

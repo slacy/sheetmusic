@@ -5,7 +5,7 @@
   crossRefNumber = "1"
   footnotes = "\\\\157"
   tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
-  title = "Eileen Alanna - Reel"
+  title = "Eileen Alanna- Reel"
 
 }
 voicedefault =  {
@@ -51,7 +51,7 @@ voicedefault =  {
     
     << b'8^\accent g''8   >> << b'8^\accent g''8   >>   r8 << c''8    
 							      a''8   >>   |
-    << dis''16^"21" b''16   >> a''16-1 b''16 -2 c'''16-3 b''16 a''16 b''16 c'''16    |
+    << dis''16^"21" b''16   >> a''16-1 b''16-2 c'''16-3 b''16 a''16 b''16 c'''16    |
     << dis''4  
        b''4   >>   r8     
   }   

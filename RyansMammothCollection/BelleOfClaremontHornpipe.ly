@@ -34,15 +34,15 @@ voicedefault =  {
   } 
   
   \repeat volta 2 {
-    e''16^\downbow c''16 c''8 -. e''16^\downbow   
+    e''16^\downbow c''16 c''8-. e''16^\downbow   
     c''16 g''16 c''16  |
-    e''16 c''16 c''16 e''16 g''8 -. 
+    e''16 c''16 c''16 e''16 g''8-. 
     d''16^\downbow c''16  |
-    b'16 g'16 g'8 -. b'16 g'16    
+    b'16 g'16 g'8-. b'16 g'16    
     d''16 g'16  |
     b'16 g'16 g'16 b'16 d''16 f''16    
     e''16 d''16  |
-    e''16^\downbow c''16 c''8 -. e''16^\downbow c''16 g''16 c''16  |
+    e''16^\downbow c''16 c''8-. e''16^\downbow c''16 g''16 c''16  |
     e''16 c''16 c''16    
     e''16 g''8 g'8  |
     a'16 a''16 g''16 f''16 e''16    
