@@ -18,23 +18,23 @@ voicedefault =  {
     \time 2/2      \key a \major cs''8^\downbow d''8          |
     
     \times 2/3 { e''8 (a''8 e''8) 
-	       }   \times 2/3 { cs''8 (e''8    
+	 }   \times 2/3 { cs''8 (e''8    
 				cs''8)  			 }   \times 2/3 { a'8 (cs''8 a'8)  					 } e'8 (a'8)      |
     cs'8 e'8 a'8 cs''8 e''8 cs''8 a'8 cs''8     |
     \times 2/3 { d''8 (fs''8 d''8) 
-	       }   \times 2/3 { cs''8 
+	 }   \times 2/3 { cs''8 
 				(e''8 cs''8) 
-			      }   \times 2/3 { b'8 (d''8 b'8) 
-					     }        \times 2/3 { a'8 (cs''8 a'8)  	 }     |
+			 }   \times 2/3 { b'8 (d''8 b'8) 
+					 }        \times 2/3 { a'8 (cs''8 a'8)  	 }     |
     gs'8 b'8 a'8 fs'8 e'4 cs''8 (d''8)   |  |
     e''8 a''8 cs''8 e''8 a'8 cs''8 e'8 a'8     |
     cs'8 e'8 a'8 cs''8 e''8 cs''8 a'8 cs''8     |
     \times 2/3 { d''8 
 		 (fs''8 d''8) 
-	       }   \times 2/3 { cs''8 (e''8 cs''8) 
-			      }   
+	 }   \times 2/3 { cs''8 (e''8 cs''8) 
+			 }   
     \times 2/3 { b'8 (d''8 b'8) 
-	       }   \times 2/3 { gs'8 (b'8     				gs'8)  			 }     |
+	 }   \times 2/3 { gs'8 (b'8     				gs'8)  			 }     |
     a'4 a''4 a'4    
   }     
   \repeat volta 2 {
@@ -46,13 +46,13 @@ voicedefault =  {
     fs''8 d''8 b'8 d''8    \times 2/3 { 
       fs''8 (e''8 d''8)  		 }   \times 2/3 { cs''8 (b'8 a'8)  		 }      |
     \times 2/3 { gs'8 (a'8 b'8) 
-	       }   \times 2/3 { a'8 ( 						gs'8 fs'8)  			 } e'4 cs''8 (d''8)     |
+	 }   \times 2/3 { a'8 ( 						gs'8 fs'8)  			 } e'4 cs''8 (d''8)     |
     \times 2/3 { 
       e''8 (a''8 gs''8) 
     }   \times 2/3 { fs''8 (e''8 d''8) 
-		   }   
+		 }   
     \times 2/3 { cs''8 (b'8 a'8) 
-	       }   \times 2/3 { b'8 (a'8     						gs'8)  			 }     |
+	 }   \times 2/3 { b'8 (a'8     						gs'8)  			 }     |
     a'4 a''4 a'4    
   }   
 

@@ -40,7 +40,7 @@ voicedefault =  {
 														   {
 														     \voicedefault 
 														     
-														   }
+														 }
 
 														 >>
 														 \layout {
@@ -49,4 +49,4 @@ voicedefault =  {
 														 \midi {
 														 }
 
-													       }
+													 }

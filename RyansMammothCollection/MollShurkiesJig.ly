@@ -23,7 +23,7 @@ voicedefault =  {
     b'8 gs'8 a'32 e'16.    r16 b'16    |
     <<   
       a'8 c''8   >> b'8  << a'16 c''16   >>     \grace { c'16  
-						       } b'16    
+						 } b'16    
     a'16 gs'8 a'8-4   
   }     
   \repeat volta 2 {

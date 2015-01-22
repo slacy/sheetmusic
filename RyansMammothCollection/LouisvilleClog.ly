@@ -21,21 +21,21 @@ voicedefault =  {
     d''8. e''16-4 d''8. b'16 g'8. d'16 g'8. b'16     |
     
     \times 2/3 { a'8-4 gs'8 a'8  
-	       } fs''8. e''16    
+	 } fs''8. e''16    
     \times 2/3 { d''8 e''8-4 d''8  
-	       }   \times 2/3 { c''8 b'8 a'8    			 }     |
+	 }   \times 2/3 { c''8 b'8 a'8    			 }     |
     \times 2/3 { g'8 fs'8 g'8  
-	       }   \times 2/3 { a'8    
+	 }   \times 2/3 { a'8    
 				g'8 a'8   			 } b'4  \grace { d''8   					 } b''8. a''16      |
     g''8. d''16 b'8. g''16 e''8. c''16 g'8. e''16-4    |
     d''8. e''16 d''8. b'16 g'8. d'16 g'8. b'16     |
     
     \times 2/3 { a'8 gs'8 a'8  
-	       } fs''8. e''16    \times 2/3 { d''8 
+	 } fs''8. e''16    \times 2/3 { d''8 
 					 e''8 d''8   					 } \times 2/3 { c''8 b'8 a'8   							 }     |
     g'4  
     \grace { fs''8  
-	   } g''4 g'4  
+	 } g''4 g'4  
   }     
   \repeat volta 2 {
     g''8.^\upbow( fs''16)   |
@@ -47,7 +47,7 @@ voicedefault =  {
     b8. d'16 g'8. b'16 d''8. g''16 b''8. g''16     |
     fs''8. a''16 
     fs''8. e''16    \times 2/3 { d''8 e''8-4 d''8  
-			       }        \times 2/3 { c''8 b'8 a'8   	 }     |
+			 }        \times 2/3 { c''8 b'8 a'8   	 }     |
     g'4  \grace { fs''8  
 		}  
     g''4 g'4  

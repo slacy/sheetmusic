@@ -36,9 +36,9 @@ voicedefault =  {
 				fs'16 a'16 d''16     				fs''16 e'16 a'16 cs''16 e''16     |
 				d''8 fs''8    
 				d''8    
-			      }   
+			 }   
 
-			    }
+			 }
 
     \score{
       <<

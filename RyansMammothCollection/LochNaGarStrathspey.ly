@@ -26,9 +26,9 @@ voicedefault =  {
   a''8. g''16 fs''16 (e''16 d''16 cs''16) \grace { e''16   	 } d''4 d''8. a'16     |
   b'8^\downbow-. g''16 (^\upbow fs''16 e''16 d''16 cs''16 b'16) a'4 fs'8. g'16      |
   a'4  \grace { cs''16  
-	      } b'8. a'16    
+	 } b'8. a'16    
   a'16 (b'16 d''8)   \grace { d''16 (
-			    }   
+			 }   
 
 }
 

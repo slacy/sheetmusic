@@ -31,7 +31,7 @@ voicedefault =  {
   
   e'8 fs'8 g'8 a'8 b'4  \grace { cs''8   			 } d''4      <<    				  \bar "|." <<   \bar "|."   \bar ":  |"   
 
-															       }
+															 }
 
 															     \score{
 															       <<
@@ -45,8 +45,8 @@ voicedefault =  {
 															       >>
 															       \layout {
 																 
-															       }
+															 }
 															       \midi {
-															       }
+															 }
 
-															     }
+															 }

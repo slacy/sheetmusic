@@ -26,20 +26,20 @@ voicedefault =  {
     e''8 e''8 e''8 } b'8^\upbow  |
   
   \times 2/3 { ds''16 (cs''16 b'16) 
-	     }   \times 2/3 { ds''16 ( 			 cs''16 b'16)  			 } fs''16 ds''16 cs''16 b'16    |
+	 }   \times 2/3 { ds''16 ( 			 cs''16 b'16)  			 } fs''16 ds''16 cs''16 b'16    |
   
   \times 2/3 { gs''16 (fs''16 e''16-0) 
-	     }   \times 2/3 { gs''16  			      (fs''16 e''16)  			 } b''16 gs''16 fs''16 e''16    |
+	 }   \times 2/3 { gs''16  			      (fs''16 e''16)  			 } b''16 gs''16 fs''16 e''16    |
   
   \times 2/3 { ds''16 (cs''16 b'16) 
-	     } fs''16-. b'16-.      \times 2/3 { ds''16 (cs''16 b'16)  	 } fs''16-. b'16-.    |
+	 } fs''16-. b'16-.      \times 2/3 { ds''16 (cs''16 b'16)  	 } fs''16-. b'16-.    |
   fs''16 e''16 ds''16 cs''16 b'16 a''16 gs''16 fs''16   |
   \times 2/3 { ds''16 (cs''16 b'16) 
-	     }   
+	 }   
   \times 2/3 { ds''16 (cs''16 b'16)  	 } fs''16 ds''16 cs''16 b'16    |
   \times 2/3 { gs''16 (fs''16 e''16-0) 
 
-	     }   \times 2/3 { gs''16 (fs''16 e''16)  			 } b''16 gs''16 fs''16 e''16    |
+	 }   \times 2/3 { gs''16 (fs''16 e''16)  			 } b''16 gs''16 fs''16 e''16    |
   \times 2/3 { ds''16 (cs''16 b'16)  	 } fs''16-. b'16-. gs''16 b'16 fs''16 b'16    |
   e''8    
   e''8 e''8  

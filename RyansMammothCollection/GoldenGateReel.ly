@@ -31,23 +31,23 @@ voicedefault =  {
     fs'16^\downbow g'16    |
     a'8.^\downbow d''16^\downbow   
     \times 2/3 { d''16^\upbow(cs''16 d''16) 
-	       } fs''8.^\downbow d''16^\downbow   \times 2/3 { d''16^\upbow(cs''16 d''16)  				}      |
+	 } fs''8.^\downbow d''16^\downbow   \times 2/3 { d''16^\upbow(cs''16 d''16)  				}      |
     b'8. e''16-4   \times 2/3 { e''16 (ds''16 e''16  
 				)  			 } g''8. e''16-4   \times 2/3 { e''16 (ds''16 e''16)  							 }      |
     cs''16 e''16 b''16 a''16 g''16 e''16 cs''16 g'16     |
     fs'16 a'16 d''16 fs''16 a''8 fs'16^\downbow g'16^\upbow   |
     a'8. d''16    \times 2/3 { d''16 (
 			 cs''16 d''16) 
-			     } fs''8. d''16    \times 2/3 { d''16 (cs''16    							 d''16)  							 }     |
+			 } fs''8. d''16    \times 2/3 { d''16 (cs''16    							 d''16)  							 }     |
     b'8. e''16    \times 2/3 { e''16 (ds''16 
 			 e''16) 
-			     } g''8. e''16    \times 2/3 { e''16 (ds''16 e''16   							   )  							 }     |
+			 } g''8. e''16    \times 2/3 { e''16 (ds''16 e''16   							   )  							 }     |
     cs''16 e''16 b''16 a''16 g''16 e''16    
     b'16 cs''16    
   } \alternative{{ d''8 d''8 d''8  
 		 } { d''16     		 ds''16 fs''16 e''16 d''!16 cs''16 c''16 a'16       		     \bar "  |."   
-		   }
-	       }
+		 }
+	 }
 
 }
 

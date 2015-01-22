@@ -26,27 +26,27 @@ voicedefault =  {
     << g''4^\fermata^\accent^\downbow b'4   >> d''16 (g''8.) b'16 g''8.) d''4      |
     g''8. a''16 b''8. g''16 e''4 e''8. fs''16  |
     \times 2/3 { g''8 (a''8 b''8) 
-	       }   \times 2/3 { 
+	 }   \times 2/3 { 
 		 a''8 (g''8 fs''8) 
-	       }   \times 2/3 { e''8 (fs''8 g''8) 
-			      }   
+	 }   \times 2/3 { e''8 (fs''8 g''8) 
+			 }   
     \times 2/3 { fs''8 (e''8 d''8) 
-	       }   
+	 }   
   } \alternative{{ \times 2/3 { 
     c''8 (d''8 e''8) 
   }   \times 2/3 { d''8 (e''8 fs''8) 
 		 }   
 		   \times 2/3 { g''8 (fs''8 e''8) 
-			      }   \times 2/3 { d''8 (c''8    
+			 }   \times 2/3 { d''8 (c''8    
 					 b'8) 
-					     }       
+					 }       
 		 } { \times 2/3 { c''8 (d''8 e''8) 
 				}   \times 2/3 { 
 				 d''8 (e''8 fs''8) 
 				}   \times 2/3 { g''8 (fs''8 e''8) 
-					       }   			 \times 2/3 { d''8 (c''8 a'8)  				 }   <<   \bar "  |."  >>   
-		   }
-	       }
+					 }   			 \times 2/3 { d''8 (c''8 a'8)  				 }   <<   \bar "  |."  >>   
+		 }
+	 }
 
 }
 

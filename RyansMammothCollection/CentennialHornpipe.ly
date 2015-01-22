@@ -36,9 +36,9 @@ voicedefault =  {
     f''8. e''!16  
   } \alternative{{ f''4 a''4 f''4  
 		 } { \grace { g''8  
-			    } f''8. e''16 f''8. g''16 f''8. ef''!16 d''8. c''16   		     \bar "  |."   
-		   }
-	       }
+			 } f''8. e''16 f''8. g''16 f''8. ef''!16 d''8. c''16   		     \bar "  |."   
+		 }
+	 }
 
 }
 

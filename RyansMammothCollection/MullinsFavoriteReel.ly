@@ -24,7 +24,7 @@ voicedefault =  {
     cs''8 e''8 fs''8 gs''8 a''4 gs''8 (a''8)    |
     fs''8 e''8 cs''8 a'8 e''8 a''8 e''8 cs''8     |
     \grace { cs''8  
-	   } b'8 a'8   
+	 } b'8 a'8   
     b'8 cs''8 a'4    
   }     
   \repeat volta 2 {

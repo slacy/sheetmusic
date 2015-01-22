@@ -24,7 +24,7 @@ voicedefault =  {
 							 b'8 gs'16 b'16 e'16 b'16 gs'16 b'16     |
 							 b'16    
 							 cs''16 e''16 fs''16 gs''16 e''16 e''8    
-							     }     
+							 }     
 
 							 \repeat volta 2 {
 							 b'16 e''16 gs''16 e''16 b''16 e''16     			 gs''16 e''16      |
@@ -38,7 +38,7 @@ voicedefault =  {
 
 							 }   
 
-						       }
+						 }
 
     \score{
       <<

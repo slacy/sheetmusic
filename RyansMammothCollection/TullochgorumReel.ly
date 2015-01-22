@@ -30,7 +30,7 @@ voicedefault =  {
   f''8. e''16 f''8. d''16 c''8. f'16 a'8. a''16     |
   g''8. d''16 g''8. b''16 g''8. d''16 e''8.-4 c''16    <<   \bar "|." <<   \bar " |."  >>   
 
-							  }
+							 }
 
 							\score{
 							  <<
@@ -39,13 +39,13 @@ voicedefault =  {
 							    {
 							      \voicedefault 
 							      
-							    }
+							 }
 
 							  >>
 							  \layout {
 							    
-							  }
+							 }
 							  \midi {
-							  }
+							 }
 
 							}

@@ -14,7 +14,7 @@ voicedefault =  {
   \time 2/4 
   \key g \major
   \times 2/3 { d'16 (^\upbow e'16 fs'16) 
-	     }   
+	 }   
   
   \repeat volta 2 {
     g'8^"Segno" \grace { a'16   		 } g'16 fs'16 g'16 a'16 b'16 c''16      |

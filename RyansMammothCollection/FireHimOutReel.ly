@@ -41,7 +41,7 @@ voicedefault =  {
 	  {
 	    \voicedefault 
 	    
-	  }
+	 }
 
 	>>
 	\layout {

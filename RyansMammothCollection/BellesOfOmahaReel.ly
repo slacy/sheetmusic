@@ -40,8 +40,8 @@ voicedefault =  {
     g'8 e'8 fs'8    
   } \alternative{{ g'8 b'8 a'8 fs'8 e'4    
 		 b'4     		 } { g'8^"last" b'8 a'8 fs'8 e'4^\fermata   r4    		     \bar "  |."   
-					   }
-	       }
+					 }
+	 }
 
 }
 

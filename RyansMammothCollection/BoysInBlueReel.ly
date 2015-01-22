@@ -40,8 +40,8 @@ voicedefault =  {
     fs''16 (d''16) d''16-. d''16-. e''16-4(cs''16) cs''16-. cs''16-.   
   } \alternative{{ d''16    
 		 a'16 fs'16 a'16 d''8         				 } { d''16 a'16 fs'16 a'16     		 d'16 d'16 e'16 fs'16      \bar "  |."   
-										   }
-	       }
+										 }
+	 }
 
 }
 

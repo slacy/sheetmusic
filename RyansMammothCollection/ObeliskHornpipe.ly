@@ -20,8 +20,8 @@ voicedefault =  {
     b16 d'16 g'16 a'16 b'16 g'16 c''16 b'16   |
     \times 2/3 { a'16 (b'16  
 		 a'16) 
-	       }   \times 2/3 { g'16 (fs'16 e'16) 
-			      }   \times 2/3 { 
+	 }   \times 2/3 { g'16 (fs'16 e'16) 
+			 }   \times 2/3 { 
 				d'16 (e'16 d'16)  			 }   \times 2/3 { c'16 (b16 a16)  					 }   |
     b16 d'16 g'16 a'16 b'16 g'16 d'16 b16   |
     c'16 e'16 a'16 b'16 c''16 a'16 fs'16 d'16   |

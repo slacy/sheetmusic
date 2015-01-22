@@ -32,7 +32,7 @@ voicedefault =  {
 					 d''8 e''8 fs''8 g''8 a''8 g''8     |
 					 fs''8 e''8     		 d''8 e''8 fs''8 g''8    <<   \bar " |."  >>   
 
-					     }
+					 }
 
     \score{
       <<
