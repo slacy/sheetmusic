@@ -34,7 +34,7 @@ voicedefault =  {
   \repeat volta 2 {
     a''16^\downbow a'16^\upbow r16 a''16^\upbow a''16 a'16 r16 a''16^\upbow     |
     a''16.^\downbow g''32^\upbow e''16.^\upbow(fs''32-.) g''4     |
-    \times 2/3 { g'16  		 ^\downbow b'16 d''16 } gs''16. (a''32-.) gs''4      |
+    \times 2/3 { g'16^\downbow b'16 d''16 } gs''16. (a''32-.) gs''4      |
     
     \times 2/3 { b'16^\upbow d''16 g''16 } a''16. (b''32-.) a''4      |
     a''16^\downbow a'16 r16 a''16^\upbow a''16 a'16 r16 a''16^\upbow    |

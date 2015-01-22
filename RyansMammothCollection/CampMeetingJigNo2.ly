@@ -13,14 +13,13 @@ voicedefault =  {
 
   \override Staff.TimeSignature #'style = #'C
   \time 2/2    \key a \major e'4^\upbow           |
-  \times 2/3 { a'8 
-	       ^"Segno"^\downbow-. a'8-. a'8-. } a'4 r8 b'8^\upbow-. gs'8-. b'8-.     |
+  \times 2/3 { a'8^"Segno"^\downbow-. a'8-. a'8-. } a'4 r8 b'8^\upbow-. gs'8-. b'8-.     |
   r8 a'8^\downbow-. d''8-. fs''8-. e''2^\accent    |
   \times 2/3 { fs''8^\downbow fs''8 fs''8 } fs''4 fs''8 e''8 d''8 fs''8      |
   r8 e''8^\upbow cs''8 a'8 b'8 a'8 fs'8 e'8    |  |
-  \times 2/3 { a'8  	       ^\downbow a'8 a'8 } a'4 r8 a'8^\upbow gs'8 b'8      |
+  \times 2/3 { a'8^\downbow a'8 a'8 } a'4 r8 a'8^\upbow gs'8 b'8      |
   r8 a'8^\downbow d''8 fs''8 e''2     |
-  \times 2/3 { fs''8  	       ^\downbow fs''8 fs''8 } fs''4 r8 e''8^\upbow d''8 fs''8       |
+  \times 2/3 { fs''8^\downbow fs''8 fs''8 } fs''4 r8 e''8^\upbow d''8 fs''8       |
   r8 d''8^\upbow b'8 gs'8 a'4.    \bar "||"  >>   \bar "|."  
 
 \repeat volta 2 {

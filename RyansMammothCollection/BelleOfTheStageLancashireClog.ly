@@ -43,7 +43,7 @@ voicedefault =  {
   \times 2/3 { a8 cs'8 e'8  
 	 }   \times 2/3 { a'8    
 	 cs''8 e''8) 
-	 }   \times 2/3 { a''8-1 cs'''8-3 << e''8  								^"02" } e'''8   >>   << d''4^"01" a'''4   >>     |
+	 }   \times 2/3 { a''8-1 cs'''8-3 << e''8^"02" } e'''8   >>   << d''4^"01" a'''4   >>     |
   e''4-2^\trill \grace { ds''8 e''8  
 	 } gs''8. e''16 b''8. e''16     \grace { e''8 } e'''4      |
   e''4  \grace { ds''8 e''8  

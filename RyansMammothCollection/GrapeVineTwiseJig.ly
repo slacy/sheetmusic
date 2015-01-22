@@ -12,7 +12,7 @@ voicedefault =  {
 
 
   \time 2/4    \key g \major g'8^\upbow           |
-  \grace { a'16  	   ^"segno" } b'16^\downbow g'16 e'16 g'16 d'16 e'16 d'8       |
+  \grace { a'16^"segno" } b'16^\downbow g'16 e'16 g'16 d'16 e'16 d'8       |
   \grace { b'16 } c''16^\upbow a'16 b'16 g'16 e'16 g'16 g'8      |
   \grace { a'16 } b'16^\downbow g'16 e'16 g'16 d'16 e'16 d'8      |
   b16 a16 g16 b16 d'16 ( g'8.)    |

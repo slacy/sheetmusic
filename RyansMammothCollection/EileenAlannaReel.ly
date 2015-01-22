@@ -19,7 +19,7 @@ voicedefault =  {
     \times 2/3 { d''16^\upbow(e''16 fs''16) }   |
     << b'8^\accent g''8   >> << b'8^\accent g''8   >> r8 g'16^\downbow a'16     |
     b'16 d''16 c''16 a'16 b'16 d''16 c''16 a'16     |
-    << b'8^\accent g''8   >> << b'8  				^\accent g''8   >> r8 a'16 b'16     |
+    << b'8^\accent g''8   >> << b'8^\accent g''8   >> r8 a'16 b'16     |
     c''16 a'16 b'16 g'16 a'16 fs'16 e'16 d'16     |
     << b'8^\accent g''8       >> << b'8^\accent g''8   >> r8 g'16 a'16     |
     b'16 d''16 c''16 a'16 b'16 d''16 c''16 b'16     |
