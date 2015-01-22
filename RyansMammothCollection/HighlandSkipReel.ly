@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 2/4 
   \key e \mixolydian
- e''16 (^\upbow cis''16)   |
+  e''16 (^\upbow cis''16)   |
   
   b'8 -. gis'16 (b'16) e'16 b'16 gis'16 b'16    |
   b'8 

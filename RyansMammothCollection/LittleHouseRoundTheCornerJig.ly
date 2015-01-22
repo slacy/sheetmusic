@@ -17,7 +17,7 @@ voicedefault =  {
 
     \time 6/8 
     \key d \major
- a'8^\upbow |
+    a'8^\upbow |
     fis'8 -. d'8 -. a8 (
     d'8) fis'8 -. b'8 -.   |
     a'8 fis'8 d'8  \grace { fis'8 

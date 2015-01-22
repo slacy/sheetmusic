@@ -16,8 +16,8 @@ voicedefault =  {
 
     \time 6/8 
     \key d \major
-   \times 2/3 { a'16^\upbow(b'16 cis''16) 
-			       } 
+    \times 2/3 { a'16^\upbow(b'16 cis''16) 
+	       } 
     |
     d''8 e''8 d''8 d''8 a'8 fis'8  |
     a'8 b'8  

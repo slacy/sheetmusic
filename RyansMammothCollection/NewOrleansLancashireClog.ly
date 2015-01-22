@@ -33,7 +33,7 @@ voicedefault =  {
     d''16^\downbow bes'!2^\upbow   
   }   
   \key f \major
-   
+  
   \repeat volta 2 {
     
     \times 2/3 { c''8^\fermata^\downbow(d''8 c''8) 

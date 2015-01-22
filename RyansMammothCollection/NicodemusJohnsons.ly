@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 2/4 
   \key g \major
- g16 g16 g'8 g16 g16 g'8    |
+  g16 g16 g'8 g16 g16 g'8    |
   
   fis'16 g'16 a'16 g'16 fis'16 d'16 e'16 fis'16    |
   

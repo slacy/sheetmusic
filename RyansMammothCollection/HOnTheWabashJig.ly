@@ -16,8 +16,8 @@ voicedefault =  {
 
     \time 2/4 
     \key a \minor
-   \grace { gis''16  
-			   } a''16^\upbow |
+    \grace { gis''16  
+	   } a''16^\upbow |
     
     r8 \grace { gis''16  
 	      } a''8^\downbow a'8.^\upbow(b'16 -.)   

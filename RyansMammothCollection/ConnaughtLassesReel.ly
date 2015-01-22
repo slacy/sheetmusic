@@ -13,9 +13,9 @@ voicedefault =  {
 
   \time 2/4 
   \key d \major
-     \bar "|." d'8^"Segno"   \times 2/3 { fis'16 
-							 (e'16 d'16) 
-						       } fis'16 a'16 a'16 fis'16    |
+  \bar "|." d'8^"Segno"   \times 2/3 { fis'16 
+				       (e'16 d'16) 
+				     } fis'16 a'16 a'16 fis'16    |
   g'8    
   b'16 g'16 fis'16 a'16 b'16 cis''16    |
   d''16    

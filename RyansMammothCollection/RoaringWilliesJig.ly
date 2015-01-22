@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 9/8 
   \key a \major
- fis''8^\upbow       |
+  fis''8^\upbow       |
   e''8^"Segno"   
   cis''8 a'8 a'8 b'8 a'8 cis''8 e''8 fis''8    |
   

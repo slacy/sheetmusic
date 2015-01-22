@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 2/4 
   \key c \major
- e'16^\downbow(c'16) c'8\turn e'16 (
+  e'16^\downbow(c'16) c'8\turn e'16 (
   g'16) g'8\turn    |
   a'16 -. c''16 -. g'16 -. a'16 -. a'16 
   (g'16) c''16 -. g'16 -.   |

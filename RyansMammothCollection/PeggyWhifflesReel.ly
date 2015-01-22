@@ -13,8 +13,8 @@ voicedefault =  {
 
   \time 2/4 
   \key a \major
-   \times 2/3 { e'16^\upbow(fis'16 e'16) 
-			     }   
+  \times 2/3 { e'16^\upbow(fis'16 e'16) 
+	     }   
   cis'16^\downbow e'16^\upbow a'16 cis''16 e''16-4 cis''16    
   |
   fis''16 cis''16 e''16-4 cis''16 b'16 cis''16 a'8 

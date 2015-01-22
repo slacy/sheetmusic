@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 2/4 
   \key d \major
-   
+  
   \repeat volta 2 {
     a4^\downbow cis'8. (^\upbow  
     e'16 -.)   |

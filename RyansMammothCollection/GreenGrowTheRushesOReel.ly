@@ -14,7 +14,7 @@ voicedefault =  {
   \time 2/4 % %slurgraces 1
   
   \key g \major
- g'8^\downbow-. g'16 (a'16) b'16 g'16 g'16    
+  g'8^\downbow-. g'16 (a'16) b'16 g'16 g'16    
   b'16    |
   a'16 b'16 c''16 d''16 e''16 c''16 a'16    
   b'16    |

@@ -14,9 +14,9 @@ voicedefault =  {
 
   \time 6/8 
   \key d \minor
-   \grace { bes'8^\downbow b'8 c''8 cis''8  
+  \grace { bes'8^\downbow b'8 c''8 cis''8  
 
-			 } d''4.^"fz"^\accent a'8 f'8 a'8    |
+	 } d''4.^"fz"^\accent a'8 f'8 a'8    |
   d''4. 
   ^"fz"^\accent a'8 f'8 a'8    |
   d''8 cis''8 d''8 f''8  

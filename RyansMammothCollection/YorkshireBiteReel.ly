@@ -16,7 +16,7 @@ voicedefault =  {
 
     \time 2/4 
     \key a \dorian
- a'8^\downbow e''16 (d''16) b'16 d''16  
+    a'8^\downbow e''16 (d''16) b'16 d''16  
     e''16 fis''16    |
     g''8 d''16 (g''16) b'16 g''16    
     d''16 b'16    |

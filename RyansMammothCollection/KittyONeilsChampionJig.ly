@@ -16,7 +16,7 @@ voicedefault =  {
 
     \time 2/4 
     \key a \major
- cis''4^\downbow bis'4 cis''4 bis'4    
+    cis''4^\downbow bis'4 cis''4 bis'4    
     |
     \grace { d''8  
 	   } cis''8. bis'16 -. cis''8. fis''16    

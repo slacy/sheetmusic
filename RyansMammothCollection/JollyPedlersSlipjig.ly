@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 9/8 
   \key g \major
- g'8^\upbow |
+  g'8^\upbow |
   g'8^\downbow a'8-4 g'8 
   g'8 g''8 e''8 d''8 b'8 g'8  |
   a'4-4(g'8)   

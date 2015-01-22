@@ -17,7 +17,7 @@ voicedefault =  {
 
     \time 6/8 
     \key e \dorian
- d''16^\upbow(cis''16) |
+    d''16^\upbow(cis''16) |
     b'8 e'8 
     e'8 cis''8 e'8 e'8    |
     b'8 a'8 fis'8 b'8 a'8  

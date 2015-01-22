@@ -13,8 +13,8 @@ voicedefault =  {
 
   \time 2/4 
   \key g \major
-   \times 2/3 { d'16^\upbow e'16 fis'16  
-			     }       
+  \times 2/3 { d'16^\upbow e'16 fis'16  
+	     }       
   \bar "|." g'16^"segno" d'16 b16 d'16 e'16 fis'16 g'16    
   a'16    |
   b'16 d''8 d''16 d''8. b'16    |

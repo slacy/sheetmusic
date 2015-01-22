@@ -17,7 +17,7 @@ voicedefault =  {
     \time 6/8 % D Minor?
     
     \key d \mixolydian
- e'16^"D MINOR"^\ltoe(fis'16) |
+    e'16^"D MINOR"^\ltoe(fis'16) |
     a'8    
     fis'8 d'8 d'8 e'8 fis'8  |
     a'4 g'8 a'8 b'8    

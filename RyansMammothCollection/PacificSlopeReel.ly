@@ -16,8 +16,8 @@ voicedefault =  {
 
     \time 2/4 
     \key a \major
-   \times 2/3 { e'16^\upbow(fis'16 gis'16) 
-			       } 
+    \times 2/3 { e'16^\upbow(fis'16 gis'16) 
+	       } 
     |
     a'8 -. \grace { b'16  
 		  } a'16 (gis'16) a'16 (

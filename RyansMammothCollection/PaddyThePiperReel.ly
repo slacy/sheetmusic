@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 2/4 
   \key g \major
- d''16 (^\upbow c''16)     |
+  d''16 (^\upbow c''16)     |
   
   \bar "|." b'16^"Segno"(e'16) e'16 -. c''16 -. d''16 (c''16    
   d''16.) b'32    |

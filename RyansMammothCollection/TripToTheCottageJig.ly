@@ -17,7 +17,7 @@ voicedefault =  {
     \time 6/8 %  Two sharps in the book
     
     \key g \lydian
- b'16 cis''16  |
+    b'16 cis''16  |
     d''8 b'8 b'8 b'8 g'8  
     g'8  |
     cis''8 a'8 a'8 a'8 fis'8 d'8  |
@@ -33,7 +33,7 @@ voicedefault =  {
     b'8 g'8 g'8 g'4  
   }   
   \key g \major
-   
+  
 
   \repeat volta 2 {
     d''8  |

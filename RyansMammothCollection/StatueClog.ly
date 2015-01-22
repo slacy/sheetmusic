@@ -14,7 +14,7 @@ voicedefault =  {
   \override Staff.TimeSignature #'style = #'C
   \time 2/2 
   \key a \major
- << cis''2. a''2.   >>   |
+  << cis''2. a''2.   >>   |
   
 
   \repeat volta 2 {
@@ -50,7 +50,7 @@ voicedefault =  {
     a''2.    \bar "|."   
 
     \key e \major
- gis''4-4^\upbow |
+    gis''4-4^\upbow |
     b''8.-2 ais''16    
     b''8. cis'''16-3 b''8.-2 gis''16-4 e''8.-0 fis''16    
     |
@@ -72,7 +72,7 @@ voicedefault =  {
     ^"04" gis''4-2 e''4    
   }   
   \key a \major
- cis''8.^\upbow(d''16  
+  cis''8.^\upbow(d''16  
   -) |
   e''4. fis''8 e''8 cis'''8-3(b''8 a''8)   
   |

@@ -16,7 +16,7 @@ voicedefault =  {
 
     \time 2/4 
     \key e \minor
- d''16^\upbow(c''16) |
+    d''16^\upbow(c''16) |
     b'16 -.   
     c''16 -. a'16 (b'16) g'8^\upbow-. b'8^\upbow-.   |
     a'16  

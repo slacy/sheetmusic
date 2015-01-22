@@ -16,7 +16,7 @@ voicedefault =  {
 
     \time 2/4 
     \key g \major
- d'8^\upbow |
+    d'8^\upbow |
     g'8 -. b'16 (g'16)   
     d''16 (g'16) b'16 (g'16)   |
     \grace { d''16  

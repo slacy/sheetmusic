@@ -14,7 +14,7 @@ voicedefault =  {
 
   \time 2/4 
   \key f \major
- c'4^"Segno"^\downbow(e'4)   |
+  c'4^"Segno"^\downbow(e'4)   |
   a'4 (
   c''4)   |
   d''16. (c''32 -.) bes'16. (d''32 -.)   
@@ -40,7 +40,7 @@ voicedefault =  {
 							     } f'16 -.(a'16 -.) c''16 (e''16 -.)   
   f''8    \bar "|."   
   \key c \major
- a''8^\fermata^\upbow |
+  a''8^\fermata^\upbow |
   g''16. (
   f''32 -.) d''16. (b'32 -.) a'8. g'16^\upbow   |
   

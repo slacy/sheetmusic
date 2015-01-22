@@ -13,9 +13,9 @@ voicedefault =  {
 
   \time 2/4 
   \key a \major
-   \times 2/3 { e''16^\upbow(fis''16 gis''16  
-			       -) 
-			     }   
+  \times 2/3 { e''16^\upbow(fis''16 gis''16  
+	       -) 
+	     }   
   \repeat volta 2 {
     a''8_"Segno"^\downbow gis''16. (e''32 -.)  
     fis''16. (a''32 -.) e''16.^\segue gis''32    |

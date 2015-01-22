@@ -14,7 +14,7 @@ voicedefault =  {
   \override Staff.TimeSignature #'style = #'C
   \time 2/2 
   \key e \dorian
-     
+  
   \repeat volta 2 {
     b'8^"Segno"^\downbow-.   
     e'8 -.   \times 2/3 { fis'8 (e'8 d'8) 

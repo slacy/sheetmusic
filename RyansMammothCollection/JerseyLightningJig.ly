@@ -16,7 +16,7 @@ voicedefault =  {
 
     \time 2/4 
     \key a \minor
- e'8^\upbow |
+    e'8^\upbow |
     a'16.^\downbow(b'32 -. 
     -) c''16. (d''32 -.) e''16-4_\segue(a''16-4)   r16   
     e''16-2   |

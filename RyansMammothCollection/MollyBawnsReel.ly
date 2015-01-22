@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 2/4 
   \key g \mixolydian
- a'8^\upbow       
+  a'8^\upbow       
   \repeat volta 2 {
     a'16 -.   
     d''16 -. d''16 (cis''16) d''8 -. c''!16 (b'16)   |

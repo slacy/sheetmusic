@@ -16,7 +16,7 @@ voicedefault =  {
 
     \time 2/4 
     \key g \major
- d''8^\downbow^\accent dis''8^\accent e''4 
+    d''8^\downbow^\accent dis''8^\accent e''4 
     -4^\accent   |
     r16^\downbow d''16 c''16 a'16 d'4    
     |

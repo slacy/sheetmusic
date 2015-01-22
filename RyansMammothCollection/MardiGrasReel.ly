@@ -16,7 +16,7 @@ voicedefault =  {
 
     \time 2/4 
     \key a \major
-     << d'8_"p"^\downbow-. fis'8   >>  ~    <<   
+    << d'8_"p"^\downbow-. fis'8   >>  ~    <<   
       d'8^\downbow-. fis'8   >>   << cis'8^\upbow-. e'8   >>  ~    << cis'8 
 								      ^\upbow-. e'8   >>   |
     << d'8 -. fis'8   >>  ~    << d'8 -.  

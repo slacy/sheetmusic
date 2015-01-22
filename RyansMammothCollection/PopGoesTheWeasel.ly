@@ -16,7 +16,7 @@ voicedefault =  {
 
     \time 6/8 
     \key g \major
- g'4^\downbow g'8 a'4 a'8  |
+    g'4^\downbow g'8 a'4 a'8  |
     b'8    
     d''8 b'8 g'4    r8 |
     g'4 g'8 a'4 c''8  |

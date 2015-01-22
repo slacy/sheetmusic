@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 2/4 
   \key g \major
- e''8^\upbow 
+  e''8^\upbow 
   \repeat volta 2 {
     d''16 (b'8.)   
     b'8. a'16  |

@@ -13,7 +13,7 @@ voicedefault =  {
 
   \time 6/8 
   \key g \major
- d'8^"Slow"^\upbow   |
+  d'8^"Slow"^\upbow   |
   \grace { fis'8 
 	   ^\segno 
 	 } e'4 d'8 g'4 a'8  |

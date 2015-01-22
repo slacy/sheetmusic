@@ -14,9 +14,9 @@ voicedefault =  {
   \override Staff.TimeSignature #'style = #'C
   \time 4/4 
   \key d \major
-     \times 2/3 { a8^"Slow"^\upbow(b8 cis'8  
-				 -) 
-			       } 
+  \times 2/3 { a8^"Slow"^\upbow(b8 cis'8  
+	       -) 
+	     } 
   \repeat volta 2 {
     d'8.^\downbow(d'16) fis'8. (a'16 -.)   
     \times 2/3 { << d''8 (fis'8   >> << d''8  

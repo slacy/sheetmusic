@@ -15,7 +15,7 @@ voicedefault =  {
   \time 4/4 % %slurgraces 1
   
   \key d \major
- fis''8^\upbow   |
+  fis''8^\upbow   |
   a''16 (^\downbow d''8.)   
   a''8. (fis''16 -.) a''16 (d''8.) a''8. (fis''16 -.)   
   |
