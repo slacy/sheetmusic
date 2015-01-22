@@ -13,17 +13,17 @@ voicedefault =  {
 
   \time 2/4    \key a \major gs''8^\upbow   |
   a''16 a'16 a'16 b'16 a'16 b'16 a'16 fs'16     |
-  e'16 fs'16 a'16       b'16  \grace { a'16 b'16   	 } cs''8 b'16 a'16      |
+  e'16 fs'16 a'16 b'16  \grace { a'16 b'16   	 } cs''8 b'16 a'16      |
   d''16 b'16 b'16 cs''16 b'16 cs''16 b'16 a'16     |
-  b'16    cs''16 d''16 e''16  \grace { gs''16   			 } fs''8 e''16 d''16    |
+  b'16 cs''16 d''16 e''16  \grace { gs''16   			 } fs''8 e''16 d''16    |
   a''16 a'16 a'16 b'16 a'16 b'16 a'16 fs'16  |
   e'16 fs'16 gs'16 b'16  \grace { a'16 b'16   				} cs''8 b'16 a'16      |
   b'16 cs''16 d''16 e''16 fs''16 e''16 fs''16 a''16     |
-  \times 2/3 { a'16 a'16   	       a'16   	 } cs''16 b'16 a'8    \bar "|." e''8^\upbow   |
+  \times 2/3 { a'16 a'16   	 a'16   	 } cs''16 b'16 a'8    \bar "|." e''8^\upbow   |
   cs''16 a'16 e''16 a'16 fs''16 a'16 e''16 a'16      |
   cs''16 a'16 e''16 a'16 fs''16 e''16 d''16 cs''16     |
   d''16 b'16 fs''16 b'16 b''16 b'16 fs''16 b'16     |
-  d''16 b'16 fs''16 b'16  \grace {      gs''16 } fs''8 e''16 d''16      |
+  d''16 b'16 fs''16 b'16  \grace { gs''16 } fs''8 e''16 d''16      |
   cs''16 a'16 e''16 a'16 fs''16 a'16 e''16 a'16     |
   cs''16 a'16 e''16 a'16 fs''16 e''16 d''16 cs''16     |
   b'16 cs''16 d''16 e''16 fs''16 e''16 fs''16 a''16     |

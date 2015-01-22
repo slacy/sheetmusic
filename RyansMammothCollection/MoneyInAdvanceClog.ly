@@ -34,7 +34,7 @@ voicedefault =  {
     
     \times 2/3 { f''8^\downbow g''8 f''8  
 	       } \times 2/3 { d''8 e''8    
-			      d''8  
+			 d''8  
 			    }   \times 2/3 { a'8 d''8 a'8  
 					   } \times 2/3 { f'8 a'8 f'8  									}     |
     d'8. (f'16-.) a'8. (d''16-.) f''4 e''8. ( d''16-.)    |

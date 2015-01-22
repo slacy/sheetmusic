@@ -12,7 +12,7 @@ voicedefault =  {
 
 
   \time 9/8 
-  \key a \major   a'8^\downbow cs''8 e''8 fs''16 (gs''16 a''8) fs''8-. e''8 cs''8 a'8    |
+  \key a \major a'8^\downbow cs''8 e''8 fs''16 (gs''16 a''8) fs''8-. e''8 cs''8 a'8    |
   a'8 cs''8 e''8 fs''16 (gs''16 a''8) fs''8-. e''4 cs''8   |
   a'8 cs''8 e''8 fs''16 (gs''16 a''8) fs''8-. e''8 cs''8 a'8    |
   b'8 a'8 fs'8 a'8 b'8 cs''8 d''4 b'8   |

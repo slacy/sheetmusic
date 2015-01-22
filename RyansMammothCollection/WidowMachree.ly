@@ -20,7 +20,7 @@ voicedefault =  {
     e''8 fs''8 d''8 b''4    r8    |
     a''4.^\accent fs''4.^\accent   |
     e''8 fs''8 d''8 b'8 d''8 b'8     |
-    a'8 a'8 b'8    \grace {        e''8-4 } d''8 cs''8 d''8      |
+    a'8 a'8 b'8    \grace { e''8-4 } d''8 cs''8 d''8      |
     e''8 fs''8 d''8 b''4    r8    |
     a''4.^\accent fs''4.^\accent   |
     e''8    

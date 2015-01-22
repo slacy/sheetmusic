@@ -19,7 +19,7 @@ voicedefault =  {
     b'8^"Segno"^\downbow-.   
     e'8-.   \times 2/3 { fs'8 (e'8 d'8)  		 } b'8 d''8 cs''8 a'8      |
     b'8-. e'8-.   \times 2/3 { fs'8 (e'8 d'8)  			 } d''8 a'8 fs'8 a'8      |
-    b'8-. e'8-.   \times 2/3 {        fs'8 (e'8 d'8) } b'8 d''8 cs''8 a'8      |
+    b'8-. e'8-.   \times 2/3 { fs'8 (e'8 d'8) } b'8 d''8 cs''8 a'8      |
     d''8 (
     d'8) \times 2/3 { d'8 d'8 d'8  
 		    } a'8 d'8 fs'8 a'8    

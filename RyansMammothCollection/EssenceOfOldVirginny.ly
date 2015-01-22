@@ -15,7 +15,7 @@ voicedefault =  {
   \grace { fs'8  	   ^\segno  	 } e'4 d'8 g'4 a'8    |
   \grace { b'8   	 } d''4.   ~ d''4 e''8-4   |
   d''4 b'8 a'4 g'8  |
-  \grace {      e'8 } g'4.   ~ g'4 d'8    |
+  \grace { e'8 } g'4.   ~ g'4 d'8    |
   \grace { fs'8   	 } e'4 d'8 g'4 a'8    |
   b'4 c''8 cs''4 d''8  |
   fs''8 e''8 d''8 c''8 b'8 a'8   |

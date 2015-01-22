@@ -16,11 +16,11 @@ voicedefault =  {
 
     \time 2/4      \key a \major e''16^\upbow   |
     cs''16. a'32 a'16. b'32 a'16. b'32 a'16. fs'32   |
-    e'16 fs'16 a'16         b'16  \grace { a'16 b'16   		 } cs''8 b'16 (a'16)   |
+    e'16 fs'16 a'16 b'16  \grace { a'16 b'16   		 } cs''8 b'16 (a'16)   |
     d''16. b'32 b'16. cs''32 b'16. cs''32 b'16. a'32    |
     b'16 cs''16 d''16 e''16  \grace { gs''16   				 } fs''8 e''16 (d''16)   |
     cs''16. a'32 a'16. b'32 a'16. b'32 a'16. fs'32   |
-    e'16 fs'16 a'16 b'16  \grace {        a'16 b'16 } cs''8 b'16 a'16    |
+    e'16 fs'16 a'16 b'16  \grace { a'16 b'16 } cs''8 b'16 a'16    |
     b'16 cs''16 d''16 e''16 fs''16 e''16 fs''16 a''16   |
     \times 2/3 { a'16-. 
 		 a'16-. a'16-. 

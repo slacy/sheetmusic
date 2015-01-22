@@ -29,7 +29,7 @@ voicedefault =  {
     ef''8-. ef''8-. d''16 bf'16 a'16 bf'16   |
     f''8-. f''16 ( ef''16) d''16 bf'16 a'16 bf'16   |
     af''16 f''16 d''16 bf'16 af'16 f'16 g'16 ef'16   |
-    d'16 bf'16   		    f'16 d'16 bf8    \times 2/3 { bf16 (c'16 d'16-4)  				 }    |
+    d'16 bf'16   		 f'16 d'16 bf8    \times 2/3 { bf16 (c'16 d'16-4)  				 }    |
     ef'8-. ef'8-. c'16 af16 g16 af16  |
     f'8-. f'16 (ef'16) d'16 bf16 a16 bf16   |
     ef''16 bf'16 af'16 g'16 f'16 af'16 d'16 f'16   |

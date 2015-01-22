@@ -16,7 +16,7 @@ voicedefault =  {
 
     \time 2/4 
     \key a \major
-    << d'8_"p"^\downbow-. fs'8   >>  ~    <<          d'8^\downbow-. fs'8   >>   << cs'8^\upbow-. e'8   >>  ~    << cs'8  								     ^\upbow-. e'8   >>     |
+    << d'8_"p"^\downbow-. fs'8   >>  ~    << d'8^\downbow-. fs'8   >>   << cs'8^\upbow-. e'8   >>  ~    << cs'8  								     ^\upbow-. e'8   >>     |
     << d'8-. fs'8   >>  ~    << d'8-.   				 fs'8   >>   << cs'8-. e'8   >>  ~    << cs'8-. e'8   >>     |
     e'16 (f'16 fs'!16 gs'16 a'16 as'16 b'16 c''16)    |
     cs''!16 (c''16 b'16 as'16 a'!16 gs'16 g'16 fs'16)    |

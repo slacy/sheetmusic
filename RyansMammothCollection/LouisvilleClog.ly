@@ -32,7 +32,7 @@ voicedefault =  {
     
     \times 2/3 { a'8 gs'8 a'8  
 	       } fs''8. e''16    \times 2/3 { d''8 
-					      e''8 d''8   					 } \times 2/3 { c''8 b'8 a'8   							 }     |
+					 e''8 d''8   					 } \times 2/3 { c''8 b'8 a'8   							 }     |
     g'4  
     \grace { fs''8  
 	   } g''4 g'4  

@@ -36,7 +36,7 @@ voicedefault =  {
     fs''16 d''16 b'16 a'16  
   }     
   \repeat volta 2 {
-    \times 2/3 {        e''16^"Variat:ion second. -- To second strain, ad lib."(fs''16 gs''16) }   |
+    \times 2/3 { e''16^"Variat:ion second. -- To second strain, ad lib."(fs''16 gs''16) }   |
     a''16-1 cs'''16 e''16-2 a''16 cs'''16 e''16-0 e'''16-0 e''16-0  |
     gs''16-4 b''16 e''16-2 gs''16 b''16-2 e''16 e'''16 e''16  |
     a''16-1 cs'''16 e''16-2 a''16 b''16-2 e''16 e'''16 e''16   |

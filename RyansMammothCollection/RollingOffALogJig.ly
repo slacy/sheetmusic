@@ -21,8 +21,8 @@ voicedefault =  {
   d''8 b'8 g'8 g'8 a'8 b'8   |
   c''8 g''8 e''8 c''8  \bar ":|" c''4    r8 << e'4     					 c''4   >>   r8 \bar " |."   
   \key g \major
-  b'8^\fermata^\downbow d''8       g''8 (\grace { a''8   	 } g''8) fs''8 g''8    |
-  b'8 d''8     g''8 (\grace { a''8   	 } g''8) fs''8 g''8    |
+  b'8^\fermata^\downbow d''8 g''8 (\grace { a''8   	 } g''8) fs''8 g''8    |
+  b'8 d''8 g''8 (\grace { a''8   	 } g''8) fs''8 g''8    |
   fs''8 g''8 a''8 a''8 g''8 fs''8   |
   a''8 g''8 e''8 d''8 cs''8 c''!8   |
   b'8 d''8 g''8 (\grace { a''8   			} g''8) fs''8 g''8    |

@@ -25,7 +25,7 @@ voicedefault =  {
   }     
   \repeat volta 2 {
     bf'16^\downbow c''16          |
-    d''16    \times 2/3 { bf'32 (c''32     					  bf'32)  			} a'16 bf'16 g'16 bf'16 f'16 bf'16      |
+    d''16    \times 2/3 { bf'32 (c''32     					 bf'32)  			} a'16 bf'16 g'16 bf'16 f'16 bf'16      |
     
     d'16 f'16 bf'16 c''16 d''16    \times 2/3 { bf'32 (c''32     								bf'32)  					 } a'16 bf'16      |
     g''16 bf'16 f''16 bf'16 ef''16 d''16 c''16 bf'16     |

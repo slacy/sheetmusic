@@ -39,7 +39,7 @@ voicedefault =  {
     \times 2/3 { a''16 (b''16 a''16)  	 } fs''16^\accent a''16 d''16^\accent a''16 a'16^\accent a''16    |
     \times 2/3 { 
       g''16 (^\downbow a''16 g''16) 
-    } b'16 g''16    \times 2/3 {        fs''16 (g''16 fs''16) } a'16 fs''16    |
+    } b'16 g''16    \times 2/3 { fs''16 (g''16 fs''16) } a'16 fs''16    |
     e''16-0   
     a''16-1 b''16-2 cs'''16-3 d'''8-4   r8 
   }   

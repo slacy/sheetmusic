@@ -29,7 +29,7 @@ voicedefault =  {
   \repeat volta 2 {
     d''4^\upbow   |
     \grace { a''8   			 } g''8 fs''8 g''8 a''8 b''8 a''8 g''8 fs''8      |
-    \grace {  		      fs''8 } e''8-0 ds''8 e''8 fs''8 g''4-. ds''4-.      |
+    \grace {  		 fs''8 } e''8-0 ds''8 e''8 fs''8 g''4-. ds''4-.      |
     \grace { a''8   			 } g''8 fs''8 g''8 a''8 b''8 a''8 g''8 fs''8      |
     \grace { fs''8   			 } e''8-0 d''8 e''8 fs''8 g''4-. d'4-.     |
     g'8 fs'8 g'8 a'8 b'8 g'8 a'8 b'8     |

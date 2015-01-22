@@ -12,10 +12,10 @@ voicedefault =  {
 
 
   \time 2/4 
-  \key d \major   d''16^\downbow d'16 d'16 fs'16 e'16 d'16 e'16 fs''16      |
+  \key d \major d''16^\downbow d'16 d'16 fs'16 e'16 d'16 e'16 fs''16      |
   g''16 e''16 fs''16 d''16 e''16-4 d''16 b'16 e''16     |
   d''16 d'16 d'16 fs'16 e'16 d'16 e'16 g''16     |
-  fs''16 d''16 e''16    fs''16    \times 2/3 { d''16-. d''16-. d''16-.  			} d''8-.      |
+  fs''16 d''16 e''16 fs''16    \times 2/3 { d''16-. d''16-. d''16-.  			} d''8-.      |
   d''16 d'16 d'16 fs'16 e'16 d'16 e'16 fs''16  |
   g''16 e''16 fs''16 d''16 e''16-4 d''16 b'16 e''16     |
   d''16 d'16 d'16 fs'16 e'16 d'16 e'16 g''16     |

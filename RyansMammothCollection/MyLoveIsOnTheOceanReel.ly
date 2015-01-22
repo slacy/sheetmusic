@@ -17,7 +17,7 @@ voicedefault =  {
     \time 2/4 
     \key d \major
     e''16^\downbow(a'16) \times 2/3 { a'16-.   
-				      a'16-. a'16-.  				 }   \grace { cs''16 ( 					 } b'16 a'16 b'16 d''16)   |
+				 a'16-. a'16-.  				 }   \grace { cs''16 ( 					 } b'16 a'16 b'16 d''16)   |
     \times 2/3 { e''16 (fs''16 g''16)  	 } fs''16 ( d''16) e''16 (d''16 b'16 d''16)   |
     e''16 (a'16) 
     \times 2/3 { a'16-. a'16-. a'16-. 

@@ -21,10 +21,10 @@ voicedefault =  {
   \times 2/3 { a'8 bf'8 c''8  
 	     }   \times 2/3 { fs'8 g'8 a'8   			 } d'4      |
   \times 2/3 { c''8 d''8 ef''8  
-	     }   \times 2/3 {  	       a'8 bf'8 c''8   	 }         |
+	     }   \times 2/3 {  	 a'8 bf'8 c''8   	 }         |
   bf2^\downbow^\accent a2^\accent    |
   \times 2/3 { g8 bf8 d'8  
-	     }   \times 2/3 { g'8 bf'8     			      d''8   			 } g''4    r4         |
+	     }   \times 2/3 { g'8 bf'8     			 d''8   			 } g''4    r4         |
   d''8. cs''16 d''8. ef''16 d''16 (a'8.)   r8. ef''16     |
   d''8. c''16 bf'8. a'16 g'4    r4   \bar ": |" d''8. c''16 bf'8. a'16 g'4 f'4       \bar "|."     \bar "|:" bf'8. (^\downbow a'16-.) bf'8. (c''16-.) d''8.^\segue c''16 bf'4     |
   c''8. b'16 c''8. d''16 ef''8. d''16 c''4         |

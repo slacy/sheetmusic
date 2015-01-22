@@ -30,7 +30,7 @@ voicedefault =  {
     e'8^\upbow(fs'8)   |
     a'8-4^\downbow( g'8) a4 (~ a8. cs'16-.) e'8. (g'16-.)  |
     fs'8^\upbow(d''8) d'2 d''8. (cs''16-.) |
-    b'8. ( 		    cs''16-.) d''8.^\segue ds''16 e''8.-4 d''!16 b'8. gs'16    |
+    b'8. ( 		 cs''16-.) d''8.^\segue ds''16 e''8.-4 d''!16 b'8. gs'16    |
     a'8. a'16 gs'8. a'16 as'8. b'16 bs'8. cs''16   |
     \times 2/3 { d''8^\downbow(cs''8 d''8)  			 } d'4 (~ d'8. fs'16-.) a'8. (d''16-.)   |
     \times 2/3 { 

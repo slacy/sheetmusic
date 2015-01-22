@@ -22,7 +22,7 @@ voicedefault =  {
   d'16 (g'8.) g'8. f'16 d'16 (g'8.) g'8. g''16     |
   f''8. d''16    
   d''16 (c''16 bf'16 a'16)   \grace { a'8-4  				 } g'4^\downbow g'8^\upbow   \bar "|." d''8^\upbow         |
-  g''8. (^\downbow      a''16-.) bf''8. (^\upbow g''16-.) d''8. (g''16-.) bf''8. (g''16-.)     |
+  g''8. (^\downbow a''16-.) bf''8. (^\upbow g''16-.) d''8. (g''16-.) bf''8. (g''16-.)     |
   a''8.^\segue f''16 c''8. d''16 f''8. g''16 a''8. f''16         |
   g''8. a''16 bf''8. g''16 d''8. g''16 bf''8. g''16     |
   a''8. f''16 d''8. fs''16 g''16^\downbow g''16 g''8 g''4^\upbow    |
@@ -30,7 +30,7 @@ voicedefault =  {
   g''8. a''16 bf''8. g''16 a''8. fs''16 g''8. d''16     |
   f''8. c''16 d''8. f''16 a'8. f'16 c''8. a'16         |
   d'16 (g'8.) g'8. f'16 d'16 (g'8.) g'8. g''16     |
-  f''8. d''16 d''16 (c''16 bf'16       a'16) \grace { a'8   	 } g'4^\downbow g'8^\upbow   \bar "  |."   
+  f''8. d''16 d''16 (c''16 bf'16 a'16) \grace { a'8   	 } g'4^\downbow g'8^\upbow   \bar "  |."   
 
 }
 

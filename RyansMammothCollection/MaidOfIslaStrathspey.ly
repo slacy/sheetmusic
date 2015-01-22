@@ -13,7 +13,7 @@ voicedefault =  {
 
   \override Staff.TimeSignature #'style = #'C
   \time 4/4    \key a \mixolydian cs''8^\upbow         |
-  a'16^\downbow     a'8.^\upbow e''8. (cs''16-.) e''8. (fs''16-.) e''8 cs''8      |
+  a'16^\downbow a'8.^\upbow e''8. (cs''16-.) e''8. (fs''16-.) e''8 cs''8      |
   a'16^\downbow a'8.^\upbow e''8. (^\downbow cs''16-.) fs''16 (^\upbow e''8.) cs''4         |
   a'16^\upbow a'8.^\downbow e''8.^\segue cs''16 e''8. fs''16 e''8 cs''8     |
   fs''8.^\upbow g''16 a''8. fs''16 e''16 (cs''8.) b'8 cs''8    |  |
