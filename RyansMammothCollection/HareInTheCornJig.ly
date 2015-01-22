@@ -2,8 +2,8 @@
 \include "Mammoth.ily"
 \header {
   %% book = "Ryan's Mammoth Collection"
- crossRefNumber = "1"
- footnotes = "\\\\84 432"
+  crossRefNumber = "1"
+  footnotes = "\\\\84 432"
   tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
   title = "Hare in the Corn -- Jig"
 
@@ -16,38 +16,38 @@ voicedefault =  {
 
     \time 6/8 
     \key d \major a'8^\upbow  |
- b'8 (a'8) b'8-. c''4 a'8     |
- b'8 (a'8) b'8-. c''4 a'8    |
- b'8 d''8 b'8 a'8 fs'8 d'8     |
- e'8 (fs'8) e'8-. e'4 cs''8    |
- b'8 (a'8) b'8-. c''4 a'8     |
- b'8 (a'8) b'8-. c''4 a'8    |
- b'8 d''8 b'8 a'8 fs'8 a'8     |
- d'8 (e'8) d'8-. d'4    
+    b'8 (a'8) b'8-. c''4 a'8     |
+    b'8 (a'8) b'8-. c''4 a'8    |
+    b'8 d''8 b'8 a'8 fs'8 d'8     |
+    e'8 (fs'8) e'8-. e'4 cs''8    |
+    b'8 (a'8) b'8-. c''4 a'8     |
+    b'8 (a'8) b'8-. c''4 a'8    |
+    b'8 d''8 b'8 a'8 fs'8 a'8     |
+    d'8 (e'8) d'8-. d'4    
   }    
   
   \repeat volta 2 { g'8^\upbow  |
- fs'4 a'8 a'8 (fs'8) a'8-.    |
- b'8 g'8 b'8 a'8 fs'8 a'8    |
- b'8 d''8 b'8 a'8 fs'8 d'8     |
- e'8 fs'8 e'8 e'4 g'8     |
- fs'4 a'8 a'8 (fs'8) a'8-.    |
- b'8 g'8 b'8 a'8 fs'8 a'8    |
- b'8 d''8 b'8 a'8 fs'8 a'8     |
- d'8 (e'8) d'8-. d'4    
-  }   
+		    fs'4 a'8 a'8 (fs'8) a'8-.    |
+		    b'8 g'8 b'8 a'8 fs'8 a'8    |
+		    b'8 d''8 b'8 a'8 fs'8 d'8     |
+		    e'8 fs'8 e'8 e'4 g'8     |
+		    fs'4 a'8 a'8 (fs'8) a'8-.    |
+		    b'8 g'8 b'8 a'8 fs'8 a'8    |
+		    b'8 d''8 b'8 a'8 fs'8 a'8     |
+		    d'8 (e'8) d'8-. d'4    
+		  }   
   
   \repeat volta 2 { g''8^\upbow  |
- fs''8 d''8 d''8 e''8 d''8 d''8     |
- fs''8 (d''8) d''8-. d''4 a'8     |
- b'8 d''8 b'8 a'8 fs'8 d'8    |
- e'8 ( fs'8) e'8-. e'4 g''8     |
- fs''8 d''8 d''8 e''8 d''8 d''8     |
- fs''8 d''8 b'8 a'8 fs'8 a'8     |
- d'8 fs'8 a'8 d''8 e''8 g''8    |
- fs''8    
- d''8 d''8 d''4    
-  }   
+		    fs''8 d''8 d''8 e''8 d''8 d''8     |
+		    fs''8 (d''8) d''8-. d''4 a'8     |
+		    b'8 d''8 b'8 a'8 fs'8 d'8    |
+		    e'8 ( fs'8) e'8-. e'4 g''8     |
+		    fs''8 d''8 d''8 e''8 d''8 d''8     |
+		    fs''8 d''8 b'8 a'8 fs'8 a'8     |
+		    d'8 fs'8 a'8 d''8 e''8 g''8    |
+		    fs''8    
+		    d''8 d''8 d''4    
+		  }   
 
 }
 

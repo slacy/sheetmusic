@@ -2,8 +2,8 @@
 \include "Mammoth.ily"
 \header {
   %% book = "Ryan's Mammoth Collection"
- crossRefNumber = "1"
- footnotes = "\\\\279"
+  crossRefNumber = "1"
+  footnotes = "\\\\279"
   tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
   title = "Larry Downs' -- Reel"
 
@@ -24,7 +24,7 @@ voicedefault =  {
     \times 2/3 { e'16 (
 		 fs'16 e'16) 
 	       } gs'16 (b'16) e''16 gs''16 b''16 gs''16     |
- fs''16 e''16 gs''16 (fs''16) e''4     |
+    fs''16 e''16 gs''16 (fs''16) e''4     |
     \times 2/3 { e'16 (fs'16 e'16) 
 	       } gs'16 (b'16) e''16 gs''16 b''16 gs''16     |
     \times 2/3 { fs''16    
@@ -32,18 +32,18 @@ voicedefault =  {
 	       } fs''16 (e''16) gs''16 fs''16 e''16 cs''16     |
     \times 2/3 { e'16 (fs'16 e'16) 
 	       } gs'16 ( b'16) e''16 gs''16 b''16 gs''16     |
- fs''16 e''16  
- gs''16 fs''16 e''4    
+    fs''16 e''16  
+    gs''16 fs''16 e''4    
   }     
   \repeat volta 2 {
- gs''16^\downbow e''16 b''16 e''16 gs''16 b''16 e''16 gs''16     |
- fs''16 e''16 gs''16 e''16 fs''16 e''16 cs''16 e''16      |
- gs''16 e''16 b''16 e''16 gs''16 b''16 e''16 gs''16     |
- fs''16 e''16 gs''16 fs''16 e''8. e''16   |
- gs''16 e''16 b''16 e''16 gs''16 b''16 e''16 gs''16     |
- fs''16 e''16 gs''16 (e''16) cs''4     |
- b'16 e'16 gs'16 b'16 e'16 gs'16 b'16 gs''16   |
- fs''16 e''16 gs''16 fs''16 e''4    
+    gs''16^\downbow e''16 b''16 e''16 gs''16 b''16 e''16 gs''16     |
+    fs''16 e''16 gs''16 e''16 fs''16 e''16 cs''16 e''16      |
+    gs''16 e''16 b''16 e''16 gs''16 b''16 e''16 gs''16     |
+    fs''16 e''16 gs''16 fs''16 e''8. e''16   |
+    gs''16 e''16 b''16 e''16 gs''16 b''16 e''16 gs''16     |
+    fs''16 e''16 gs''16 (e''16) cs''4     |
+    b'16 e'16 gs'16 b'16 e'16 gs'16 b'16 gs''16   |
+    fs''16 e''16 gs''16 fs''16 e''4    
   }   
 
 }

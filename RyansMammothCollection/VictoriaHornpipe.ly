@@ -2,8 +2,8 @@
 \include "Mammoth.ily"
 \header {
   %% book = "Cole's 1000 Fiddle Tunes"
- crossRefNumber = "1"
- footnotes = ""
+  crossRefNumber = "1"
+  footnotes = ""
   tagline = "Lily was here 2.16.2 -- automatically converted from ABC"
   title = "Victoria -- Hornpipe"
 
@@ -17,34 +17,34 @@ voicedefault =  {
     \override Staff.TimeSignature #'style = #'C
     \time 2/2 
     \key a \major cs''8 (^\upbow b'8)  |
- a'8.-0 a16 cs'8. e'16 a'8. cs''16 e''8.-4 cs''16   |
+    a'8.-0 a16 cs'8. e'16 a'8. cs''16 e''8.-4 cs''16   |
     
     \times 2/3 { d''8-. e''8-4-. d''8-. 
 	       }   \times 2/3 { cs''8-.   
 				b'8-. a'8-.  			      } gs'8. b'16 e'8. d''16   |
- cs''8. e''16-4 d''8. cs''16 d''8. fs''16 e''8.-4 d''16    |
- cs''8. e''16 d''8. cs''16 b'8. d''16 cs''8. b'16   |
- a'8.-0 a16 cs'8. e'16 a'8. cs''16 e''8.-4 cs''16   |
+    cs''8. e''16-4 d''8. cs''16 d''8. fs''16 e''8.-4 d''16    |
+    cs''8. e''16 d''8. cs''16 b'8. d''16 cs''8. b'16   |
+    a'8.-0 a16 cs'8. e'16 a'8. cs''16 e''8.-4 cs''16   |
     \times 2/3 { d''8-. e''8-4-. d''8-. 
 
 	       }   \times 2/3 { cs''8-. b'8-. a'8-. 
 			      } gs'8. b'16 e'8. d''16   |
- cs''8. e''16 d''8. cs''16 d''8. b''16 b'8. d''16   |
- cs''8. e''16 gs'8. b'16 a'4  
+    cs''8. e''16 d''8. cs''16 d''8. b''16 b'8. d''16   |
+    cs''8. e''16 gs'8. b'16 a'4  
   }     
 
   \repeat volta 2 { e''8-4(^\upbow d''8)  |
- cs''8. a'16 e''8.-4 cs''16 a''8. e''16-0 cs''8. a'16   |
- fs''8. fs'16 a'8. cs''16 fs''8. e''16 d''8. cs''16    |
- d''8. b'16 fs''8. d''16 gs''8. fs''16 d''8. b'16   |
- d''8. gs''16 b''8. a''16 gs''8. fs''16 e''8. d''16   |
- cs''8. a'16 e''8. cs''16 a''8. e''16-0 cs'''8.-3 a''16-1  |
- e'''8.-0 cs'''16-3 a''8.-1 e''16-2 cs'''8.-3 a''16-1 e''8.-0 cs''16-2  |
- a''8. fs''16 d''8. b'16 fs''8. d''16 cs''8. b'16   |
- a'8. cs''16 e'8. gs'16  |
- a'4  
+		    cs''8. a'16 e''8.-4 cs''16 a''8. e''16-0 cs''8. a'16   |
+		    fs''8. fs'16 a'8. cs''16 fs''8. e''16 d''8. cs''16    |
+		    d''8. b'16 fs''8. d''16 gs''8. fs''16 d''8. b'16   |
+		    d''8. gs''16 b''8. a''16 gs''8. fs''16 e''8. d''16   |
+		    cs''8. a'16 e''8. cs''16 a''8. e''16-0 cs'''8.-3 a''16-1  |
+		    e'''8.-0 cs'''16-3 a''8.-1 e''16-2 cs'''8.-3 a''16-1 e''8.-0 cs''16-2  |
+		    a''8. fs''16 d''8. b'16 fs''8. d''16 cs''8. b'16   |
+		    a'8. cs''16 e'8. gs'16  |
+		    a'4  
 
-  }   
+		  }   
 
 }
 
