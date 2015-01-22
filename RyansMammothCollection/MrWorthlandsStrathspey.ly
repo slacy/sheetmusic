@@ -29,8 +29,7 @@ voicedefault =  {
   g'8. g''16 g''4^\trill \grace { 
     fs''8 g''8  
   } g'8. g''16 g''4^\trill \grace { fs''!8 g''8 }     |
-  a'8. a''16 a''4^\trill \grace { gs''8 a''8  
-				} a'8. a''16 a''4^\trill \grace { gs''!8 a''8 }     |
+  a'8. a''16 a''4^\trill \grace { gs''8 a''8   } a'8. a''16 a''4^\trill \grace { gs''!8 a''8 }     |
   g''8.^\downbow(e''16-.) e''8-4(d''16 b'16) b'16 ( a'8.-.) a'8. (g''16-.)     |
   \times 2/3 { a''8 (b''8   
 	       a''8) 

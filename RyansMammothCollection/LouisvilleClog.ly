@@ -36,8 +36,7 @@ voicedefault =  {
 	       } fs''8. e''16    \times 2/3 { d''8 
 					      e''8 d''8 } \times 2/3 { c''8 b'8 a'8 }     |
     g'4  
-    \grace { fs''8  
-	   } g''4 g'4  
+    \grace { fs''8   } g''4 g'4  
   }     
   \repeat volta 2 {
     g''8.^\upbow( fs''16)   |
@@ -50,8 +49,7 @@ voicedefault =  {
     fs''8. a''16 
     fs''8. e''16    \times 2/3 { d''8 e''8-4 d''8  
 			       }        \times 2/3 { c''8 b'8 a'8 }     |
-    g'4  \grace { fs''8  
-		}  
+    g'4  \grace { fs''8   }  
     g''4 g'4  
   }   
 

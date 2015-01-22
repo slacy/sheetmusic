@@ -29,18 +29,14 @@ voicedefault =  {
 
   \repeat volta 2 {
     e''8^\upbow     |
-    \grace { gs''16  
-	   } a''8 e''8  \grace { gs''16 } a''8 e''8      |
+    \grace { gs''16   } a''8 e''8  \grace { gs''16 } a''8 e''8      |
     \grace { gs''16 } a''8 e''16 cs'''16-4 b''16 e''16 fs''16 gs''16       |
-    \grace { gs''16  
-	   } a''8 e''8  \grace { gs''16 } a''8 e''16 cs''16      |
+    \grace { gs''16   } a''8 e''8  \grace { gs''16 } a''8 e''16 cs''16      |
     d''16 fs''16 e''16 d''16 cs''16 e''16 fs''16 gs''16     |
-    \grace { gs''16  
-	   } a''8 e''8  \grace { gs''16 } a''8 e''8      |
+    \grace { gs''16   } a''8 e''8  \grace { gs''16 } a''8 e''8      |
     \grace { gs''16 } a''8 e''16 cs'''16 b''16 e''16 fs''16 gs''16      |
     
-    \grace { gs''16  
-	   } a''8 e''8  \grace { gs''16 } a''8 e''16 cs''16      |
+    \grace { gs''16   } a''8 e''8  \grace { gs''16 } a''8 e''16 cs''16      |
     b'16 d''16 cs''16 b'16 a'8    
   }   
 

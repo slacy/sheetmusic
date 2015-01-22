@@ -41,8 +41,7 @@ voicedefault =  {
     a''8. fs''16 ds''8. b'16 cs''8. ds''16  
   } \alternative{{ 
     e''4 gs''4 e''4  
-  } { \grace { fs''8 } e''8.-0 ds''16 e''8.-0 fs''16 e''8. d''!16 cs''8. b'16 \bar "  |."   
-    }
+  } { \grace { fs''8 } e''8.-0 ds''16 e''8.-0 fs''16 e''8. d''!16 cs''8. b'16 \bar "  |."    }
 	       }
 
 }

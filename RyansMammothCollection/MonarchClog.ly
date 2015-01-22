@@ -38,8 +38,7 @@ voicedefault =  {
     \times 2/3 { 
       b'8^\upbow(as'8 b'8) } e'4 (~ e'8. fs'16) g'8. ( b'16)   |
     a'8. g''16 e''8.^\segue cs''16 a'8. g'16 e'8. cs'16   |
-    d'4 (\grace { cs''8  
-		} d''4) d'4  
+    d'4 (\grace { cs''8   } d''4) d'4  
   }   
 
 }

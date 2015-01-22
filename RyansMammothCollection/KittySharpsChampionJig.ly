@@ -47,9 +47,7 @@ voicedefault =  {
     g'8. e''16 ds''8. e''16 g''2^\trill   |
     g'8. g''16 fs''8. g''16 a''8. g''16 e''8. c''16     |
     
-    d''4  \grace { fs''8  
-		 } g''4  \grace { fs''8  
-				} g''4  \grace { fs''8 } g''4      |
+    d''4  \grace { fs''8   } g''4  \grace { fs''8   } g''4  \grace { fs''8 } g''4      |
     g'8. e''16 ds''8. e''16 c''2^\trill   |
     g'8. e''16 ds''8. e''16 g''2^\trill    |
     g'8. g''16 fs''8. g''16 b''8. a''16 fs''8. d''16     |
@@ -72,8 +70,7 @@ voicedefault =  {
     
     \grace { fs''8 } e''8. ds''16 e''8. fs''16 g''8. fs''16 g''8. a''16      |
     b''8 (g''8) r8 g''8 g''8. d''16 b'8. g'16     |
-    \grace { b'8  
-	   } a'8. g'16 a'8.    
+    \grace { b'8   } a'8. g'16 a'8.    
     b'16 g'4    
   }     
   \repeat volta 2 {
