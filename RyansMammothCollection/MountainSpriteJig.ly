@@ -25,11 +25,11 @@ voicedefault =  {
   \grace { c''8   } b'8. a'16 b'8. a''16    
   \times 2/3 { g''8 a''8 g''8 }   \times 2/3 { f''8 e''8 d''8 }    |
   c''4  \grace { fs''8   } g''4  \grace { fs''8   } g''4  \grace { fs''8 } g''4 \bar ": |" c''4 e''4 c''4 r4 \bar "|." \bar "|:"         |
-  d''8_"mf"_"f>"(^\downbow e''16 f''16) e''8. d''16 c''8 (d''16 e''16-4) d''8. c''16    |
+  d''8\mf_"f>"(^\downbow e''16 f''16) e''8. d''16 c''8 (d''16 e''16-4) d''8. c''16    |
   b'8 (c''16 d''16) c''8. b'16 c''8. b'16 a'4  |
   c'''2_"f>"(b''4) r4   |
   f'2    _"f>"(^\downbow e'4) r4        |
-  d''8_"mf"(^\downbow e''16 f''16) e''8. d''16 c''8 (d''16 e''16) d''8. c''16      |
+  d''8\mf(^\downbow e''16 f''16) e''8. d''16 c''8 (d''16 e''16) d''8. c''16      |
   b'8 (c''16 d''16) c''8. b'16 a'4 g'8. f'16     |
   e'8. g'16 c''8. e''16 g''4.^\accent e'8    |
   f'8. a'16 c''8. f''16 a''4.^\accent a'8     |

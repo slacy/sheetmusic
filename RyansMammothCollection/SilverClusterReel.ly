@@ -28,7 +28,7 @@ voicedefault =  {
   }     
 
   \repeat volta 2 {
-    f''8_"f"^\upbow         |
+    f''8\f^\upbow         |
     g''8._"fz"(a''16-.) bf''8 a''16 g''16    |
     f''16 (bf''16) d''16 f''16 bf'16 d''16 f'8     |
     \grace { d''16 } c''16 b'16 c''16 d''16 ef''8 a'8      |

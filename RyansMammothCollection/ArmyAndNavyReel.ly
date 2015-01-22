@@ -12,7 +12,7 @@ voicedefault =  {
 
 
   \time 2/4 
-  \key bf \major bf8_"mf"^\downbow bf'8 bf16 bf'16  
+  \key bf \major bf8\mf^\downbow bf'8 bf16 bf'16  
   \grace { c''16 }   \times 2/3 { bf'16 (a'16 bf'16) }      |
   d''16^\downbow bf'16 f''16 d''16 bf''16 bf'16  
   \grace { c''16 }   \times 2/3 { bf'16 (a'16 bf'16) }      |
