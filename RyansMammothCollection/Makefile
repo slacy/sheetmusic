@@ -7,12 +7,12 @@ PDF=$(patsubst %.ly,%.pdf,$(LY))
 PNG=$(patsubst %.ly,%.png,$(LY))
 MIDI=$(patsubst %.ly,%.midi,$(LY))
 
-DEFAULT: $(PDF) $(PNG) $(MIDI)
+DEFAULT: $(PDF) $(MIDI)
 
 VPATH = OUT
 
 %.png %.pdf %.midi : %.ly $(ILY)
-	lilypond -f png,pdf -o OUT/ $^
+	lilypond -f pdf -o OUT/ $^
 
 clean:
 	rm -f $(PNG) $(PDF) $(MIDI)
