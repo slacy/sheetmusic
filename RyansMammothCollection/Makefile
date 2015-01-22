@@ -15,4 +15,4 @@ VPATH = OUT
 	lilypond -f pdf -o OUT/ $^
 
 clean:
-	rm -f $(PNG) $(PDF) $(MIDI)
+	rm -f $(VPATH)/*
