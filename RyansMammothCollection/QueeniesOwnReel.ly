@@ -17,7 +17,7 @@ voicedefault =  {
 
     \time 2/4      \key g \major g''16^\downbow e''16    |
     d''8^\downbow e''16-4^\downbow d''16 b'8^\downbow-. g'16^\downbow a'16      |
-    b'16^"SEGUE." a'16 g'16 e'16 d'8-. e'16 d'16     |
+    b'16^\segue a'16 g'16 e'16 d'8-. e'16 d'16     |
     b16 d'16 g'16 a'16 b'16 g'16 e''16-4 d''16     |
     d''16 b'16 b'16 g'16 a'8-. g''16 e''16     |
     d''8-. e''16-4 d''16 b'8-. g'16 a'16    |

@@ -15,7 +15,7 @@ voicedefault =  {
   \time 2/2 
   \key d \major
   d'8.^\downbow(d'16-.)   \times 2/3 { fs'8^\upbow(e'8 d'8) } fs'8.^\downbow(a'16-.) d''8.^\upbow( a'16-.)     |
-  \times 2/3 { b'8_"SEGUE."(cs''8 d''8) } a'8. fs'16 e'8. d'16 b8. a16      |
+  \times 2/3 { b'8_\segue(cs''8 d''8) } a'8. fs'16 e'8. d'16 b8. a16      |
   d'8. d'16       \times 2/3 { fs'8 (e'8 d'8) } fs'8. a'16 d''8. a'16       |
   \times 2/3 { b'8 (cs''8 d''8) } a'8. fs'16 e'8. fs'16 d'8 r8     |
   d'8. d'16    \times 2/3 { fs'8 ( e'8 d'8) } fs'8. a'16 d''8. a'16      |
