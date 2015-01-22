@@ -10,3 +10,5 @@ perl -pi -e "s/(\\\repeat volta 2 {)/\n\1\n/g" 7thRegimentReel.ly
 perl -pi -e "s/\}/\n\}/g" 7thRegimentReel.ly
 
 perl -pi -e "s/(\\\key [a-z] \\\[a-z]+)/\1\n/g" 7thRegimentReel.ly
+
+perl -0pi -e "s/([^\|\}])\n(.*)\|/\1 \2 \|/g"  *.ly
