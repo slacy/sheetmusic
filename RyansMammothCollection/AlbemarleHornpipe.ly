@@ -15,7 +15,8 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 2/4 
-    \key a \major   \times 2/3 { e'16 (^\upbow fis'16 gis'16) 
+    \key a \major
+   \times 2/3 { e'16 (^\upbow fis'16 gis'16) 
 			       } 
     |
     a'16 gis'16 b'16 gis'16 a'8 -. b'16 (cis''16) 

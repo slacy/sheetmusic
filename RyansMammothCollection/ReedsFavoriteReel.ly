@@ -15,7 +15,8 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 2/4 
-    \key c \major c'8^\accent   \times 2/3 { c''16 (b'16 c''16 
+    \key c \major
+ c'8^\accent   \times 2/3 { c''16 (b'16 c''16 
 					     ) 
 					   } e''8^\accent   \times 2/3 { c''16 (b'16 c''16) 
 								       }   |

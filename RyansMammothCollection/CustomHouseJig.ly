@@ -13,7 +13,8 @@ voicedefault =  {
 
   \time 6/8 %  one sharp in the book
   
-  \key d \mixolydian a'8^\upbow   
+  \key d \mixolydian
+ a'8^\upbow   
   \repeat volta 2 {
     b'8^"Segno"^\downbow   
     a'8 fis'8 a'8 d'8 d'8  |

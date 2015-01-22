@@ -14,7 +14,8 @@ voicedefault =  {
 
   \time 2/4 \tempo  4=60
   
-  \key d \major   \times 2/3 { a16 (^\upbow b16 cis'16) 
+  \key d \major
+   \times 2/3 { a16 (^\upbow b16 cis'16) 
 			     }   |
   
   d'8-4^\segno^\downbow cis'8 d'8-4 cis'16 d'16-4   

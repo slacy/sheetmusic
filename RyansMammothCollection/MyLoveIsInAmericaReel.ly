@@ -16,7 +16,8 @@ voicedefault =  {
 
     \override Staff.TimeSignature #'style = #'C
     \time 2/2 
-    \key d \major fis'8 e'8 fis'8 g'8 a'8 b'8    
+    \key d \major
+ fis'8 e'8 fis'8 g'8 a'8 b'8    
     cis''8 b'8    |
     a'8 d''8 d''8 e''8 fis''8 d''8    
     cis''8 a'8    |

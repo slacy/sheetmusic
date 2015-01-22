@@ -15,6 +15,7 @@ voicedefault =  {
   \tempo 4=100
   
   \key a \minor
+
   \partial 8
   
   \repeat volta 2 {

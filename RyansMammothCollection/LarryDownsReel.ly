@@ -15,7 +15,8 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 2/4 
-    \key e \major   \times 2/3 { e'16^\downbow(fis'16 e'16) 
+    \key e \major
+   \times 2/3 { e'16^\downbow(fis'16 e'16) 
 			       } 
     gis'16^\upbow(b'16) e''16 gis''16 b''16 gis''16    |
     

@@ -15,7 +15,8 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 6/8 
-    \key c \major g'4 (^\downbow c''8 -.) \grace { d''8  
+    \key c \major
+ g'4 (^\downbow c''8 -.) \grace { d''8  
 						 }   
     c''8 b'8 c''8  |
     e''4-4(c''8 -.) c''8 b'8 c''8 

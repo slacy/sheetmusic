@@ -15,7 +15,8 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 2/4 
-    \key a \minor   \grace { gis''16  
+    \key a \minor
+   \grace { gis''16  
 			   } a''16^\upbow |
     
     r8 \grace { gis''16  

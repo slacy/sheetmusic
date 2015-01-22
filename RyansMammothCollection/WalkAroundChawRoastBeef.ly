@@ -12,7 +12,8 @@ voicedefault =  {
 
 
   \time 2/4 
-  \key c \major     << e'4^"ff"^\accent c''4   >>   << e'4 
+  \key c \major
+     << e'4^"ff"^\accent c''4   >>   << e'4 
 						       ^\accent c''4   >>   |
   << e'4^\accent c''4   >>   << e'4 
 				^\accent c''4   >>   \bar "|." e''8-4_"mf"^\downbow e''16    

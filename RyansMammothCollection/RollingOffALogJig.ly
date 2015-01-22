@@ -12,7 +12,8 @@ voicedefault =  {
 
 
   \time 6/8 
-  \key c \major c''8^\downbow e''8^\upbow |
+  \key c \major
+ c''8^\downbow e''8^\upbow |
   g''4 
   ^"segno"^\downbow(fis''8 -.) a''4^\upbow(fis''8 -.) |
   
@@ -31,7 +32,8 @@ voicedefault =  {
   |
   c''8 g''8 e''8 c''8  \bar ":|" c''4    r8 << e'4    
 					       c''4   >>   r8 \bar "|."   
-  \key g \major b'8^\fermata^\downbow d''8    
+  \key g \major
+ b'8^\fermata^\downbow d''8    
   g''8 (\grace { a''8  
 	       } g''8) fis''8 g''8  |
   b'8 d''8  

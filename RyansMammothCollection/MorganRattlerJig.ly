@@ -15,7 +15,8 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 6/8 
-    \key d \major   \grace { cis''8^\upbow 
+    \key d \major
+   \grace { cis''8^\upbow 
 			   } d''8    <<   \bar "|." 
 					  \bar "|." a'8.^"Segno" g'16 fis'8 e'8 fis'8 g'8    
 					  |

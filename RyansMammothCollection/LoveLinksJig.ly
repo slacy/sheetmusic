@@ -15,7 +15,8 @@ voicedefault =  {
   \repeat volta 2 {
 
     \time 6/8 
-    \key a \major e''8 cis''8 a'8  \grace { b'8  
+    \key a \major
+ e''8 cis''8 a'8  \grace { b'8  
 					  } a'8    
     gis'8 a'8  |
     \grace { b'8  
