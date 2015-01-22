@@ -17,7 +17,7 @@ voicedefault =  {
 
     \time 2/4
     \key ef \major
-				% %staffsep 50 bf'32.^\downbow a'32. (^\upbow-. c''32^\upbow-.)         |
+                % %staffsep 50 bf'32.^\downbow a'32. (^\upbow-. c''32^\upbow-.)         |
     bf'16.^\downbow g'32 ef'16. bf32 g16. bf'32 a'16. c''32      |
     bf'16. g'32 ef'16. bf32 g16. bf'32 a'16. c''32         |
     bf'16. g'32 ef'16. g''32-4 d''16.-1 ef''32-2 bf'16.-3 c'''32-3    |
@@ -25,9 +25,9 @@ voicedefault =  {
     f''16. d''32 bf'16. f'32 d'16. f''32 e''16. g''32     |
     f''16. d''32 bf'16. f'32 d'16. f''32 e''16. f''32         |
     af''16. f''32 d''16. bf'32 af'16. f'32 d'16. bf32     |
-    
-    << ef'8 g8   >> << g'8 bf16   >> << ef'16. g16.   >>   
-  }     
+
+    << ef'8 g8   >> << g'8 bf16   >> << ef'16. g16.   >>
+  }
 
   \repeat volta 2 {
     ef''32-2^\downbow d''16.-1(^\upbow-. f''32-3^\upbow-.)         |
@@ -39,9 +39,9 @@ voicedefault =  {
     bf''16. af''32 g''16. f''32 ef''16. g''32 f''16. ef''32         |
     d''16.-1 af''32-0-4 f''16.-3 d''32-1    |
     bf'16.-3 af'32-0-4 f'16. d'32     |
-    ef'8  << g'8  
-	     bf8   >> << ef'16. g16.   >>   
-  }   
+    ef'8  << g'8
+         bf8   >> << ef'16. g16.   >>
+  }
 
 }
 
@@ -50,13 +50,13 @@ voicedefault =  {
 
     \context Staff="default"
     {
-      \voicedefault 
-      
+      \voicedefault
+
     }
 
   >>
   \layout {
-    
+
   }
   \midi {
   }

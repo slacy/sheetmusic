@@ -16,19 +16,20 @@ voicedefault =  {
 
     \time 2/4
     \key d \major
+    \partial 8
     a'16 (^\upbow g'16)         |
     fs'16^"segno" d'16 d'16 fs'16 d''8-. cs''16 (a'16)   |
     a'16 b'16 g'16 b'16 a'16 b'16 g'16 e'16     |
     fs'16 d'16 d'16 fs'16 d''8-. cs''16 (a'16)    |
-    
+
     \times 2/3 { a'16 (b'16 cs''16) } g'16 (e'16) e'16 ( d'16) d'8-.   |   |
     fs'16 d'16 d'16 fs'16 d''8-. cs''16 (a'16)    |
     a'16 b'16 g'16 b'16 a'16 b'16 g'16 e'16     |
     fs'16 d'16 d'16 fs'16 d''8-. cs''16 (a'16)    |
-    \times 2/3 { a'16 (b'16    
-		 cs''16) 
-	       } g'16 (e'16) e'16 (d'16) d'8-.   
-  }     
+    \times 2/3 { a'16 (b'16
+         cs''16)
+           } g'16 (e'16) e'16 (d'16) d'8-.
+  }
 
   \repeat volta 2 {
     fs''8-. fs''16 (g''16) fs''16 e''16 d''16 fs''16      |
@@ -38,7 +39,7 @@ voicedefault =  {
     fs''8-. fs''16 ( g''16) fs''16 e''16 d''16 fs''16     |
     e''16 d''16 e''16 fs''16 e''16 d''16 cs''16 b'16     |
     a'16 b'16 cs''16 d''16 e''16 fs''16 g''16 a''16     |
-    a''8-. g''16 (e''16) e''16 (d''16) d''8_"D.S."-. \bar "  |."   
+    a''8-. g''16 (e''16) e''16 (d''16) d''8_"D.S."-. \bar "  |."
   }
 
 }
@@ -48,13 +49,13 @@ voicedefault =  {
 
     \context Staff="default"
     {
-      \voicedefault 
-      
+      \voicedefault
+
     }
 
   >>
   \layout {
-    
+
   }
   \midi {
   }

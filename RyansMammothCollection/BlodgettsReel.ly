@@ -13,7 +13,9 @@ voicedefault =  {
 
   \time 2/4
   \key g \major
-  d''8^\upbow \bar "| |" g''16^"'"^"Segno" b'16 (as'16 b'16) g''16-. b'16-. a''16-. b'16-.      |
+  \partial 8
+  d''8^\upbow \bar "| |"
+  g''16^"'"^"Segno" b'16 (as'16 b'16) g''16-. b'16-. a''16-. b'16-.      |
   g''16^"'" b'16 (as'16 b'16) d''16^"'" b'16 ( as'!16 b'16)    |
   g''16^"'" b'16 (as'16 b'16) g''16-. b'16-. a''16-. fs''16-.    |
   e''16 fs''16 g''16 a''16 g''16 fs''16 e''16 d''16     |
@@ -27,24 +29,24 @@ voicedefault =  {
   a''8-. fs''16 (d''16) a'16 d''16 fs''16 d''16     |
   a'16 d''16 fs''16 d''16 e''16 d''16 fs''16 d''16     |
   a''16 fs''16 g''16 e''16 fs''16 d''16 e''16-4 cs''16     |
-  e''16 d''16 cs''16 d''16 ds''16 e''16 f''16 fs''!16    << \bar "|." << \bar "  |."  >>   
+  e''16 d''16 cs''16 d''16 ds''16 e''16 f''16 fs''!16
 
-							  }
+}
 
-							  \score{
-							    <<
+\score{
+  <<
 
-							      \context Staff="default"
-							      {
-								\voicedefault 
-								
-							      }
+    \context Staff="default"
+    {
+      \voicedefault
 
-							    >>
-							    \layout {
-							      
-							    }
-							    \midi {
-							    }
+    }
 
-							  }
+  >>
+  \layout {
+
+  }
+  \midi {
+  }
+
+}
