@@ -10,12 +10,12 @@
 }
 voicedefault =  {
 
-
+  \time 6/8 % D Minor?
+  \key d \mixolydian
+  \partial 8
 
   \repeat volta 2 {
-
-    \time 6/8 % D Minor?
-    \key d \mixolydian e'16^"D MINOR"^\ltoe(fs'16) |
+    e'16^"D MINOR"^\ltoe(fs'16) |
     a'8 fs'8 d'8 d'8 e'8 fs'8 |
     a'4 g'8 a'8 b'8 c''8 |
     a'8 g'8 e'8 c''8 e'8 e'8 |
@@ -23,9 +23,9 @@ voicedefault =  {
     a'8 fs'8 d'8 d'8 fs'8 g'8 |
     a'4 g'8 a'8 b'8 c''8 |
     g'8 fs'8 e'8 c''8 e'8 e'8 |
-    e'8 d'8 d'8 d'4  
+    e'8 d'8 d'8 d'4
 
-  } 
+  }
   \repeat volta 2 {
     a'8^\ltoe |
     d''4 e''8 f''4 d''8 |
@@ -35,9 +35,9 @@ voicedefault =  {
     d''4 e''8 f''4 d''8 |
     e''4 d''8 d''8 c''8 a'8 |
     g'8 fs'8 e'8 c''8 e'8 e'8 |
-    e'8    
-    d'8 d'8 d'4  
-  }   
+    e'8
+    d'8 d'8 d'4
+  }
 
 }
 
@@ -46,13 +46,13 @@ voicedefault =  {
 
     \context Staff="default"
     {
-      \voicedefault 
-      
+      \voicedefault
+
     }
 
   >>
   \layout {
-    
+
   }
   \midi {
   }
