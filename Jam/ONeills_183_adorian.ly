@@ -25,6 +25,7 @@
   <<
     \new Staff <<
       \context Staff <<
+        \tempo 4 = 100
         \context Voice = "PartPOneVoiceOne" { \PartPOneVoiceOne }
       >>
     >>
