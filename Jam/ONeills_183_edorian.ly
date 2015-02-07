@@ -20,13 +20,15 @@
 \score {
   <<
     \new Staff <<
+      \set Staff.midiInstrument = #"violin"
       \key e \dorian
       \tempo 4 = 100
       \transpose c' g {
-        \context Voice = "PartPOneVoiceOne" { \PartPOneVoiceOne }
+        \PartPOneVoiceOne
       }
     >>
     \new TabStaff <<
+      \key e \dorian
       \set Staff.stringTunings = #mandolin-tuning
       \transpose c' g {
         \PartPOneVoiceOne

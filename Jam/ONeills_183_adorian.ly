@@ -15,23 +15,27 @@
   tagline = ""
 }
 
-\layout {
-  \context { \Score             autoBeaming = ##f           }
-}
-
 \include "ONeills_183.ily"
                                 % The score definition
 \score {
   <<
     \new Staff <<
-      \context Staff <<
-        \tempo 4 = 100
-        \context Voice = "PartPOneVoiceOne" { \PartPOneVoiceOne }
-      >>
+      \set Staff.midiInstrument = #"violin"
+      \tempo 4 = 100
+      \PartPOneVoiceOne
+    >>
+    \new TabStaff <<
+      \set Staff.midiInstrument = #"acoustic guitar (steel)"
+      \set Staff.stringTunings = #mandolin-tuning
+      \PartPOneVoiceOne
     >>
 
   >>
-  \layout {}
+  \layout {
+    \context {
+      \Score autoBeaming = ##f
+    }
+  }
                                 % To create MIDI output, uncomment the following line:
   \midi {}
 }
