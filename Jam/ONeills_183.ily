@@ -2,8 +2,9 @@ PartPOneVoiceOne =  \relative a' {
   \time 6/8
   \partial 8
 
+  a16 ( [ b16 ) ] | % 2
+
   \repeat volta 2 {
-    a16 ( [ b16 ) ] | % 2
     c8 [ a8 a8 ] e'8 [ a,8 a8 ] | % 3
     c8 [ b8 a8 ] e'8 [ a,8 a8 ] | % 4
     b8 [ g8 g8 ] d'8 [ g,8 g8 ] | % 5
@@ -14,8 +15,9 @@ PartPOneVoiceOne =  \relative a' {
     c8 [ a8 a8 ] a4
   }
   \break
+  d8 | % 11
+
   \repeat volta 2 {
-    d8 | % 11
     e8 [ fs8 g8 ] a4 b8 | % 12
     a4 b8 a8 [ g8 e8 ] | % 13
     e8 [ fs8 g8 ] a4 b8 | % 14

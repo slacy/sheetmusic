@@ -17,28 +17,29 @@
   tagline = ""
 }
 
-\layout {
-  \context { \Score
-             autoBeaming = ##f
-           }
-}
-
-
-                                % The score definition
+%% The score definition
 \score {
   <<
     \new Staff <<
-      \context Staff <<
-        \key e \dorian
-        \tempo 4 = 100
-        \transpose c' g {
-          \context Voice = "PartPOneVoiceOne" { \PartPOneVoiceOne }
-        }
-      >>
+      \key e \dorian
+      \tempo 4 = 100
+      \transpose c' g {
+        \context Voice = "PartPOneVoiceOne" { \PartPOneVoiceOne }
+      }
+    >>
+    \new TabStaff <<
+      \set Staff.stringTunings = #mandolin-tuning
+      \transpose c' g {
+        \PartPOneVoiceOne
+      }
     >>
 
   >>
-  \layout {}
+  \layout {
+    \context {
+      \Score autoBeaming = ##f
+    }
+  }
                                 % To create MIDI output, uncomment the following line:
   \midi {}
 }
