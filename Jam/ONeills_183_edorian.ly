@@ -1,4 +1,3 @@
-
 \version "2.16.2"
                                 % automatically converted by musicxml2ly from xml/0960_dp.xml
 

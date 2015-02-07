@@ -25,5 +25,6 @@ PartPOneVoiceOne =  \relative a' {
     e8 [ fs8 g8 ] a4 b8 | % 16
     a4 b8 a8 [ g8 e8 ] | % 17
     g8 [ fs8 e8 ] d8 [ c8 b8 ] | % 18
-    c8 [ a8 a8 ] a4 }
+    c8 [ a8 a8 ] a4
+  }
 }
