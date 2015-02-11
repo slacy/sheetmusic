@@ -40,13 +40,19 @@ swallowtailJig = \relative c' {
 
 \score {
   <<
-  \new Staff {
-    \swallowtailJig
-  }
-  \new TabStaff {
-    \set Staff.stringTunings = #mandolin-tuning
-    \tabFullNotation
-    \swallowtailJig
-  }
+    \new Staff \with {
+      instrumentName = #"Violin"
+    }
+    {
+      \swallowtailJig
+    }
+    \new TabStaff \with {
+      instrumentName = #"Mandolin"
+    }
+    {
+      \set Staff.stringTunings = #mandolin-tuning
+      \tabFullNotation
+      \swallowtailJig
+    }
   >>
 }
