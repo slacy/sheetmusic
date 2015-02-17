@@ -7,11 +7,7 @@
 }
 #(set-global-staff-size 30)
 
-
-\relative c' {
-  \time 3/4
-  \key d \major
-
+song = {
   \partial 4
   d8. d16 |
   e4-1 d4 g4-3 |
@@ -29,4 +25,12 @@
   Hap -- py Birth -- day to you!
   Hap -- py Birth -- day Dear Per -- son!
   Happy Birth -- day to you!
+}
+
+\score {
+  \relative c' {
+    \time 3/4
+    \key d \major
+    \song
+  }
 }
