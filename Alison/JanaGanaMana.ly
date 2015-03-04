@@ -2,7 +2,7 @@
 
 \language "english"
 
-#(set-global-staff-size 20)
+#(set-global-staff-size 25)
 
 \header {
   title = "Jana Gana Mana"
@@ -19,7 +19,8 @@ parta = \relative c' {
   a4 a8 a8 g4 g8 g8 |
   e8 g8 f2 f4 |
   c'4 c8 c8 c8 c8 c8 c8 |
-  \break
+
+  %% \break
   c4 c8 b8 c8 b8 c4 |
   bf4 bf8 bf8 bf4 bf8 a8 |
   g8 bf8 a2. |
@@ -27,8 +28,9 @@ parta = \relative c' {
   c8 c8 c8 (bf8) bf4 bf4 |
   a4 a8 a8 g4 g8 g8 |
   e8 g8 f2. |
-  \break
-  %% transposed part
+
+  %% \break
+  %% transposed part:
   a8\p a8 a8 a8 a4 a8 bf8 |
   g8 a8 bf2.
   a8 bf8 c8 c8 c4 bf8 a8 |
@@ -36,7 +38,8 @@ parta = \relative c' {
   a4 a4 g8 g8 g8 g8 |
   e8 g8 f2. |
   c'8\f c8 c8 c8 c4 c8 b8 |
-  \break
+
+  %% \break
   c4 c8 c8 b8 d8 c4 |
   bf4 bf8 bf8 a4 a8 a16 (bf16) |
   g8 bf8 a2\< e'8\ff e8 |
