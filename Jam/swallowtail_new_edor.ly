@@ -33,7 +33,7 @@ swallowtailJig = \relative c' {
     e [d b] d4 b8 |
     b [cs d] e4 fs8 |
     e4 fs8 e8 [d8 cs8] |
-    cs [b cs] a [g fs] |
+    d [cs d] a [g fs] |
     g [e e] e4
   }
 }
