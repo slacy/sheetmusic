@@ -8,7 +8,7 @@
 }
 
 song =  {
-  \time 4/4
+  \time 2/4
   \partial 4
   d8-.\downbow\mf-0 e8-.\upbow-1 |
   fs4-.->-2 fs8-. a8-.-4 g4-.->-3 g8-. b8-. |

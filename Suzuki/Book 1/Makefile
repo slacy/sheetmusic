@@ -5,7 +5,7 @@ LY=$(wildcard *.ly)
 PDF=$(patsubst %.ly,OUT/%.pdf,$(LY))
 PNG=$(patsubst %.ly,OUT/%.png,$(LY))
 MIDI=$(patsubst %.ly,OUT/%.midi,$(LY))
-DEFAULT: $(PDF)
+DEFAULT: $(PDF) $(MIDI)
 
 OUT/%.png OUT/%.pdf OUT/%.midi : %.ly
 	lilypond -f pdf -o OUT/ $^

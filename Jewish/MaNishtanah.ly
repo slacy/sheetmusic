@@ -42,7 +42,9 @@ song = \relative c' {
   ha -- lai -- lah ha -- zeh, ha -- lai -- lah ha -- zeh, ku -- lo ma -- tzah __
   ha -- lai -- lah ha -- zeh, ha -- lai -- lah ha -- zeh, ku -- lo ma -- tzah.
 }
-
+\score { 
 \new Staff {
   \transpose f a { \song }
+}
+\midi {} 
 }

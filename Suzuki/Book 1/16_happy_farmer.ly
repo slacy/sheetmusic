@@ -21,6 +21,8 @@ notes = \relative a {
 %%  \once \override Staff.TimeSignature #'break-visibility = ##(#f #f #f)
   \once \override Staff.TimeSignature #'stencil = ##f
   \time 4/4
+  \tempo 4 = 100
+  \set Staff.midiInstrument = "orchestral"
 
   \partial 8
   d8-0\upbow^\markup "Allegro giocoso" |
