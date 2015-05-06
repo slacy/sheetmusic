@@ -5,10 +5,10 @@ LY=$(wildcard *.ly)
 PDF=$(patsubst %.ly,OUT/%.pdf,$(LY))
 PNG=$(patsubst %.ly,OUT/%.png,$(LY))
 MIDI=$(patsubst %.ly,OUT/%.midi,$(LY))
-DEFAULT: $(PDF) $(PNG) $(MIDI)
+DEFAULT: $(PDF)
 
 OUT/%.png OUT/%.pdf OUT/%.midi : %.ly
-	lilypond -f png,pdf -o OUT/ $^
+	lilypond -f pdf -o OUT/ $^
 
 clean:
 	rm -f $(PDF) $(PNG) $(MIDI)
