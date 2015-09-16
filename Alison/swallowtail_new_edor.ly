@@ -27,12 +27,12 @@ swallowtailJig = \relative c' {
   \break
   \repeat volta 2 {
     b'8\downbow |
-    b8 [cs d] e4 fs8\downbow |
+    b8 [cs d] e4\downbow fs8 |
     e4 fs8 e [d b] |
     b [cs d ] e4 fs8 |
     e [d b] d4 b8 |
     b [cs d] e4 fs8 |
-    e4 fs8 e8 [d8 cs8] |
+    e4 fs8 e8 [d8 b8] |
     d [cs d] a [g fs] |
     g\upbow [e e] e4\downbow
   }
@@ -46,5 +46,14 @@ swallowtailJig = \relative c' {
     {
       \swallowtailJig
     }
+    \new TabStaff \with {
+      instrumentName = #"Mandolin"
+    }
+    {
+      \set Staff.stringTunings = #mandolin-tuning
+      \tabFullNotation
+      \swallowtailJig
+    }
+
   >>
 }
