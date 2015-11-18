@@ -1,13 +1,29 @@
 \version "2.16.2"
 \language "english"
-
-#(set-global-staff-size 25)
+\include "predefined-guitar-fretboards.ly"
+#(set-global-staff-size 20)
 #(set-default-paper-size "letter")
 
 \header {
-  title = "Swallow Tail Jig"
+  title = "Swallowtail Jig"
   tagline = ""
 }
+
+thechords = \chordmode {
+  s8
+  e4.:m s4.
+  s4. s4.
+  d4. s4.
+  s4. s4.
+  e4.:m s4. s4. s4.
+  d4. s4.
+  e4.:m s4. |
+  e4.:m s4. s4. s4. s4. s4.
+  e4.:m d4.
+  e4.:m s4. s4. s4.
+  d4. s4.
+  e4.:m
+ }
 
 swallowtailJig = \relative c' {
   \key e \dorian
@@ -40,6 +56,8 @@ swallowtailJig = \relative c' {
 
 \score {
   <<
+    \new ChordNames { \thechords }
+    \new FretBoards { \thechords }
     \new Staff \with {
       instrumentName = #"Violin"
     }
