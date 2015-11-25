@@ -1,6 +1,7 @@
 \version "2.16.2"
 \language "english"
 \include "predefined-guitar-fretboards.ly"
+\include "predefined-mandolin-fretboards.ly"
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
 
@@ -29,6 +30,7 @@ swallowtailJig = \relative c' {
   \key e \dorian
   \time 6/8
   \partial 8
+  \tempo 4 = 100
   e16 fs16
   \repeat volta 2 {
     g8 [e e ] b' [e, e] |
@@ -57,20 +59,20 @@ swallowtailJig = \relative c' {
 \score {
   <<
     \new ChordNames { \thechords }
-    \new FretBoards { \thechords }
+    \new FretBoards \with {
+      stringTunings = #guitar-tuning
+      instrumentName = #"Guitar"
+    } { \thechords }
     \new Staff \with {
-      instrumentName = #"Violin"
-    }
-    {
-      \swallowtailJig
-    }
+      instrumentName = #"Fiddle"
+    } { \swallowtailJig }
     \new TabStaff \with {
       instrumentName = #"Mandolin"
-    }
-    {
-      \set Staff.stringTunings = #mandolin-tuning
+      stringTunings = #mandolin-tuning
+    } {
       \tabFullNotation
       \swallowtailJig
     }
   >>
+  \midi{}
 }

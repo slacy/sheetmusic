@@ -1,4 +1,5 @@
 \include "predefined-guitar-fretboards.ly"
+\include "predefined-mandolin-fretboards.ly"
 \version "2.16.2"
 #(set-global-staff-size 25)
 #(set-default-paper-size "letter")
@@ -43,10 +44,17 @@ melody = {
 \score{
   <<
     \new ChordNames {      \thechords    }
-    \new FretBoards { \thechords }
-    \new Staff { \melody    }
-    \new TabStaff {
-      \set Staff.stringTunings = #mandolin-tuning
+    \new FretBoards \with {
+      stringTunings = #guitar-tuning
+      instrumentName = #"Guitar"
+    } { \thechords }
+    \new Staff \with {
+      instrumentName = #"Fiddle"
+    } { \melody    }
+    \new TabStaff \with {
+      stringTunings = #mandolin-tuning
+      instrumentName = #"Mandolin"
+    } {
       \tabFullNotation
       \melody
     }
