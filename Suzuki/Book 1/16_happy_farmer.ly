@@ -16,7 +16,7 @@
 %%  ragged-last = ##t
 }
 
-\relative a {
+notes = \relative a {
   \key g \major
   \time 4/4
 
@@ -37,6 +37,7 @@
   c'4.->\(b8\) a4.-0\upbow d,8-0\upbow |
   c'8-> b8 a8-0 g8 a4.-4_\markup\teeny"(0)" d,8\upbow\f |
   g4.\(b8-.\) d4.\(g,8-.\) |
+
   c8 e8 g8 e8 d4. b8\upbow |
 
 %%  \break
@@ -53,4 +54,11 @@
   c8 a8 d,8 c'8 b8 g d b' |
   a4-0_\markup\teeny"(4)" fs4 g4 r4 |
   \bar "|."
+}
+
+\score {
+\new Staff {
+%%  \override Score.SpacingSpanner #'strict-note-spacing = ##t
+  \notes
+}
 }

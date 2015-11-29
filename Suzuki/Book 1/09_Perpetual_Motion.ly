@@ -10,7 +10,11 @@
 
 %% #(set-global-staff-size 20)
 
-\relative g' {
+\layout {
+ indent = #0
+}
+
+notes = \relative g' {
   \key a \major
   \time 4/4
 
@@ -61,4 +65,11 @@
   d8 b8 a8 a8
 
   \bar "|."
+}
+
+\score {
+\new Staff {
+%%   \override Score.SpacingSpanner #'strict-note-spacing = ##t
+  \notes
+  }
 }
