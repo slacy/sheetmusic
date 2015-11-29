@@ -1,18 +1,36 @@
 \version "2.16.2"
 \language "english"
-
-#(set-global-staff-size 25)
+\include "predefined-guitar-fretboards.ly"
+\include "predefined-mandolin-fretboards.ly"
+#(set-global-staff-size 20)
 #(set-default-paper-size "letter")
 
 \header {
-  title = "Swallow Tail Jig"
+  title = "Swallowtail Jig"
   tagline = ""
 }
+
+thechords = \chordmode {
+  s8
+  e4.:m s4.
+  s4. s4.
+  d4. s4.
+  s4. s4.
+  e4.:m s4. s4. s4.
+  d4. s4.
+  e4.:m s4. |
+  e4.:m s4. s4. s4. s4. s4.
+  e4.:m d4.
+  e4.:m s4. s4. s4.
+  d4. s4.
+  e4.:m
+ }
 
 swallowtailJig = \relative c' {
   \key e \dorian
   \time 6/8
   \partial 8
+  \tempo 4 = 100
   e16 fs16
   \repeat volta 2 {
     g8 [e e ] b' [e, e] |
@@ -40,19 +58,21 @@ swallowtailJig = \relative c' {
 
 \score {
   <<
+    \new ChordNames { \thechords }
+    \new FretBoards \with {
+      stringTunings = #guitar-tuning
+      instrumentName = #"Guitar"
+    } { \thechords }
     \new Staff \with {
-      instrumentName = #"Violin"
-    }
-    {
-      \swallowtailJig
-    }
+      instrumentName = #"Fiddle"
+    } { \swallowtailJig }
     \new TabStaff \with {
       instrumentName = #"Mandolin"
-    }
-    {
-      \set Staff.stringTunings = #mandolin-tuning
+      stringTunings = #mandolin-tuning
+    } {
       \tabFullNotation
       \swallowtailJig
     }
   >>
+  \midi{}
 }

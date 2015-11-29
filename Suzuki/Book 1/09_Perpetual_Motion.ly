@@ -10,9 +10,8 @@
 
 %% #(set-global-staff-size 20)
 
-\layout {
- indent = #0
-}
+\relative g' {
+  \set Score.markFormatter = #format-mark-box-alphabet
 
 notes = \relative g' {
   \key a \major
@@ -20,7 +19,8 @@ notes = \relative g' {
 
   \tempo "Allegro"
 
-  a8\downbow_\markup { \italic { \bold {  "mf" } "(sempre staccato)" } }-0 b8-.-1 cs8-.-2 cs8-.
+  \mark \default
+  a8-0 \downbow_\markup { \italic { \bold {  "mf" } "(sempre staccato)" } } b8-.-1 cs8-.-2 cs8-.
   b8-.-1 cs8-.-2 d8-.-3 d8-.
 
   cs8-2 d8-3 e8-4 cs8
@@ -33,6 +33,7 @@ notes = \relative g' {
   d8 b8 a8-0 a8
 
   \break
+  \mark \default
   a'8-3 gs8-2 fs8-1 fs8
   gs8 fs8 e8-0 e8
 
@@ -45,6 +46,8 @@ notes = \relative g' {
   fs8 e8 d8 d8
   cs8_[b8 a8-0 a8]
 
+  \break
+  \mark \default
   cs8-2 a8-0 b8 b8
   d8-3 b8 cs8 cs8
 
@@ -55,6 +58,8 @@ notes = \relative g' {
   e8-4 cs8 d8 e8-0
   fs8 gs8 a8 a8
 
+  \break
+  \mark \default
   a,8 b8 cs8 cs8
   b8 cs8 d8 d8
   cs8 d8 e8-4 cs8
