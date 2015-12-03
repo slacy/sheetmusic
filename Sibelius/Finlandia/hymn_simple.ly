@@ -47,7 +47,11 @@ firstViolin = \relative a' {
 
 \score {
   \new Staff {
+    \new Voice {
+    \set Staff.midiInstrument = #"acoustic grand"
     \firstViolin
+    }
   }
-  \midi {}
+  \midi {
+  }
 }
