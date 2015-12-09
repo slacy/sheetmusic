@@ -5,9 +5,11 @@
   title = "IV melody"
 }
 
+afMajor = \relative a'''' { af bf c df ef f gf af bf c df ef f gf af bf c df ef f gf af bf c df ef f gf }
+
 thirdViolin = {
   \key af \major
-  \transpose af f
+  \modalTranspose af f \afMajor
   { \relative a' {
     \time 4/4
     \mark \markup { \box "I" }
