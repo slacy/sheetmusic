@@ -1,6 +1,7 @@
 \version "2.16.2"
 \language "english"
 \include "predefined-guitar-fretboards.ly"
+\include "predefined-mandolin-fretboards.ly"
 
 \header {
   crossRefNumber = "4"
@@ -60,10 +61,15 @@ melody = {
 \score{
   <<
     \new ChordNames { \thechords }
-    \new FretBoards { \thechords }
+    \new FretBoards \with {
+      stringTunings = #mandolin-tuning
+    } {
+      \thechords
+    }
     \new Staff { \melody }
-    \new TabStaff {
-      \set Staff.stringTunings = #mandolin-tuning
+    \new TabStaff \with {
+      stringTunings = #mandolin-tuning
+    } {
       \tabFullNotation
       \melody
     }
