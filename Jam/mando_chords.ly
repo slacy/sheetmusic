@@ -1,7 +1,7 @@
 \version "2.16.2"
 \language "english"
-\include "predefined-guitar-fretboards.ly"
 \include "predefined-mandolin-fretboards.ly"
+\include "predefined-guitar-fretboards.ly"
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
 
@@ -17,7 +17,9 @@ thechords = \chordmode {
 dmaj_chords = \relative d' {
   \key d \major
   << d1 fs a>>
-  << e g b>>
+  << d, fs' a,>>
+  << a, d a' fs' >>
+  << e, g b>>
   << fs a cs >>
   << g b d >>
   << a cs e >>
@@ -64,92 +66,92 @@ cmaj_chords = \relative c' {
     ragged-right = ##f
   }
   \header {
-    title = ""
+    title = "Nothing"
     tagline = ""
   }
 
-\score{
-  \header {
-    title = "D Major Chords"
-    tagline = ""
+  \score {
+    \header {
+      title = "D Major Chords"
+      tagline = ""
+    }
+    <<
+      \new ChordNames { \dmaj_chords }
+      \new FretBoards \with {
+        stringTunings = #mandolin-tuning
+      } {
+        \dmaj_chords
+      }
+      \new Staff { \dmaj_chords }
+      \new TabStaff \with {
+        stringTunings = #mandolin-tuning
+      } {
+        \tabFullNotation
+        \dmaj_chords
+      }
+    >>
+    \layout { }
+    \midi {}
   }
-  <<
-    \new ChordNames { \dmaj_chords }
-    \new FretBoards \with {
-      stringTunings = #mandolin-tuning
-    } {
-      \dmaj_chords
-    }
-    \new Staff { \dmaj_chords }
-    \new TabStaff \with {
-      stringTunings = #mandolin-tuning
-    } {
-      \tabFullNotation
-      \dmaj_chords
-    }
-  >>
-  \layout { }
-  \midi {}
-}
 
-\score{
-  \header {
-    title = "G Major Chords"
-    tagline = ""
+  \score{
+    \header {
+      title = "G Major Chords"
+      tagline = ""
+    }
+    <<
+      \new ChordNames { \gmaj_chords }
+      \new FretBoards \with {
+        stringTunings = #mandolin-tuning
+      } {
+        \gmaj_chords
+      }
+      \new Staff { \gmaj_chords }
+      \new TabStaff \with {
+        stringTunings = #mandolin-tuning
+      } {
+        \tabFullNotation
+        \gmaj_chords
+      }
+    >>
+    \layout { }
+    \midi {}
   }
-  <<
-    \new ChordNames { \gmaj_chords }
-    \new FretBoards \with {
-      stringTunings = #mandolin-tuning
-    } {
-      \gmaj_chords
-    }
-    \new Staff { \gmaj_chords }
-    \new TabStaff \with {
-      stringTunings = #mandolin-tuning
-    } {
-      \tabFullNotation
-      \gmaj_chords
-    }
-  >>
-  \layout { }
-  \midi {}
-}
 
 
-\score{
-  <<
-    \new ChordNames { \amaj_chords }
-    \new FretBoards \with {
-      stringTunings = #mandolin-tuning
-    } {
-      \amaj_chords
+  \score{
+    <<
+      \new ChordNames { \amaj_chords }
+      \new FretBoards \with {
+        stringTunings = #mandolin-tuning
+      } {
+        \amaj_chords
+      }
+      \new Staff { \amaj_chords }
+      \new TabStaff \with {
+        stringTunings = #mandolin-tuning
+      } {
+        \tabFullNotation
+        \amaj_chords
+      }
+    >>
+    \header {
+      title = "A Major Chords"
+      tagline = ""
     }
-    \new Staff { \amaj_chords }
-    \new TabStaff \with {
-      stringTunings = #mandolin-tuning
-    } {
-      \tabFullNotation
-      \amaj_chords
-    }
-  >>
-  \header {
-    title = "A Major Chords"
-    tagline = ""
+    \layout { }
+    \midi {}
   }
-  \layout { }
-  \midi {}
-}
-\score{
-  <<
-    \new ChordNames { \cmaj_chords }
-    \new FretBoards \with {
-      stringTunings = #mandolin-tuning
-    } {
-      \cmaj_chords
-    }
-    \new Staff { \cmaj_chords }
-    \new TabStaff \with {
+  \score{
+    <<
+      \new ChordNames { \cmaj_chords }
+      \new FretBoards \with {
+        stringTunings = #mandolin-tuning
+      } {
+        \cmaj_chords
+      }
+      \new Staff { \cmaj_chords }
+      \new TabStaff \with {
       stringTunings = #mandolin-tuning
     } {
       \tabFullNotation
