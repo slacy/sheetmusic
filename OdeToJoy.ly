@@ -56,9 +56,11 @@ stringNumberSpanner =
     }
     %}
     \repeat volta 2 {
-      fs4^2\downbow fs g^3 a^4 | a^4 g^3 fs^2 e^1 | d^0 d e^1 fs^2 | fs4.^2( e8^1) e2 fs4^2 fs g^3 a^4 |
+      fs4^2\downbow fs g^3 a^4 | a^4 g^3 fs^2 e^1 | d^0 d e^1 fs^2 |
+      fs4.^2( e8^1) e2 | \break
 
-      a^4 g^3 fs^2 e^1 d^0 d e^1 fs^2 e4.^1( d8^0) d4 r4 |
+      fs4^2 fs g^3 a^4 | a^4 g^3 fs^2 e^1 d^0 d e^1 fs^2 e4.^1( d8^0) d4 r4 |
+      \break
       e4^1\ff e fs^2 d^0 e^1 fs8^2(g^3) fs4^2 d^0 | e^1 fs8^2(g^3) fs4^2 e^1 |
       d4^0(e^1) a,^1^\markup { \italic \small G } fs'\downbow^2~ | fs^2 fs g^3 a^4 | a^4 g^3 fs^2 e^1 | d^0 d e^1 fs^2 | e4.^1 (d8^0) d4 a'4^4 |
       g4.^3(fs8^2) fs4^2 d'^3 |
