@@ -3,6 +3,8 @@
 
 \paper {
   #(set-paper-size "notation")
+  left-margin = #15.0
+  right-margin = #15.0
 }
 
 \header {
@@ -39,9 +41,34 @@
 \pageBreak
 
 \markuplist {
-  \vspace #1.0
   \line \bold \smallCaps { Placement of General Matter }
+  \paragraph { (a) Title centered on page. }
+  \paragraph { (b) Dedication centered over title. }
+  \paragraph { (c) Composer on the right side of the page, flush with the right margin of the music. The arranger or editor under the composer.  }
+  \paragraph { (d) Text source on the left of the page, flush with the left margin of the music. Translator under text source. }
+  \paragraph { (e) Tempo marks flush left over the time signature. Copyright notice at the bottom of the first page of the composition. }
   \vspace #1.0
-  \line { (a) Title centered on page. }
+
+  \line \bold \smallCaps { Notes and stems }
+  \paragraph { (a) All single notes with single stems starting on the middle line of the staff and higher are stemmed down.  A downstem is always attached to the left side of the note head. }
+  \score {
+    {
+      b' c'' d'' e''}
+  \layout {
+    \context {
+      \Staff
+      \remove "Time_signature_engraver"
+      \remove "Clef_engraver"
+      \remove "Bar_engraver"
+    }
+    \context {
+      \Score
+      \remove "Bar_number_engraver"
+    }
+  }
+
+  }
+  \paragraph { All single notes with single stems starting in the second space of the staff and lower are stemmed up. An upstem is always attached to the right side of the note head. }
+  \score { { a' g' f' e' } }
 
   }
