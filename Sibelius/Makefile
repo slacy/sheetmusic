@@ -1,19 +1,17 @@
 .SUFFIXES: .pdf .ly .png .midi
 .PHONY: clean
 
-LILYPOND=lilypond
-
 LY=$(wildcard *.ly)
 PDF=$(patsubst %.ly,%.pdf,$(LY))
+PNG=$(patsubst %.ly,%.png,$(LY))
 MIDI=$(patsubst %.ly,%.midi,$(LY))
 
-DEFAULT: $(PDF) $(MIDI)
+DEFAULT: $(PDF) $(PNG) $(MIDI)
 
 VPATH = OUT
 
-%.pdf %.midi : %.ly
-	mkdir -p $(VPATH)
-	$(LILYPOND) -o $(VPATH)/ $^
+%.png %.pdf %.midi : %.ly
+	lilypond -f png,pdf -o OUT/ $^
 
 clean:
-	rm -f $(PDF) $(MIDI)
+	rm -f $(PNG) $(PDF) $(MIDI)
