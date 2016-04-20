@@ -10,9 +10,6 @@
 
 %% #(set-global-staff-size 20)
 
-\relative g' {
-  \set Score.markFormatter = #format-mark-box-alphabet
-
 notes = \relative g' {
   \key a \major
   \time 4/4
