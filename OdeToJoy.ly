@@ -23,6 +23,7 @@ stringNumberSpanner =
 
 
 \score {
+  \transpose d' a' { 
   \relative a' {
     \accidentalStyle modern
     \time 4/4
@@ -70,5 +71,5 @@ stringNumberSpanner =
       d8^3 cs^2 e^4 cs^2 b^1 a^0 b^1 cs^2 |
       d^3 fs^1 e^0 c^2 <d d,>4 r4 |
     }
-  }
+  }}
 }
