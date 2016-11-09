@@ -32,7 +32,7 @@ song = \relative a' {
   f d f d |
   f d2 d4 |
   g f e d |
-  c2. 
+  c2.
 }
 
 \addlyrics {
@@ -44,7 +44,7 @@ song = \relative a' {
 
 \score { 
   \new Staff {
-    \transpose c d { 
+    \transpose c a { 
       \song
     }
   }
