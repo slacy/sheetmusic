@@ -35,6 +35,7 @@ first = \relative a'' {
 }
 
 \markup {
+  \hspace #30 
   \column {
     \huge \italic {
       \line { "Here is a staircase so steep and so tall;" }

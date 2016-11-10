@@ -12,25 +12,25 @@ first = \relative a' {
   fs'4-1\downbow fs fs fs |
   e e e2 |
   d4-3 d d d |
-  fs1 |
+  fs1-1 |
   \break
 
-  b,4\downbow b b b |
+  b,4-1\downbow b b b |
   a4 a d2-3 |
-  cs4 d e4 fs |
+  cs4-2 d-3 e4 fs-1 |
   e1 |
   \break
 
   fs4-1\downbow fs fs fs |
   e e e2 |
-  d4 d d d |
-  fs1 |
+  d4-3 d d d |
+  fs1-1 |
   \break
 
-  b,4\downbow b b b |
-  a a d2 |
-  e4 d e(fs) |
-  d1
+  b,4-1\downbow b b b |
+  a a d2-3 |
+  e4 d-3 e(fs-1) |
+  d1-3
 }
 
 second = \relative a' {
@@ -39,27 +39,27 @@ second = \relative a' {
   \key d \major
 
 d4_3\downbow d d d |
-cs cs cs2 |
-b4 b b b |
+cs_2 cs cs2 |
+b4_1 b b b |
 a1
 \break
 
 g4_3\downbow g g g |
-fs fs fs2 |
-a4_0 fs_2 g4 a |
-g1
+fs_2 fs fs2 |
+a4_0 fs_2 g4_3 a |
+g1_3
 \break
 
-d'4\downbow d d d |
-cs4 cs cs2
-b4 b b b |
+d'4_3\downbow d d d |
+cs4_2 cs cs2
+b4_1 b b b |
 a1
 \break
 
-g4\downbow g g g
-fs fs fs2 |
-g4 fs g(a) |
-fs1
+g4_3\downbow g g g
+fs_2 fs fs2 |
+g4_3 fs_2 g_3(a) |
+fs1_2
 \break
 }
 
@@ -108,6 +108,7 @@ fs1
     }
   }
   \markup {
+    \hspace #22
     \column {
       \huge \italic {
         \line { "Jolly old St. Nicholas, Lean your ear this way!" }

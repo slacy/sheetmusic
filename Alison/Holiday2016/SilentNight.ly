@@ -136,6 +136,7 @@ second = \relative a' {
     }
   }
   \markup {
+    \hspace #35
     \column {
       \huge \italic {
         \line { "Silent night, holy night!" }

@@ -4,13 +4,14 @@
 
 \header {
   title = \markup {
-    \override #'(font-name . "SantasSleighFull")
+    \override #'(font-name . "Sholom")
     \override #'(font-size . 8)
     { "I Have a Little Dreidel" }
   }
   piece = \markup \huge \circle 6
   instrument = ""
   tagline = ""
+  composer = "Traditional Jewish" 
 }
 
 song = \relative a' {
@@ -39,17 +40,28 @@ song = \relative a' {
   c2.
 }
 
-\addlyrics {
-  I have a lit -- tle drei -- dle, I made it out of clay, And
-  when it's dry and rea -- dy, Oh drei -- dle I shall play! Oh!
-  drei -- dle, drei -- dle, drei -- dle, I made it out of clay, And
-  when it's dry and rea -- dy, oh drei -- dle I shall play!
-}
-
 \score {
-  \new Staff {
+  \new Staff \with {
+    \magnifyStaff #4/3
+  } {
     \transpose c a {
       \song
+    }
+  }
+}
+\markup {
+  \hspace #35 
+  \column {
+    \huge \italic {
+      \line { "I have a little dreidel" }
+      \line { "I made it out of clay" }
+      \line { "And when it’s dry and ready" }
+      \line { "Oh dreidel, I shall play" }
+      \line { "\n" }
+      \line { "Oh, dreidel, dreidel, dreidel" }
+      \line { "I made you out of clay" }
+      \line { "And when you’re dry and ready" }
+      \line { "Oh Dreidel we shall play" }
     }
   }
 }

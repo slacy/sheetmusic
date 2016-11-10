@@ -111,9 +111,11 @@ second = \relative a' {
     }
   }
   \markup {
+    \hspace #30 
     \column {
       \huge \italic {
-        \line { "Up on the housetop reindeer paws, out jumps good ol' Santa Claus" }
+        \line { "Up on the housetop reindeer paws,"}
+        \line { "Out jumps good ol' Santa Claus" }
         \line { "Down through the chimney with lots of toys" }
         \line { "All for the little ones, Christmas joy." }
         \line { "\n" }

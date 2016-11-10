@@ -114,6 +114,7 @@ second = \relative a' {
     }
   }
   \markup {
+    \hspace #35
     \column {
       \huge \italic {
         \line { "We wish you a Merry Christmas" }
