@@ -8,7 +8,8 @@
     \override #'(font-name . "SantasSleighFull")
     \override #'(font-size . 8)
     { "I Have a Little Dreidel" }
-  } 
+  }
+  piece = \markup \box 5B
   instrument = ""
   tagline = ""
 }
@@ -22,17 +23,17 @@ song = \relative a' {
   e c2 e4 |
   g g f e |
   d2. d4 |
-  \break 
+  \break
   d d e e |
   f d2 d4 |
   g4 f e d |
   c2 e2 |
-  \break 
+  \break
   g4 e g e |
   g e2 e4 |
   g4 g f e |
   d2. d4 |
-  \break 
+  \break
   f d f d |
   f d2 d4 |
   g f e d |
@@ -40,17 +41,15 @@ song = \relative a' {
 }
 
 \addlyrics {
-  \override LyricText #'font-name = "SantasSleighFull"
-  \override LyricText #'font-size = #5
   I have a lit -- tle drei -- dle, I made it out of clay, And
   when it's dry and rea -- dy, Oh drei -- dle I shall play! Oh!
   drei -- dle, drei -- dle, drei -- dle, I made it out of clay, And
-  when it's dry and rea -- dy, oh drei -- dle I shall play! 
+  when it's dry and rea -- dy, oh drei -- dle I shall play!
 }
 
 \score {
   \new Staff {
-    \transpose c a { 
+    \transpose c a {
       \song
     }
   }
