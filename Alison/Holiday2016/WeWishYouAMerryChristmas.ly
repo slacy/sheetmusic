@@ -76,7 +76,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "We Wish You a Merry Christmas" }
     }
-    piece = \markup \box 5A
+    piece = \markup \huge \circle 5
     instrument = ""
     tagline = ""
     composer = "English Carol"
@@ -101,7 +101,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "We Wish You a Merry Christmas" }
     }
-    piece = \markup \box 5A
+    piece = \markup \huge \circle 5
     instrument = ""
     tagline = ""
     composer = "Engilsh Carol"

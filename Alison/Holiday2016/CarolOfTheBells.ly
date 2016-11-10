@@ -126,7 +126,7 @@ second = \relative a' {
       { "Carol of the Bells" }
     }
     subtitle = "Ukranian Carol"
-    piece = \markup \box 6
+    piece = \markup \huge \circle 6
     instrument = ""
     tagline = ""
     composer = "Mykola Leontovych"
@@ -152,7 +152,7 @@ second = \relative a' {
       { "Carol of the Bells" }
     }
     subtitle = "Ukranian Carol"
-    piece = \markup \box 6
+    piece = \markup \huge \circle 6
     instrument = ""
     tagline = ""
     composer = "Mykola Leontovych"

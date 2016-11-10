@@ -9,7 +9,7 @@
     \override #'(font-size . 8)
     { "I Have a Little Dreidel" }
   }
-  piece = \markup \box 5B
+  piece = \markup \huge \circle 6
   instrument = ""
   tagline = ""
 }
