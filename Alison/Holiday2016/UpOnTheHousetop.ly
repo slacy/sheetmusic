@@ -110,4 +110,33 @@ second = \relative a' {
       \first
     }
   }
+  \markup {
+    \column {
+      \huge \italic {
+        \line { "Up on the housetop reindeer paws, out jumps good ol' Santa Claus" }
+        \line { "Down through the chimney with lots of toys" }
+        \line { "All for the little ones, Christmas joy." }
+        \line { "\n" }
+        \line { "Ho ho ho, who wouldn't go," }
+        \line { "Ho ho ho, who wouldn't go-o" }
+        \line { "Up on the housetop, click, click, click" }
+        \line { "Down through the chimney with good Saint Nick." }
+        \line { "\n" }
+        \line { "First comes the stocking of little Will" }
+        \line { "Oh, just see what a glorious fill" }
+        \line { "Here is a hammer and lots of tacks" }
+        \line { "Also a ball and a whip that cracks" }
+        \line { "\n" }
+        \line { "Ho ho ho, who wouldn't go," }
+        \line { "Ho ho ho, who wouldn't go-o" }
+        \line { "Up on the housetop, click, click, click" }
+        \line { "Down through the chimney with good Saint Nick." }
+        \line { "\n" }
+        \line { "Ho ho ho, who wouldn't go," }
+        \line { "Ho ho ho, who wouldn't go-o" }
+        \line { "Up on the housetop, click, click, click" }
+        \line { "Down through the chimney with good Saint Nick." }
+      }
+    }
+  }
 }

@@ -33,12 +33,12 @@ tune = \relative a'' {
 
 \markup {
   \column {
-  \italic {
-    \line { "Here is a staircase so steep and so tall;" }
-    \line { "Here in my hand is a red rubber ball;" }
-    \line { "See how I make it go hippity-hop!" }
-    \line { "See how I throw it way up to the top!" }
-    \line { "Here it comes down again, cloppity-clop!" }
+    \italic {
+      \line { "Here is a staircase so steep and so tall;" }
+      \line { "Here in my hand is a red rubber ball;" }
+      \line { "See how I make it go hippity-hop!" }
+      \line { "See how I throw it way up to the top!" }
+      \line { "Here it comes down again, cloppity-clop!" }
+    }
   }
 }
-  }

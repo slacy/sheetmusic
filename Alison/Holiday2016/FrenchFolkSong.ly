@@ -1,9 +1,7 @@
 \version "2.19.3"
 \language "english"
 
-#(set-global-staff-size 30)
-
-tune = \relative a'' {
+first = \relative a'' {
   \override SpacingSpanner.uniform-stretching = ##t
   \time 3/4
   \key a \major
@@ -17,18 +15,17 @@ tune = \relative a'' {
 
 \header {
   title = \markup {
-
-      \override #'(font-name . "SantasSleighFull")
-      \override #'(font-size . 8)
-      { "French Folk Song" }
- }
+    \override #'(font-name . "SantasSleighFull")
+    \override #'(font-size . 8)
+    { "French Folk Song" }
+  }
   subtitle = \markup { \italic \medium "Playing Ball on the Stairs" }
   tagline = ""
   piece = \markup \huge \circle 2
 }
 
 \score {
-  \new Staff \tune
+  \new Staff \with { \magnifyStaff #4/3 } \first
   \layout {
     \context {
       \Score      proportionalNotationDuration = #(ly:make-moment 1/8)
@@ -39,12 +36,12 @@ tune = \relative a'' {
 
 \markup {
   \column {
-  \italic {
-    \line { "Here is a staircase so steep and so tall;" }
-    \line { "Here in my hand is a red rubber ball;" }
-    \line { "See how I make it go hippity-hop!" }
-    \line { "See how I throw it way up to the top!" }
-    \line { "Here it comes down again, cloppity-clop!" }
+    \huge \italic {
+      \line { "Here is a staircase so steep and so tall;" }
+      \line { "Here in my hand is a red rubber ball;" }
+      \line { "See how I make it go hippity-hop!" }
+      \line { "See how I throw it way up to the top!" }
+      \line { "Here it comes down again, cloppity-clop!" }
+    }
   }
 }
-  }

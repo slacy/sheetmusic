@@ -119,4 +119,44 @@ second = \relative a' {
       \first
     }
   }
+  \markup {
+    \column {
+      \huge \italic {
+        \line { "Joy to the world! The Lord is come." }
+        \line { "Let earth receive her King" }
+        \line { "Let every heart" }
+        \line { "Prepare Him room" }
+        \line { "And heaven and nature sing" }
+        \line { "And heaven and nature sing" }
+        \line { "And heaven and heaven and nature sing" }
+        \line { "\n" }
+        \line { "Joy to the world, the Savior reigns" }
+        \line { "Let men their songs employ" }
+        \line { "While fields and floods" }
+        \line { "Rocks, hills and plains" }
+        \line { "Repeat the sounding joy" }
+        \line { "Repeat the sounding joy" }
+        \line { "Repeat, repeat, the sounding joy" }
+        }
+      }
+    \column {
+      \huge \italic { 
+        \line { "He rules the world with truth and grace," }
+        \line { "And makes the nations prove" }
+        \line { "The glories of His righteousness," }
+        \line { "And wonders of His love;" }
+        \line { "And wonders of His love;" }
+        \line { "And wonders, wonders of His love." }
+        \line { "\n" }
+        \line { "Joy to the world! The Lord is come." }
+        \line { "Let earth receive her King" }
+        \line { "Let every heart" }
+        \line { "Prepare Him room" }
+        \line { "And heaven and nature sing" }
+        \line { "And heaven and nature sing" }
+        \line { "And heaven and heaven and nature sing" }
+        \line { "And heaven and heaven and nature sing" }
+      }
+    }
+  }
 }

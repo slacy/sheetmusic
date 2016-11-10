@@ -1,8 +1,6 @@
 \version "2.19.47"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
-
 
 first = \relative a' {
   \set Score.markFormatter = #format-mark-box-barnumbers
@@ -50,8 +48,6 @@ first = \relative a' {
   }
 
   \score {
-      \new Staff {
-        \first
-      }
+    \new Staff \with { \magnifyStaff #4/3 } \first
   }
 }

@@ -1,7 +1,6 @@
 \version "2.19.47"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 25)
 
 \header {
   title = \markup {

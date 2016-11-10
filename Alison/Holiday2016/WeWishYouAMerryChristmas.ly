@@ -113,4 +113,19 @@ second = \relative a' {
       \first
     }
   }
+  \markup {
+    \column {
+      \huge \italic {
+        \line { "We wish you a Merry Christmas" }
+        \line { "We wish you a Merry Christmas" }
+        \line { "We wish you a Merry Christmas" }
+        \line { "And a Happy New Year" }
+        \line { "\n" }
+        \line { "Good tidings we bring" }
+        \line { "To you and your kin" }
+        \line { "We wish you a Merry Christmas" }
+        \line { "And a Happy New Year" }
+      }
+    }
+  }
 }

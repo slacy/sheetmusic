@@ -135,4 +135,30 @@ second = \relative a' {
       \first
     }
   }
+  \markup {
+    \column {
+      \huge \italic {
+        \line { "Silent night, holy night!" }
+        \line { "All is calm, all is bright." }
+        \line { "Round yon Virgin, Mother and Child." }
+        \line { "Holy infant so tender and mild," }
+        \line { "Sleep in heavenly peace," }
+        \line { "Sleep in heavenly peace" }
+        \line { "\n" }
+        \line { "Silent night, holy night!" }
+        \line { "Shepherds quake at the sight." }
+        \line { "Glories stream from heaven afar" }
+        \line { "Heavenly hosts sing Alleluia," }
+        \line { "Christ the Savior is born!" }
+        \line { "Christ the Savior is born" }
+        \line { "\n" }
+        \line { "Silent night, holy night!" }
+        \line { "Son of God love's pure light." }
+        \line { "Radiant beams from Thy holy face" }
+        \line { "With dawn of redeeming grace," }
+        \line { "Jesus Lord, at Thy birth" }
+        \line { "Jesus Lord, at Thy birth" }
+      }
+    }
+  }
 }

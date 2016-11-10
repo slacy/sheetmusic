@@ -93,7 +93,7 @@ fs1
     title = \markup {
       \override #'(font-name . "SantasSleighFull")
       \override #'(font-size . 8)
-      { "Joy To The World" }
+      { "Jolly Old Saint Nicholas" }
     }
     piece = \markup \huge \circle { 1 }
     instrument = ""
@@ -105,6 +105,21 @@ fs1
       \magnifyStaff #4/3
     } {
       \first
+    }
+  }
+  \markup {
+    \column {
+      \huge \italic {
+        \line { "Jolly old St. Nicholas, Lean your ear this way!" }
+        \line { "Don't you tell a single soul, What I'm going to say;" }
+        \line { "Christmas Eve is coming soon, Now, you dear old man," }
+        \line { "Whisper what you'll bring to me: Tell me if you can." }
+        \line { "\n" }
+        \line { "When the clock is striking twelve, When I'm fast asleep," }
+        \line { "Down the broad and black, With your pack you'll creep." }
+        \line { "All the stockings you will find Hanging in a row;" }
+        \line { "Mine will be the shortest one, You'll be sure to know." }
+      }
     }
   }
 }
