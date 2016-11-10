@@ -24,7 +24,7 @@ tune = \relative a'' {
  }
   subtitle = \markup { \italic \medium "Playing Ball on the Stairs" }
   tagline = ""
-  piece = \markup \box 2
+  piece = \markup \huge \circle 2
 }
 
 \score {

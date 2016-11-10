@@ -70,7 +70,7 @@ fs1
       \override #'(font-size . 8)
       { "Jolly Old Saint Nicholas" }
     }
-    piece = \markup \box { 1 }
+    piece = \markup \huge \circle { 1 }
     instrument = ""
     tagline = ""
     composer = "Traditional"
@@ -95,7 +95,7 @@ fs1
       \override #'(font-size . 8)
       { "Joy To The World" }
     }
-    piece = \markup \box { 1 }
+    piece = \markup \huge \circle { 1 }
     instrument = ""
     tagline = ""
     composer = "Traditional"

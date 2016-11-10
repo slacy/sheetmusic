@@ -43,7 +43,7 @@ first = \relative a' {
       \override #'(font-size . 8)
       { "Ode to Joy" }
     }
-    piece = \markup \box 3
+    piece = \markup \huge \circle 3
     instrument = ""
     tagline = ""
     composer = "Ludwig van Beethoven"
