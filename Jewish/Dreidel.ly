@@ -4,7 +4,11 @@
 #(set-global-staff-size 25)
 
 \header {
-  title = "I Have a Little Dreidel"
+  title = \markup {
+    \override #'(font-name . "SantasSleighFull")
+    \override #'(font-size . 8)
+    { "I Have a Little Dreidel" }
+  } 
   instrument = ""
   tagline = ""
 }
@@ -36,13 +40,15 @@ song = \relative a' {
 }
 
 \addlyrics {
+  \override LyricText #'font-name = "SantasSleighFull"
+  \override LyricText #'font-size = #5
   I have a lit -- tle drei -- dle, I made it out of clay, And
   when it's dry and rea -- dy, Oh drei -- dle I shall play! Oh!
   drei -- dle, drei -- dle, drei -- dle, I made it out of clay, And
   when it's dry and rea -- dy, oh drei -- dle I shall play! 
 }
 
-\score { 
+\score {
   \new Staff {
     \transpose c a { 
       \song
