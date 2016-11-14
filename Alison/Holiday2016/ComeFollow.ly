@@ -1,6 +1,7 @@
 \version "2.16.2"
 \language "english"
 #(set-default-paper-size "letter")
+#(set-global-staff-size 30)
 
 
 first = \relative a' {
@@ -48,7 +49,7 @@ line_two = \relative a' {
   \time 2/4
   \numericTimeSignature
   \key d \major
-  
+
   d,16^"2." e fs g a8-. fs-. |
   g8-. e8-.  fs8-. d8-.|
   g16 a b cs d8-. d8-. |
@@ -59,7 +60,7 @@ line_three = \relative a' {
   \time 2/4
   \numericTimeSignature
   \key d \major
-  
+
   fs8.^"3."(fs16-.) e8-.(fs8-.) |
   d8.(e16-.) cs8-.(d8-.) |
   b16 cs d e fs8.(g16-.) |
@@ -81,7 +82,7 @@ line_three = \relative a' {
   }
   \score {
     \new Staff \with {
-      \magnifyStaff #4/3
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
     } {
       \first
     }
@@ -89,7 +90,7 @@ line_three = \relative a' {
 }
 
 \bookpart {
-  \paper { indent = 0\cm } 
+  \paper { indent = 0\cm }
   \header {
     title = \markup {
       \override #'(font-name . "SantasSleighFull")
@@ -105,22 +106,20 @@ line_three = \relative a' {
   \score {
     <<
       \new Staff \with {
-        \magnifyStaff #4/3
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
       } {
-        \line_one       
-      } 
+        \line_one
+      }
 
       \new Staff \with {
-        \magnifyStaff #4/3
       } {
         \line_two
-      } 
+      }
 
       \new Staff \with {
-        \magnifyStaff #4/3
       } {
-        \line_three       
-      } 
+        \line_three
+      }
     >>
   }
 }

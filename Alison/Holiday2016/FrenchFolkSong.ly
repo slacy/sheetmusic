@@ -25,7 +25,9 @@ first = \relative a'' {
 }
 
 \score {
-  \new Staff \with { \magnifyStaff #4/3 } \first
+  \new Staff \with {
+    \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+  } \first
   \layout {
     \context {
       \Score      proportionalNotationDuration = #(ly:make-moment 1/8)
@@ -35,7 +37,7 @@ first = \relative a'' {
 }
 
 \markup {
-  \hspace #30 
+  \hspace #30
   \column {
     \huge \italic {
       \line { "Here is a staircase so steep and so tall;" }

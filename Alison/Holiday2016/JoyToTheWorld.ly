@@ -1,6 +1,7 @@
 \version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
+#(set-global-staff-size 30)
 
 
 first = \relative a' {
@@ -92,7 +93,9 @@ second = \relative a' {
 
   \score {
     \new StaffGroup <<
-      \new Staff {
+      \new Staff \with {
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      } {
         \first
       }
       \new Staff {
@@ -116,7 +119,7 @@ second = \relative a' {
   }
   \score {
     \new Staff \with {
-      \magnifyStaff #4/3
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
     } {
       \first
     }

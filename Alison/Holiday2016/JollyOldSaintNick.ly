@@ -1,6 +1,7 @@
 \version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
+#(set-global-staff-size 30)
 
 
 first = \relative a' {
@@ -9,28 +10,30 @@ first = \relative a' {
   \numericTimeSignature
   \key d \major
 
-  fs'4-1\downbow fs fs fs |
-  e e e2 |
-  d4-3 d d d |
-  fs1-1 |
-  \break
+  \repeat volta 2 {
+    fs'4-1\downbow fs fs fs |
+    e e e2 |
+    d4-3 d d d |
+    fs1 |
+    \break
 
-  b,4-1\downbow b b b |
-  a4 a d2-3 |
-  cs4-2 d-3 e4 fs-1 |
-  e1 |
-  \break
+    b,4-1\downbow b b b |
+    a4 a d2-3 |
+    cs4 d e4 fs |
+    e1 |
+    \break
 
-  fs4-1\downbow fs fs fs |
-  e e e2 |
-  d4-3 d d d |
-  fs1-1 |
-  \break
+    fs4-1\downbow fs fs fs |
+    e e e2 |
+    d4 d d d |
+    fs1 |
+    \break
 
-  b,4-1\downbow b b b |
-  a a d2-3 |
-  e4 d-3 e(fs-1) |
-  d1-3
+    b,4-1\downbow b b b |
+    a a d2 |
+    e4 d e fs |
+    d1\upbow
+  }
 }
 
 second = \relative a' {
@@ -45,32 +48,31 @@ a1
 \break
 
 g4_3\downbow g g g |
-fs_2 fs fs2 |
-a4_0 fs_2 g4_3 a |
-g1_3
+fs fs fs2 |
+a4_0 fs_2 g4 a |
+g1
 \break
 
-d'4_3\downbow d d d |
-cs4_2 cs cs2
-b4_1 b b b |
+d'4\downbow d d d |
+cs4 cs cs2
+b4 b b b |
 a1
 \break
 
-g4_3\downbow g g g
-fs_2 fs fs2 |
-g4_3 fs_2 g_3(a) |
-fs1_2
-\break
+g4\downbow g g g
+fs fs fs2 |
+g4 fs g a |
+fs1\upbow
 }
 
 \bookpart {
   \header {
+    dedication =  \markup { \huge \hspace #70 \circle { 1 } }
     title = \markup {
       \override #'(font-name . "SantasSleighFull")
       \override #'(font-size . 8)
       { "Jolly Old Saint Nicholas" }
     }
-    piece = \markup \huge \circle { 1 }
     instrument = ""
     tagline = ""
     composer = "Traditional"
@@ -78,10 +80,13 @@ fs1_2
 
   \score {
     \new StaffGroup <<
-      \new Staff {
+      \new Staff \with {
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      } {
         \first
       }
-      \new Staff {
+      \new Staff \with {
+      } {
         \second
       }
     >>
@@ -95,20 +100,20 @@ fs1_2
       \override #'(font-size . 8)
       { "Jolly Old Saint Nicholas" }
     }
-    piece = \markup \huge \circle { 1 }
+    dedication =  \markup { \huge \hspace #70 \circle { 1 } }
     instrument = ""
     tagline = ""
     composer = "Traditional"
   }
   \score {
     \new Staff \with {
-      \magnifyStaff #4/3
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
     } {
       \first
     }
   }
   \markup {
-    \hspace #22
+    \hspace #2
     \column {
       \huge \italic {
         \line { "Jolly old St. Nicholas, Lean your ear this way!" }

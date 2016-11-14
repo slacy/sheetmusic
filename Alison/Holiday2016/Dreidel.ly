@@ -1,6 +1,7 @@
 \version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
+#(set-global-staff-size 30)
 
 \header {
   title = \markup {
@@ -42,7 +43,7 @@ song = \relative a' {
 
 \score {
   \new Staff \with {
-    \magnifyStaff #4/3
+    \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
   } {
     \transpose c a {
       \song
