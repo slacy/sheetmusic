@@ -5,7 +5,7 @@ LY=$(wildcard *.ly)
 PDF=$(patsubst %.ly,%.pdf,$(LY))
 MIDI=$(patsubst %.ly,%.midi,$(LY))
 
-DEFAULT: $(PDF) Holiday2016.pdf 
+DEFAULT: $(PDF) Holiday2016.pdf
 
 VPATH = OUT
 
@@ -21,6 +21,9 @@ Holiday2016.pdf: $(PDF)
 	OUT/Dreidel.pdf \
 	OUT/SilentNight.pdf \
 	OUT/ComeFollow.pdf \
+	OUT/WhatChildIsThis.pdf \
+	OUT/JoyToTheWorld.pdf \
+	OUT/BringATorch.pdf \
 	-o Holiday2016.pdf
 
 

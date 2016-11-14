@@ -5,7 +5,7 @@
 first = \relative a' {
   \set Score.markFormatter = #format-mark-box-barnumbers
   \time 4/4
-  \numericTimeSignature 
+  \numericTimeSignature
   \key g \major
   \compressFullBarRests
   \override MultiMeasureRest.expand-limit = #3
@@ -14,7 +14,7 @@ first = \relative a' {
   \mark \default
   R1*7 |
   \break
-  
+
   r4 d,\mp\upbow d d |
   \mark \default
   e2.\downbow b4 |
@@ -25,7 +25,7 @@ first = \relative a' {
 
   b2. g4 |
   g4 a2\upbow(a8 g8) |
-  g1\downbow\< 
+  g1\downbow\<
   \mark \default
   r4\! b'4\upbow\mf a\downbow b\upbow |
   c2. b4 |
@@ -51,7 +51,7 @@ first = \relative a' {
   b4\! d-- d--\upbow( d--\upbow) |
   \break
 
-  \mark \default 
+  \mark \default
   e2. b4 | b4 d d4.(a8) |
   a4 c2.\>~ |
   c4\! c\mf b a |
@@ -61,12 +61,12 @@ first = \relative a' {
   g4 a2\upbow(r8 g8) |
   \mark \default
   g1\mp ~ | g1~ | g2 ~ g2\fermata\>~ |
-  g8\!\p r8 r4 r2 \bar "|." 
+  g8\!\p r8 r4 r2 \bar "|."
 }
 
 \bookpart {
   \header {
-    title = "FINLANDIA" 
+    title = "FINLANDIA"
     instrument = "VIOLIN"
     tagline = ""
     composer = "Jean Sibelius (1865-1957)"

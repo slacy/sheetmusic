@@ -1,4 +1,4 @@
-\version "2.19.47"
+\version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
 

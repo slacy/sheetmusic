@@ -1,17 +1,17 @@
-\version "2.19.47"
+\version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
 
 \header {
   title = \markup {
-    \override #'(font-name . "Sholom")
+    \override #'(font-name . "SantasSleighFull")
     \override #'(font-size . 8)
     { "I Have a Little Dreidel" }
   }
   piece = \markup \huge \circle 6
   instrument = ""
   tagline = ""
-  composer = "Traditional Jewish" 
+  composer = "Traditional Jewish"
 }
 
 song = \relative a' {
@@ -50,7 +50,7 @@ song = \relative a' {
   }
 }
 \markup {
-  \hspace #35 
+  \hspace #35
   \column {
     \huge \italic {
       \line { "I have a little dreidel" }
