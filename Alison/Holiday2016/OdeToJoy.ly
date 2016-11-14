@@ -1,7 +1,7 @@
 \version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 25)
 
 first = \relative a' {
   \set Score.markFormatter = #format-mark-box-barnumbers
@@ -9,16 +9,16 @@ first = \relative a' {
   \numericTimeSignature
   \key a \major
 
-  cs4\f cs d e |
+  cs4-2\f cs d e\finger "E" |
   e d cs b |
   a a b cs |
-  cs4. b8 b2 |
+  cs4.-2 b8 b2 |
   \break
 
   cs4\upbow cs d e |
   e d cs b |
   a a b cs |
-  b4. a8 a2 |
+  b4.-1 a8 a2 |
   \break
 
   \repeat volta 2 {
@@ -42,7 +42,7 @@ first = \relative a' {
       \override #'(font-size . 8)
       { "Ode to Joy" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 3 }
+    dedication = \markup { \huge \hspace #90 \circle 3 }
     instrument = ""
     tagline = ""
     composer = "Ludwig van Beethoven"
@@ -50,7 +50,7 @@ first = \relative a' {
 
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } \first
   }
 }

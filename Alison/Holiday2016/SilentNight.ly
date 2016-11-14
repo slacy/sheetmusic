@@ -1,7 +1,7 @@
 \version "2.16.2"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 25)
 
 
 first = \relative a' {
@@ -14,37 +14,37 @@ first = \relative a' {
   a4.\upbow(b8) a4 |
   fs2._2
   \mark \default
-  e'2\downbow e4 |
+  e'2\downbow-4 e4 |
   \break
 
-  cs2.-2 |
-  d2-3 d4 |
+  cs2. |
+  d2 d4 |
   a2. |
   \mark \default
   b2\downbow b4 |
-  d4.-3(cs8) b4 |
+  d4.(cs8) b4 |
   \break
 
   a4.(b8) a4 |
   fs2._2 |
   \mark \default
-  b2-1\upbow b4 |
-  d4.-3(cs8) b4 |
+  b2\upbow b4 |
+  d4.(cs8) b4 |
   a4.(b8) a4 |
   \break
 
-  fs2.-2 |
+  fs2. |
   \mark \default
-  e'2\downbow e4  |
-  g4.-2(e8) cs4-2 |
-  d2.-3 |
-  fs2.-1 |
+  e'2\downbow-4 e4-0  |
+  g4.\finger"L2" (e8) cs4-2 |
+  d2. |
+  fs2. |
   \break
 
   \mark \default
-  d4.-3\downbow(a8-0)
-  fs4-2 |
-  a4.-0(g8-3)
+  d4.\downbow(a8)
+  fs4 |
+  a4.-4(g8-3)
   e4-1 |
   d2. ~ |
   d2 r4 |
@@ -99,7 +99,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Silent Night" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 7 }
+    dedication = \markup { \huge \hspace #90 \circle "8A" }
     instrument = ""
     tagline = ""
     composer = "Franz Gruber"
@@ -108,7 +108,7 @@ second = \relative a' {
   \score {
     \new StaffGroup <<
       \new Staff \with {
-        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
         \first
       }
@@ -126,22 +126,22 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Silent Night" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 7 }
+    dedication = \markup { \huge \hspace #90 \circle "8B" }
     instrument = ""
     tagline = ""
     composer = "Franz Gruber"
   }
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first
     }
   }
   \markup {
-    \hspace #35
+    \hspace #5
     \column {
-      \huge \italic {
+      \small \italic {
         \line { "Silent night, holy night!" }
         \line { "All is calm, all is bright." }
         \line { "Round yon Virgin, Mother and Child." }
@@ -155,7 +155,10 @@ second = \relative a' {
         \line { "Heavenly hosts sing Alleluia," }
         \line { "Christ the Savior is born!" }
         \line { "Christ the Savior is born" }
-        \line { "\n" }
+      }
+    }
+    \column {
+      \small \italic {
         \line { "Silent night, holy night!" }
         \line { "Son of God love's pure light." }
         \line { "Radiant beams from Thy holy face" }

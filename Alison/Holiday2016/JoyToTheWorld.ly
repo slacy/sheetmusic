@@ -1,7 +1,7 @@
 \version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 25)
 
 
 first = \relative a' {
@@ -85,7 +85,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Joy To The World" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 10 }
+    dedication = \markup { \huge \hspace #90 \circle "10A" }
     instrument = ""
     tagline = ""
     composer = "George F. Handel"
@@ -94,7 +94,7 @@ second = \relative a' {
   \score {
     \new StaffGroup <<
       \new Staff \with {
-        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
         \first
       }
@@ -112,21 +112,21 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Joy To The World" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 10 }
+    dedication = \markup { \huge \hspace #90 \circle "10B" }
     instrument = ""
     tagline = ""
     composer = "George F. Handel"
   }
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first
     }
   }
   \markup {
     \column {
-      \huge \italic {
+      \small \italic {
         \line { "Joy to the world! The Lord is come." }
         \line { "Let earth receive her King" }
         \line { "Let every heart" }
@@ -145,7 +145,7 @@ second = \relative a' {
         }
       }
     \column {
-      \huge \italic {
+      \small \italic {
         \line { "He rules the world with truth and grace," }
         \line { "And makes the nations prove" }
         \line { "The glories of His righteousness," }

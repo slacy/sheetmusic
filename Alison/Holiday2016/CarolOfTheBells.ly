@@ -1,7 +1,7 @@
 \version "2.16.2"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 20)
 
 
 first = \relative a' {
@@ -127,7 +127,7 @@ second = \relative a' {
       { "Carol of the Bells" }
     }
     subtitle = "Ukranian Carol"
-    dedication = \markup { \huge \hspace #70 \circle 6 }
+    dedication = \markup { \huge \hspace #90 \circle "7A" }
     instrument = ""
     tagline = ""
     composer = "Mykola Leontovych"
@@ -136,7 +136,7 @@ second = \relative a' {
   \score {
     \new StaffGroup <<
       \new Staff \with {
-        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
         \first
       }
@@ -155,14 +155,14 @@ second = \relative a' {
       { "Carol of the Bells" }
     }
     subtitle = "Ukranian Carol"
-    dedication = \markup {  \huge \hspace #70 \circle 6 }
+    dedication = \markup {  \huge \hspace #90 \circle "7B" }
     instrument = ""
     tagline = ""
     composer = "Mykola Leontovych"
   }
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first
     }

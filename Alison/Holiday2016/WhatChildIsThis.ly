@@ -1,7 +1,7 @@
 \version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 20)
 
 
 first = \relative a' {
@@ -108,7 +108,7 @@ second = \relative a' {
       { "What Child Is This" }
     }
     subtitle = "English Carol"
-    dedication = \markup { \huge \hspace #70 \circle 9 }
+    dedication = \markup { \huge \hspace #90 \circle "10A" }
     instrument = ""
     tagline = ""
     composer = "McAllister"
@@ -117,7 +117,7 @@ second = \relative a' {
   \score {
     \new StaffGroup <<
       \new Staff \with {
-        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
         \first
       }
@@ -136,14 +136,14 @@ second = \relative a' {
       { "What Child Is This" }
     }
     subtitle = "English Carol"
-    dedication = \markup { \huge \hspace #70 \circle 9 }
+    dedication = \markup { \huge \hspace #90 \circle "10B" }
     instrument = ""
     tagline = ""
     composer = "McAllister"
   }
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first
     }

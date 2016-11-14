@@ -12,13 +12,14 @@ VPATH = OUT
 %.pdf %.midi : %.ly
 	lilypond -f pdf -o OUT/ $^
 
-Holiday2016.pdf: $(PDF)
+Holiday2016.pdf: $(PDF) Makefile
 	pdfjam OUT/JollyOldSaintNick.pdf \
 	OUT/FrenchFolkSong.pdf \
 	OUT/OdeToJoy.pdf \
 	OUT/UpOnTheHousetop.pdf \
 	OUT/WeWishYouAMerryChristmas.pdf \
 	OUT/Dreidel.pdf \
+	OUT/CarolOfTheBells.pdf \
 	OUT/SilentNight.pdf \
 	OUT/ComeFollow.pdf \
 	OUT/WhatChildIsThis.pdf \

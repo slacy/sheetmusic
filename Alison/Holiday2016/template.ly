@@ -1,7 +1,7 @@
 \version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 25)
 
 
 first = \relative a' {
@@ -18,7 +18,7 @@ second = \relative a' {
 
 \bookpart {
   \header {
-    dedication = \markup { \huge \hspace #70 \circle 99 }
+    dedication = \markup { \huge \hspace #90 \circle 99 }
     title = \markup {
       \override #'(font-name . "SantasSleighFull")
       \override #'(font-size . 8)
@@ -32,7 +32,7 @@ second = \relative a' {
   \score {
     \new StaffGroup <<
       \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
         \first
       }
@@ -50,14 +50,14 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Joy To The World" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 99 }
+    dedication = \markup { \huge \hspace #90 \circle 99 }
     instrument = ""
     tagline = ""
     composer = "George F. Handel"
   }
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first
     }

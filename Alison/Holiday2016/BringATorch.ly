@@ -1,7 +1,7 @@
 \version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 25)
 
 
 first = \relative a' {
@@ -94,7 +94,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Bring a Torch, Jeanette, Isabella" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 11 }
+    dedication = \markup { \huge \hspace #90 \circle 11 }
     instrument = ""
     tagline = ""
     composer = "French Carol"
@@ -103,7 +103,7 @@ second = \relative a' {
   \score {
     \new StaffGroup <<
       \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
         \first
       }
@@ -121,14 +121,14 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Bring a Torch, Jeanette, Isabella" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 11 }
+    dedication = \markup { \huge \hspace #90 \circle 11 }
     instrument = ""
     tagline = ""
     composer = "French Carol"
   }
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first
     }

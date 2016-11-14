@@ -1,7 +1,7 @@
 \version "2.16.2"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 25)
 
 
 first = \relative a' {
@@ -64,9 +64,10 @@ line_three = \relative a' {
   fs8.^"3."(fs16-.) e8-.(fs8-.) |
   d8.(e16-.) cs8-.(d8-.) |
   b16 cs d e fs8.(g16-.) |
-  e4-.(e4-.) fs4 \fermata
+  e8-.(e8-.) fs4 \fermata
 }
 
+%{
 \bookpart {
   \header {
     title = \markup {
@@ -75,19 +76,20 @@ line_three = \relative a' {
       { "Come Follow" }
     }
     subsubtitle = "3-part"
-    dedication = \markup { \huge \hspace #70 \circle 8 }
+    dedication = \markup { \huge \hspace #90 \circle 9 }
     instrument = ""
     tagline = ""
     composer = "Traditional"
   }
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first
     }
   }
 }
+%}
 
 \bookpart {
   \paper { indent = 0\cm }
@@ -98,7 +100,7 @@ line_three = \relative a' {
       { "Come Follow" }
     }
     subsubtitle = "3-part"
-    dedication = \markup { \huge \hspace #70 \circle 8 }
+    dedication = \markup { \huge \hspace #90 \circle 9 }
     instrument = ""
     tagline = ""
     composer = "Traditional"
@@ -106,7 +108,7 @@ line_three = \relative a' {
   \score {
     <<
       \new Staff \with {
-        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
         \line_one
       }

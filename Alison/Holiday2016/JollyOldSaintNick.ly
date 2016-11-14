@@ -1,7 +1,7 @@
 \version "2.19.40"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 25)
 
 
 first = \relative a' {
@@ -67,7 +67,7 @@ fs1\upbow
 
 \bookpart {
   \header {
-    dedication =  \markup { \huge \hspace #70 \circle 1 }
+    dedication =  \markup { \huge \hspace #90 \circle "1A" }
     title = \markup {
       \override #'(font-name . "SantasSleighFull")
       \override #'(font-size . 8)
@@ -81,7 +81,7 @@ fs1\upbow
   \score {
     \new StaffGroup <<
       \new Staff \with {
-        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
         \first
       }
@@ -100,14 +100,14 @@ fs1\upbow
       \override #'(font-size . 8)
       { "Jolly Old Saint Nicholas" }
     }
-    dedication =  \markup { \huge \hspace #70 \circle 1 }
+    dedication =  \markup { \huge \hspace #90 \circle "1B" }
     instrument = ""
     tagline = ""
     composer = "Traditional"
   }
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first
     }
@@ -116,15 +116,15 @@ fs1\upbow
     \hspace #2
     \column {
       \huge \italic {
-        \line { "Jolly old St. Nicholas, Lean your ear this way!" }
-        \line { "Don't you tell a single soul, What I'm going to say;" }
-        \line { "Christmas Eve is coming soon, Now, you dear old man," }
-        \line { "Whisper what you'll bring to me: Tell me if you can." }
+        \line { "In the hours dark and cold" }
+        \line { "of the longest night," }
+        \line { "there's a custom ages old" }
+        \line { "bringing in the light." }
         \line { "\n" }
-        \line { "When the clock is striking twelve, When I'm fast asleep," }
-        \line { "Down the broad and black, With your pack you'll creep." }
-        \line { "All the stockings you will find Hanging in a row;" }
-        \line { "Mine will be the shortest one, You'll be sure to know." }
+        \line { "Little candle, light our way" }
+        \line { "as you brightly burn." }
+        \line { "Keep the dark and cold at bay" }
+        \line { "till the sun's return." }
       }
     }
   }

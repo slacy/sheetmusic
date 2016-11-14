@@ -1,7 +1,7 @@
 \version "2.16.2"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 30)
+#(set-global-staff-size 25)
 
 
 first = \relative a' {
@@ -11,31 +11,31 @@ first = \relative a' {
 
   \partial 4
   a4\upbow |
-  d-3 d8 e d-3 cs-2 |
-  b4-1 b b |
-  e4 e8 fs-1 e d-3 |
-  cs4-2 a a |
+  d-3 d8\upbow e\finger "(4)"\finger E d cs |
+  b4 b b |
+  e4\finger"E" e8 fs e d |
+  cs4 a a |
   \break
 
-  fs'\downbow-1 fs8-1 g-2 fs-1 e |
-  d4-3 b-1 a8 a |
-  b4-1 e cs-2 |
-  d2-3^\markup { \italic Fine }
+  fs'\downbow-1 fs8 g fs e |
+  d4-3 b a8 a |
+  b4 e cs |
+  d2^\markup { \italic Fine }
   \bar "|."
   \partial 4
   a4\upbow |
   \break
 
   d4-3 d d |
-  cs2-2 cs4 |
-  d4-3 cs b |
+  cs2 cs4 |
+  d4 cs b |
   a2 e'4\upbow |
   \break
 
   fs4-1 e d-3 |
   a'-3 a, a8 a8 |
-  b4-1 e cs-2 |
-  d2-3^\markup { \italic "D.C. al Fine" }
+  b4 e cs-2 |
+  d2^\markup { \italic "D.C. al Fine" }
   \bar"||"
 }
 
@@ -46,7 +46,7 @@ second = \relative a' {
 
   \partial 4
   a4\upbow |
-  fs2_2 fs4 |
+  fs2 fs4 |
   g2. |
   gs2_3 gs4 |
   a2. |
@@ -65,7 +65,7 @@ second = \relative a' {
   \break
 
   d2 d4 |
-  fs4_2 fs fs8 fs8 |
+  fs4 fs fs8 fs8 |
   g2 g4 |
   fs2^\markup { \italic "D.C. al Fine" }
 }
@@ -77,7 +77,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "We Wish You a Merry Christmas" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 5 }
+    dedication = \markup { \huge \hspace #90 \circle "5A" }
     instrument = ""
     tagline = ""
     composer = "English Carol"
@@ -86,7 +86,7 @@ second = \relative a' {
   \score {
     \new StaffGroup <<
       \new Staff \with {
-        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+        \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
         \first
       }
@@ -104,20 +104,20 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "We Wish You a Merry Christmas" }
     }
-    dedication = \markup { \huge \hspace #70 \circle 5 }
+    dedication = \markup { \huge \hspace #90 \circle "5B" }
     instrument = ""
     tagline = ""
     composer = "Engilsh Carol"
   }
   \score {
     \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 30))
+      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first
     }
   }
   \markup {
-    \hspace #35
+    \hspace #5
     \column {
       \huge \italic {
         \line { "We wish you a Merry Christmas" }
