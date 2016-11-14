@@ -9,7 +9,7 @@
     \override #'(font-size . 8)
     { "I Have a Little Dreidel" }
   }
-  piece = \markup \huge \circle 6
+  dedication = \markup { \huge \hspace #70 \circle 6 }
   instrument = ""
   tagline = ""
   composer = "Traditional Jewish"

@@ -74,7 +74,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Up on the Housetop" }
     }
-    piece = \markup \huge \circle 4
+    dedication = \markup { \huge \hspace #70 \circle 4 }
     instrument = ""
     tagline = ""
     composer = "George F. Handel"
@@ -101,7 +101,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Up on the Housetop" }
     }
-    piece = \markup \huge \circle 4
+    dedication = \markup { \huge \hspace #70 \circle 4 }
     instrument = ""
     tagline = ""
     composer = "George F. Handel"

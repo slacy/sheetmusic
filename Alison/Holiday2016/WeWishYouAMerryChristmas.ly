@@ -77,7 +77,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "We Wish You a Merry Christmas" }
     }
-    piece = \markup \huge \circle 5
+    dedication = \markup { \huge \hspace #70 \circle 5 }
     instrument = ""
     tagline = ""
     composer = "English Carol"
@@ -104,7 +104,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "We Wish You a Merry Christmas" }
     }
-    piece = \markup \huge \circle 5
+    dedication = \markup { \huge \hspace #70 \circle 5 }
     instrument = ""
     tagline = ""
     composer = "Engilsh Carol"

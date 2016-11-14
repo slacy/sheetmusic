@@ -67,7 +67,7 @@ fs1\upbow
 
 \bookpart {
   \header {
-    dedication =  \markup { \huge \hspace #70 \circle { 1 } }
+    dedication =  \markup { \huge \hspace #70 \circle 1 }
     title = \markup {
       \override #'(font-name . "SantasSleighFull")
       \override #'(font-size . 8)
@@ -100,7 +100,7 @@ fs1\upbow
       \override #'(font-size . 8)
       { "Jolly Old Saint Nicholas" }
     }
-    dedication =  \markup { \huge \hspace #70 \circle { 1 } }
+    dedication =  \markup { \huge \hspace #70 \circle 1 }
     instrument = ""
     tagline = ""
     composer = "Traditional"

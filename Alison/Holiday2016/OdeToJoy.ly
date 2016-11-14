@@ -42,7 +42,7 @@ first = \relative a' {
       \override #'(font-size . 8)
       { "Ode to Joy" }
     }
-    piece = \markup \huge \circle 3
+    dedication = \markup { \huge \hspace #70 \circle 3 }
     instrument = ""
     tagline = ""
     composer = "Ludwig van Beethoven"

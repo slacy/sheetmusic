@@ -85,7 +85,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Joy To The World" }
     }
-    piece = \markup \huge \circle 10
+    dedication = \markup { \huge \hspace #70 \circle 10 }
     instrument = ""
     tagline = ""
     composer = "George F. Handel"
@@ -112,7 +112,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Joy To The World" }
     }
-    piece = \markup \huge \circle 10
+    dedication = \markup { \huge \hspace #70 \circle 10 }
     instrument = ""
     tagline = ""
     composer = "George F. Handel"

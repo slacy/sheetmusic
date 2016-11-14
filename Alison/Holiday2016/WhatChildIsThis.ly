@@ -108,7 +108,7 @@ second = \relative a' {
       { "What Child Is This" }
     }
     subtitle = "English Carol"
-    piece = \markup \huge \circle 9
+    dedication = \markup { \huge \hspace #70 \circle 9 }
     instrument = ""
     tagline = ""
     composer = "McAllister"
@@ -136,7 +136,7 @@ second = \relative a' {
       { "What Child Is This" }
     }
     subtitle = "English Carol"
-    piece = \markup \huge \circle 9
+    dedication = \markup { \huge \hspace #70 \circle 9 }
     instrument = ""
     tagline = ""
     composer = "McAllister"

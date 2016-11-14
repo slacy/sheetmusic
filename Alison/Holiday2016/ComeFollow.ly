@@ -75,7 +75,7 @@ line_three = \relative a' {
       { "Come Follow" }
     }
     subsubtitle = "3-part"
-    piece = \markup \huge \circle 8
+    dedication = \markup { \huge \hspace #70 \circle 8 }
     instrument = ""
     tagline = ""
     composer = "Traditional"
@@ -98,7 +98,7 @@ line_three = \relative a' {
       { "Come Follow" }
     }
     subsubtitle = "3-part"
-    piece = \markup \huge \circle 8
+    dedication = \markup { \huge \hspace #70 \circle 8 }
     instrument = ""
     tagline = ""
     composer = "Traditional"

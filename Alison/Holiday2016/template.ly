@@ -18,12 +18,12 @@ second = \relative a' {
 
 \bookpart {
   \header {
+    dedication = \markup { \huge \hspace #70 \circle 99 }
     title = \markup {
       \override #'(font-name . "SantasSleighFull")
       \override #'(font-size . 8)
       { "Joy To The World" }
     }
-    piece = \markup \huge \circle 99
     instrument = ""
     tagline = ""
     composer = "George F. Handel"
@@ -50,7 +50,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Joy To The World" }
     }
-    piece = \markup \huge \circle 99
+    dedication = \markup { \huge \hspace #70 \circle 99 }
     instrument = ""
     tagline = ""
     composer = "George F. Handel"

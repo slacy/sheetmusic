@@ -1,5 +1,7 @@
 \version "2.19.3"
 \language "english"
+#(set-default-paper-size "letter")
+#(set-global-staff-size 30)
 
 first = \relative a'' {
   \override SpacingSpanner.uniform-stretching = ##t
@@ -21,7 +23,7 @@ first = \relative a'' {
   }
   subtitle = \markup { \italic \medium "Playing Ball on the Stairs" }
   tagline = ""
-  piece = \markup \huge \circle 2
+  dedication = \markup { \huge \hspace #70 \circle 2 }
 }
 
 \score {

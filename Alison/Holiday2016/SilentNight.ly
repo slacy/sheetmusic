@@ -99,7 +99,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Silent Night" }
     }
-    piece = \markup \circle 7
+    dedication = \markup { \huge \hspace #70 \circle 7 }
     instrument = ""
     tagline = ""
     composer = "Franz Gruber"
@@ -126,7 +126,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Silent Night" }
     }
-    piece = \markup \circle 7
+    dedication = \markup { \huge \hspace #70 \circle 7 }
     instrument = ""
     tagline = ""
     composer = "Franz Gruber"

@@ -94,7 +94,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Bring a Torch, Jeanette, Isabella" }
     }
-    piece = \markup \huge \circle 11
+    dedication = \markup { \huge \hspace #70 \circle 11 }
     instrument = ""
     tagline = ""
     composer = "French Carol"
@@ -121,7 +121,7 @@ second = \relative a' {
       \override #'(font-size . 8)
       { "Bring a Torch, Jeanette, Isabella" }
     }
-    piece = \markup \huge \circle 11
+    dedication = \markup { \huge \hspace #70 \circle 11 }
     instrument = ""
     tagline = ""
     composer = "French Carol"
