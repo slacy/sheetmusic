@@ -19,6 +19,10 @@ line_one = \relative a' {
 }
 
 line_two = \relative a' {
+  \time 2/4
+  \numericTimeSignature
+  \key d \major
+
   d,16^"2." e fs g a8-. fs-. |
   g8-. e8-.  fs8-. d8-.|
   g16 a b cs d8-. d8-. |
