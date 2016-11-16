@@ -17,6 +17,7 @@
 
 song = \relative a' {
   \time 4/4
+  \numericTimeSignature
   \key c \major
   \partial 4
 
