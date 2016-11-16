@@ -18,6 +18,7 @@ Holiday2016.pdf: $(PDF) Makefile
 	OUT/OdeToJoy.pdf \
 	OUT/UpOnTheHousetop.pdf \
 	OUT/WeWishYouAMerryChristmas.pdf \
+	OUT/CarolOfTheBells.pdf \<
 	OUT/Dreidel.pdf \
 	OUT/CarolOfTheBells.pdf \
 	OUT/SilentNight.pdf \
