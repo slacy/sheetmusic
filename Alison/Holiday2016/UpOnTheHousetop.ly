@@ -113,9 +113,7 @@ second = \relative a' {
     }
   }
   \markup {
-    \tiny
-    \column {
-      \italic {
+    \column \huge {
         \line { "Up on the housetop reindeer paws,"}
         \line { "Out jumps good ol' Santa Claus" }
         \line { "Down through the chimney with lots of toys" }
@@ -130,21 +128,12 @@ second = \relative a' {
         \line { "Oh, just see what a glorious fill" }
         \line { "Here is a hammer and lots of tacks" }
         \line { "Also a ball and a whip that cracks" }
-      }
-    }
-    \tiny
-    \column {
-      \italic {
-        \line { "Ho ho ho, who wouldn't go," }
-        \line { "Ho ho ho, who wouldn't go-o" }
-        \line { "Up on the housetop, click, click, click" }
-        \line { "Down through the chimney with good Saint Nick." }
         \line { "\n" }
         \line { "Ho ho ho, who wouldn't go," }
         \line { "Ho ho ho, who wouldn't go-o" }
         \line { "Up on the housetop, click, click, click" }
         \line { "Down through the chimney with good Saint Nick." }
-      }
+
     }
   }
 }

@@ -11,7 +11,7 @@ first = \relative a' {
   \tempo "Cantabile"
   \compressFullBarRests
   \override MultiMeasureRest.expand-limit = #1
-
+  
   R2.*3 |
   r4 r4 e4\upbow\mp
   \mark \default
@@ -72,6 +72,7 @@ first = \relative a' {
       b'4.(a8 fs4) |
       e2. |
       e2.\fermata\pp\!
+      \bar "|." 
     }
   }
 }
@@ -143,6 +144,7 @@ second = \relative a' {
   }
   \score {
     \new Staff \with {
+      \magnifyStaff #4/3
       \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
     } {
       \first

@@ -56,7 +56,7 @@ song = \relative a' {
 \markup {
   \hspace #5
   \column {
-    \small \italic {
+    \huge {
       \line { "I have a little dreidel" }
       \line { "I made it out of clay" }
       \line { "And when it’s dry and ready" }
@@ -68,8 +68,8 @@ song = \relative a' {
       \line { "Oh Dreidel we shall play" }
     }
   }
-  \column {
-    \small \italic {
+  \hspace #5 \column {
+    \huge {
       \line { "It has a lovely body" }
       \line { "With legs so short and thin" }
       \line { "And when it gets all tired" }

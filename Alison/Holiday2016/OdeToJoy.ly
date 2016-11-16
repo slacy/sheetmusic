@@ -9,7 +9,7 @@ first = \relative a' {
   \numericTimeSignature
   \key a \major
 
-  cs4-2\f cs d e\finger "E" |
+  cs4-2\f cs d e\finger 4 \finger "E" |
   e d cs b |
   a a b cs |
   cs4.-2 b8 b2 |

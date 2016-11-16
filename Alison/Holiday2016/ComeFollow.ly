@@ -4,33 +4,6 @@
 #(set-global-staff-size 25)
 
 
-first = \relative a' {
-  \set Score.markFormatter = #format-mark-box-barnumbers
-  \time 2/4
-  \numericTimeSignature
-  \key d \major
-
-  \tempo "Moderato" 4 = 92
-
-  d4^"1." cs8-.(cs8-.) |
-  b8-. b8-. a8-. a8-. |
-  g8-. g8-. fs8-. d8-. |
-  \break
-
-  g8-.(a8-.) d4\fermata |
-  d,16^"2." e fs g a8-. fs-. |
-  g8-. e8-.  fs8-. d8-.|
-  \break
-
-  g16 a b cs d8-. d8-. |
-  d8. (cs16-.) d4\fermata |
-  fs8.^"3."(fs16-.) e8-.(fs8-.) |
-  \break
-
-  d8.(e16-.) cs8-.(d8-.) |
-  b16 cs d e fs8.(g16-.) |
-  e4-.(e4-.) fs4 \fermata
-}
 
 line_one = \relative a' {
   \time 2/4
@@ -39,10 +12,10 @@ line_one = \relative a' {
 
   \tempo "Moderato" 4 = 92
 
-  d4^"1." cs8-.(cs8-.) |
+  d4^"1." cs8-.( cs8-.) |
   b8-. b8-. a8-. a8-. |
   g8-. g8-. fs8-. d8-. |
-  g8-.(a8-.) d4\fermata |
+  g8-. (a8-.) d,4\fermata\upbow |
 }
 
 line_two = \relative a' {
@@ -53,7 +26,7 @@ line_two = \relative a' {
   d,16^"2." e fs g a8-. fs-. |
   g8-. e8-.  fs8-. d8-.|
   g16 a b cs d8-. d8-. |
-  d8. (cs16-.) d4\fermata |
+  d8. (cs16-.) d4\upbow\fermata |
 }
 
 line_three = \relative a' {
@@ -64,7 +37,7 @@ line_three = \relative a' {
   fs8.^"3."(fs16-.) e8-.(fs8-.) |
   d8.(e16-.) cs8-.(d8-.) |
   b16 cs d e fs8.(g16-.) |
-  e8-.(e8-.) fs4 \fermata
+  e8-.(e8-.) fs4 \fermata\upbow
 }
 
 %{

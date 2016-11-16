@@ -119,7 +119,7 @@ second = \relative a' {
   \markup {
     \hspace #5
     \column {
-      \huge \italic {
+      \huge {
         \line { "We wish you a Merry Christmas" }
         \line { "We wish you a Merry Christmas" }
         \line { "We wish you a Merry Christmas" }

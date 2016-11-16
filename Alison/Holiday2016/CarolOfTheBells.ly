@@ -1,7 +1,7 @@
 \version "2.16.2"
 \language "english"
 #(set-default-paper-size "letter")
-#(set-global-staff-size 20)
+#(set-global-staff-size 21)
 
 
 first = \relative a' {

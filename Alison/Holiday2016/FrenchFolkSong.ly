@@ -47,7 +47,7 @@ first = \relative a'' {
 \markup {
   \hspace #5
   \column {
-    \huge \italic {
+    \huge {
       \line { "Here is a staircase so steep and so tall;" }
       \line { "Here in my hand is a red rubber ball;" }
       \line { "See how I make it go hippity-hop!" }
