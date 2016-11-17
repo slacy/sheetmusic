@@ -9,6 +9,7 @@ first = \relative a' {
   \time 3/4
   \key d \major
 
+  \repeat volta 2 {
   a'2-3\downbow d,4-3 |
   d4(cs4) d4 |
   e4 fs g4 |
@@ -18,7 +19,6 @@ first = \relative a' {
   \break
 
   d4(cs4) d4 |
-  \repeat volta 2 {
     e4(fs4 e4) |
     d2. |
     \mark \default

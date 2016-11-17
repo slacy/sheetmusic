@@ -129,6 +129,19 @@ second = \relative a' {
         \line { "To you and your kin" }
         \line { "We wish you a Merry Christmas" }
         \line { "And a Happy New Year" }
+        \line { "\n" }
+        \line { "Now bring us some figgy pudding" } 
+        \line { "Now bring us some figgy pudding" } 
+        \line { "Now bring us some figgy pudding" }
+        \line { "And a cup of good cheer" } 
+        \line { "\n" }
+        \line { "Good tidings we bring" }
+        \line { "To you and your kin" }
+        \line { "We wish you a Merry Christmas" }
+        \line { "And a Happy New Year" }
+        \line { "\n" }
+        \line { "We wish..."}
+        
       }
     }
   }

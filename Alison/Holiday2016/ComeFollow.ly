@@ -19,10 +19,6 @@ line_one = \relative a' {
 }
 
 line_two = \relative a' {
-  \time 2/4
-  \numericTimeSignature
-  \key d \major
-
   d,16^"2." e fs g a8-. fs-. |
   g8-. e8-.  fs8-. d8-.|
   g16 a b cs d8-. d8-. |
@@ -30,14 +26,11 @@ line_two = \relative a' {
 }
 
 line_three = \relative a' {
-  \time 2/4
-  \numericTimeSignature
-  \key d \major
-
-  fs8.^"3."(fs16-.) e8-.(fs8-.) |
-  d8.(e16-.) cs8-.(d8-.) |
+  
+  fs'8.^"3."(fs16-.) e8-.fs8-. |
+  d8.(e16-.) cs8-.d8-. |
   b16 cs d e fs8.(g16-.) |
-  e8-.(e8-.) fs4 \fermata\upbow
+  e8-.e8-. fs4 \fermata\upbow
 }
 
 %{
@@ -79,22 +72,16 @@ line_three = \relative a' {
     composer = "Traditional"
   }
   \score {
-    <<
       \new Staff \with {
         \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
       } {
+        \repeat volta 2 { 
         \line_one
-      }
-
-      \new Staff \with {
-      } {
+        \break
         \line_two
-      }
-
-      \new Staff \with {
-      } {
+        \break
         \line_three
+        }
       }
-    >>
   }
 }

@@ -115,7 +115,7 @@ fs1\upbow
   \markup {
     \hspace #2
     \column {
-      \huge \italic {
+      \huge {
         \line { "In the hours dark and cold" }
         \line { "of the longest night," }
         \line { "there's a custom ages old" }
@@ -124,7 +124,7 @@ fs1\upbow
         \line { "Little candle, light our way" }
         \line { "as you brightly burn." }
         \line { "Keep the dark and cold at bay" }
-        \line { "till the sun's return." }
+        \line { "'til the sun's return." }
       }
     }
   }
