@@ -141,7 +141,7 @@ second = \relative a' {
   \markup {
     \hspace #5
     \column {
-      \small \italic {
+      \large {
         \line { "Silent night, holy night!" }
         \line { "All is calm, all is bright." }
         \line { "Round yon Virgin, Mother and Child." }
@@ -158,7 +158,7 @@ second = \relative a' {
       }
     }
     \column {
-      \small \italic {
+      \large {
         \line { "Silent night, holy night!" }
         \line { "Son of God love's pure light." }
         \line { "Radiant beams from Thy holy face" }

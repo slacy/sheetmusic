@@ -126,7 +126,7 @@ second = \relative a' {
   }
   \markup {
     \column {
-      \small \italic {
+      \large {
         \line { "Joy to the world! The Lord is come." }
         \line { "Let earth receive her King" }
         \line { "Let every heart" }
@@ -145,7 +145,7 @@ second = \relative a' {
         }
       }
     \column {
-      \small \italic {
+      \large {
         \line { "He rules the world with truth and grace," }
         \line { "And makes the nations prove" }
         \line { "The glories of His righteousness," }
