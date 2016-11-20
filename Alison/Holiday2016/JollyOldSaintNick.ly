@@ -129,24 +129,3 @@ fs1\upbow
     }
   }
 }
-
-\bookpart {
-  \header {
-    title = \markup {
-      \override #'(font-name . "SantasSleighFull")
-      \override #'(font-size . 8)
-      { "Jolly Old Saint Nicholas" }
-    }
-    dedication =  \markup { \huge \hspace #90 \circle "1C" }
-    instrument = ""
-    tagline = ""
-    composer = "Traditional"
-  }
-  \score {
-    \new TabStaff \with {
-      stringTunings = #violin-tuning
-    } {
-      \first
-    }
-  }
-}
