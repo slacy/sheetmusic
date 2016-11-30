@@ -15,7 +15,7 @@
   composer = "Traditional Jewish"
 }
 
-voiceOne = \transpose c e {
+firstVoice = \transpose c e {
   \relative a' {
     \time 4/4
     \tempo 4 = 180 
@@ -46,7 +46,7 @@ voiceOne = \transpose c e {
   }
 }
 
-voiceTwo = \transpose c e' {
+secondVoice = \transpose c e' {
   \numericTimeSignature
   \relative a, {
     \key f \major 
@@ -76,19 +76,13 @@ voiceTwo = \transpose c e' {
 }
 
 \score {
-  <<
-    \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
-    } {
-      \voiceOne
-    }
-    \new Staff \with {
-      \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
-    } {
-    \voiceTwo
-  }
+  \new Staff <<
+    \new Voice = "first" 
+      { \voiceOne \firstVoice } 
+    \new Voice = "Second"
+    { \voiceTwo \secondVoice }
   >>
-\midi {}
+  \midi {} 
 }
 
 \score {
@@ -96,14 +90,12 @@ voiceTwo = \transpose c e' {
   \new Staff \with {
     \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
   } {
-    \transpose c c {
-      \voiceOne
-    }
+    \firstVoice
   }
   \new Staff \with {
     \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
   } {
-      \voiceTwo
+      \secondVoice
   }
   >>
 }
