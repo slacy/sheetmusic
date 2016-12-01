@@ -46,8 +46,9 @@ firstVoice = \transpose c e {
   }
 }
 
-secondVoice = \transpose c e' {
+secondVoice = \transpose c e {
   \numericTimeSignature
+  \clef bass
   \relative a, {
     \key f \major 
     \partial 4
@@ -76,17 +77,7 @@ secondVoice = \transpose c e' {
 }
 
 \score {
-  \new Staff <<
-    \new Voice = "first" 
-      { \voiceOne \firstVoice } 
-    \new Voice = "Second"
-    { \voiceTwo \secondVoice }
-  >>
-  \midi {} 
-}
-
-\score {
-  <<
+  \new PianoStaff <<
   \new Staff \with {
     \override VerticalAxisGroup.staff-staff-spacing = #'((basic-distance . 12))
   } {
