@@ -1,6 +1,10 @@
 \version "2.19.40"
 \language "english"
-#(set-default-paper-size "letter")
+\paper {
+  #(set-paper-size "letter")
+  left-margin = 1.0\in
+}
+
 #(set-global-staff-size 21)
 
 

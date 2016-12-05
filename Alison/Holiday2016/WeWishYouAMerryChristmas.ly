@@ -1,6 +1,9 @@
 \version "2.19.40"
 \language "english"
-#(set-default-paper-size "letter")
+\paper {
+  #(set-paper-size "letter")
+  left-margin = 1.0\in
+}
 #(set-global-staff-size 25)
 
 
@@ -130,10 +133,10 @@ second = \relative a' {
         \line { "We wish you a Merry Christmas" }
         \line { "And a Happy New Year" }
         \line { "\n" }
-        \line { "Now bring us some figgy pudding" } 
-        \line { "Now bring us some figgy pudding" } 
         \line { "Now bring us some figgy pudding" }
-        \line { "And a cup of good cheer" } 
+        \line { "Now bring us some figgy pudding" }
+        \line { "Now bring us some figgy pudding" }
+        \line { "And a cup of good cheer" }
         \line { "\n" }
         \line { "Good tidings we bring" }
         \line { "To you and your kin" }
@@ -141,7 +144,7 @@ second = \relative a' {
         \line { "And a Happy New Year" }
         \line { "\n" }
         \line { "We wish..."}
-        
+
       }
     }
   }

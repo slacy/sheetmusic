@@ -1,9 +1,6 @@
 \version "2.19.40"
 \language "english"
-\paper {
-  #(set-paper-size "letter")
-  left-margin = 1.0\in
-}
+#(set-default-paper-size "letter")
 #(set-global-staff-size 25)
 
 
@@ -144,7 +141,11 @@ second = \relative a' {
   \markup {
     \hspace #5
     \column {
+<<<<<<< 8057f613dae1db9a9f99ce94ff776b886c7e0403
       \large {
+=======
+      \small {
+>>>>>>> What
         \line { "Silent night, holy night!" }
         \line { "All is calm, all is bright." }
         \line { "Round yon Virgin, Mother and Child." }
@@ -161,7 +162,11 @@ second = \relative a' {
       }
     }
     \column {
+<<<<<<< 8057f613dae1db9a9f99ce94ff776b886c7e0403
       \large {
+=======
+      \small {
+>>>>>>> What
         \line { "Silent night, holy night!" }
         \line { "Son of God love's pure light." }
         \line { "Radiant beams from Thy holy face" }

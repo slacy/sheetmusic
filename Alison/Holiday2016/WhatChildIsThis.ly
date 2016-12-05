@@ -1,6 +1,9 @@
 \version "2.19.40"
 \language "english"
-#(set-default-paper-size "letter")
+\paper {
+  #(set-paper-size "letter")
+  left-margin = 1.0\in
+}
 #(set-global-staff-size 20)
 
 
@@ -11,7 +14,7 @@ first = \relative a' {
   \tempo "Cantabile"
   \compressFullBarRests
   \override MultiMeasureRest.expand-limit = #1
-  
+
   R2.*3 |
   r4 r4 e4\upbow\mp
   \mark \default
@@ -72,7 +75,7 @@ first = \relative a' {
       b'4.(a8 fs4) |
       e2. |
       e2.\fermata\pp\!
-      \bar "|." 
+      \bar "|."
     }
   }
 }

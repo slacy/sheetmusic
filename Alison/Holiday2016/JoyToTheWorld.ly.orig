@@ -1,9 +1,6 @@
 \version "2.19.40"
 \language "english"
-\paper {
-  #(set-paper-size "letter")
-  left-margin = 1.0\in
-}
+#(set-default-paper-size "letter")
 #(set-global-staff-size 25)
 
 
@@ -129,7 +126,11 @@ second = \relative a' {
   }
   \markup {
     \column {
+<<<<<<< 8057f613dae1db9a9f99ce94ff776b886c7e0403
       \large {
+=======
+      \small {
+>>>>>>> What
         \line { "Joy to the world! The Lord is come." }
         \line { "Let earth receive her King" }
         \line { "Let every heart" }
@@ -148,7 +149,11 @@ second = \relative a' {
         }
       }
     \column {
+<<<<<<< 8057f613dae1db9a9f99ce94ff776b886c7e0403
       \large {
+=======
+      \small {
+>>>>>>> What
         \line { "He rules the world with truth and grace," }
         \line { "And makes the nations prove" }
         \line { "The glories of His righteousness," }
