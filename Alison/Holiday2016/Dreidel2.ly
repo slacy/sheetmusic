@@ -64,15 +64,15 @@ secondVoice = \transpose c e {
     g'2 c,2 |
     f2 c2 |
     
-    f4 a4 c,4 a'4 | 
-    f4 a4 c,4 a'4 | 
-    f4 a4 c,4 a'4 | 
-    g4 bf4 c,4 bf'4 | 
+    f4 <<a4 c4>> c,4 <<a'4 c4>> | 
+    f,4 <<a4 c4>> c,4 <<a'4 c4>> | 
+    f,4 <<a4 c4>> c,4 <<a'4 c4>> | 
+    g4 <<bf4 c4>> c,4 <<bf'4 c4>> | 
 
-    g4 bf4 c,4 bf'4 | 
-    g4 bf4 c,4 bf'4 | 
-    g4 bf4 c,4 e4 |
-    f4 c4 f4 
+    g4 <<bf4 c4>> c,4 <<bf'4 c4>> | 
+    g4 <<bf4 c4>> c,4 <<bf'4 c4>> | 
+    g4 <<bf4 c4>> c,4 <<e4 g4>> |
+    <<f4 a4>> c,4 <<f4 a4>>
   }
 }
 
