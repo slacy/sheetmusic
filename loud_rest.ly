@@ -15,3 +15,19 @@
     r1\ffff
   }
 }
+
+\score {
+  \new Staff
+  \with { \omit TimeSignature }
+  {    <<
+      \new Voice {
+        \voiceOne
+        R1
+      }
+      \new Voice {
+        \voiceTwo
+        s8\< s8 s8 s8 s8 s8 s8  s8\!\ff
+      }
+    >>
+  }
+}
